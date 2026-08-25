@@ -21,7 +21,7 @@ import requests
 # 👇 BUNU MUTLAKA DEĞİŞTİRİN: ntfy uygulamasında seçtiğiniz "konu" (topic) adı.
 # Uzun ve tahmin edilmesi zor bir isim seçin (örn. isminiz + rastgele sayılar),
 # çünkü bu isim aynı zamanda bildirimlerinize kimin ulaşabileceğini belirliyor.
-NTFY_TOPIC = "buraya-kendi-gizli-konu-adinizi-yazin-8291"
+NTFY_TOPIC = "osman-btc-turk-kripto-efe"
 
 PAIR_SYMBOL = "BTCTRY"              # Hangi parite izlensin (örn. ETHTRY de olabilir)
 CANDLE_INTERVAL_MINUTES = 60        # Mum periyodu (60 = saatlik mumlar)
