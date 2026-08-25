@@ -39,7 +39,7 @@ STATE_FILE = os.path.join(os.path.dirname(__file__), "state.json")
 
 
 def get_ohlc_history(bars: int = 100) -> list:
-    graph_symbol = PAIR_SYMBOL[:-3] + "_" + PAIR_SYMBOL[-3:]  # BTCTRY -> BTC_TRY
+    graph_symbol = PAIR_SYMBOL  # BTCTRY olarak direkt kullanılıyor
     now = int(time.time())
     span_seconds = CANDLE_INTERVAL_MINUTES * 60 * (bars + 5)
     start = now - span_seconds
