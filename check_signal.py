@@ -1,7 +1,8 @@
 """
-BTCTurk piyasasını kontrol eder, MA kesişimi + RSI stratejisine göre
-AL/SAT sinyali oluşursa telefonunuza (ntfy uygulaması üzerinden) ücretsiz
-bildirim gönderir. Emri siz BTCTurk uygulamasından kendiniz verirsiniz.
+BTCTurk'teki TÜM TL (TRY) karşılığı kripto paraları tarar. MA kesişimi +
+RSI stratejisine göre herhangi birinde AL/SAT sinyali oluşursa, telefonunuza
+(ntfy uygulaması üzerinden) ücretsiz bildirim gönderir. Emri siz BTCTurk
+uygulamasından kendiniz verirsiniz.
 
 Bu dosyayı elle çalıştırmanıza gerek yok — GitHub, .github/workflows/check.yml
 sayesinde bunu sizin için otomatik, düzenli aralıklarla çalıştırır.
@@ -18,18 +19,18 @@ import requests
 # AYARLAR — bunları GitHub üzerinden (dosyayı düzenleyerek) değiştirebilirsiniz
 # ============================================================
 
-# 👇 BUNU MUTLAKA DEĞİŞTİRİN: ntfy uygulamasında seçtiğiniz "konu" (topic) adı.
-# Uzun ve tahmin edilmesi zor bir isim seçin (örn. isminiz + rastgele sayılar),
-# çünkü bu isim aynı zamanda bildirimlerinize kimin ulaşabileceğini belirliyor.
+# 👇 BUNU MUTLAKA KENDİ SEÇTİĞİNİZ İSİMLE DEĞİŞTİRİN (ntfy uygulamasında
+# abone olduğunuz konu adı). Daha önce girdiyseniz, onu buraya tekrar yazın.
 NTFY_TOPIC = "osman-btc-turk-kripto-efe"
 
-PAIR_SYMBOL = "BTCTRY"              # Hangi parite izlensin (örn. ETHTRY de olabilir)
 CANDLE_INTERVAL_MINUTES = 60        # Mum periyodu (60 = saatlik mumlar)
 MA_SHORT_PERIOD = 9                 # Kısa hareketli ortalama periyodu
 MA_LONG_PERIOD = 21                 # Uzun hareketli ortalama periyodu
 RSI_PERIOD = 14
 RSI_OVERBOUGHT = 70
 RSI_OVERSOLD = 30
+
+REQUEST_DELAY_SECONDS = 0.25        # BTCTurk'ü yormamak için istekler arası bekleme
 
 # ============================================================
 # Buradan sonrasını değiştirmenize gerek yok
@@ -38,8 +39,18 @@ RSI_OVERSOLD = 30
 STATE_FILE = os.path.join(os.path.dirname(__file__), "state.json")
 
 
-def get_ohlc_history(bars: int = 100) -> list:
-    graph_symbol = PAIR_SYMBOL  # BTCTRY olarak direkt kullanılıyor
+def get_try_pairs() -> list:
+    """BTCTurk'te işlem gören TÜM TL (TRY) karşılığı pariteleri getirir."""
+    resp = requests.get("https://api.btcturk.com/api/v2/ticker", timeout=15)
+    resp.raise_for_status()
+    payload = resp.json()
+    if not payload.get("success", False):
+        raise RuntimeError(f"Parite listesi alınamadı: {payload}")
+    pairs = [item["pair"] for item in payload["data"] if item["pair"].endswith("TRY")]
+    return sorted(set(pairs))
+
+
+def get_ohlc_history(pair_symbol: str, bars: int = 100) -> list:
     now = int(time.time())
     span_seconds = CANDLE_INTERVAL_MINUTES * 60 * (bars + 5)
     start = now - span_seconds
@@ -47,7 +58,7 @@ def get_ohlc_history(bars: int = 100) -> list:
     resp = requests.get(
         "https://graph-api.btcturk.com/v1/klines/history",
         params={
-            "symbol": graph_symbol,
+            "symbol": pair_symbol,
             "resolution": CANDLE_INTERVAL_MINUTES,
             "from": start,
             "to": now,
@@ -58,7 +69,7 @@ def get_ohlc_history(bars: int = 100) -> list:
     payload = resp.json()
 
     if payload.get("s") != "ok":
-        raise RuntimeError(f"OHLC verisi alınamadı: {payload}")
+        raise RuntimeError(f"OHLC verisi alınamadı ({pair_symbol}): {payload}")
 
     candles = []
     for t, o, h, l, c, v in zip(
@@ -119,12 +130,13 @@ def compute_signal(candles: list) -> dict:
 
 def load_state() -> dict:
     if not os.path.exists(STATE_FILE):
-        return {"last_signal": None}
+        return {}
     try:
         with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+            return data if isinstance(data, dict) else {}
     except Exception:
-        return {"last_signal": None}
+        return {}
 
 
 def save_state(state: dict):
@@ -151,31 +163,47 @@ def main():
     state = load_state()
 
     try:
-        candles = get_ohlc_history()
-        result = compute_signal(candles)
+        pairs = get_try_pairs()
     except Exception as exc:
-        # Geçici bir ağ/veri hatasında workflow'u kırmadan sessizce çık,
-        # bir sonraki çalıştırmada tekrar denenecek.
-        print(f"Hata (yoksayıldı, sonraki denemede tekrar denenecek): {exc}")
+        print(f"Parite listesi alınamadı (sonraki denemede tekrar denenecek): {exc}")
         sys.exit(0)
 
-    print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] Sinyal: {result['signal']} | {result['detail']}")
+    print(f"{len(pairs)} parite (TL karşılığı coin) taranacak.")
 
-    state["last_checked"] = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+    for pair in pairs:
+        try:
+            candles = get_ohlc_history(pair)
+            result = compute_signal(candles)
+        except Exception as exc:
+            print(f"{pair}: hata, atlanıyor -> {exc}")
+            time.sleep(REQUEST_DELAY_SECONDS)
+            continue
 
-    if result["signal"] != "HOLD" and state.get("last_signal") != result["signal"]:
-        action_tr = "AL" if result["signal"] == "BUY" else "SAT"
-        send_notification(
-            title=f"🔔 {action_tr} sinyali — {PAIR_SYMBOL}",
-            message=f"Fiyat: {result['price']:,.2f} TL\n{result['detail']}\n\nBTCTurk uygulamasını açıp işlemi kendiniz yapabilirsiniz.",
-            priority="high",
-        )
-        print("✅ Bildirim gönderildi.")
-        state["last_signal"] = result["signal"]
-    elif result["signal"] != "HOLD":
-        print("Aynı sinyal zaten gönderilmişti, tekrar gönderilmiyor.")
+        pair_state = state.get(pair, {})
+        print(f"{pair}: {result['signal']} | {result['detail']}")
+
+        if result["signal"] != "HOLD" and pair_state.get("last_signal") != result["signal"]:
+            action_tr = "AL" if result["signal"] == "BUY" else "SAT"
+            send_notification(
+                title=f"🔔 {action_tr} sinyali — {pair}",
+                message=(
+                    f"Fiyat: {result['price']:,.2f} TL\n{result['detail']}\n\n"
+                    f"BTCTurk uygulamasını açıp işlemi kendiniz yapabilirsiniz."
+                ),
+                priority="high",
+            )
+            print(f"  ✅ Bildirim gönderildi ({pair}).")
+            pair_state["last_signal"] = result["signal"]
+        elif result["signal"] != "HOLD":
+            print(f"  (Aynı sinyal zaten gönderilmişti, tekrar gönderilmiyor: {pair})")
+
+        pair_state["last_checked"] = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+        state[pair] = pair_state
+
+        time.sleep(REQUEST_DELAY_SECONDS)
 
     save_state(state)
+    print("Tarama tamamlandı.")
 
 
 if __name__ == "__main__":
