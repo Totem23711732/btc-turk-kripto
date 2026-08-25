@@ -2,10 +2,7 @@ name: BTCTurk Sinyal Kontrolü
 
 on:
   schedule:
-    # Her 15 dakikada bir çalışır. Dakikayı değiştirmek isterseniz
-    # "*/15" kısmını "*/30" (30 dakikada bir) gibi değiştirebilirsiniz.
     - cron: "*/15 * * * *"
-  # Bu satır, Actions sekmesinden "Run workflow" ile elle de çalıştırabilmenizi sağlar (test için).
   workflow_dispatch:
 
 permissions:
