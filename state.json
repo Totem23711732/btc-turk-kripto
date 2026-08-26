@@ -2,615 +2,624 @@
   "last_signal": null,
   "last_checked": "2026-08-25 19:13:59 UTC",
   "0GTRY": {
-    "last_checked": "2026-08-26 08:04:36 UTC"
+    "last_checked": "2026-08-26 10:09:19 UTC",
+    "last_signal": "BUY"
   },
   "2ZTRY": {
-    "last_checked": "2026-08-26 08:04:37 UTC"
+    "last_checked": "2026-08-26 10:09:19 UTC"
   },
   "AAVETRY": {
-    "last_checked": "2026-08-26 08:04:37 UTC"
+    "last_checked": "2026-08-26 10:09:20 UTC"
   },
   "ACMTRY": {
-    "last_checked": "2026-08-26 08:04:38 UTC"
+    "last_checked": "2026-08-26 10:09:20 UTC"
   },
   "ADATRY": {
-    "last_checked": "2026-08-26 08:04:38 UTC"
+    "last_checked": "2026-08-26 10:09:21 UTC"
   },
   "AEROTRY": {
-    "last_checked": "2026-08-26 08:04:39 UTC"
+    "last_checked": "2026-08-26 10:09:21 UTC"
   },
   "AFCTRY": {
-    "last_checked": "2026-08-26 08:04:39 UTC",
+    "last_checked": "2026-08-26 10:09:22 UTC",
     "last_signal": "SELL"
   },
   "AIOZTRY": {
-    "last_checked": "2026-08-26 08:04:40 UTC"
+    "last_checked": "2026-08-26 10:09:22 UTC"
   },
   "AIXBTTRY": {
-    "last_checked": "2026-08-26 08:04:41 UTC"
+    "last_checked": "2026-08-26 10:09:23 UTC"
   },
   "ALGOTRY": {
-    "last_checked": "2026-08-26 08:04:41 UTC"
+    "last_checked": "2026-08-26 10:09:24 UTC"
   },
   "ALLOTRY": {
-    "last_checked": "2026-08-26 08:04:42 UTC"
+    "last_checked": "2026-08-26 10:09:24 UTC"
   },
   "AMPTRY": {
-    "last_checked": "2026-08-26 08:04:43 UTC"
+    "last_checked": "2026-08-26 10:09:25 UTC"
   },
   "ANIMETRY": {
-    "last_checked": "2026-08-26 08:04:43 UTC"
+    "last_checked": "2026-08-26 10:09:25 UTC"
   },
   "ANKRTRY": {
-    "last_checked": "2026-08-26 08:04:44 UTC",
-    "last_signal": "BUY"
-  },
-  "APETRY": {
-    "last_checked": "2026-08-26 08:04:44 UTC"
-  },
-  "API3TRY": {
-    "last_checked": "2026-08-26 08:04:45 UTC",
-    "last_signal": "BUY"
-  },
-  "APTTRY": {
-    "last_checked": "2026-08-26 08:04:46 UTC"
-  },
-  "ARBTRY": {
-    "last_checked": "2026-08-26 08:04:46 UTC"
-  },
-  "ARKMTRY": {
-    "last_checked": "2026-08-26 08:04:47 UTC"
-  },
-  "ARPATRY": {
-    "last_checked": "2026-08-26 08:04:48 UTC"
-  },
-  "ARXTRY": {
-    "last_checked": "2026-08-26 08:04:48 UTC"
-  },
-  "ASRTRY": {
-    "last_checked": "2026-08-26 08:04:49 UTC"
-  },
-  "ATHTRY": {
-    "last_checked": "2026-08-26 08:04:49 UTC"
-  },
-  "ATMTRY": {
-    "last_checked": "2026-08-26 08:04:50 UTC"
-  },
-  "ATOMTRY": {
-    "last_checked": "2026-08-26 08:04:51 UTC",
+    "last_checked": "2026-08-26 10:09:26 UTC",
     "last_signal": "SELL"
   },
+  "APETRY": {
+    "last_checked": "2026-08-26 10:09:26 UTC"
+  },
+  "API3TRY": {
+    "last_checked": "2026-08-26 10:09:27 UTC",
+    "last_signal": "SELL"
+  },
+  "APTTRY": {
+    "last_checked": "2026-08-26 10:09:27 UTC"
+  },
+  "ARBTRY": {
+    "last_checked": "2026-08-26 10:09:28 UTC"
+  },
+  "ARKMTRY": {
+    "last_checked": "2026-08-26 10:09:28 UTC",
+    "last_signal": "BUY"
+  },
+  "ARPATRY": {
+    "last_checked": "2026-08-26 10:09:29 UTC"
+  },
+  "ARXTRY": {
+    "last_checked": "2026-08-26 10:09:29 UTC"
+  },
+  "ASRTRY": {
+    "last_checked": "2026-08-26 10:09:30 UTC"
+  },
+  "ATHTRY": {
+    "last_checked": "2026-08-26 10:09:31 UTC"
+  },
+  "ATMTRY": {
+    "last_checked": "2026-08-26 10:09:31 UTC"
+  },
+  "ATOMTRY": {
+    "last_checked": "2026-08-26 10:09:32 UTC",
+    "last_signal": "BUY"
+  },
   "AUDIOTRY": {
-    "last_checked": "2026-08-26 08:04:51 UTC"
+    "last_checked": "2026-08-26 10:09:33 UTC"
   },
   "AVAXTRY": {
-    "last_checked": "2026-08-26 08:04:52 UTC"
+    "last_checked": "2026-08-26 10:09:33 UTC"
   },
   "AVNTTRY": {
-    "last_checked": "2026-08-26 08:04:52 UTC"
+    "last_checked": "2026-08-26 10:09:34 UTC"
   },
   "AXLTRY": {
-    "last_checked": "2026-08-26 08:04:53 UTC"
+    "last_checked": "2026-08-26 10:09:34 UTC"
   },
   "AXSTRY": {
-    "last_checked": "2026-08-26 08:04:53 UTC"
+    "last_checked": "2026-08-26 10:09:35 UTC"
   },
   "BANDTRY": {
-    "last_checked": "2026-08-26 08:04:54 UTC"
+    "last_checked": "2026-08-26 10:09:35 UTC"
   },
   "BARDTRY": {
-    "last_checked": "2026-08-26 08:04:55 UTC"
+    "last_checked": "2026-08-26 10:09:36 UTC"
   },
   "BARTRY": {
-    "last_checked": "2026-08-26 08:04:55 UTC"
+    "last_checked": "2026-08-26 10:09:36 UTC"
   },
   "BATTRY": {
-    "last_checked": "2026-08-26 08:04:56 UTC"
+    "last_checked": "2026-08-26 10:09:37 UTC"
   },
   "BEAMTRY": {
-    "last_checked": "2026-08-26 08:04:56 UTC"
+    "last_checked": "2026-08-26 10:09:37 UTC"
   },
   "BILLTRY": {
-    "last_checked": "2026-08-26 08:04:57 UTC"
+    "last_checked": "2026-08-26 10:09:38 UTC"
   },
   "BIOTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:04:58 UTC"
+    "last_checked": "2026-08-26 10:09:38 UTC"
   },
   "BLURTRY": {
-    "last_checked": "2026-08-26 08:04:58 UTC",
+    "last_checked": "2026-08-26 10:09:39 UTC",
     "last_signal": "BUY"
   },
   "BNTTRY": {
-    "last_checked": "2026-08-26 08:04:59 UTC",
+    "last_checked": "2026-08-26 10:09:39 UTC",
     "last_signal": "SELL"
   },
   "BONKTRY": {
-    "last_checked": "2026-08-26 08:04:59 UTC"
+    "last_checked": "2026-08-26 10:09:40 UTC"
   },
   "BTCTRY": {
-    "last_checked": "2026-08-26 08:05:00 UTC"
+    "last_checked": "2026-08-26 10:09:40 UTC"
   },
   "CFGTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:05:00 UTC"
+    "last_checked": "2026-08-26 10:09:41 UTC"
   },
   "CHZTRY": {
-    "last_checked": "2026-08-26 08:05:01 UTC"
+    "last_checked": "2026-08-26 10:09:41 UTC"
   },
   "CITYTRY": {
-    "last_checked": "2026-08-26 08:05:02 UTC",
+    "last_checked": "2026-08-26 10:09:42 UTC",
     "last_signal": "BUY"
   },
   "COMPTRY": {
-    "last_checked": "2026-08-26 08:05:02 UTC"
+    "last_checked": "2026-08-26 10:09:43 UTC",
+    "last_signal": "BUY"
   },
   "CRVTRY": {
-    "last_checked": "2026-08-26 08:05:03 UTC"
+    "last_checked": "2026-08-26 10:09:43 UTC"
   },
   "CTSITRY": {
-    "last_checked": "2026-08-26 08:05:04 UTC"
+    "last_checked": "2026-08-26 10:09:44 UTC",
+    "last_signal": "BUY"
   },
   "CVCTRY": {
-    "last_checked": "2026-08-26 08:05:04 UTC"
+    "last_checked": "2026-08-26 10:09:44 UTC"
   },
   "DASHTRY": {
-    "last_checked": "2026-08-26 08:05:05 UTC"
+    "last_checked": "2026-08-26 10:09:45 UTC"
   },
   "DOGETRY": {
-    "last_checked": "2026-08-26 08:05:05 UTC"
+    "last_checked": "2026-08-26 10:09:45 UTC"
   },
   "DOTTRY": {
-    "last_checked": "2026-08-26 08:05:06 UTC"
+    "last_checked": "2026-08-26 10:09:46 UTC"
   },
   "EIGENTRY": {
-    "last_checked": "2026-08-26 08:05:07 UTC",
+    "last_checked": "2026-08-26 10:09:46 UTC",
     "last_signal": "BUY"
   },
   "ENATRY": {
-    "last_checked": "2026-08-26 08:05:07 UTC"
+    "last_checked": "2026-08-26 10:09:47 UTC"
   },
   "ENJTRY": {
-    "last_checked": "2026-08-26 08:05:08 UTC"
+    "last_checked": "2026-08-26 10:09:47 UTC"
   },
   "ENSTRY": {
-    "last_checked": "2026-08-26 08:05:08 UTC"
+    "last_checked": "2026-08-26 10:09:48 UTC",
+    "last_signal": "BUY"
   },
   "EOSTRY": {
-    "last_checked": "2026-08-26 08:05:09 UTC"
+    "last_checked": "2026-08-26 10:09:48 UTC"
   },
   "ERATRY": {
-    "last_checked": "2026-08-26 08:05:10 UTC"
+    "last_checked": "2026-08-26 10:09:49 UTC"
   },
   "ETCTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:05:10 UTC"
+    "last_checked": "2026-08-26 10:09:49 UTC"
   },
   "ETHFITRY": {
-    "last_checked": "2026-08-26 08:05:11 UTC"
+    "last_checked": "2026-08-26 10:09:50 UTC",
+    "last_signal": "BUY"
   },
   "ETHTRY": {
-    "last_checked": "2026-08-26 08:05:12 UTC"
+    "last_checked": "2026-08-26 10:09:51 UTC",
+    "last_signal": "SELL"
   },
   "ETHWTRY": {
-    "last_checked": "2026-08-26 08:05:12 UTC"
+    "last_checked": "2026-08-26 10:09:51 UTC"
   },
   "FBTRY": {
-    "last_checked": "2026-08-26 08:05:13 UTC"
+    "last_checked": "2026-08-26 10:09:52 UTC"
   },
   "FETTRY": {
-    "last_checked": "2026-08-26 08:05:14 UTC"
+    "last_checked": "2026-08-26 10:09:52 UTC"
   },
   "FIDATRY": {
-    "last_checked": "2026-08-26 08:05:14 UTC",
+    "last_checked": "2026-08-26 10:09:53 UTC",
     "last_signal": "BUY"
   },
   "FILTRY": {
-    "last_checked": "2026-08-26 08:05:15 UTC"
+    "last_checked": "2026-08-26 10:09:53 UTC"
   },
   "FLOKITRY": {
-    "last_checked": "2026-08-26 08:05:15 UTC"
+    "last_checked": "2026-08-26 10:09:54 UTC"
   },
   "FLOWTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:05:16 UTC"
+    "last_checked": "2026-08-26 10:09:54 UTC"
   },
   "FLRTRY": {
-    "last_checked": "2026-08-26 08:05:17 UTC"
+    "last_checked": "2026-08-26 10:09:55 UTC"
   },
   "GALATRY": {
-    "last_checked": "2026-08-26 08:05:17 UTC"
+    "last_checked": "2026-08-26 10:09:55 UTC"
   },
   "GALTRY": {
-    "last_checked": "2026-08-26 08:05:18 UTC",
+    "last_checked": "2026-08-26 10:09:56 UTC",
     "last_signal": "BUY"
   },
   "GLMRTRY": {
-    "last_checked": "2026-08-26 08:05:18 UTC",
+    "last_checked": "2026-08-26 10:09:57 UTC",
     "last_signal": "SELL"
   },
   "GLMTRY": {
-    "last_checked": "2026-08-26 08:05:19 UTC"
+    "last_checked": "2026-08-26 10:09:57 UTC"
   },
   "GMTTRY": {
-    "last_checked": "2026-08-26 08:05:20 UTC"
+    "last_checked": "2026-08-26 10:09:58 UTC"
   },
   "GRAMTRY": {
-    "last_checked": "2026-08-26 08:05:20 UTC"
+    "last_checked": "2026-08-26 10:09:58 UTC"
   },
   "GRTTRY": {
-    "last_checked": "2026-08-26 08:05:21 UTC"
+    "last_checked": "2026-08-26 10:09:59 UTC"
   },
   "GRVTTRY": {
-    "last_checked": "2026-08-26 08:05:21 UTC",
+    "last_checked": "2026-08-26 10:09:59 UTC",
     "last_signal": "SELL"
   },
   "HBARTRY": {
-    "last_checked": "2026-08-26 08:05:22 UTC"
+    "last_checked": "2026-08-26 10:10:00 UTC"
   },
   "HNTTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:05:23 UTC"
+    "last_checked": "2026-08-26 10:10:01 UTC"
   },
   "HOTTRY": {
-    "last_checked": "2026-08-26 08:05:23 UTC"
+    "last_checked": "2026-08-26 10:10:01 UTC"
   },
   "HTRY": {
-    "last_checked": "2026-08-26 08:05:24 UTC"
+    "last_checked": "2026-08-26 10:10:02 UTC"
   },
   "HYPETRY": {
-    "last_checked": "2026-08-26 08:05:25 UTC",
+    "last_checked": "2026-08-26 10:10:02 UTC",
     "last_signal": "BUY"
   },
   "IMXTRY": {
-    "last_checked": "2026-08-26 08:05:25 UTC"
+    "last_checked": "2026-08-26 10:10:03 UTC"
   },
   "INJTRY": {
-    "last_checked": "2026-08-26 08:05:26 UTC"
+    "last_checked": "2026-08-26 10:10:03 UTC"
   },
   "INTERTRY": {
-    "last_checked": "2026-08-26 08:05:26 UTC"
+    "last_checked": "2026-08-26 10:10:04 UTC"
   },
   "IOTRY": {
-    "last_checked": "2026-08-26 08:05:27 UTC"
+    "last_checked": "2026-08-26 10:10:05 UTC"
   },
   "JASMYTRY": {
-    "last_checked": "2026-08-26 08:05:27 UTC"
+    "last_checked": "2026-08-26 10:10:05 UTC"
   },
   "JTOTRY": {
-    "last_checked": "2026-08-26 08:05:28 UTC"
+    "last_checked": "2026-08-26 10:10:06 UTC"
   },
   "JUPTRY": {
-    "last_checked": "2026-08-26 08:05:29 UTC"
+    "last_checked": "2026-08-26 10:10:06 UTC"
   },
   "JUVTRY": {
-    "last_checked": "2026-08-26 08:05:30 UTC"
+    "last_checked": "2026-08-26 10:10:07 UTC"
   },
   "KAITOTRY": {
-    "last_checked": "2026-08-26 08:05:30 UTC"
+    "last_checked": "2026-08-26 10:10:08 UTC"
   },
   "KAVATRY": {
-    "last_checked": "2026-08-26 08:05:31 UTC"
+    "last_checked": "2026-08-26 10:10:08 UTC"
   },
   "KITETRY": {
-    "last_checked": "2026-08-26 08:05:31 UTC"
+    "last_checked": "2026-08-26 10:10:09 UTC"
   },
   "KSMTRY": {
-    "last_checked": "2026-08-26 08:05:32 UTC"
+    "last_checked": "2026-08-26 10:10:10 UTC"
   },
   "LAYERTRY": {
-    "last_checked": "2026-08-26 08:05:32 UTC"
+    "last_checked": "2026-08-26 10:10:10 UTC"
   },
   "LDOTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:05:33 UTC"
+    "last_checked": "2026-08-26 10:10:11 UTC"
   },
   "LINEATRY": {
-    "last_checked": "2026-08-26 08:05:34 UTC"
+    "last_checked": "2026-08-26 10:10:11 UTC"
   },
   "LINKTRY": {
-    "last_checked": "2026-08-26 08:05:34 UTC"
+    "last_checked": "2026-08-26 10:10:12 UTC"
   },
   "LITTRY": {
-    "last_checked": "2026-08-26 08:05:35 UTC",
+    "last_checked": "2026-08-26 10:10:12 UTC",
     "last_signal": "SELL"
   },
   "LPTTRY": {
-    "last_checked": "2026-08-26 08:05:35 UTC"
+    "last_checked": "2026-08-26 10:10:13 UTC"
   },
   "LRCTRY": {
-    "last_checked": "2026-08-26 08:05:36 UTC"
+    "last_checked": "2026-08-26 10:10:13 UTC"
   },
   "LTCTRY": {
-    "last_checked": "2026-08-26 08:05:37 UTC"
+    "last_checked": "2026-08-26 10:10:14 UTC"
   },
   "LUNATRY": {
-    "last_checked": "2026-08-26 08:05:37 UTC"
+    "last_checked": "2026-08-26 10:10:15 UTC"
   },
   "MAGICTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-08-26 08:05:38 UTC"
+    "last_checked": "2026-08-26 10:10:15 UTC"
   },
   "MANATRY": {
-    "last_checked": "2026-08-26 08:05:38 UTC"
+    "last_checked": "2026-08-26 10:10:16 UTC"
   },
   "MANTRATRY": {
-    "last_checked": "2026-08-26 08:05:39 UTC"
+    "last_checked": "2026-08-26 10:10:16 UTC"
   },
   "MASKTRY": {
-    "last_checked": "2026-08-26 08:05:40 UTC"
+    "last_checked": "2026-08-26 10:10:17 UTC"
   },
   "MELANIATRY": {
-    "last_checked": "2026-08-26 08:05:40 UTC"
+    "last_checked": "2026-08-26 10:10:17 UTC"
   },
   "MEMETRY": {
-    "last_checked": "2026-08-26 08:05:41 UTC"
+    "last_checked": "2026-08-26 10:10:18 UTC"
   },
   "METRY": {
-    "last_checked": "2026-08-26 08:05:41 UTC"
+    "last_checked": "2026-08-26 10:10:18 UTC"
   },
   "METTRY": {
-    "last_checked": "2026-08-26 08:05:42 UTC"
+    "last_checked": "2026-08-26 10:10:19 UTC"
   },
   "MIRATRY": {
-    "last_checked": "2026-08-26 08:05:42 UTC",
+    "last_checked": "2026-08-26 10:10:19 UTC",
     "last_signal": "BUY"
   },
   "MNTTRY": {
-    "last_checked": "2026-08-26 08:05:43 UTC"
+    "last_checked": "2026-08-26 10:10:20 UTC"
   },
   "MONTRY": {
-    "last_checked": "2026-08-26 08:05:44 UTC"
+    "last_checked": "2026-08-26 10:10:20 UTC"
   },
   "MORPHOTRY": {
-    "last_checked": "2026-08-26 08:05:44 UTC"
+    "last_checked": "2026-08-26 10:10:21 UTC"
   },
   "MOVETRY": {
-    "last_checked": "2026-08-26 08:05:45 UTC"
+    "last_checked": "2026-08-26 10:10:21 UTC"
   },
   "NAPTRY": {
-    "last_checked": "2026-08-26 08:05:46 UTC"
+    "last_checked": "2026-08-26 10:10:22 UTC",
+    "last_signal": "SELL"
   },
   "NEARTRY": {
-    "last_checked": "2026-08-26 08:05:47 UTC"
+    "last_checked": "2026-08-26 10:10:23 UTC"
   },
   "NEOTRY": {
-    "last_checked": "2026-08-26 08:05:47 UTC"
+    "last_checked": "2026-08-26 10:10:23 UTC"
   },
   "NMRTRY": {
-    "last_checked": "2026-08-26 08:05:48 UTC",
+    "last_checked": "2026-08-26 10:10:24 UTC",
     "last_signal": "SELL"
   },
   "OGNTRY": {
-    "last_checked": "2026-08-26 08:05:48 UTC"
+    "last_checked": "2026-08-26 10:10:24 UTC"
   },
   "OMGTRY": {
-    "last_checked": "2026-08-26 08:05:49 UTC",
+    "last_checked": "2026-08-26 10:10:25 UTC",
     "last_signal": "BUY"
   },
   "ONDOTRY": {
-    "last_checked": "2026-08-26 08:05:50 UTC"
+    "last_checked": "2026-08-26 10:10:25 UTC"
   },
   "OPTRY": {
-    "last_checked": "2026-08-26 08:05:50 UTC"
+    "last_checked": "2026-08-26 10:10:26 UTC"
   },
   "ORCATRY": {
-    "last_checked": "2026-08-26 08:05:51 UTC"
+    "last_checked": "2026-08-26 10:10:26 UTC"
   },
   "PAXGTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-08-26 08:05:51 UTC"
+    "last_checked": "2026-08-26 10:10:27 UTC"
   },
   "PENGUTRY": {
-    "last_checked": "2026-08-26 08:05:52 UTC"
+    "last_checked": "2026-08-26 10:10:27 UTC"
   },
   "PEPETRY": {
-    "last_checked": "2026-08-26 08:05:53 UTC"
+    "last_checked": "2026-08-26 10:10:28 UTC"
   },
   "PNUTTRY": {
-    "last_checked": "2026-08-26 08:05:53 UTC",
+    "last_checked": "2026-08-26 10:10:28 UTC",
     "last_signal": "BUY"
   },
   "POLTRY": {
-    "last_checked": "2026-08-26 08:05:54 UTC"
+    "last_checked": "2026-08-26 10:10:29 UTC"
   },
   "PSGTRY": {
-    "last_checked": "2026-08-26 08:05:55 UTC"
+    "last_checked": "2026-08-26 10:10:30 UTC"
   },
   "PUMPTRY": {
-    "last_checked": "2026-08-26 08:05:55 UTC",
+    "last_checked": "2026-08-26 10:10:30 UTC",
     "last_signal": "BUY"
   },
   "PYTHTRY": {
-    "last_checked": "2026-08-26 08:05:56 UTC"
+    "last_checked": "2026-08-26 10:10:31 UTC"
   },
   "QNTTRY": {
-    "last_checked": "2026-08-26 08:05:56 UTC"
+    "last_checked": "2026-08-26 10:10:31 UTC"
   },
   "RADTRY": {
-    "last_checked": "2026-08-26 08:05:57 UTC"
+    "last_checked": "2026-08-26 10:10:32 UTC"
   },
   "RARETRY": {
-    "last_signal": "BUY",
-    "last_checked": "2026-08-26 08:05:58 UTC"
+    "last_signal": "SELL",
+    "last_checked": "2026-08-26 10:10:32 UTC"
   },
   "RAYTRY": {
-    "last_checked": "2026-08-26 08:05:58 UTC"
+    "last_checked": "2026-08-26 10:10:33 UTC"
   },
   "REDTRY": {
-    "last_checked": "2026-08-26 08:05:59 UTC",
+    "last_checked": "2026-08-26 10:10:33 UTC",
     "last_signal": "SELL"
   },
   "RENDERTRY": {
-    "last_checked": "2026-08-26 08:05:59 UTC",
+    "last_checked": "2026-08-26 10:10:34 UTC",
     "last_signal": "BUY"
   },
   "RETRY": {
-    "last_checked": "2026-08-26 08:06:00 UTC",
+    "last_checked": "2026-08-26 10:10:34 UTC",
     "last_signal": "SELL"
   },
   "RLCTRY": {
-    "last_checked": "2026-08-26 08:06:00 UTC"
+    "last_checked": "2026-08-26 10:10:35 UTC"
   },
   "RUNETRY": {
-    "last_checked": "2026-08-26 08:06:01 UTC",
+    "last_checked": "2026-08-26 10:10:35 UTC",
     "last_signal": "SELL"
   },
   "SAHARATRY": {
-    "last_checked": "2026-08-26 08:06:02 UTC"
+    "last_checked": "2026-08-26 10:10:36 UTC"
   },
   "SANDTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:06:02 UTC"
+    "last_checked": "2026-08-26 10:10:36 UTC"
   },
   "SEITRY": {
-    "last_checked": "2026-08-26 08:06:03 UTC"
+    "last_checked": "2026-08-26 10:10:37 UTC"
   },
   "SENTTRY": {
-    "last_checked": "2026-08-26 08:06:03 UTC"
+    "last_checked": "2026-08-26 10:10:37 UTC"
   },
   "SHIBTRY": {
-    "last_checked": "2026-08-26 08:06:04 UTC"
+    "last_checked": "2026-08-26 10:10:38 UTC"
   },
   "SKLTRY": {
-    "last_checked": "2026-08-26 08:06:05 UTC"
+    "last_checked": "2026-08-26 10:10:38 UTC"
   },
   "SKYTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:06:06 UTC"
+    "last_checked": "2026-08-26 10:10:39 UTC"
   },
   "SNXTRY": {
-    "last_checked": "2026-08-26 08:06:06 UTC"
+    "last_checked": "2026-08-26 10:10:39 UTC"
   },
   "SOLTRY": {
-    "last_checked": "2026-08-26 08:06:07 UTC"
+    "last_checked": "2026-08-26 10:10:40 UTC"
   },
   "SPELLTRY": {
-    "last_checked": "2026-08-26 08:06:07 UTC"
+    "last_checked": "2026-08-26 10:10:40 UTC"
   },
   "SPKTRY": {
-    "last_checked": "2026-08-26 08:06:08 UTC"
+    "last_checked": "2026-08-26 10:10:41 UTC"
   },
   "STORJTRY": {
-    "last_checked": "2026-08-26 08:06:09 UTC"
+    "last_checked": "2026-08-26 10:10:41 UTC"
   },
   "STRKTRY": {
-    "last_checked": "2026-08-26 08:06:09 UTC"
+    "last_checked": "2026-08-26 10:10:42 UTC"
   },
   "STRY": {
-    "last_checked": "2026-08-26 08:06:10 UTC"
+    "last_checked": "2026-08-26 10:10:43 UTC",
+    "last_signal": "BUY"
   },
   "STXTRY": {
-    "last_checked": "2026-08-26 08:06:11 UTC",
+    "last_checked": "2026-08-26 10:10:43 UTC",
     "last_signal": "BUY"
   },
   "SUITRY": {
-    "last_checked": "2026-08-26 08:06:11 UTC"
+    "last_checked": "2026-08-26 10:10:44 UTC"
   },
   "SUPERTRY": {
-    "last_checked": "2026-08-26 08:06:12 UTC"
+    "last_checked": "2026-08-26 10:10:44 UTC"
   },
   "SUSHITRY": {
-    "last_checked": "2026-08-26 08:06:12 UTC"
+    "last_checked": "2026-08-26 10:10:45 UTC"
   },
   "TIATRY": {
-    "last_checked": "2026-08-26 08:06:13 UTC"
+    "last_checked": "2026-08-26 10:10:45 UTC"
   },
   "TRATRY": {
-    "last_checked": "2026-08-26 08:06:14 UTC",
+    "last_checked": "2026-08-26 10:10:46 UTC",
     "last_signal": "SELL"
   },
   "TRBTRY": {
-    "last_checked": "2026-08-26 08:06:14 UTC"
+    "last_checked": "2026-08-26 10:10:47 UTC"
   },
   "TRUMPTRY": {
-    "last_checked": "2026-08-26 08:06:15 UTC"
+    "last_checked": "2026-08-26 10:10:47 UTC"
   },
   "TRXTRY": {
-    "last_checked": "2026-08-26 08:06:15 UTC"
+    "last_checked": "2026-08-26 10:10:48 UTC"
   },
   "TTRY": {
-    "last_checked": "2026-08-26 08:06:16 UTC"
+    "last_checked": "2026-08-26 10:10:48 UTC"
   },
   "TURBOTRY": {
-    "last_checked": "2026-08-26 08:06:17 UTC"
+    "last_checked": "2026-08-26 10:10:49 UTC"
   },
   "UMATRY": {
-    "last_checked": "2026-08-26 08:06:17 UTC"
+    "last_checked": "2026-08-26 10:10:49 UTC"
   },
   "UNITRY": {
-    "last_checked": "2026-08-26 08:06:18 UTC",
+    "last_checked": "2026-08-26 10:10:50 UTC",
     "last_signal": "SELL"
   },
   "USDCTRY": {
-    "last_checked": "2026-08-26 08:06:18 UTC"
+    "last_checked": "2026-08-26 10:10:50 UTC"
   },
   "USDTTRY": {
-    "last_checked": "2026-08-26 08:06:19 UTC"
+    "last_checked": "2026-08-26 10:10:51 UTC"
   },
   "VANATRY": {
-    "last_checked": "2026-08-26 08:06:20 UTC"
+    "last_checked": "2026-08-26 10:10:51 UTC"
   },
   "VIRTUALTRY": {
-    "last_checked": "2026-08-26 08:06:20 UTC"
+    "last_checked": "2026-08-26 10:10:52 UTC"
   },
   "VVVTRY": {
-    "last_checked": "2026-08-26 08:06:21 UTC",
+    "last_checked": "2026-08-26 10:10:53 UTC",
     "last_signal": "SELL"
   },
   "WALTRY": {
-    "last_checked": "2026-08-26 08:06:21 UTC"
+    "last_checked": "2026-08-26 10:10:53 UTC"
   },
   "WCTTRY": {
-    "last_checked": "2026-08-26 08:06:22 UTC"
+    "last_checked": "2026-08-26 10:10:54 UTC"
   },
   "WIFTRY": {
-    "last_checked": "2026-08-26 08:06:23 UTC"
+    "last_checked": "2026-08-26 10:10:54 UTC"
   },
   "WLDTRY": {
-    "last_checked": "2026-08-26 08:06:23 UTC",
+    "last_checked": "2026-08-26 10:10:55 UTC",
     "last_signal": "BUY"
   },
   "WLFITRY": {
-    "last_checked": "2026-08-26 08:06:24 UTC"
+    "last_checked": "2026-08-26 10:10:55 UTC"
   },
   "WTRY": {
-    "last_checked": "2026-08-26 08:06:25 UTC",
+    "last_checked": "2026-08-26 10:10:56 UTC",
     "last_signal": "BUY"
   },
   "XAUTTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:06:25 UTC"
+    "last_checked": "2026-08-26 10:10:56 UTC"
   },
   "XCNTRY": {
-    "last_checked": "2026-08-26 08:06:26 UTC"
+    "last_checked": "2026-08-26 10:10:57 UTC"
   },
   "XLMTRY": {
-    "last_checked": "2026-08-26 08:06:26 UTC"
+    "last_checked": "2026-08-26 10:10:57 UTC"
   },
   "XPLTRY": {
-    "last_checked": "2026-08-26 08:06:27 UTC"
+    "last_checked": "2026-08-26 10:10:58 UTC"
   },
   "XRPTRY": {
-    "last_checked": "2026-08-26 08:06:28 UTC"
+    "last_checked": "2026-08-26 10:10:59 UTC"
   },
   "XTZTRY": {
-    "last_checked": "2026-08-26 08:06:28 UTC"
+    "last_checked": "2026-08-26 10:10:59 UTC"
   },
   "ZKCTRY": {
-    "last_checked": "2026-08-26 08:06:29 UTC"
+    "last_checked": "2026-08-26 10:11:00 UTC"
   },
   "ZKTRY": {
-    "last_checked": "2026-08-26 08:06:29 UTC"
+    "last_checked": "2026-08-26 10:11:00 UTC"
   },
   "ZORATRY": {
-    "last_checked": "2026-08-26 08:06:30 UTC"
+    "last_checked": "2026-08-26 10:11:01 UTC"
   },
   "ZROTRY": {
-    "last_checked": "2026-08-26 08:06:30 UTC"
+    "last_checked": "2026-08-26 10:11:01 UTC"
   },
   "ZRXTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-08-26 08:06:31 UTC"
+    "last_checked": "2026-08-26 10:11:02 UTC"
   }
 }
