@@ -12,8 +12,11 @@ birlikte çalışır:
    gönderir. Gerçek cüzdan takibi DEĞİLDİR, sadece işlem hacmindeki
    anormalliği yakalar.
 
-3. HABER TAKİBİ: Her coin için Google Haberler'den yeni bir haber
-   çıktığında bildirim gönderir (kayıt/API anahtarı gerekmez).
+3. HABER TAKİBİ (filtreli): Her coin için Google Haberler'den yeni haber
+   çıktığında, SADECE "büyük hareket" ile ilişkili anahtar kelimeler
+   (listelenme, hack, yasaklama, ortaklık, rekor, çöküş, SEC/düzenleme vb.)
+   içeren başlıkları bildirim olarak gönderir. Sıradan yorum/analiz
+   haberleri otomatik elenir.
 
 ÖNEMLİ: Bu üç sistem de bilgi sağlar, hiçbiri fiyatın ne yöne gideceğini
 GARANTİ ETMEZ. Amaç, kararınızı vermeniz için daha fazla ve daha hızlı
@@ -60,6 +63,24 @@ WHALE_VOLUME_MULTIPLIER = 3.0   # Hacim, ortalamanın kaç katına çıkarsa ala
 # --- Haber takibi ---
 NEWS_MAX_ITEMS = 5              # Her taramada en fazla kaç haber kontrol edilsin
 NEWS_ENABLED = True
+
+# Sadece bu kelimelerden en az birini içeren başlıklar "büyük hareket" ile
+# ilişkili kabul edilip bildirim olarak gönderilir. Sıradan yorum/analiz
+# haberleri bu listeye girmediği için otomatik elenir.
+NEWS_KEY_TERMS = [
+    "listelendi", "listeleniyor", "listeleme", "listing",
+    "borsadan kaldır", "delist",
+    "hack", "hacklendi", "çalındı", "siber saldırı",
+    "yasak", "yasakla", "ban ",
+    "sec ", "düzenleme", "regülasyon", "regulation",
+    "iflas", "bankrupt", "çöktü", "çöküş", "crash",
+    "ortaklık", "partnership", "anlaşma imzaladı",
+    "rekor", "zirve", "ath", "tüm zamanların",
+    "patladı", "fırladı", "yüzde yüz", "%100", "ikiye katla",
+    "sert düşüş", "değer kaybetti",
+    "dolandırıcılık", "scam", "vurgun",
+    "etf", "onay", "sec onayı",
+]
 
 REQUEST_DELAY_SECONDS = 0.25
 
@@ -233,7 +254,10 @@ def check_news(pair: str, pair_state: dict) -> list:
             continue
         current_links.append(link)
         if not is_first_run and link not in seen_links:
-            new_articles.append((title, link))
+            title_lower = title.lower()
+            is_relevant = any(term in title_lower for term in NEWS_KEY_TERMS)
+            if is_relevant:
+                new_articles.append((title, link))
 
     pair_state["seen_news_links"] = current_links
     return new_articles
