@@ -2,763 +2,763 @@
   "last_signal": null,
   "last_checked": "2026-08-25 19:13:59 UTC",
   "0GTRY": {
-    "last_checked": "2026-09-02 15:02:20 UTC",
+    "last_checked": "2026-09-02 15:32:53 UTC",
     "last_signal": "SELL"
   },
   "2ZTRY": {
-    "last_checked": "2026-09-02 15:02:21 UTC",
+    "last_checked": "2026-09-02 15:32:53 UTC",
     "last_signal": "BUY"
   },
   "AAVETRY": {
-    "last_checked": "2026-09-02 15:02:21 UTC",
-    "last_signal": "BUY"
+    "last_checked": "2026-09-02 15:32:54 UTC",
+    "last_signal": "SELL"
   },
   "ACMTRY": {
-    "last_checked": "2026-09-02 15:02:22 UTC",
+    "last_checked": "2026-09-02 15:32:55 UTC",
     "last_signal": "SELL"
   },
   "ADATRY": {
-    "last_checked": "2026-09-02 15:02:23 UTC",
+    "last_checked": "2026-09-02 15:32:55 UTC",
     "last_signal": "SELL"
   },
   "AEROTRY": {
-    "last_checked": "2026-09-02 15:02:23 UTC",
+    "last_checked": "2026-09-02 15:32:56 UTC",
     "last_signal": "SELL"
   },
   "AFCTRY": {
-    "last_checked": "2026-09-02 15:02:24 UTC",
+    "last_checked": "2026-09-02 15:32:57 UTC",
     "last_signal": "SELL"
   },
   "AIOZTRY": {
-    "last_checked": "2026-09-02 15:02:25 UTC",
+    "last_checked": "2026-09-02 15:32:57 UTC",
     "last_signal": "SELL"
   },
   "AIXBTTRY": {
-    "last_checked": "2026-09-02 15:02:25 UTC",
+    "last_checked": "2026-09-02 15:32:58 UTC",
     "last_signal": "SELL"
   },
   "ALGOTRY": {
-    "last_checked": "2026-09-02 15:02:26 UTC",
+    "last_checked": "2026-09-02 15:32:59 UTC",
     "last_signal": "BUY"
   },
   "ALLOTRY": {
-    "last_checked": "2026-09-02 15:02:27 UTC",
+    "last_checked": "2026-09-02 15:32:59 UTC",
     "last_signal": "SELL"
   },
   "AMPTRY": {
-    "last_checked": "2026-09-02 15:02:27 UTC",
+    "last_checked": "2026-09-02 15:33:00 UTC",
     "last_signal": "SELL"
   },
   "ANIMETRY": {
-    "last_checked": "2026-09-02 15:02:28 UTC",
+    "last_checked": "2026-09-02 15:33:01 UTC",
     "last_signal": "BUY"
   },
   "ANKRTRY": {
-    "last_checked": "2026-09-02 15:02:29 UTC",
+    "last_checked": "2026-09-02 15:33:01 UTC",
     "last_signal": "BUY"
   },
   "APETRY": {
-    "last_checked": "2026-09-02 15:02:29 UTC",
+    "last_checked": "2026-09-02 15:33:02 UTC",
     "last_signal": "SELL"
   },
   "API3TRY": {
-    "last_checked": "2026-09-02 15:02:30 UTC",
+    "last_checked": "2026-09-02 15:33:03 UTC",
     "last_signal": "SELL"
   },
   "APTTRY": {
-    "last_checked": "2026-09-02 15:02:31 UTC",
+    "last_checked": "2026-09-02 15:33:03 UTC",
     "last_signal": "BUY"
   },
   "ARBTRY": {
-    "last_checked": "2026-09-02 15:02:31 UTC",
+    "last_checked": "2026-09-02 15:33:04 UTC",
     "last_signal": "BUY"
   },
   "ARKMTRY": {
-    "last_checked": "2026-09-02 15:02:32 UTC",
+    "last_checked": "2026-09-02 15:33:04 UTC",
     "last_signal": "SELL"
   },
   "ARPATRY": {
-    "last_checked": "2026-09-02 15:02:33 UTC",
+    "last_checked": "2026-09-02 15:33:05 UTC",
     "last_signal": "SELL"
   },
   "ARXTRY": {
-    "last_checked": "2026-09-02 15:02:33 UTC",
+    "last_checked": "2026-09-02 15:33:06 UTC",
     "last_signal": "BUY"
   },
   "ASRTRY": {
-    "last_checked": "2026-09-02 15:02:34 UTC",
-    "last_signal": "BUY"
+    "last_checked": "2026-09-02 15:33:07 UTC",
+    "last_signal": "SELL"
   },
   "ATHTRY": {
-    "last_checked": "2026-09-02 15:02:35 UTC",
+    "last_checked": "2026-09-02 15:33:07 UTC",
     "last_signal": "BUY"
   },
   "ATMTRY": {
-    "last_checked": "2026-09-02 15:02:35 UTC",
+    "last_checked": "2026-09-02 15:33:08 UTC",
     "last_signal": "SELL"
   },
   "ATOMTRY": {
-    "last_checked": "2026-09-02 15:02:36 UTC",
+    "last_checked": "2026-09-02 15:33:09 UTC",
     "last_signal": "SELL"
   },
   "AUDIOTRY": {
-    "last_checked": "2026-09-02 15:02:37 UTC",
+    "last_checked": "2026-09-02 15:33:09 UTC",
     "last_signal": "SELL"
   },
   "AVAXTRY": {
-    "last_checked": "2026-09-02 15:02:37 UTC",
+    "last_checked": "2026-09-02 15:33:10 UTC",
     "last_signal": "SELL"
   },
   "AVNTTRY": {
-    "last_checked": "2026-09-02 15:02:38 UTC",
+    "last_checked": "2026-09-02 15:33:11 UTC",
     "last_signal": "SELL"
   },
   "AXLTRY": {
-    "last_checked": "2026-09-02 15:02:39 UTC",
-    "last_signal": "BUY"
+    "last_checked": "2026-09-02 15:33:11 UTC",
+    "last_signal": "SELL"
   },
   "AXSTRY": {
-    "last_checked": "2026-09-02 15:02:39 UTC",
+    "last_checked": "2026-09-02 15:33:12 UTC",
     "last_signal": "BUY"
   },
   "BANDTRY": {
-    "last_checked": "2026-09-02 15:02:40 UTC",
+    "last_checked": "2026-09-02 15:33:13 UTC",
     "last_signal": "BUY"
   },
   "BARDTRY": {
-    "last_checked": "2026-09-02 15:02:41 UTC",
+    "last_checked": "2026-09-02 15:33:13 UTC",
     "last_signal": "SELL"
   },
   "BARTRY": {
-    "last_checked": "2026-09-02 15:02:41 UTC",
+    "last_checked": "2026-09-02 15:33:14 UTC",
     "last_signal": "SELL"
   },
   "BATTRY": {
-    "last_checked": "2026-09-02 15:02:42 UTC",
+    "last_checked": "2026-09-02 15:33:14 UTC",
     "last_signal": "SELL"
   },
   "BEAMTRY": {
-    "last_checked": "2026-09-02 15:02:43 UTC",
+    "last_checked": "2026-09-02 15:33:15 UTC",
     "last_signal": "SELL"
   },
   "BILLTRY": {
-    "last_checked": "2026-09-02 15:02:44 UTC",
+    "last_checked": "2026-09-02 15:33:16 UTC",
     "last_signal": "SELL"
   },
   "BIOTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-02 15:02:44 UTC"
+    "last_checked": "2026-09-02 15:33:16 UTC"
   },
   "BLURTRY": {
-    "last_checked": "2026-09-02 15:02:45 UTC",
+    "last_checked": "2026-09-02 15:33:17 UTC",
     "last_signal": "BUY"
   },
   "BNTTRY": {
-    "last_checked": "2026-09-02 15:02:45 UTC",
+    "last_checked": "2026-09-02 15:33:18 UTC",
     "last_signal": "SELL"
   },
   "BONKTRY": {
-    "last_checked": "2026-09-02 15:02:46 UTC",
+    "last_checked": "2026-09-02 15:33:18 UTC",
     "last_signal": "SELL"
   },
   "BTCTRY": {
-    "last_checked": "2026-09-02 15:02:47 UTC",
+    "last_checked": "2026-09-02 15:33:19 UTC",
     "last_signal": "SELL"
   },
   "CFGTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-02 15:02:47 UTC"
+    "last_checked": "2026-09-02 15:33:19 UTC"
   },
   "CHZTRY": {
-    "last_checked": "2026-09-02 15:02:48 UTC",
+    "last_checked": "2026-09-02 15:33:20 UTC",
     "last_signal": "SELL"
   },
   "CITYTRY": {
-    "last_checked": "2026-09-02 15:02:49 UTC",
+    "last_checked": "2026-09-02 15:33:20 UTC",
     "last_signal": "SELL"
   },
   "COMPTRY": {
-    "last_checked": "2026-09-02 15:02:49 UTC",
+    "last_checked": "2026-09-02 15:33:21 UTC",
     "last_signal": "SELL"
   },
   "CRVTRY": {
-    "last_checked": "2026-09-02 15:02:50 UTC",
+    "last_checked": "2026-09-02 15:33:22 UTC",
     "last_signal": "SELL"
   },
   "CTSITRY": {
-    "last_checked": "2026-09-02 15:02:51 UTC",
-    "last_signal": "BUY"
+    "last_checked": "2026-09-02 15:33:22 UTC",
+    "last_signal": "SELL"
   },
   "CVCTRY": {
-    "last_checked": "2026-09-02 15:02:51 UTC",
+    "last_checked": "2026-09-02 15:33:23 UTC",
     "last_signal": "SELL"
   },
   "DASHTRY": {
-    "last_checked": "2026-09-02 15:02:52 UTC",
+    "last_checked": "2026-09-02 15:33:24 UTC",
     "last_signal": "SELL"
   },
   "DOGETRY": {
-    "last_checked": "2026-09-02 15:02:53 UTC",
+    "last_checked": "2026-09-02 15:33:24 UTC",
     "last_signal": "SELL"
   },
   "DOTTRY": {
-    "last_checked": "2026-09-02 15:02:53 UTC",
+    "last_checked": "2026-09-02 15:33:25 UTC",
     "last_signal": "SELL"
   },
   "EIGENTRY": {
-    "last_checked": "2026-09-02 15:02:54 UTC",
+    "last_checked": "2026-09-02 15:33:25 UTC",
     "last_signal": "SELL"
   },
   "ENATRY": {
-    "last_checked": "2026-09-02 15:02:55 UTC",
+    "last_checked": "2026-09-02 15:33:26 UTC",
     "last_signal": "SELL"
   },
   "ENJTRY": {
-    "last_checked": "2026-09-02 15:02:55 UTC",
+    "last_checked": "2026-09-02 15:33:26 UTC",
     "last_signal": "BUY"
   },
   "ENSTRY": {
-    "last_checked": "2026-09-02 15:02:56 UTC",
+    "last_checked": "2026-09-02 15:33:27 UTC",
     "last_signal": "SELL"
   },
   "EOSTRY": {
-    "last_checked": "2026-09-02 15:02:56 UTC",
+    "last_checked": "2026-09-02 15:33:28 UTC",
     "last_signal": "BUY"
   },
   "ERATRY": {
-    "last_checked": "2026-09-02 15:02:57 UTC",
+    "last_checked": "2026-09-02 15:33:28 UTC",
     "last_signal": "BUY"
   },
   "ETCTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:02:58 UTC"
+    "last_checked": "2026-09-02 15:33:29 UTC"
   },
   "ETHFITRY": {
-    "last_checked": "2026-09-02 15:02:59 UTC",
+    "last_checked": "2026-09-02 15:33:29 UTC",
     "last_signal": "SELL"
   },
   "ETHTRY": {
-    "last_checked": "2026-09-02 15:02:59 UTC",
+    "last_checked": "2026-09-02 15:33:30 UTC",
     "last_signal": "SELL"
   },
   "ETHWTRY": {
-    "last_checked": "2026-09-02 15:03:00 UTC",
+    "last_checked": "2026-09-02 15:33:31 UTC",
     "last_signal": "SELL"
   },
   "FBTRY": {
-    "last_checked": "2026-09-02 15:03:01 UTC",
+    "last_checked": "2026-09-02 15:33:31 UTC",
     "last_signal": "BUY"
   },
   "FETTRY": {
-    "last_checked": "2026-09-02 15:03:02 UTC",
+    "last_checked": "2026-09-02 15:33:32 UTC",
     "last_signal": "SELL"
   },
   "FIDATRY": {
-    "last_checked": "2026-09-02 15:03:02 UTC",
+    "last_checked": "2026-09-02 15:33:32 UTC",
     "last_signal": "BUY"
   },
   "FILTRY": {
-    "last_checked": "2026-09-02 15:03:03 UTC",
+    "last_checked": "2026-09-02 15:33:33 UTC",
     "last_signal": "SELL"
   },
   "FLOKITRY": {
-    "last_checked": "2026-09-02 15:03:04 UTC",
+    "last_checked": "2026-09-02 15:33:34 UTC",
     "last_signal": "SELL"
   },
   "FLOWTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:03:05 UTC"
+    "last_checked": "2026-09-02 15:33:34 UTC"
   },
   "FLRTRY": {
-    "last_checked": "2026-09-02 15:03:06 UTC",
+    "last_checked": "2026-09-02 15:33:35 UTC",
     "last_signal": "BUY"
   },
   "GALATRY": {
-    "last_checked": "2026-09-02 15:03:06 UTC",
+    "last_checked": "2026-09-02 15:33:35 UTC",
     "last_signal": "SELL"
   },
   "GALTRY": {
-    "last_checked": "2026-09-02 15:03:07 UTC",
+    "last_checked": "2026-09-02 15:33:36 UTC",
     "last_signal": "SELL"
   },
   "GLMRTRY": {
-    "last_checked": "2026-09-02 15:03:08 UTC",
+    "last_checked": "2026-09-02 15:33:36 UTC",
     "last_signal": "SELL"
   },
   "GLMTRY": {
-    "last_checked": "2026-09-02 15:03:08 UTC",
+    "last_checked": "2026-09-02 15:33:37 UTC",
     "last_signal": "BUY"
   },
   "GMTTRY": {
-    "last_checked": "2026-09-02 15:03:09 UTC",
+    "last_checked": "2026-09-02 15:33:38 UTC",
     "last_signal": "BUY"
   },
   "GRAMTRY": {
-    "last_checked": "2026-09-02 15:03:10 UTC",
+    "last_checked": "2026-09-02 15:33:38 UTC",
     "last_signal": "SELL"
   },
   "GRTTRY": {
-    "last_checked": "2026-09-02 15:03:10 UTC",
+    "last_checked": "2026-09-02 15:33:39 UTC",
     "last_signal": "SELL"
   },
   "GRVTTRY": {
-    "last_checked": "2026-09-02 15:03:11 UTC",
+    "last_checked": "2026-09-02 15:33:40 UTC",
     "last_signal": "BUY"
   },
   "HBARTRY": {
-    "last_checked": "2026-09-02 15:03:12 UTC",
+    "last_checked": "2026-09-02 15:33:40 UTC",
     "last_signal": "SELL"
   },
   "HNTTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-02 15:03:13 UTC"
+    "last_checked": "2026-09-02 15:33:41 UTC"
   },
   "HOTTRY": {
-    "last_checked": "2026-09-02 15:03:13 UTC",
+    "last_checked": "2026-09-02 15:33:41 UTC",
     "last_signal": "SELL"
   },
   "HTRY": {
-    "last_checked": "2026-09-02 15:03:14 UTC",
+    "last_checked": "2026-09-02 15:33:42 UTC",
     "last_signal": "SELL"
   },
   "HYPETRY": {
-    "last_checked": "2026-09-02 15:03:15 UTC",
+    "last_checked": "2026-09-02 15:33:43 UTC",
     "last_signal": "BUY"
   },
   "IMXTRY": {
-    "last_checked": "2026-09-02 15:03:16 UTC",
+    "last_checked": "2026-09-02 15:33:43 UTC",
     "last_signal": "SELL"
   },
   "INJTRY": {
-    "last_checked": "2026-09-02 15:03:16 UTC",
+    "last_checked": "2026-09-02 15:33:44 UTC",
     "last_signal": "BUY"
   },
   "INTERTRY": {
-    "last_checked": "2026-09-02 15:03:17 UTC",
+    "last_checked": "2026-09-02 15:33:44 UTC",
     "last_signal": "SELL"
   },
   "IOTRY": {
-    "last_checked": "2026-09-02 15:03:17 UTC",
+    "last_checked": "2026-09-02 15:33:45 UTC",
     "last_signal": "SELL"
   },
   "JASMYTRY": {
-    "last_checked": "2026-09-02 15:03:18 UTC",
+    "last_checked": "2026-09-02 15:33:46 UTC",
     "last_signal": "SELL"
   },
   "JTOTRY": {
-    "last_checked": "2026-09-02 15:03:19 UTC",
+    "last_checked": "2026-09-02 15:33:46 UTC",
     "last_signal": "SELL"
   },
   "JUPTRY": {
-    "last_checked": "2026-09-02 15:03:19 UTC",
+    "last_checked": "2026-09-02 15:33:47 UTC",
     "last_signal": "SELL"
   },
   "JUVTRY": {
-    "last_checked": "2026-09-02 15:03:20 UTC",
+    "last_checked": "2026-09-02 15:33:47 UTC",
     "last_signal": "SELL"
   },
   "KAITOTRY": {
-    "last_checked": "2026-09-02 15:03:21 UTC",
+    "last_checked": "2026-09-02 15:33:48 UTC",
     "last_signal": "SELL"
   },
   "KAVATRY": {
-    "last_checked": "2026-09-02 15:03:21 UTC",
+    "last_checked": "2026-09-02 15:33:49 UTC",
     "last_signal": "BUY"
   },
   "KITETRY": {
-    "last_checked": "2026-09-02 15:03:22 UTC",
+    "last_checked": "2026-09-02 15:33:49 UTC",
     "last_signal": "BUY"
   },
   "KSMTRY": {
-    "last_checked": "2026-09-02 15:03:23 UTC",
+    "last_checked": "2026-09-02 15:33:50 UTC",
     "last_signal": "SELL"
   },
   "LAYERTRY": {
-    "last_checked": "2026-09-02 15:03:23 UTC",
+    "last_checked": "2026-09-02 15:33:50 UTC",
     "last_signal": "SELL"
   },
   "LDOTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:03:24 UTC"
+    "last_checked": "2026-09-02 15:33:51 UTC"
   },
   "LINEATRY": {
-    "last_checked": "2026-09-02 15:03:24 UTC",
+    "last_checked": "2026-09-02 15:33:52 UTC",
     "last_signal": "BUY"
   },
   "LINKTRY": {
-    "last_checked": "2026-09-02 15:03:25 UTC",
+    "last_checked": "2026-09-02 15:33:52 UTC",
     "last_signal": "BUY"
   },
   "LITTRY": {
-    "last_checked": "2026-09-02 15:03:26 UTC",
+    "last_checked": "2026-09-02 15:33:53 UTC",
     "last_signal": "BUY"
   },
   "LPTTRY": {
-    "last_checked": "2026-09-02 15:03:26 UTC",
+    "last_checked": "2026-09-02 15:33:53 UTC",
     "last_signal": "SELL"
   },
   "LRCTRY": {
-    "last_checked": "2026-09-02 15:03:27 UTC",
+    "last_checked": "2026-09-02 15:33:54 UTC",
     "last_signal": "BUY"
   },
   "LTCTRY": {
-    "last_checked": "2026-09-02 15:03:28 UTC",
+    "last_checked": "2026-09-02 15:33:55 UTC",
     "last_signal": "SELL"
   },
   "LUNATRY": {
-    "last_checked": "2026-09-02 15:03:28 UTC",
+    "last_checked": "2026-09-02 15:33:55 UTC",
     "last_signal": "SELL"
   },
   "MAGICTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:03:29 UTC"
+    "last_checked": "2026-09-02 15:33:56 UTC"
   },
   "MANATRY": {
-    "last_checked": "2026-09-02 15:03:29 UTC",
+    "last_checked": "2026-09-02 15:33:57 UTC",
     "last_signal": "BUY"
   },
   "MANTRATRY": {
-    "last_checked": "2026-09-02 15:03:30 UTC",
+    "last_checked": "2026-09-02 15:33:57 UTC",
     "last_signal": "SELL"
   },
   "MASKTRY": {
-    "last_checked": "2026-09-02 15:03:31 UTC",
+    "last_checked": "2026-09-02 15:33:58 UTC",
     "last_signal": "SELL"
   },
   "MELANIATRY": {
-    "last_checked": "2026-09-02 15:03:31 UTC",
+    "last_checked": "2026-09-02 15:33:58 UTC",
     "last_signal": "SELL"
   },
   "MEMETRY": {
-    "last_checked": "2026-09-02 15:03:32 UTC",
+    "last_checked": "2026-09-02 15:33:59 UTC",
     "last_signal": "SELL"
   },
   "METRY": {
-    "last_checked": "2026-09-02 15:03:33 UTC",
+    "last_checked": "2026-09-02 15:33:59 UTC",
     "last_signal": "BUY"
   },
   "METTRY": {
-    "last_checked": "2026-09-02 15:03:34 UTC",
+    "last_checked": "2026-09-02 15:34:00 UTC",
     "last_signal": "SELL"
   },
   "MIRATRY": {
-    "last_checked": "2026-09-02 15:03:34 UTC",
+    "last_checked": "2026-09-02 15:34:01 UTC",
     "last_signal": "BUY"
   },
   "MNTTRY": {
-    "last_checked": "2026-09-02 15:03:35 UTC",
+    "last_checked": "2026-09-02 15:34:02 UTC",
     "last_signal": "BUY"
   },
   "MONTRY": {
-    "last_checked": "2026-09-02 15:03:35 UTC",
+    "last_checked": "2026-09-02 15:34:02 UTC",
     "last_signal": "SELL"
   },
   "MORPHOTRY": {
-    "last_checked": "2026-09-02 15:03:36 UTC",
+    "last_checked": "2026-09-02 15:34:03 UTC",
     "last_signal": "SELL"
   },
   "MOVETRY": {
-    "last_checked": "2026-09-02 15:03:37 UTC",
+    "last_checked": "2026-09-02 15:34:04 UTC",
     "last_signal": "SELL"
   },
   "NAPTRY": {
-    "last_checked": "2026-09-02 15:03:38 UTC",
+    "last_checked": "2026-09-02 15:34:04 UTC",
     "last_signal": "SELL"
   },
   "NEARTRY": {
-    "last_checked": "2026-09-02 15:03:38 UTC",
+    "last_checked": "2026-09-02 15:34:05 UTC",
     "last_signal": "SELL"
   },
   "NEOTRY": {
-    "last_checked": "2026-09-02 15:03:39 UTC",
+    "last_checked": "2026-09-02 15:34:05 UTC",
     "last_signal": "SELL"
   },
   "NMRTRY": {
-    "last_checked": "2026-09-02 15:03:39 UTC",
+    "last_checked": "2026-09-02 15:34:06 UTC",
     "last_signal": "SELL"
   },
   "OGNTRY": {
-    "last_checked": "2026-09-02 15:03:40 UTC",
+    "last_checked": "2026-09-02 15:34:07 UTC",
     "last_signal": "BUY"
   },
   "OMGTRY": {
-    "last_checked": "2026-09-02 15:03:41 UTC",
+    "last_checked": "2026-09-02 15:34:07 UTC",
     "last_signal": "SELL"
   },
   "ONDOTRY": {
-    "last_checked": "2026-09-02 15:03:41 UTC",
-    "last_signal": "BUY"
+    "last_checked": "2026-09-02 15:34:08 UTC",
+    "last_signal": "SELL"
   },
   "OPTRY": {
-    "last_checked": "2026-09-02 15:03:42 UTC",
+    "last_checked": "2026-09-02 15:34:09 UTC",
     "last_signal": "SELL"
   },
   "ORCATRY": {
-    "last_checked": "2026-09-02 15:03:42 UTC",
+    "last_checked": "2026-09-02 15:34:10 UTC",
     "last_signal": "SELL"
   },
   "PAXGTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:03:43 UTC"
+    "last_checked": "2026-09-02 15:34:10 UTC"
   },
   "PENGUTRY": {
-    "last_checked": "2026-09-02 15:03:44 UTC",
+    "last_checked": "2026-09-02 15:34:11 UTC",
     "last_signal": "BUY"
   },
   "PEPETRY": {
-    "last_checked": "2026-09-02 15:03:45 UTC",
+    "last_checked": "2026-09-02 15:34:11 UTC",
     "last_signal": "SELL"
   },
   "PNUTTRY": {
-    "last_checked": "2026-09-02 15:03:45 UTC",
+    "last_checked": "2026-09-02 15:34:12 UTC",
     "last_signal": "SELL"
   },
   "POLTRY": {
-    "last_checked": "2026-09-02 15:03:46 UTC",
+    "last_checked": "2026-09-02 15:34:12 UTC",
     "last_signal": "BUY"
   },
   "PSGTRY": {
-    "last_checked": "2026-09-02 15:03:46 UTC",
-    "last_signal": "SELL"
+    "last_checked": "2026-09-02 15:34:13 UTC",
+    "last_signal": "BUY"
   },
   "PUMPTRY": {
-    "last_checked": "2026-09-02 15:03:47 UTC",
+    "last_checked": "2026-09-02 15:34:14 UTC",
     "last_signal": "SELL"
   },
   "PYTHTRY": {
-    "last_checked": "2026-09-02 15:03:48 UTC",
+    "last_checked": "2026-09-02 15:34:14 UTC",
     "last_signal": "BUY"
   },
   "QNTTRY": {
-    "last_checked": "2026-09-02 15:03:49 UTC",
+    "last_checked": "2026-09-02 15:34:15 UTC",
     "last_signal": "BUY"
   },
   "RADTRY": {
-    "last_checked": "2026-09-02 15:03:49 UTC",
+    "last_checked": "2026-09-02 15:34:16 UTC",
     "last_signal": "SELL"
   },
   "RARETRY": {
-    "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:03:50 UTC"
+    "last_signal": "SELL",
+    "last_checked": "2026-09-02 15:34:16 UTC"
   },
   "RAYTRY": {
-    "last_checked": "2026-09-02 15:03:51 UTC",
+    "last_checked": "2026-09-02 15:34:17 UTC",
     "last_signal": "SELL"
   },
   "REDTRY": {
-    "last_checked": "2026-09-02 15:03:51 UTC",
-    "last_signal": "SELL"
+    "last_checked": "2026-09-02 15:34:18 UTC",
+    "last_signal": "BUY"
   },
   "RENDERTRY": {
-    "last_checked": "2026-09-02 15:03:52 UTC",
+    "last_checked": "2026-09-02 15:34:18 UTC",
     "last_signal": "SELL"
   },
   "RETRY": {
-    "last_checked": "2026-09-02 15:03:53 UTC",
+    "last_checked": "2026-09-02 15:34:19 UTC",
     "last_signal": "SELL"
   },
   "RLCTRY": {
-    "last_checked": "2026-09-02 15:03:53 UTC",
+    "last_checked": "2026-09-02 15:34:20 UTC",
     "last_signal": "SELL"
   },
   "RUNETRY": {
-    "last_checked": "2026-09-02 15:03:54 UTC",
+    "last_checked": "2026-09-02 15:34:20 UTC",
     "last_signal": "SELL"
   },
   "SAHARATRY": {
-    "last_checked": "2026-09-02 15:03:55 UTC",
+    "last_checked": "2026-09-02 15:34:21 UTC",
     "last_signal": "BUY"
   },
   "SANDTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:03:55 UTC"
+    "last_checked": "2026-09-02 15:34:21 UTC"
   },
   "SEITRY": {
-    "last_checked": "2026-09-02 15:03:56 UTC",
+    "last_checked": "2026-09-02 15:34:22 UTC",
     "last_signal": "BUY"
   },
   "SENTTRY": {
-    "last_checked": "2026-09-02 15:03:57 UTC",
+    "last_checked": "2026-09-02 15:34:22 UTC",
     "last_signal": "BUY"
   },
   "SHIBTRY": {
-    "last_checked": "2026-09-02 15:03:57 UTC",
+    "last_checked": "2026-09-02 15:34:23 UTC",
     "last_signal": "SELL"
   },
   "SKLTRY": {
-    "last_checked": "2026-09-02 15:03:58 UTC",
+    "last_checked": "2026-09-02 15:34:24 UTC",
     "last_signal": "SELL"
   },
   "SKYTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-02 15:03:59 UTC"
+    "last_checked": "2026-09-02 15:34:24 UTC"
   },
   "SNXTRY": {
-    "last_checked": "2026-09-02 15:04:00 UTC",
+    "last_checked": "2026-09-02 15:34:25 UTC",
     "last_signal": "SELL"
   },
   "SOLTRY": {
-    "last_checked": "2026-09-02 15:04:00 UTC",
+    "last_checked": "2026-09-02 15:34:25 UTC",
     "last_signal": "BUY"
   },
   "SPELLTRY": {
-    "last_checked": "2026-09-02 15:04:01 UTC",
+    "last_checked": "2026-09-02 15:34:26 UTC",
     "last_signal": "SELL"
   },
   "SPKTRY": {
-    "last_checked": "2026-09-02 15:04:01 UTC",
+    "last_checked": "2026-09-02 15:34:26 UTC",
     "last_signal": "SELL"
   },
   "STORJTRY": {
-    "last_checked": "2026-09-02 15:04:02 UTC",
+    "last_checked": "2026-09-02 15:34:27 UTC",
     "last_signal": "BUY"
   },
   "STRKTRY": {
-    "last_checked": "2026-09-02 15:04:03 UTC",
+    "last_checked": "2026-09-02 15:34:28 UTC",
     "last_signal": "SELL"
   },
   "STRY": {
-    "last_checked": "2026-09-02 15:04:04 UTC",
+    "last_checked": "2026-09-02 15:34:28 UTC",
     "last_signal": "SELL"
   },
   "STXTRY": {
-    "last_checked": "2026-09-02 15:04:05 UTC",
-    "last_signal": "BUY"
+    "last_checked": "2026-09-02 15:34:29 UTC",
+    "last_signal": "SELL"
   },
   "SUITRY": {
-    "last_checked": "2026-09-02 15:04:06 UTC",
+    "last_checked": "2026-09-02 15:34:30 UTC",
     "last_signal": "SELL"
   },
   "SUPERTRY": {
-    "last_checked": "2026-09-02 15:04:06 UTC",
+    "last_checked": "2026-09-02 15:34:30 UTC",
     "last_signal": "SELL"
   },
   "SUSHITRY": {
-    "last_checked": "2026-09-02 15:04:07 UTC",
+    "last_checked": "2026-09-02 15:34:31 UTC",
     "last_signal": "SELL"
   },
   "TIATRY": {
-    "last_checked": "2026-09-02 15:04:08 UTC",
+    "last_checked": "2026-09-02 15:34:31 UTC",
     "last_signal": "BUY"
   },
   "TRATRY": {
-    "last_checked": "2026-09-02 15:04:08 UTC",
+    "last_checked": "2026-09-02 15:34:32 UTC",
     "last_signal": "BUY"
   },
   "TRBTRY": {
-    "last_checked": "2026-09-02 15:04:09 UTC",
+    "last_checked": "2026-09-02 15:34:33 UTC",
     "last_signal": "SELL"
   },
   "TRUMPTRY": {
-    "last_checked": "2026-09-02 15:04:10 UTC",
+    "last_checked": "2026-09-02 15:34:33 UTC",
     "last_signal": "SELL"
   },
   "TRXTRY": {
-    "last_checked": "2026-09-02 15:04:10 UTC",
+    "last_checked": "2026-09-02 15:34:34 UTC",
     "last_signal": "BUY"
   },
   "TTRY": {
-    "last_checked": "2026-09-02 15:04:11 UTC",
+    "last_checked": "2026-09-02 15:34:35 UTC",
     "last_signal": "BUY"
   },
   "TURBOTRY": {
-    "last_checked": "2026-09-02 15:04:12 UTC",
+    "last_checked": "2026-09-02 15:34:35 UTC",
     "last_signal": "SELL"
   },
   "UMATRY": {
-    "last_checked": "2026-09-02 15:04:13 UTC",
+    "last_checked": "2026-09-02 15:34:36 UTC",
     "last_signal": "SELL"
   },
   "UNITRY": {
-    "last_checked": "2026-09-02 15:04:13 UTC",
+    "last_checked": "2026-09-02 15:34:36 UTC",
     "last_signal": "BUY"
   },
   "USDCTRY": {
-    "last_checked": "2026-09-02 15:04:14 UTC",
+    "last_checked": "2026-09-02 15:34:37 UTC",
     "last_signal": "BUY"
   },
   "USDTTRY": {
-    "last_checked": "2026-09-02 15:04:15 UTC",
+    "last_checked": "2026-09-02 15:34:37 UTC",
     "last_signal": "BUY"
   },
   "VANATRY": {
-    "last_checked": "2026-09-02 15:04:16 UTC",
+    "last_checked": "2026-09-02 15:34:38 UTC",
     "last_signal": "SELL"
   },
   "VIRTUALTRY": {
-    "last_checked": "2026-09-02 15:04:16 UTC",
+    "last_checked": "2026-09-02 15:34:39 UTC",
     "last_signal": "SELL"
   },
   "VVVTRY": {
-    "last_checked": "2026-09-02 15:04:17 UTC",
+    "last_checked": "2026-09-02 15:34:39 UTC",
     "last_signal": "BUY"
   },
   "WALTRY": {
-    "last_checked": "2026-09-02 15:04:18 UTC",
+    "last_checked": "2026-09-02 15:34:40 UTC",
     "last_signal": "SELL"
   },
   "WCTTRY": {
-    "last_checked": "2026-09-02 15:04:18 UTC",
+    "last_checked": "2026-09-02 15:34:41 UTC",
     "last_signal": "BUY"
   },
   "WIFTRY": {
-    "last_checked": "2026-09-02 15:04:19 UTC",
+    "last_checked": "2026-09-02 15:34:41 UTC",
     "last_signal": "SELL"
   },
   "WLDTRY": {
-    "last_checked": "2026-09-02 15:04:20 UTC",
+    "last_checked": "2026-09-02 15:34:42 UTC",
     "last_signal": "BUY"
   },
   "WLFITRY": {
-    "last_checked": "2026-09-02 15:04:20 UTC",
+    "last_checked": "2026-09-02 15:34:42 UTC",
     "last_signal": "SELL"
   },
   "WTRY": {
-    "last_checked": "2026-09-02 15:04:21 UTC",
+    "last_checked": "2026-09-02 15:34:43 UTC",
     "last_signal": "SELL"
   },
   "XAUTTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:04:22 UTC"
+    "last_checked": "2026-09-02 15:34:43 UTC"
   },
   "XCNTRY": {
-    "last_checked": "2026-09-02 15:04:22 UTC",
+    "last_checked": "2026-09-02 15:34:44 UTC",
     "last_signal": "SELL"
   },
   "XLMTRY": {
-    "last_checked": "2026-09-02 15:04:23 UTC",
+    "last_checked": "2026-09-02 15:34:45 UTC",
     "last_signal": "SELL"
   },
   "XPLTRY": {
-    "last_checked": "2026-09-02 15:04:23 UTC",
+    "last_checked": "2026-09-02 15:34:45 UTC",
     "last_signal": "SELL"
   },
   "XRPTRY": {
-    "last_checked": "2026-09-02 15:04:24 UTC",
+    "last_checked": "2026-09-02 15:34:46 UTC",
     "last_signal": "SELL"
   },
   "XTZTRY": {
-    "last_checked": "2026-09-02 15:04:25 UTC",
+    "last_checked": "2026-09-02 15:34:47 UTC",
     "last_signal": "BUY"
   },
   "ZKCTRY": {
-    "last_checked": "2026-09-02 15:04:25 UTC",
+    "last_checked": "2026-09-02 15:34:47 UTC",
     "last_signal": "SELL"
   },
   "ZKTRY": {
-    "last_checked": "2026-09-02 15:04:26 UTC",
-    "last_signal": "SELL"
+    "last_checked": "2026-09-02 15:34:48 UTC",
+    "last_signal": "BUY"
   },
   "ZORATRY": {
-    "last_checked": "2026-09-02 15:04:27 UTC",
+    "last_checked": "2026-09-02 15:34:49 UTC",
     "last_signal": "SELL"
   },
   "ZROTRY": {
-    "last_checked": "2026-09-02 15:04:27 UTC",
+    "last_checked": "2026-09-02 15:34:49 UTC",
     "last_signal": "SELL"
   },
   "ZRXTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-02 15:04:28 UTC"
+    "last_checked": "2026-09-02 15:34:50 UTC"
   }
 }
