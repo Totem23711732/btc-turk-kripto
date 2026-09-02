@@ -1,25 +1,30 @@
 """
-BTCTurk'teki TÜM TL (TRY) karşılığı kripto paraları tarar.
+BTCTurk'teki TÜM TL (TRY) karşılığı kripto paraları tarar. Üç ayrı sistem
+birlikte çalışır:
 
-Bu sürüm eski basit MA+RSI sisteminden farklı olarak, ÇOK SIKI bir
-"confluence" (çoklu onay) filtresi kullanır: bir sinyalin gönderilmesi için
-aşağıdaki 6 koşulun HEPSİNİN aynı anda sağlanması gerekir:
+1. STRATEJİ SİNYALİ (mevcut sistem): MA9/MA21 kesişimi + EMA200 trend +
+   MACD + RSI + ADX + hacim onayının HEPSİNİN sağlandığı, sıkı filtreli
+   AL/SAT sinyali.
 
-  1. MA9/MA21 kesişimi (tetikleyici olay)
-  2. Uzun vadeli trend yönü (EMA200'e göre)
-  3. MACD onayı (momentum)
-  4. RSI orta bölgede ve yönü destekliyor
-  5. ADX ile trend gücü yeterli (yatay/kararsız piyasa değil)
-  6. Hacim, ortalamanın belirgin şekilde üzerinde
+2. ANORMAL HACİM ALARMI ("balina vekili"): Bir coin'in işlem hacmi kendi
+   ortalamasının belirgin şekilde üzerine çıkarsa (büyük bir oyuncunun
+   piyasaya girmiş/çıkmış olabileceğinin dolaylı bir işareti) bildirim
+   gönderir. Gerçek cüzdan takibi DEĞİLDİR, sadece işlem hacmindeki
+   anormalliği yakalar.
 
-ÖNEMLİ: Bu sıkı filtre sinyal sayısını azaltır ve "gürültülü" sinyalleri
-elemeye çalışır, ama HİÇBİR gösterge kombinasyonu kâr garantisi vermez.
-Amaç "daha az ama daha temiz durumlarda tetiklenen" bir sistem kurmak.
+3. HABER TAKİBİ: Her coin için Google Haberler'den yeni bir haber
+   çıktığında bildirim gönderir (kayıt/API anahtarı gerekmez).
+
+ÖNEMLİ: Bu üç sistem de bilgi sağlar, hiçbiri fiyatın ne yöne gideceğini
+GARANTİ ETMEZ. Amaç, kararınızı vermeniz için daha fazla ve daha hızlı
+bilgiye ulaşmanızı sağlamaktır.
 """
 import json
 import os
 import sys
 import time
+import xml.etree.ElementTree as ET
+from urllib.parse import quote
 
 import numpy as np
 import pandas as pd
@@ -29,36 +34,32 @@ import requests
 # AYARLAR
 # ============================================================
 
-# 👇 Kendi ntfy konu adınızı buraya yazın (daha önce girdiyseniz aynısını girin)
 NTFY_TOPIC = "osman-btc-turk-kripto-efe"
 
+# --- Mum / strateji ayarları ---
 CANDLE_INTERVAL_MINUTES = 60
-BARS_TO_FETCH = 260          # EMA200'ün güvenilir hesaplanabilmesi için yeterli geçmiş veri
+BARS_TO_FETCH = 260
 
-# Kesişim (tetikleyici)
 MA_SHORT_PERIOD = 9
 MA_LONG_PERIOD = 21
-
-# Uzun vadeli trend filtresi
 EMA_TREND_PERIOD = 200
-
-# MACD
 MACD_FAST = 12
 MACD_SLOW = 26
 MACD_SIGNAL = 9
-
-# RSI
 RSI_PERIOD = 14
 RSI_OVERBOUGHT = 70
 RSI_OVERSOLD = 30
-
-# ADX (trend gücü)
 ADX_PERIOD = 14
-ADX_THRESHOLD = 25           # Bunun altı = piyasa yatay/kararsız kabul edilir
-
-# Hacim onayı
+ADX_THRESHOLD = 25
 VOLUME_MA_PERIOD = 20
-VOLUME_MULTIPLIER = 1.2      # Hacim, 20 periyotluk ortalamanın en az %20 üzerinde olmalı
+VOLUME_MULTIPLIER = 1.2
+
+# --- Anormal hacim alarmı ("balina vekili") ---
+WHALE_VOLUME_MULTIPLIER = 3.0   # Hacim, ortalamanın kaç katına çıkarsa alarm versin
+
+# --- Haber takibi ---
+NEWS_MAX_ITEMS = 5              # Her taramada en fazla kaç haber kontrol edilsin
+NEWS_ENABLED = True
 
 REQUEST_DELAY_SECONDS = 0.25
 
@@ -142,7 +143,6 @@ def _adx(df: pd.DataFrame, period: int) -> pd.Series:
     plus_dm = np.where((up_move > down_move) & (up_move > 0), up_move, 0.0)
     minus_dm = np.where((down_move > up_move) & (down_move > 0), down_move, 0.0)
 
-    # Wilder'in yumuşatma yöntemine yakınsayan üstel ortalama
     atr = tr.ewm(alpha=1 / period, adjust=False).mean()
     plus_di = 100 * pd.Series(plus_dm, index=df.index).ewm(alpha=1 / period, adjust=False).mean() / atr.replace(0, 1e-12)
     minus_di = 100 * pd.Series(minus_dm, index=df.index).ewm(alpha=1 / period, adjust=False).mean() / atr.replace(0, 1e-12)
@@ -152,19 +152,10 @@ def _adx(df: pd.DataFrame, period: int) -> pd.Series:
     return adx
 
 
-def compute_signal(candles: list) -> dict:
+def compute_strategy_signal(df: pd.DataFrame) -> dict:
     min_needed = max(EMA_TREND_PERIOD + 20, MACD_SLOW + MACD_SIGNAL, ADX_PERIOD * 3, VOLUME_MA_PERIOD) + 2
-    if len(candles) < min_needed:
-        return {"signal": "HOLD", "price": candles[-1]["close"] if candles else None, "detail": "Yeterli veri yok"}
-
-    df = pd.DataFrame(candles)
-    df["ma_short"] = df["close"].rolling(window=MA_SHORT_PERIOD).mean()
-    df["ma_long"] = df["close"].rolling(window=MA_LONG_PERIOD).mean()
-    df["ema_trend"] = df["close"].ewm(span=EMA_TREND_PERIOD, adjust=False).mean()
-    df["rsi"] = _rsi(df["close"], RSI_PERIOD)
-    df["macd_line"], df["macd_signal"] = _macd(df["close"])
-    df["adx"] = _adx(df, ADX_PERIOD)
-    df["volume_ma"] = df["volume"].rolling(window=VOLUME_MA_PERIOD).mean()
+    if len(df) < min_needed:
+        return {"signal": "HOLD", "price": float(df["close"].iloc[-1]) if len(df) else None, "detail": "Yeterli veri yok"}
 
     last = df.iloc[-1]
     prev = df.iloc[-2]
@@ -199,8 +190,53 @@ def compute_signal(candles: list) -> dict:
     if passed == total:
         return {"signal": direction, "price": float(last["close"]), "detail": detail}
 
-    # Kesişim oldu ama tüm sıkı koşullar sağlanmadı -> sinyal gönderilmiyor
     return {"signal": "HOLD", "price": float(last["close"]), "detail": f"Kesişim var ama filtre geçmedi: {detail}"}
+
+
+def check_volume_spike(df: pd.DataFrame):
+    """Hacim, kendi ortalamasının WHALE_VOLUME_MULTIPLIER katından fazlaysa anormal kabul edilir."""
+    if len(df) < VOLUME_MA_PERIOD + 2:
+        return False, None, None
+    last_vol = df["volume"].iloc[-1]
+    last_vol_ma = df["volume_ma"].iloc[-1]
+    last_price = float(df["close"].iloc[-1])
+    if pd.isna(last_vol_ma) or last_vol_ma <= 0:
+        return False, None, last_price
+    ratio = last_vol / last_vol_ma
+    return ratio >= WHALE_VOLUME_MULTIPLIER, ratio, last_price
+
+
+def check_news(pair: str, pair_state: dict) -> list:
+    """
+    Google Haberler'den o coin ile ilgili son haberleri çeker.
+    Sadece DAHA ÖNCE görülmemiş haberleri döner. İlk çalıştırmada
+    (referans yokken) bildirim spam'i olmasın diye boş liste döner.
+    """
+    base_symbol = pair[:-3] if pair.endswith("TRY") else pair
+    query = f"{base_symbol} kripto"
+    url = f"https://news.google.com/rss/search?q={quote(query)}&hl=tr&gl=TR&ceid=TR:tr"
+
+    resp = requests.get(url, timeout=15)
+    resp.raise_for_status()
+    root = ET.fromstring(resp.content)
+    items = root.findall(".//item")[:NEWS_MAX_ITEMS]
+
+    is_first_run = "seen_news_links" not in pair_state
+    seen_links = set(pair_state.get("seen_news_links", []))
+
+    current_links = []
+    new_articles = []
+    for item in items:
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        if not link:
+            continue
+        current_links.append(link)
+        if not is_first_run and link not in seen_links:
+            new_articles.append((title, link))
+
+    pair_state["seen_news_links"] = current_links
+    return new_articles
 
 
 def load_state() -> dict:
@@ -240,18 +276,29 @@ def main():
         print(f"Parite listesi alınamadı (sonraki denemede tekrar denenecek): {exc}")
         sys.exit(0)
 
-    print(f"{len(pairs)} parite (TL karşılığı coin) taranacak (sıkı filtreli mod).")
+    print(f"{len(pairs)} parite (TL karşılığı coin) taranacak.")
 
     for pair in pairs:
+        pair_state = state.get(pair, {})
+
+        # --- Fiyat verisini bir kere çek, hem strateji hem hacim alarmı için kullan ---
         try:
             candles = get_ohlc_history(pair)
-            result = compute_signal(candles)
+            df = pd.DataFrame(candles)
+            df["ma_short"] = df["close"].rolling(window=MA_SHORT_PERIOD).mean()
+            df["ma_long"] = df["close"].rolling(window=MA_LONG_PERIOD).mean()
+            df["ema_trend"] = df["close"].ewm(span=EMA_TREND_PERIOD, adjust=False).mean()
+            df["rsi"] = _rsi(df["close"], RSI_PERIOD)
+            df["macd_line"], df["macd_signal"] = _macd(df["close"])
+            df["adx"] = _adx(df, ADX_PERIOD)
+            df["volume_ma"] = df["volume"].rolling(window=VOLUME_MA_PERIOD).mean()
         except Exception as exc:
-            print(f"{pair}: hata, atlanıyor -> {exc}")
+            print(f"{pair}: fiyat verisi alınamadı, atlanıyor -> {exc}")
             time.sleep(REQUEST_DELAY_SECONDS)
             continue
 
-        pair_state = state.get(pair, {})
+        # --- 1) STRATEJİ SİNYALİ ---
+        result = compute_strategy_signal(df)
         print(f"{pair}: {result['signal']} | {result['detail']}")
 
         if result["signal"] != "HOLD" and pair_state.get("last_signal") != result["signal"]:
@@ -264,10 +311,42 @@ def main():
                 ),
                 priority="high",
             )
-            print(f"  ✅ Bildirim gönderildi ({pair}).")
+            print(f"  ✅ Strateji bildirimi gönderildi ({pair}).")
             pair_state["last_signal"] = result["signal"]
         elif result["signal"] != "HOLD":
-            print(f"  (Aynı sinyal zaten gönderilmişti: {pair})")
+            print(f"  (Aynı strateji sinyali zaten gönderilmişti: {pair})")
+
+        # --- 2) ANORMAL HACİM ALARMI ("balina vekili") ---
+        is_spike, ratio, price = check_volume_spike(df)
+        if is_spike and not pair_state.get("volume_alert_active", False):
+            send_notification(
+                title=f"🐋 Anormal hacim artışı — {pair}",
+                message=(
+                    f"İşlem hacmi ortalamanın {ratio:.1f} katına çıktı "
+                    f"(olası büyük oyuncu hareketi). Fiyat: {price:,.2f} TL.\n\n"
+                    f"Bu kesin bir sinyal değildir, sadece dikkat çekici bir "
+                    f"anormalliktir."
+                ),
+                priority="high",
+            )
+            print(f"  🐋 Hacim alarmı gönderildi ({pair}, oran={ratio:.1f}).")
+            pair_state["volume_alert_active"] = True
+        elif not is_spike:
+            pair_state["volume_alert_active"] = False
+
+        # --- 3) HABER TAKİBİ ---
+        if NEWS_ENABLED:
+            try:
+                new_articles = check_news(pair, pair_state)
+                for title, link in new_articles:
+                    send_notification(
+                        title=f"📰 Yeni haber — {pair}",
+                        message=f"{title}\n{link}",
+                        priority="default",
+                    )
+                    print(f"  📰 Haber bildirimi gönderildi ({pair}): {title[:60]}")
+            except Exception as exc:
+                print(f"{pair}: haber kontrolü başarısız, atlanıyor -> {exc}")
 
         pair_state["last_checked"] = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
         state[pair] = pair_state
