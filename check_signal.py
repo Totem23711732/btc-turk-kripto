@@ -62,7 +62,7 @@ WHALE_VOLUME_MULTIPLIER = 3.0   # Hacim, ortalamanın kaç katına çıkarsa ala
 
 # --- Haber takibi ---
 NEWS_MAX_ITEMS = 5              # Her taramada en fazla kaç haber kontrol edilsin
-NEWS_ENABLED = True
+NEWS_ENABLED = False           # Haberler kapalı - sadece strateji sinyali + hacim alarmı aktif
 
 # Sadece bu kelimelerden en az birini içeren başlıklar "büyük hareket" ile
 # ilişkili kabul edilip bildirim olarak gönderilir. Sıradan yorum/analiz
