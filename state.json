@@ -2,31 +2,31 @@
   "last_signal": null,
   "last_checked": "2026-08-25 19:13:59 UTC",
   "0GTRY": {
-    "last_checked": "2026-09-03 09:42:23 UTC",
+    "last_checked": "2026-09-03 09:55:43 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44SC14UF9aejhpenF4Uks3WXJRWFV4WVUxd1RwOUw2VW4xVzV3SkxLYmJtc0lrX1lXbTlXVXVvTkpkam1DN2QwMHZneHJUa0owNzU5ZVNRTQ?oc=5",
       "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54YlNlUkRzaVV6a0d6S183UUVZQVF0MlpJdnJWLVhVV2kwSkEzQk5NS1FhYTJIM3JYRnRaT2gxVDhCb0I5MVNvVzNFdXowRUJD?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNmRFOVk0QThxMlJGaE9xaU9wV002cXFkVlE1TGNIZjFGcVhHUTdMM0pEX2tMRzhsbjVTUy1qdkp2NEtGeVVQeDlMd2V1NjEybG1XOTNacEVPVFQtbkFwWHJYdHVXQ2dNOFdsZmg0QzdzR3VN?oc=5",
-      "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fb2h6WTBqNF9YQU5oN3pGM1lsZEVWbGVYdEkzS29mSVpoUjRnZUpPN05NbHpZRVBPSmhjZ0FCTWZtVHBZeVpOazFGX3hwbnFFN0hfSE9jMA?oc=5",
+      "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBIWGpiOGJLcl8xTklqaFhESVNoSFoxSUJIQXRiRWlXZUtlaGgycVNPMlhheGlFWTNtV2tLaThvN0RPdmpUejJ2SnZYTjJkREllQVZ5Ym5kYw?oc=5",
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2ZMSXRZNklTREluZko3QXBnSWtsUmdDekdBN0djQUdXM3FWMkpTeHBlempsV1JSSXpKZ1k2eS1RR21DQlBrcC1INDFfMzBDS3lVTE8za01XeXNWUldlVktUU0t0SzQ4NWNBU1YtdXRWeV9IMWo5Tzg3anQzOFgtdWlwQVlJQmFJZWdHaXJidk5sclNjUTZuZU9iQngxX2l4MDd6c0Zn?oc=5"
     ]
   },
   "2ZTRY": {
-    "last_checked": "2026-09-03 09:42:24 UTC",
+    "last_checked": "2026-09-03 09:55:44 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnIweXNhaTZiNnZxQ2FBRWJteVJYN2JHZ1FmLUozR0pFRUdNRUtXRkRVY0dqQ2pweGo3cVJpTHFQcnpVNUxIajEyNDJCSlZ0UTU0cUwzREd3Zi00eUdJSmI4RFBBelotMEF2akx5MWp3WWZINXdDdUxmMUx4eDQwdTFuMHh3RmlxaVpUMUJMRkZlQQ?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3NMNU16SGxlTGhwamZIS2NoUUtzYjBVSEs5TlgwdGdpNDZsdU5PTzhVWXdVdWVscTRObjY3dXZGcURnVkNTRkREbmN0cTNSVWxxZjhraDNROTBKVVd3WGw1ODNZWDlod2tjU0tVSGpQYnI5T2FkeXF6VzlJcVhzZlB3ZTFULWhNcFZhNjU5djRHZEVTaUxGSHA4N1hFUWZJdE1UNlpCRlNBN08yNF94ZjBsdEE?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGVCSnotMExkd2FuVER5SHo1aVN3bWRfRUg1T3U3b1o0MDRFc0M4bXZXWGJXNk5TYXI2SEVJOVF3RVN0STdwZDBVWnpuNG91Qjg0em16eVkyQk1xaHZxREVSQ2dWRlo0ODFoTHdNUmJXdExVSEZtczRyN3hPVWlMWTQ4SkpXMFh5bkFRTEl3THMxT0lmUk5lUERWc01iVHhUdnNTcG5JemNsdw?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcmRZOHlvaTQwcGN6N2wwMTJlR1llSDRQNkhRUU84T0h3QmtseC1Rc0RjMWx4TnZwVnQyU2hOaFBBblJEWUxQYlBULUlZZGZkZDlfemN2Q1U3S214cXIyQ0RhOXB1bS1Sa1F4UFIxNTRNSFY5TENIZTg3TktNLUt1eWVTZWtaM1ltaVdzaWdVak9TeEpEY1otRng0VWU0aEd3TEcxSk9sOUJWUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVhqamo5Qm5Fbm1yY29zcW5pUDhyZW1GNHd1a2xOTUdKTzAtOWFBQXBBUGVsTTVsb1d0RS1RYjJnU1VLQUdSZGF4ZWxhcG9IQzFLTXVBdklPdkVDV0dSVV9FRGtDa1dGSWZiclJpODAxdXl2TEdJWHZVRFZCcmt5MU14ZHY?oc=5"
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVhqamo5Qm5Fbm1yY29zcW5pUDhyZW1GNHd1a2xOTUdKTzAtOWFBQXBBUGVsTTVsb1d0RS1RYjJnU1VLQUdSZGF4ZWxhcG9IQzFLTXVBdklPdkVDV0dSVV9FRGtDa1dGSWZiclJpODAxdXl2TEdJWHZVRFZCcmt5MU14ZHY?oc=5",
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3l2YnJiMTVpb1VBYV81OWlnMXZ3cmRZLW9rUVRJUXRBX2VHemNwenpteTJRMGdVWURoalJpN0FOMjkxNVplWHRTTnIwcUZrQmpHRWZDM1dUcnBnMC1VSFlLcURiRnZfR2lmQ2ptamxSSXc0XzJkQVgzVmVvYXFjTFJ6OXNja2VpdHJVUTdfME0xdUZ5U0RpRWk0ZGRyRThHdFJUb3FUYXJqZklENTVDaA?oc=5"
     ]
   },
   "AAVETRY": {
-    "last_checked": "2026-09-03 09:42:25 UTC",
+    "last_checked": "2026-09-03 09:55:45 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -38,7 +38,7 @@
     ]
   },
   "ACMTRY": {
-    "last_checked": "2026-09-03 09:42:26 UTC",
+    "last_checked": "2026-09-03 09:55:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -50,7 +50,7 @@
     ]
   },
   "ADATRY": {
-    "last_checked": "2026-09-03 09:42:27 UTC",
+    "last_checked": "2026-09-03 09:55:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -62,19 +62,19 @@
     ]
   },
   "AEROTRY": {
-    "last_checked": "2026-09-03 09:42:28 UTC",
+    "last_checked": "2026-09-03 09:55:48 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjhud29pTEN2d3dzSml4aTF6bVNDQ1hETWhYSzlxV1JjaGl0VFdQLXVGSjBCOEhxajB3N1BZaU4wMnVSdG9sT1B4RncyNnlUS0ktMXRSQ1VYNzFlUERCQm1memdWVjdUWUdXTVFFcWEtdXg4X0NfSVk0RUQ2QVJQZw?oc=5",
       "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFBrZFVYZUJrOGhGQUZONTJUVVNQbWQ4NzBocEFoaEtPNlpBUG5COWdqQ29ha0p4QWZxSlJvdzdXOFppdksxekJuS3Q2cHlpWk9hVEFaQjhLdERYcFdPTzg4Wm5xSnRXMm44T3NuQ3UtRldvQnlUQVgwQmZycGFOTHhYWmY5MFVM?oc=5",
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWlDcDdXSGhYNk1uclFndHF3eWpTcllnYUpHMmFKVE9TcThJbUoybVo0c29yeEpEQ2RSM3lnWmxfOHZrdGl6QnpBVmVHekZjV08wRF9PZ2VDU2VNUDk1SEdrZ3lYM0FDUFFMQzRKd292S3Fub3hkRUZDODlIQ1g0RkVrdGJic0hwbnBFNw?oc=5",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3ZqRC0xTFNud2k4NkV3a3JNajc5dk5nUTBlS2ppZ3loSXpQTGxpakF2dzBmYldjUG9talJUNWl6U2ZRZTNqd0tFSzlnVzJycWhfTDluWFMwNFM4Mms3UUdwYlJZLUR2V093bEN3a3huWnEwUFZNS3BlNnpDQjlTZ0lNWFdfNWNOYlQzUEttS2JrVTVsdHhTNnZqRlRicWlXQlNOR3JqT1FEOFRsM2FLWmlrZnppcjVVTHFfOGtEV05SaUQyUWFv?oc=5",
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmtmSTVXLW52T2FoQXVseVNudjBlYjVJYmN5TTNUNm5rNm5DdTJFU2hpTVZpZXU5NTY5cDA0ZGpSbGY1Z0ExZnhyQXJiM2NMcHlRSEZwMEt4UzBsYlFyaFk1X0tUb3k2MU81VTdrVW5sd1REekJfS25ZUmE0b0lZYXpiZVB6MnNzUDI0NjJqdzVGQlBaYmV1UFl3?oc=5",
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTY1WTZXU2FZeTM3aEV2NWtMZ29rcS13V3BuM3Fsb3lfekc0WFBmRkZQMWNsclBFdXFWakJIY0licTV6YmQxVTJ1akZsVlQ5RXR2T1JyakhDTzV4allhbHAyY2dkRGotb2JTekN2c2QyRkZ3Tmh4UVZHS0tvWEFfTElfeXc3RFQtTWxjT0MyWmpHMHNJSmUwNmJ4WEFIeGM?oc=5"
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTE4waEhtU2NxVlVxWWM1aDRJLU1KMEhrbGxwUWVDRHloMDdva19YSWJ0NWtaYXlZaVZ2WXR1Q2J6RlJnbVhQTzJwajQzd1FUbmFmTHMtSkl2eGFNZW1tam9vRG5feUZySXpFaWNfU29EZW1QWjkzTFZKYUUyVnFVZw?oc=5"
     ]
   },
   "AFCTRY": {
-    "last_checked": "2026-09-03 09:42:29 UTC",
+    "last_checked": "2026-09-03 09:55:49 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -86,7 +86,7 @@
     ]
   },
   "AIOZTRY": {
-    "last_checked": "2026-09-03 09:42:30 UTC",
+    "last_checked": "2026-09-03 09:55:50 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -97,19 +97,19 @@
     ]
   },
   "AIXBTTRY": {
-    "last_checked": "2026-09-03 09:42:31 UTC",
+    "last_checked": "2026-09-03 09:55:51 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeXhsa2xDMWdFQ0c0V0h5U0N5Mks1MUhMVU0xRVpRMzZFWHhOdVpPODJrMlpCdzl3S1c4VTlCeVNjNkh5SXRndV9BcUlNWmdLSFVpVG5GRVU2MktTN0diOGd5bTF6WkFMQ3FPbUlPNjZjX1Rmd3RWLTRfMXNXSFY2RQ?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVjhBOFhUeTRhcEtwZjhQQkZhTjlQNmJaVFRETDRBQ2NhbWN0TlNBLUtDdDUxd295SUZqUzdJNzJPZVdObmFFUllkTnJDam1YUHliVzdoOUY0ZU1iRFRuMGlncE83MW5jUXZfTzlJd0NZZTZTMXYtemFZQ3F1NlVGdDl3LUVqMVRTMVhBS2JIdmUzSk1Oa0tMTUpnVHY5cTA?oc=5",
-      "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kMmwtYWdESEhKMzNZQVNXejhOYjVwRnBlZ1lrS29tWTd3d1lJUzU2QnZFd3ZieFVDTHlRRVBNTmd2cUZPeHl6RlVIekt1X3JhU01ndElJMA?oc=5",
       "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ba1JsX1c0Tlg1aU5RMnZjOFZCdDF2d3A2YkFNLUoyM1hzZjVWZmtpOGRBaEl0ZFYwdE1kSC1qUGk4djk3ZWlHQUxpVUlxeHVRZllLcWlIMkdKVGZYaXJKY3Q3YnV1TEk?oc=5",
+      "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kMmwtYWdESEhKMzNZQVNXejhOYjVwRnBlZ1lrS29tWTd3d1lJUzU2QnZFd3ZieFVDTHlRRVBNTmd2cUZPeHl6RlVIekt1X3JhU01ndElJMA?oc=5",
       "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG1TM0tNX1dCVElLSmRpUWFjODkyNVFoekg5QmFkdVhCVU12eHVuLTBoNm9oUHFfVFItZ01BQnJXZnRabktON0Y5bG9UWW9UenBVYmh3ZUF3dHRkN3JNZGgzTVVwMGoxQU9DdGFBRllxSDRTOENaaFczWUNVQ3Y3QQ?oc=5"
     ]
   },
   "ALGOTRY": {
-    "last_checked": "2026-09-03 09:42:32 UTC",
+    "last_checked": "2026-09-03 09:55:52 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -121,7 +121,7 @@
     ]
   },
   "ALLOTRY": {
-    "last_checked": "2026-09-03 09:42:33 UTC",
+    "last_checked": "2026-09-03 09:55:52 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -133,19 +133,19 @@
     ]
   },
   "AMPTRY": {
-    "last_checked": "2026-09-03 09:42:33 UTC",
+    "last_checked": "2026-09-03 09:55:54 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMickFVX3lxTFBNc2pQSmQ4aDhLeFZvcmpWNjFabEw3X3pQckJrVHFLVi1LRW5DcEZmUnh4MDJSZVBXeWQtS1FlcDZseVdSX2Y5cGI0ajdoWHpSaU5JQnZtZ0s3dnJkbXl0dlpqWmlkdElVcU5tSUVGQWNzZw?oc=5",
-      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWENlLW80azdndjRpcHNrWDdKR1Q4M0dpNGpRSmpEUWh0MlZKQXpOU0xFdVo2cnpMMHRMMDJVSE1fYjV0cEE3dVVTSWQwYnR2dGNXN0V1ckRvSEM1VmE0RmVMMnZOM25MNXgzUUZ2ZHp5TXJaN2pWYkdOZURDUi1ISEh6R2hWbm9KUmtlR1Nkcm1Zc1XSAZMBQVVfeXFMUFhDZS1vNGs3Z3Y0aXBza1g3SkdUODNHaTRqUUpqRFFodDJWSkF6TlNMRXVaNnJ6TDB0TDAyVUhNX2I1dHBBN3VVU0lkMGJ0dnRjVzdFdXJEb0hDNVZhNEZlTDJ2TjNuTDV4M1FGdmR6eU1yWjdqVmJHTmVEQ1ItSEhIekdoVm5vSlJrZUdTZHJtWXNV?oc=5",
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSE1kaUNwWHFTNEppRGhDZU0xV19vZzR2MzNuelViZVNZYUVoMmgybHVQX3ljSGdSeThtaUFSWVJwTlo1UnFOUm9TRjZWNndCX1QxVGNWMXAwWDV2Yk55TDFrQmlSVExJUUlnWTZWRXhkbmJtS1NuNl91YUdZRzMyaHR6ZEdHNGZRU192bFZBTTVLWGFJVmFSOUk5LTFPSEkxR1ZBcEp1MkVJMEJoYUJLVzAwX0V3cDNTQy1haFdJYlEzR1hNNlZseE5NWlNObHZfMHJCeGpNVUpocmpaelVj0gHfAUFVX3lxTFBITWRpQ3BYcVM0SmlEaENlTTFXX29nNHYzM256VWJlU1lhRWgyaDJsdVBfeWNIZ1J5OG1pQVJZUnBOWjVScU5Sb1NGNlY2d0JfVDFUY1YxcDBYNXZiTnlMMWtCaVJUTElRSWdZNlZFeGRuYm1LU242X3VhR1lHMzJodHpkR0c0ZlFTX3ZsVkFNNUtYYUlWYVI5STktMU9ISTFHVkFwSnUyRUkwQmhhQktXMDBfRXdwM1NDLWFoV0liUTNHWE02Vmx4Tk1aU05sdl8wckJ4ak1VSmhyalp6VWM?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFpHVVpTTlNWdXo4bWpIUXIxZXBDaGJGbDRCQXFGcFhXTWFGcWxhcGZhdDEyMFlyMlpFbXM4VFlSTUtYa2ZEakNLYUlValZyOGJfNVZuUjhzLXZwbllOSWpuV3NXdWpZaExINHJTa0VuekNpOGVWQmZZVy1kN053emJuT0RwTkVVZHVGXzJlZWsxdGRNV3JfUzZVRDNUY3A4WEkwYWJQZnlmWVhiRzhxNGYwaWh4RFpTUWfSAboBQVVfeXFMT1RaR1VaU05TVnV6OG1qSFFyMWVwQ2hiRmw0QkFxRnBYV01hRnFsYXBmYXQxMjBZcjJaRW1zOFRZUk1LWGtmRGpDS2FJVWpWcjhiXzVWblI4cy12cG5ZTklqbldzV3VqWWhMSDRyU2tFbnpDaThlVkJmWVctZDdOd3pibk9EcE5FVWR1Rl8yZWVrMXRkTVdyX1M2VUQzVGNwOFhJMGFiUGZ5ZllYYkc4cTRmMGloeERaU1Fn?oc=5",
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV1JYNDF5Sk1sMzU5NW1SN0tKNERxRjEyZ19wRldCY013UElDYmtCVFVhV0ZiZFpkTFk5dlVvUU9vNVNzMWU2LWF0UEloOXRNZTRad3QtRkJ0UVlpenpTVldKajA3TllxVmt6Mk1IMmR6WEZNeVhZSVBxemVqUmVzN09VWmJfQ1AtTUHSAYoBQVVfeXFMTVdSWDQxeUpNbDM1OTVtUjdLSjREcUYxMmdfcEZXQmNNd1BJQ2JrQlRVYVdGYmRaZExZOXZVb1FPbzVTczFlNi1hdFBJaDl0TWU0Wnd0LUZCdFFZaXp6U1ZXSmowN05ZcVZrejJNSDJkelhGTXlYWUlQcXplalJlczdPVVpiX0NQLU1B?oc=5"
+      "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMFFZWlpNYkw1TFhvNDNSR2hRUi1GaXVBNTZjOWZfNjI5SXRvNW94bThlS01uSDNYZ010MjJlVmQ1WWFSU0MwaHVVQWRTQmFGckQzSVgwbW9tUnlmUjczQlkxOTc1anFwOFVzS0Fvdk04V1NVZ0VJOWVtV1kwdmtBT2cySjY3RUdjeWV2aDVjaDhvMVNmUHNoT2F5cTgwQmp3SHU2M1lSeVVGa3piNWpqSWszb1dueGdqZkxrWFQxWW5mdWNNZ0lHeEhZRFdmOFAzSDVaQTNkbDVtZ2N1czEtRVNHNXFmOVpWVzBwSmd6aTg5RUpQZi1QV0hLWHRXRzdI0gGAAkFVX3lxTE0wUVlaWk1iTDVMWG80M1JHaFFSLUZpdUE1NmM5Zl82MjlJdG81b3htOGVLTW5IM1hnTXQyMmVWZDVZYVJTQzBodVVBZFNCYUZyRDNJWDBtb21SeWZSNzNCWTE5NzVqcXA4VXNLQW92TThXU1VnRUk5ZW1XWTB2a0FPZzJKNjdFR2N5ZXZoNWNoOG8xU2ZQc2hPYXlxODBCandIdTYzWVJ5VUZremI1ampJazNvV254Z2pmTGtYVDFZbmZ1Y01nSUd4SFlEV2Y4UDNINVpBM2RsNW1nY3VzMS1FU0c1cWY5WlZXMHBKZ3ppODlFSlBmLVBXSEtYdFdHN0g?oc=5",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0JqdzBTQ29rcWNBbFg1cmFCbHdqQWVNRkw0QWhsNGhGSEQwbjhONXl3bUxNeno3RE94NTA1SWVLaHRUYVdaZ2p1Vmw0ZG9zZlZkdk02TEJxTl9xZU9NejlsTUVpN1pjbFFTVXNkV01MM0wxT3lPRGExRTg4Wlc3T0IxajRVUjI0RmxtUXdTazA4bExOOU4yaFA3cU1FVkZBbWE2bUZDRUxDNklYQzRPdm5BRE3SAbQBQVVfeXFMT3dCancwU0Nva3FjQWxYNXJhQmx3akFlTUZMNEFobDRoRkhEMG44TjV5d21MTXp6N0RPeDUwNUllS2h0VGFXWmdqdVZsNGRvc2ZWZHZNNkxCcU5fcWVPTXo5bE1FaTdaY2xRU1VzZFdNTDNMMU95T0RhMUU4OFpXN09CMWo0VVIyNEZsbVF3U2swOGxMTjlOMmhQN3FNRVZGQW1hNm1GQ0VMQzZJWEM0T3ZuQURN?oc=5",
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjViZjVLOXhWZ3dVNUxHYTloQWV1LXlnUDR3ZF9PaXFVNWprUDFHZ3pyWEwyVXFXWmhYYTRrQk45ZjREbllncTU2Yk5CU1VpdFh1UFhkMm13TnRFempUUm8waHdBWlFkUTU2OTdKUU1DckF1Vl9td0FET1lydzFnc25IZHpjMlkxOU9QYzFaem96VTZsYUI4RXpIYWQxQ2U2NkFEUmJocnIzSG1RZFFhenR3SWhyOV9vX0HSAboBQVVfeXFMTlo1YmY1Szl4Vmd3VTVMR2E5aEFldS15Z1A0d2RfT2lxVTVqa1AxR2d6clhMMlVxV1poWGE0a0JOOWY0RG5ZZ3E1NmJOQlNVaXRYdVBYZDJtd050RXpqVFJvMGh3QVpRZFE1Njk3SlFNQ3JBdVZfbXdBRE9ZcncxZ3NuSGR6YzJZMTlPUGMxWnpvelU2bGFCOEV6SGFkMUNlNjZBRFJiaHJyM0htUWRRYXp0d0locjlfb19B?oc=5"
     ]
   },
   "ANIMETRY": {
-    "last_checked": "2026-09-03 09:42:34 UTC",
+    "last_checked": "2026-09-03 09:55:55 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -157,7 +157,7 @@
     ]
   },
   "ANKRTRY": {
-    "last_checked": "2026-09-03 09:42:35 UTC",
+    "last_checked": "2026-09-03 09:55:55 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -169,7 +169,7 @@
     ]
   },
   "APETRY": {
-    "last_checked": "2026-09-03 09:42:36 UTC",
+    "last_checked": "2026-09-03 09:55:56 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -181,7 +181,7 @@
     ]
   },
   "API3TRY": {
-    "last_checked": "2026-09-03 09:42:37 UTC",
+    "last_checked": "2026-09-03 09:55:57 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -193,7 +193,7 @@
     ]
   },
   "APTTRY": {
-    "last_checked": "2026-09-03 09:42:38 UTC",
+    "last_checked": "2026-09-03 09:55:58 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -205,7 +205,7 @@
     ]
   },
   "ARBTRY": {
-    "last_checked": "2026-09-03 09:42:39 UTC",
+    "last_checked": "2026-09-03 09:55:59 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -217,7 +217,7 @@
     ]
   },
   "ARKMTRY": {
-    "last_checked": "2026-09-03 09:42:40 UTC",
+    "last_checked": "2026-09-03 09:56:00 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -225,11 +225,11 @@
       "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR0h4YzBFZC1JRkkydkRXQS1Ocm0wWk5DWmtydTBXNHBBcEEyeWJJRmVFLXhBMi1pSUI1MWdSWHkzRi1kVjFlX1NVNl9Dek1DN1QwNmwtTWZLMXhNT0hTQlZ4NVlIdW56TEJUV1VzbnNIWU90bHVjNW9wY2VMcnRaZ25jZGFzNUpDTS1KNzEzaHM5SjZBRFlWTzZCaTJyTFpLQ2NIXzZrc1pDeHhtY3QxbUNRLUdnZHBURVdEclk3eVBFc2xBOU0xOXd6UkstSzdhZVc5SGNaS0ltbDktRWQ1UENEdDljVy1ZOTY0b043aw?oc=5",
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91OWJLNm85MGpnSUZKUFl1Y2ZoR3BXNlUtQXV5b1NTQ2ZZN3VycGNSN0oxVnVKV3pKQUxjejlxeDZ4V2FsMWdVY2tCN2ZMellUd2pqQzlPUkw?oc=5",
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcl9qUUdZeHRRWmJTUW0xXzJZVUJ2clZsaFRoNFJQRlktb2ZkOHNLYVFWalBRakxXZE9hZC1mSktDY29aRFJMTlFNeTNSbjY4TnE3RHFubG5hQVNkc3loWmoxbkJ2b2luRlZXTjFmTlVfT2NaQU1BNGlUdEloVEw4MC1tckU4V0N6emRsT1BR?oc=5",
-      "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjZxVHNYLUNGRm5ZTkVEY3B5ZEN6QmdNRU1lS2tJRU04ZEZzT2ZMRmo1Nm85RjZHbUNLWktXVEI3ZGFyTjhBRnVJLUF1Y1NzeS1ES2l5azQ1MXU2b1paWk1Qc21LSVBfUFE5OV85ckZKTkE5UG1zc0ozalJkbkJFV0U0MTJJazd0alNZbnVUMlkzZw?oc=5"
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRExJYkZKX2NCMkhWUlE3M1EyOEJXM18yX3l4LTRxZnA2d1ZTcFgxZHBqcXZHaV9temROaFZKcTJFTDRPcV9NMm1RSTlQUGlPTjZyOEpsMFhnRFFsSEVyZ214NVczbll2M0FhNUx5MA?oc=5"
     ]
   },
   "ARPATRY": {
-    "last_checked": "2026-09-03 09:42:40 UTC",
+    "last_checked": "2026-09-03 09:56:01 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -241,7 +241,7 @@
     ]
   },
   "ARXTRY": {
-    "last_checked": "2026-09-03 09:42:41 UTC",
+    "last_checked": "2026-09-03 09:56:02 UTC",
     "last_signal": "BUY",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -251,7 +251,7 @@
     ]
   },
   "ASRTRY": {
-    "last_checked": "2026-09-03 09:42:42 UTC",
+    "last_checked": "2026-09-03 09:56:03 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -263,7 +263,7 @@
     ]
   },
   "ATHTRY": {
-    "last_checked": "2026-09-03 09:42:43 UTC",
+    "last_checked": "2026-09-03 09:56:03 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -275,7 +275,7 @@
     ]
   },
   "ATMTRY": {
-    "last_checked": "2026-09-03 09:42:44 UTC",
+    "last_checked": "2026-09-03 09:56:04 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -287,7 +287,7 @@
     ]
   },
   "ATOMTRY": {
-    "last_checked": "2026-09-03 09:42:45 UTC",
+    "last_checked": "2026-09-03 09:56:05 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -299,19 +299,19 @@
     ]
   },
   "AUDIOTRY": {
-    "last_checked": "2026-09-03 09:42:46 UTC",
+    "last_checked": "2026-09-03 09:56:06 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1va3BfWWtHVDUxbThma0tYcG5qZE9qbHZUcGx0VEwtd1JZeDZlV3JNNHB5bVRjYmRTX21wQ29MXzl0QUE3VUR2cllobzhzMnRRTW5WaWZEVUI0MFVH?oc=5",
-      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcVpzdTFnSHJNbV9sUmRZZWN3d2xGOWN5eGZUZUdISklzQTR3QjhYSXUxYzVMd2ZzTXhEekh2ZDc4cXpJWnJuY3M4RF92TVZKZlNScVRvcEFsYUtTc1gwTjN3emhpeGZsSHpCSUtKcDM3aEE2dkpyMnhMb3dtNFRTZUwwZGFCZnF5MDNnbFc0MTNtQjV4UkF3Q2tJbHozN3BnYnI3WWxIS3BySVRHVW94M29qeDlTY2hCcmVnX2s0YWhpTHM2YlU4eXlfa0R1ZGlLVjBEZzlrUkpTbTEwTEZHZUVuWFRRckwzaGpWWWJB?oc=5",
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE82czctVXdvMTNIaFVNb2VxNTdLWFQtMG1iX1FIQUQwbnNJMlBNd1FzOTlwLXB5VXRyNjBGbUZuSW95d0tjeDVaM25PcVhpaGRSVUdNUGRRbzE4YnFiMW5EeUFabWNDSkpZZklidmZXN0ZDNHZfUWlxZjFncDU?oc=5",
+      "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQcVpzdTFnSHJNbV9sUmRZZWN3d2xGOWN5eGZUZUdISklzQTR3QjhYSXUxYzVMd2ZzTXhEekh2ZDc4cXpJWnJuY3M4RF92TVZKZlNScVRvcEFsYUtTc1gwTjN3emhpeGZsSHpCSUtKcDM3aEE2dkpyMnhMb3dtNFRTZUwwZGFCZnF5MDNnbFc0MTNtQjV4UkF3Q2tJbHozN3BnYnI3WWxIS3BySVRHVW94M29qeDlTY2hCcmVnX2s0YWhpTHM2YlU4eXlfa0R1ZGlLVjBEZzlrUkpTbTEwTEZHZUVuWFRRckwzaGpWWWJB?oc=5",
       "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnc4MzZTVXVOTXJjUjVzNzdKUFNSZUo0RWlUdF9QNVpYYXlBcHRxWGJOZk9pRG1NdzNteEttOXdRRDBxNXh6VjhaY1oxZGhkZ3FKZzhSM3c2RzlSX0t3dkFWa285c0RBQ0lJaDU4RFVLWXBTX0Q5b0VDYV9hSVZ2bkIwbUdfMG1xNkxOY09JZnZSa0XSAZgBQVVfeXFMTlZ2bFFRSTJPYnB0VU15U3pIZVlqYk1XWV80bWlwZWpmTkFBOEtUM055a2hIWU9rdTFzUUhDTXMtaDgxa25Jb1ZCMUpzWVlabk00QU1SMWZpSUh6Z2RiTzhsUTBNSWdLWjVXWjRkcVhFU3owRTJoa1dtZzZNNC1EeWpvdFBBbG1oT015LThGUnBtRG1qZUFIQ28?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXR0SE5ST3labUhfWkFMekpWdjdEeFdvN2lzTnd5UmN1d2ZCUHozdDdNNWxuUjFtVi1EdVotaE5OanBTaFJKTG1BbUNfUVVKV1RxWjNiNlFQTUxmY2tKYXgyM2RtWWt4ZWttT2xrMC1TWjZ3Vl80bTBkLVBVZ2VJNDExYm1oSTNvM3BUcWRBSENNNEFFMmhoanZ3eEFpZ2c?oc=5"
     ]
   },
   "AVAXTRY": {
-    "last_checked": "2026-09-03 09:42:47 UTC",
+    "last_checked": "2026-09-03 09:56:07 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -323,7 +323,7 @@
     ]
   },
   "AVNTTRY": {
-    "last_checked": "2026-09-03 09:42:48 UTC",
+    "last_checked": "2026-09-03 09:56:08 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -334,7 +334,7 @@
     ]
   },
   "AXLTRY": {
-    "last_checked": "2026-09-03 09:42:49 UTC",
+    "last_checked": "2026-09-03 09:56:09 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -346,7 +346,7 @@
     ]
   },
   "AXSTRY": {
-    "last_checked": "2026-09-03 09:42:50 UTC",
+    "last_checked": "2026-09-03 09:56:10 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -358,7 +358,7 @@
     ]
   },
   "BANDTRY": {
-    "last_checked": "2026-09-03 09:42:50 UTC",
+    "last_checked": "2026-09-03 09:56:11 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -370,7 +370,7 @@
     ]
   },
   "BARDTRY": {
-    "last_checked": "2026-09-03 09:42:51 UTC",
+    "last_checked": "2026-09-03 09:56:12 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -382,7 +382,7 @@
     ]
   },
   "BARTRY": {
-    "last_checked": "2026-09-03 09:42:52 UTC",
+    "last_checked": "2026-09-03 09:56:13 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -394,7 +394,7 @@
     ]
   },
   "BATTRY": {
-    "last_checked": "2026-09-03 09:42:53 UTC",
+    "last_checked": "2026-09-03 09:56:14 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -406,19 +406,19 @@
     ]
   },
   "BEAMTRY": {
-    "last_checked": "2026-09-03 09:42:54 UTC",
+    "last_checked": "2026-09-03 09:56:15 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HanY3bkU1dWpTMlJhaVBrN3QtMmtlTjF1QTlUSUtxd2tNdHFfMVBEOHZMS05zTmhtVkNhcmoyUVYtaGQzeFowdE05M2loa0dDSGtqZzhMdkE?oc=5",
       "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWx0YUtuMTlibU10MG9hR3hJQ21SdnF5UjNpYXEtLTRNempxOF9DM0xIbTMzU1RiMG9IQnhPMFd5emhEak4ydkJWSUszemlvUEQ3RGx2VG5TQlFyM3pzb0V0dU1ERUdtZmxpTXp4ZnItSTBHcno5ZktFM1RUNnBDSjlSRm14QQ?oc=5",
       "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wRjNIOThLOW1UVU1memd5eDlEb3RQWTZxdkV6QnJHbm5WZGZ3SUE0V3RZTEpObm5kVGJFOWZfTmlyZmpzTnlKSElnZFd4bzNLcTFxeF9haW1ZdTN0aWZhcw?oc=5",
-      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Y213S1JGRTVZTHNkM0VSeXFBeGF3QjN0ckNPTWpLT3g4X3dkTDZ1SE1jeHJqYWdSQy0zZDlsMG9Wd3VMMUFFVUszZzYySXd5QUVmWEF3b18?oc=5",
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzVSaGwwVmpkQ25LMjRZZ0dnUHBMVjBjMUxQb19VTThSMWZPaHVRbUFXR2FoV3JVdkhXWDI4OWFxUF9OM3p2WGdydDJBQXNHMVpXTVFGTE9WcC1GTnRnUUxjZGJfYkpqWTA4YjctVGdwQmRyRDhQZ0ZDSlNsbW5xVEE4VnFaQ2w2aThiRW1tZVZzeVJjaFNYb2xwQVpoQlNNUTlGYk9Ubw?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFNzdBci1IQmJfb3JrcmxiV3JsTmRHcDJJMXdVNk85SURlUXNLdG1aVnV2RFc5bVFHNENTaWx5SVdHbTR6aF9KazU5RFkxX3FWWi1KSU1fdkZGUi12aWVlSkVDXzZNdnRhMWdTVnExTHA?oc=5"
     ]
   },
   "BILLTRY": {
-    "last_checked": "2026-09-03 09:42:55 UTC",
+    "last_checked": "2026-09-03 09:56:16 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -431,7 +431,7 @@
   },
   "BIOTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-03 09:42:56 UTC",
+    "last_checked": "2026-09-03 09:56:17 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanlXUGNRN1NwMHhxVTNja2VNSENIZF9may05VzFGUUJDcEs1bXpHdlhjeG1nM1dRTnhadC1JR0hOekw4TW1jLVBROTJadTE2bjlBZVFuZ3NHNjBXdDVJejNuUXVHb0hZdEpxSG0wWjZkUmVFaGtoX3prcDJzZkppVlN3NEt2bXNpclk4MU1XdWZfNjYzVWwwbVBkRk9CbFlaVExrRUo0VUVCQkVPRk1JbVpZcGpPYzdFakhHdllqM0x6UW5vemc?oc=5",
@@ -442,7 +442,7 @@
     ]
   },
   "BLURTRY": {
-    "last_checked": "2026-09-03 09:42:57 UTC",
+    "last_checked": "2026-09-03 09:56:18 UTC",
     "last_signal": "BUY",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -454,7 +454,7 @@
     ]
   },
   "BNTTRY": {
-    "last_checked": "2026-09-03 09:42:58 UTC",
+    "last_checked": "2026-09-03 09:56:18 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -466,7 +466,7 @@
     ]
   },
   "BONKTRY": {
-    "last_checked": "2026-09-03 09:42:59 UTC",
+    "last_checked": "2026-09-03 09:56:19 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -478,7 +478,7 @@
     ]
   },
   "BTCTRY": {
-    "last_checked": "2026-09-03 09:43:00 UTC",
+    "last_checked": "2026-09-03 09:56:20 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -491,7 +491,7 @@
   },
   "CFGTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-03 09:43:01 UTC",
+    "last_checked": "2026-09-03 09:56:21 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IWHc3RXdtSWRBeGl6U0p5eEZlRHlJRnJ3ZThZMFI2UXQwSEVkdHgxam9PUExfQ0ptNmloOXEzcE1iQVIwQkRBYUVvUkRGSlJpc3JhXzNBOFE3NXNHX0E?oc=5",
@@ -502,7 +502,7 @@
     ]
   },
   "CHZTRY": {
-    "last_checked": "2026-09-03 09:43:02 UTC",
+    "last_checked": "2026-09-03 09:56:22 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -514,7 +514,7 @@
     ]
   },
   "CITYTRY": {
-    "last_checked": "2026-09-03 09:43:03 UTC",
+    "last_checked": "2026-09-03 09:56:23 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -526,7 +526,7 @@
     ]
   },
   "COMPTRY": {
-    "last_checked": "2026-09-03 09:43:04 UTC",
+    "last_checked": "2026-09-03 09:56:24 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -538,7 +538,7 @@
     ]
   },
   "CRVTRY": {
-    "last_checked": "2026-09-03 09:43:06 UTC",
+    "last_checked": "2026-09-03 09:56:25 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -550,7 +550,7 @@
     ]
   },
   "CTSITRY": {
-    "last_checked": "2026-09-03 09:43:07 UTC",
+    "last_checked": "2026-09-03 09:56:25 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -562,7 +562,7 @@
     ]
   },
   "CVCTRY": {
-    "last_checked": "2026-09-03 09:43:07 UTC",
+    "last_checked": "2026-09-03 09:56:26 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -574,7 +574,7 @@
     ]
   },
   "DASHTRY": {
-    "last_checked": "2026-09-03 09:43:08 UTC",
+    "last_checked": "2026-09-03 09:56:27 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -586,7 +586,7 @@
     ]
   },
   "DOGETRY": {
-    "last_checked": "2026-09-03 09:43:09 UTC",
+    "last_checked": "2026-09-03 09:56:28 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -598,7 +598,7 @@
     ]
   },
   "DOTTRY": {
-    "last_checked": "2026-09-03 09:43:10 UTC",
+    "last_checked": "2026-09-03 09:56:29 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -610,7 +610,7 @@
     ]
   },
   "EIGENTRY": {
-    "last_checked": "2026-09-03 09:43:11 UTC",
+    "last_checked": "2026-09-03 09:56:30 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -622,7 +622,7 @@
     ]
   },
   "ENATRY": {
-    "last_checked": "2026-09-03 09:43:12 UTC",
+    "last_checked": "2026-09-03 09:56:31 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -634,7 +634,7 @@
     ]
   },
   "ENJTRY": {
-    "last_checked": "2026-09-03 09:43:13 UTC",
+    "last_checked": "2026-09-03 09:56:32 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -646,7 +646,7 @@
     ]
   },
   "ENSTRY": {
-    "last_checked": "2026-09-03 09:43:14 UTC",
+    "last_checked": "2026-09-03 09:56:33 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -658,7 +658,7 @@
     ]
   },
   "EOSTRY": {
-    "last_checked": "2026-09-03 09:43:15 UTC",
+    "last_checked": "2026-09-03 09:56:33 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -670,7 +670,7 @@
     ]
   },
   "ERATRY": {
-    "last_checked": "2026-09-03 09:43:16 UTC",
+    "last_checked": "2026-09-03 09:56:34 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -678,12 +678,12 @@
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZzl3aldzNkhmUFl2bHRKNFA4QUpQRkhKVmFkd0xGYm1yU0l5ZFg0VEp0dEdMUUg5bFkwVW1vV084NVItNWdLSGhOWXNQSV9UVUgwS3p4WjBoTjJaemkwTDd0dkZhOHlCN3lyYUd6ZlJBMHdzblA4TmdSQnRZRmtOVHhHUnJ4cWJyUWFBODcyOVl2dVNhV0ZRck1lbEdNVDU0QWFGZmtkRWNneVphVVUxMGtXTlplSG10QU5rbE5FeWwtU21VazBGVVQwWUQ?oc=5",
       "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTh6RGJPdDFiMXdMOFBKVEdpU0V1blVHenZ6WEZpN1RuNmVkeENVUzZFdnpEb3RBajVyb2FxMVo3aVlYWlA4bkFvUDhvVHVhRmo1cjAwRlJXNDlOekJqWV9lbjhPdFNYeFlJcXhRLW02QkpGQWRXV0hQZTZFektLa19iU2Z6MGoxaTQyRmVsTWZzZ3FBOUdQME11Q3ZIUm9aa1k3Ym94WTFnenJ6LTVDdjJ6SUYzOHNKRENZcjd3?oc=5",
       "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzVoOHh3QXFtWE9PWk9rWTZRSVZLdXo0LXNCX2V1VmNDY09DVTFic280NlZkYWRpQkk1SHNOa2JaSEt5SHNLOHNZd2FYeWRnQThDczBQUnFpcFN6RmpDOW9ybXdZREFVNVNXRklkT3A1cmRwTzBKeGpvX2ZqM0UwRXR4ZHppdFc4eVowWjRvNkpuZWpUYzNTSkYtT2FFM0JqTXpaQm9VcHpuN3VnRC0zQkxYMmc2aFVQbEtQZjJPWENvLUszTFZ5NUZPWG45TzE3NEE?oc=5",
-      "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV05uQnU5WGNFLUJ6NjNQQ3lOZXlSWmJhRUYwX2Ixa19ON0U2OHNBS1BsN3lqWTdkUWJIZmlwQTdKZC1RNUhRdkhPaUdOU0Jta1V5WldBOW9mQWFMMmtpQ2I5Sk5GN1F0WExhMmpXeWRwNEpRdlZTUkNYZFdNZXlrTmtmT3B6eE1aaHJpUzNlaVFJWVVlRTBkdHkwTlNlSEVfS1B0Q2tkOXZvMmVwdnF3bVhNRkU2NzJhMVMxc1oyNA?oc=5"
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1VESUUzcVQ2UkZ2MWVZQzRRMnhrTElocnpVNjJ0RVlEaG81YllXeXBUMC1JeEJnUXY5MUtCQVRKLTBUbUtMbjN2QzRtUVVPTzBHeldtcnlnR3AwdVNTQUFhclU2bVJIWnpKMW5Sb19JSGYwTWZIeVo0WVRnejRqcGwtbWppNnZzUnRwLVZGUWF2T3RlZl9YVUt6MlZIYnY4?oc=5"
     ]
   },
   "ETCTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:43:17 UTC",
+    "last_checked": "2026-09-03 09:56:36 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LOTktNW5xYU1sNVlNQlpBUmVkSmxoS3ZETmpvZEdVYllrZUZlcmdzTjBBeklGTHZuR2xZYlNpZmhnbDRicEpndHJkeHVNQUdqUFFGREZRYUpmeUxHd1FQSUpZNTluSnAwT0E?oc=5",
@@ -694,7 +694,7 @@
     ]
   },
   "ETHFITRY": {
-    "last_checked": "2026-09-03 09:43:18 UTC",
+    "last_checked": "2026-09-03 09:56:45 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -706,19 +706,19 @@
     ]
   },
   "ETHTRY": {
-    "last_checked": "2026-09-03 09:43:19 UTC",
+    "last_checked": "2026-09-03 09:56:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMicEFVX3lxTE50TGthSW1rUm5BbTNyd05zbVRzSzdSU08xZFFzUVRZaXMzSEM0Qmptb01kSVlPcmg0cHNoMG42YmNOeTVpeS1QM1FWYVNSNjFFeXh2RkVxRFhFRjcteVlkN09YelNmVk5takdZejlxeGE?oc=5",
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjZ5OUVEUkZyWV9UVFlyNE5VaFMyUjk1dnNYWlBXV0dCTFVvbEhKY09hcW5qZjBCZUNkM1JlWWFSbWxNMVBTY3d2MTVJSkVRNGVRQlctcU1yNF9yVjVhSXp0ZDlGR19xc2Q0c3N3UXZUUzltNnBNVUFpUU93ejByOFY4NzkzS3FXQ0xCbmI4eGU0VFFxSFpN0gGMAUFVX3lxTE4xb2tTUG5nUTRYY3JIZThiaE9zOC1nSDRZV1NXMmlUWk02UkpEa1BvcWlldm03cnRYY2YyZDQzZWZydFN6SmpUUlBoNzFvZU5nRXRoakIxN0RrcDJ3aFR4VlNKYXlGYlcwWXpWRzg4YWdPbEVQOXFFcFdMclNkUzlpRG9RUHk4SlVQTkxx?oc=5",
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE50TGthSW1rUm5BbTNyd05zbVRzSzdSU08xZFFzUVRZaXMzSEM0Qmptb01kSVlPcmg0cHNoMG42YmNOeTVpeS1QM1FWYVNSNjFFeXh2RkVxRFhFRjcteVlkN09YelNmVk5takdZejlxeGE?oc=5",
       "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFpRSEo0WG44UHI4UmdtTl9HcW02ZjI5T0E2cld5T19MOUE2Xy1iVGhqclRIQ1pjQ1NlSnF0XzFrQjFSN05BOWF3Z3BOMV9LbmhrZzRiY2NUZUlwZVNpU3BZenhIdFk2X1F0RUFocmhWT28yLXk4dFZ3OWp1Y2V2Zmo1UlVjb1d0Z1BxUVZCMzJJREdQUnMxY0lpOGl0di02Y3ZvM0R3UVkxZ3RaWU1VNkZDelNOMzdHZVc5bndoNkQ5UTVUMFlTNDVta1hYT01u?oc=5",
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTFZZHpCcTRoc01QekNPX0hOUUJIRlF0aFdTY0lURTN0VC05cWdTRGFKOTdyYmc1dmZLbXB3ZEx0UjhiQzVETElqcUJCdnJmUDJtaDN2VFFXb1g1RVdmdjhVMG5GS2lkdm80MWRfdV81N0NCa0ExdjVQS0NrQk5rMjVR?oc=5",
       "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcEhmQ1JvY2RsQWRxQ2dNcGc4S1VzelJtbHcyUUt2dTlwX2pvRnZrRlkzaDNFYjJiaTlGV1RxMmR0cUxxdUFEZjM3QjRUU3FNZ1RlLVpSVE8yR1RLVlJ0b2NudEhvaktPMUVfbmtTNmRiNmtnaVhqZDg1MXBUek1DYllaY0xrYlVDbzlaZVo0dVViUzhGY0FCdXJjd3V6MUkwUG5LRlIxbG9rd2FtR1VYZFhFUWMwMkJCRzBTUHE1MkVEOTlkOVdTZlNXbzRLbmNjYkl2SWtpYzNsVm1LbmpyVzNTd2l0Um1tblHSAe8BQVVfeXFMTmZwbXVEbm5YQXRxNV9BWVhmbXpuOUJ2S3h0UXpUTnhJVDdsVnFkODVhZXBuX2hLbFVfdU81bm5SMnF5UXVreXdtd091VkRNZHJyeVRvYkpDY3IyT0pRdl8wQUhZT2E3bEJsdW44WndUQ0RNYjRnZjFzSjdtY19VNmZmV2wtWUpGeDVLQjNSd1FEMHZqSVRPQmVXMFBkWDBSQjc0VUVKNElLYWJEN3lFWkNGZldMY2pxVjBvRWhxaDZoZlRmbXpOVVROclM4a1hIQmhobF9XaXlxcW44ZU9hbUtOc1lPcWEtanFfSFM1WnM?oc=5"
     ]
   },
   "ETHWTRY": {
-    "last_checked": "2026-09-03 09:43:20 UTC",
+    "last_checked": "2026-09-03 09:56:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -728,7 +728,7 @@
     ]
   },
   "FBTRY": {
-    "last_checked": "2026-09-03 09:43:21 UTC",
+    "last_checked": "2026-09-03 09:56:48 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -740,7 +740,7 @@
     ]
   },
   "FETTRY": {
-    "last_checked": "2026-09-03 09:43:22 UTC",
+    "last_checked": "2026-09-03 09:56:49 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -748,11 +748,11 @@
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2M5c2tTM3o4dDNNeXRySGlIcFhvMHhrZTdlV1h2US1sQTBPaHU1X3ptUk1YcWZEWVc4MWRTQVhLM2hNLVZUNHNJaUpHRldUZnZFR3BWdnVQWl95M0RjSWdiNm9hMGdLMkJwWTF2WGFwNy11djcyWmp3T0xaS2pvSHRkazBlbnRORHZVTkVLbEI2akptZzY2UzBHZ3hDSHJ2QmFDMExjcmdHUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qdTNWem5lT1diYk5NaVBqTEJ6aDFiR2ltQjZWWlg4VEp1bW9wR21maldBaE9hR0o1SkVPa0owaFJJNXMtM0wzUTFObm9tbzY3a1JwdXlJQnAtZVl0X21FaUE5Z2E3SXJMQmxoTElkeFJFeVpGXzlVNjZR?oc=5",
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXB0QnU3a2FEamlQOXl6NU8tOXJqUHUwdzgzdDJ0Q3VWZlY0Qzd5Zkt2NGhJMUF2QnN4QzJiajB3VVhDY19oRzRhOTE0Zlk3RThvUlByUVRZU0g5QkRhcHB3WHFvVzFCRk9zTkpJNmFqblZKTURacWJTeWRUcHZZYlBaYWlFdDc5dDIzNk9YQzlQalpLYVhQdGRZWVVpbnFLSGNPRDh1V0xRd1hDa183dHlnZDVISkQ3MnZXUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZThzZkFWRHFSMmpSUzA2ekNhaVAxa0RSMEd4TFlicXVxakJDXzlfNmVJZ05pTjlzMXFQaTBKb3g0dXk1Yk9kX01jdVhBTWwyWDN2VTVONUttbW0yM0ptbjRLMXJtX2U2bUdOLWxJNlVsV3VMd0ZxOEhaNWJGd3ZBbTFUb1NqWTdsZEp4NWpzNkRuSEd3N1NnLWZHZGx3eEkwSFUtTXlTLWQ5b2k5dWFBd1RSckpEWWxCRFRucFVua1lVNklRNlBBbnhMYTRVeG54cFZRaERUek52V0o5ZnJuZzZweS1YcUZTSjlpLUpZWkNPeVRualhwWNIB_gFBVV95cUxNLW5EbzBRVmhnajJHWnF2alJwLU0wdkpna0dQcVZSR3hCS2UyZ2d4T1lLUzZMb1lvaVFvX1NJZ2NYWnVYYmh1U3V3NzVKTU5vUlgtVUJHMHAwSXg0NElYVFZDY0xLbFdOZXNBcUtCa3FOUVZqZWJqUVBMNkdYbV81TlhEdzhYNGRrWnZualFmM25FS0k4cndpZW1sT0loQjM3enB6WWtNR2REa0F5R2N0cEpPTHpmcFFYUzF6d1JBa1FGZWVGc2wxTmE0U0kxNWF0NnVUU1ZGZTVxSDI5Um9uUWRkMDY5U1JoTXJkcFIzQnhDeG5fSlhfcDhLUDI0dw?oc=5"
+      "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CWlN1VTRFc2h1VWNQZGlxQjY1RTdMMmZnTXlpeTNWZFhBQjJkVUVqR2pWdzVUb0lxaDFZQzVlTzI0TnpUR1U5ck9lYw?oc=5"
     ]
   },
   "FIDATRY": {
-    "last_checked": "2026-09-03 09:43:23 UTC",
+    "last_checked": "2026-09-03 09:56:50 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -764,7 +764,7 @@
     ]
   },
   "FILTRY": {
-    "last_checked": "2026-09-03 09:43:23 UTC",
+    "last_checked": "2026-09-03 09:56:51 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -776,7 +776,7 @@
     ]
   },
   "FLOKITRY": {
-    "last_checked": "2026-09-03 09:43:25 UTC",
+    "last_checked": "2026-09-03 09:56:52 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -789,7 +789,7 @@
   },
   "FLOWTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:43:26 UTC",
+    "last_checked": "2026-09-03 09:56:53 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0tpMElJbERFNGxzT3BLekdKaDJPVExUV2JRbzd3X2dTU0lQWDl1U1NJcmhzd1h2NTlUU1dWNEFHcU1QRHZteHp3OEE4QjFOT2tqTGpSRFlTY21MX0g1NzdWM0NsY2tBdVdIclM5ZG5JcHNBQlJCbEVWbVllSnpPZ3U4aGY5aHFFQy1rbmFjWXNRMGlzWUx4RGxrbmlWQmNfTk9XX3d3?oc=5",
@@ -800,7 +800,7 @@
     ]
   },
   "FLRTRY": {
-    "last_checked": "2026-09-03 09:43:27 UTC",
+    "last_checked": "2026-09-03 09:56:54 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -812,19 +812,19 @@
     ]
   },
   "GALATRY": {
-    "last_checked": "2026-09-03 09:43:28 UTC",
+    "last_checked": "2026-09-03 09:56:55 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhbFFCOGFzTmhsQ1oyLWNVcGg1dmF5YXZVWkFqYXpOZ3Z2LTF1OVViUEZ0YUJfVVFJZkpvUUlleTdMMVhsN2JvVjVCd2p0M1lvMTRIRVVWMWhyaE14bmZYc2x1LVNlYnBwNjUtSzJYMUN6cTZ2VVRDTw?oc=5",
-      "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaVNUSU50SEV5UXBCZjFmdHQzSXA1ZldqeUZJel9fWWZEZTYzR0liTS1YeFFlcU96V2NITjJrZFFJdi1qSVZPZUFYNktJS0NScFRBd0lGUmFKSktKWVV2SmFMX1pnQVlzQ2xoUkVWYlg0RkwxeGM0a2dZYXM2X0dIS1NKbmFWVDhPRWN6UTJZLWZndGJiRy1JS0V5QmVVUkJYVDZmOUlfcw?oc=5",
       "https://news.google.com/rss/articles/CBMickFVX3lxTE1UOTZtcE1xUnpPSVJMWW16NHJ4NERnNkVWX1dyN1U1c3F5WXdvUHFVdWVqaDZkZzBqYU5WOUEycXJvaWR2eVpIMDRVcmtZY0lqNEdFTFRFTVdxNVlLVGlna3Vwa2dZZ3huSkxVeHB6M25CZw?oc=5",
-      "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaWxzOHVhbjhHWWg2eUMxOEgyQmlhazh5Q1B4aTdzQkF0eUJCQldyRnRpSExiM2ZSVEtOUFU0U2tJRnl5WVNXSTk5QmloRFROY1FvVVU1OFBGMk5DbktWWTl6Tkt1QUs4MWxiYS1UMV8tY2VLb2tVWFJhc1hSNDZmWFFhS0JXMC1DUXE0N2xJZU1NUFZocGJTU1BHY1YxbGRhTWg4eXlvX1U1Vk50RTdWaFY1LVNxamE2VC12NzQ5SmtVLUxqM1FGTThXcnY?oc=5",
-      "https://news.google.com/rss/articles/CBMikgFBVV95cUxQODBodW4zeVFhbjJfMUQyTVVhTExEU3RCWkp6cEhqd1laZ0xka28wejd0NG1YOWN2SktCUjNyMVkxWmlGZzYzV2VmSm1VblhuZ2JjTWlwQjdRMUNBNjlacjRCV0o0UnVBSlBQY1RCeDE1dVFDSTRxVEFuQUowcUpHQkg4YTVOVEJiRmlmQWxGMU9Hdw?oc=5"
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVd2T0xBWTRnZko4bFZLNHA5U3RySVotOTlTTlh3aW1CQnF3REZjSGZzOE03cE1vUldIS2Y4NllSUWVtbUZPeU9kVkdZNEVVc05qUEcyQmVVZ0N0czd6a1pFa0dHX3gyZXdPTjRBSndQdlhyZXJiTThxLUxMbnRQOUpJMWtoUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUh5WXlBRkJ3bFdmRGdVOEFDZFFpT20zRl90MjhUZkZjOUk2VTV3c1FKbnJRclVNdHI3RlV5VlNuNXpEVEFtOG1hRDhiZ0xWdzB6dHdfUTY4anpjNW9hNE5QLThiRDBkT1J2eDBSbE5wMlBBeklManI5V3RCOU90ZFlUdGdKUXgwOW9ORjdHc3NQVHltZkwyaEtEQUFLS2FJVHRmNFhSTU1qUlFBSFg5ckV2Vjg4c1E?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWRGSGZSeU9xaFJRWUxzUTAtS2h1RzFZc0t4RTJVY0Y1YWxxa18yXy04SmFzUzlGd01ZQmRCZnRjcmJhYjlYT1A3OWZhb3lxa3BGbUpRRDE3VTlaZ1NKQmdZbWFJdEpuZWxGUDN0LUIxamltaUhvclRFSVJ3eTUyczFPMFlBNTNlV1M2Wmc4cGl6VWpTbFpGYzRsQ0JfdUhPTjhWUjlrckRGUQ?oc=5"
     ]
   },
   "GALTRY": {
-    "last_checked": "2026-09-03 09:43:29 UTC",
+    "last_checked": "2026-09-03 09:56:56 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -836,7 +836,7 @@
     ]
   },
   "GLMRTRY": {
-    "last_checked": "2026-09-03 09:43:30 UTC",
+    "last_checked": "2026-09-03 09:56:57 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -848,7 +848,7 @@
     ]
   },
   "GLMTRY": {
-    "last_checked": "2026-09-03 09:43:30 UTC",
+    "last_checked": "2026-09-03 09:56:58 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -860,19 +860,19 @@
     ]
   },
   "GMTTRY": {
-    "last_checked": "2026-09-03 09:43:31 UTC",
+    "last_checked": "2026-09-03 09:56:59 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZ0xRX3lmUURRcXl4SkxkcGlFRlV5dEY2ZGQ5c1Z4M3JXTzJMaWFkSFVWZmppZ3c5dEJUbE9aeklMMjg3UlRrQUhPOE43dm9NbHAwbTJJSEVjMzdBNUFmN0JjRVNJblFwekh4LVl4V1g?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ueXhnSWdqa3ZGV0t1T1FSOE5WZGNQR2VCNFZjN0pZczRKQmxkUWtHYXIyOHd3ZGxsTEE3OVdoUzktZTBvMzI3LVdTUmtadU15THNwRk1xUFp6Z3F2?oc=5",
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCR1pkZ3g1R1FseGVTdkYxUHhCZm00Rnd1SjZENTl2cC02QVY0RmNUYlJGUU42eUxLV1p1LWl4bm85Zm5NTExFb2tGUlZ2QndTTkprRWxrLTF6eDZESUlUUmxJVnB2V1pMb2Q2OWFmaw?oc=5",
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxPME15UXJTZlc1Ui1PV0JTNV9kOUlqNm5HNHVqVGFndVA1eFJTYkRhUWZ5TDF4Q1EzaTdwazU2QzJlRC00QnRzZ2NQLV81bDd2S1I0VGxEdzBndWpzTHg0V3V5T2puRHA2Qkc2bmNhY1pEODdhVnZzTjkteERJTjI0V0t1c2ZOT2JOS2hzOFBQSUN2OWVDX1BncFZBelhvMURzOXNDaVI4RjVBS0ZRTjlUUA?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SbjVxMThLb0xybzlDWXIyQTBVejRJV0lXUU93Y1NoU2ZFMWJ0clBvb1dmTUhhaDJXNVNfckRpbDhDMGFHUXlvQllFRXdxQlJXY1JRTmZQVVZLZ2oxRzlXU0xnXzNYZmcwTUs4emtpNA?oc=5",
-      "https://news.google.com/rss/articles/CBMidkFVX3lxTE43THc4WW5HYVI2M1M2alRmeXpnUGdieEk5d1Q1aDRxX19uTTNFZmg4aUR1Nnh0YlJYdGM4NHZkeTMzUXdza3FWSVJYNG1OQjA3d3hqdTNOVWRINjJKMkRRenVBY2ZfbWtHM3lOek1XSU5fbUZoZ1E?oc=5",
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GV21ULWpVQkprZU40MzRDN1oyWTRjdVVaSXVwbkoxdWN0dGxPUXV5MEhJNVcyUUktNE5ackJaZHZ5dlZienhPYzNNWGtsbTRrOXhnNFJkLVJzZ3RGcDNNX2FUVUZCT3hzZ3pkSU91VQ?oc=5"
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE43THc4WW5HYVI2M1M2alRmeXpnUGdieEk5d1Q1aDRxX19uTTNFZmg4aUR1Nnh0YlJYdGM4NHZkeTMzUXdza3FWSVJYNG1OQjA3d3hqdTNOVWRINjJKMkRRenVBY2ZfbWtHM3lOek1XSU5fbUZoZ1E?oc=5"
     ]
   },
   "GRAMTRY": {
-    "last_checked": "2026-09-03 09:43:32 UTC",
+    "last_checked": "2026-09-03 09:56:59 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -884,7 +884,7 @@
     ]
   },
   "GRTTRY": {
-    "last_checked": "2026-09-03 09:43:33 UTC",
+    "last_checked": "2026-09-03 09:57:00 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -896,32 +896,32 @@
     ]
   },
   "GRVTTRY": {
-    "last_checked": "2026-09-03 09:43:34 UTC",
+    "last_checked": "2026-09-03 09:57:01 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11cHNESEFtUzZHRUpYQm0zejhhYTdFNVB1aEszaHFJOWFjYkphelJsUk85ajA4QmxpN2pIdlhWWlBzVDVSRG9EZ2lvUzVxcjg?oc=5",
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SQmxpNWFRamJUSURPSThKeTVxeFRoMFV3VGxRZ00tT1NIYlNaN1Z6LUJRSTdmdEc3UnBXaU1Wa19KZ2tKR0hkMmJGc3loUmtUZzRQNmFKSUh6X0ZCTHZqQ1Fiaw?oc=5",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOakRPdGgtNmd1ckcxZElfLWgxRGF1c2M4dlNVSTZmckp2T3ZQZThFUmVlVkFqbGMxajREZzg4U09Yb3p4OTBRWlRGSi1VS2pOXy1YVGxMTVJGdWwwQy11RnNRdWYtWmxoT0FVRWxCWi1aNGQ3czBzcXF0aWJWYjU1ejZic0xMODFTUUY4Wkltd2V6cUI2d3FjcWVDT1RjNkFNZktmTUU5QXVFbkc1LVhjLTIyODlwQkE?oc=5",
-      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eUVFb3NkVXE5Zmd3ZkwzVGRMQzNTemhobkVnLUJ1ZnVLOXFZdzhyb0ZzTFd0Zng5LXZBOXNrYUZjV0dhcTNUY3hQT1EyZ0MyY3g5YldPc2J4VHhBd0FR?oc=5",
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZV9vejFrODJWUG02TzRRNkxXdnZnUjhndlU4cDVwYmtTQXJuc28wUTlhbU15M2xCMU5Ja2JyeVJFTUV6Zjh1RG5yVnl3SE1yN1NxeENiM0ZQQ1RfbTFfcHAyV2d4T3ZBNVlQeDdiMUJsd0M0Q3dORjNRUFd3ZUtpcC1CNEdOV1pEcXc?oc=5"
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZV9vejFrODJWUG02TzRRNkxXdnZnUjhndlU4cDVwYmtTQXJuc28wUTlhbU15M2xCMU5Ja2JyeVJFTUV6Zjh1RG5yVnl3SE1yN1NxeENiM0ZQQ1RfbTFfcHAyV2d4T3ZBNVlQeDdiMUJsd0M0Q3dORjNRUFd3ZUtpcC1CNEdOV1pEcXc?oc=5",
+      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eUVFb3NkVXE5Zmd3ZkwzVGRMQzNTemhobkVnLUJ1ZnVLOXFZdzhyb0ZzTFd0Zng5LXZBOXNrYUZjV0dhcTNUY3hQT1EyZ0MyY3g5YldPc2J4VHhBd0FR?oc=5"
     ]
   },
   "HBARTRY": {
-    "last_checked": "2026-09-03 09:43:35 UTC",
+    "last_checked": "2026-09-03 09:57:02 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTE90V0llbnFlTlhBTm1WeXdXVTZXSFZYdjJrV01jZTJ1emRtaVJQUlNjZERoZ2hBaGp0XzVzRUdzRWVFOWVHYWpWdy1ScTJrYnFLWE9qOENBX0tLQzNsTWNHUUdNVV9RYmhIQ2FSc2gxYw?oc=5",
+      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WaW96WVZMQXJ6VHNvVUdSbkVsdzVNOHRlTndtcUViVWJBYzRvZ1FpVkFEX1FtclE1enNpdm1MeFk3ZXNhUUhINFJLWWwxc0dLSjRPOWZaZXJJTXl1WEUwX3BLdWFheE9E?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVjhVX1ppb3h5S1RuOEJrUWhIZFl4LVg0ZWZhaWtYenVVaVZGMUtEMXk3b2RzMkhUdk9zTTY4SzNmamtnT0lCVGk1dF8xNktYNUVYYWxTUVhqdFJDQndabjc1a0N1eUk5UTlnR1dBNF9kellSRWNnb3ZqUmpIZU9KTHhMRHo4c044VEhlV2lrTlYwUUkxZEFQWmpGd0NiQUJabklFcVplMVpmdFNDcnhz?oc=5",
       "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1Q5aWU2UUFoRXBUV3BxREQzSXY1bEZzaDNzTlY1Mlp1YlJwS3NFaTJVSUN5R1Vid0ZjZXRwaG9Dd2hUX1FyTXVEX3hqVW5oQVRNaVBYc093dXhzckg5VEtuMThzRmZ5eUU0eFU2bTdRcnlta25WMEV4a0JYYmJVUmhYUVl6ZjRQcXpqT2ZmWlJraDh1U0NKaTdINGVaT3NPTVE?oc=5",
-      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0ZCWVVxMFdSc1UwZ0tIeDZpTlFqQkhNa0Q2MXRGbW9iTGg3R0g4bjFGelBhdUtNbktUckU4TVdTRVdxUy1lVkJSN1NUVDZWQS12c1ZtY0tybHBGRnZrWEc1YUJOMmZIcDFxVXlnc1lUaGpCM29iXzlSd2xxY0IyUzZtXzhSZG1Z?oc=5",
-      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WaW96WVZMQXJ6VHNvVUdSbkVsdzVNOHRlTndtcUViVWJBYzRvZ1FpVkFEX1FtclE1enNpdm1MeFk3ZXNhUUhINFJLWWwxc0dLSjRPOWZaZXJJTXl1WEUwX3BLdWFheE9E?oc=5"
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWmZFb0VjV1JFbWtjbDEwV3JPek15RjNHTXhYZjNVSUIwZnhZbi10aElMaTV4aDhvMkhIYmJwRk5xZXVuUlE1X0E1MTJUY3g1dF9XbWVfTVZSUmdvYWktNlpWS2dOUjRIcERKelRnbFRaS1VTajJ6NTZGT1haenRpMQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByM0tKMW9kdG1lSE9fdnppY1d0WmNzZk9BMF82U1I5a1hkU2VlcXZjRnB4c3lKU3phZ2VyMmxLYTBOLU5wSkdPZUtnOU5oM3RERlVBUU84bjNRYWJzRzFXWE10bURrMnFq?oc=5"
     ]
   },
   "HNTTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-03 09:43:36 UTC",
+    "last_checked": "2026-09-03 09:57:03 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtZ3YxeHdwTzNGazE4N19nM1pZZTdUS194SHpsY3c3UXVwVkN3WEJ5bS1jRHl6dVJfUjR3aVVTTzZKQmVqUFlvdG03MkdNOVk1QS1lMzdLSnpLTngteG5OTWFTNDFzd25PUW1vYXYwQ0xCOU1JZl9FUS1R?oc=5",
@@ -932,7 +932,7 @@
     ]
   },
   "HOTTRY": {
-    "last_checked": "2026-09-03 09:43:37 UTC",
+    "last_checked": "2026-09-03 09:57:04 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -944,19 +944,19 @@
     ]
   },
   "HTRY": {
-    "last_checked": "2026-09-03 09:43:38 UTC",
+    "last_checked": "2026-09-03 09:57:05 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iYi1lam1rSC1EQ0RoT2VSMTZCenFWUTYwakZaeUlVYW8zRXRDVmhtS1pQMzNOWXlzUk1pbGFtRzBjSXpUTUdrYmQ1Wk9ZLUlXNVlsaUc3bWlwVFlEczZCaFlCSTNwZ0U?oc=5",
       "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84SUU3bi1LWWNqVzdHbzBMdFNVMHJIY1d4Ry0zS3JpRXR0MkhnWXVIeFU5VUdGSS1PeHBQb1U5R3JzWHp5czJVZ201Q1E2TTB1WjJWaXlsMXFpY2FmQWc?oc=5",
       "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDQ5b3BzQTVPWUxJQmJ1WVpveXFWVkU3cU8wdl9xNlR4TmE2Z1RtbjJ1QWhXNVNpZDU4Uk1fZGlLVWJ4SzBwUi1mbVFqWmVSZFBWTHdmX3FwaTMxRUxLOUV0UzBPaU9qVTVoUlBnME51cXl4ZUE0azctMmN0MDZYaHo0bjlBMUV2VEs4OERfdURubklJdWUzc2FPLUh3T0VLRjBJVHRybkc2XzJjX3puWDZaZlM2Si1laDI2VmhEWDc?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeEltLTNJcjJfeUVkNEVuZk80dUFRbWlsZmw5UmtySVNnR1FUMnBncUpFbnFqN3VaUEstdFMzN3Q0VkRONHZRUF9CbVVxb0xHeVNHUkNLeVFDSWVvSFdfN2F5Ul9SUkY3akVsUUNibEVPMEVfOXJwOWlFLUNyRUN3clVNZ1E0RndwVW55bmR0RjhXOTViaXJMU1RTdHFpZThnc3BldHhibTVtZXpsRGs2NlM1ZHdPS0trdG15R1QzQjNnNW9QQlE?oc=5",
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTSkFrOUc0dXF6allLU1dPU1dHaTBjRjNMeEhEYnJ1R25HWElrRXJZdVNmakZ2bG5sd1ZJLVNOM3RhczNzenFSM2Z0VzJXaE1LOWE4X09BTVFHZE1jcVNyNm44YjEwYklKMDdNTmVBMA?oc=5",
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTY3MS1td0ZIcjd0RlNNMEg4TFpIencwS2dvUEJXTDQ0QW5CQkprNldjX0JacmVMYVRHLTJROGNpc2h5RzEtXzhJR3RDMmo5ZEFkUnd1RHc4MlNYYVA0amFPdklhUDZJNFFzV0tBenRIQmJjMGRuNGtNc0ljU3daTExzakFuLWVub2x6OTlLQTVxaEdmdHZtQzN0d011QQ?oc=5"
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTSkFrOUc0dXF6allLU1dPU1dHaTBjRjNMeEhEYnJ1R25HWElrRXJZdVNmakZ2bG5sd1ZJLVNOM3RhczNzenFSM2Z0VzJXaE1LOWE4X09BTVFHZE1jcVNyNm44YjEwYklKMDdNTmVBMA?oc=5"
     ]
   },
   "HYPETRY": {
-    "last_checked": "2026-09-03 09:43:39 UTC",
+    "last_checked": "2026-09-03 09:57:06 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -968,19 +968,19 @@
     ]
   },
   "IMXTRY": {
-    "last_checked": "2026-09-03 09:43:40 UTC",
+    "last_checked": "2026-09-03 09:57:07 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zQm04T3R4WnpJVGkzRFBvSUtYRjc5dzJGUFl4bVBWTVNnV3AwZmZIaE9WZW5YZGx0Tk8wUjI0Z01JdXo1akpyU201TTlHTGNHaGxUXy1DaWZ0bnJqTjk4?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BNR1F1OVJQOVFRQlp3OW94NjJrM0dmdG01WEtuakFIYnFUTVhQSlg1Wm1UeXBkbHlyRVM0OTd4NnZ1Tm1FUVhsaEZtamhtVkFDbk1OdEdfdHpQZDdiRl9LMFNURGFyQTF5QjRGR2xBSjFwMlZNaEFzT0xhZUNZS2I1cFhMcm9pemdxVGpSZ3UyY1JXUlhOUk5Yb1laYndHQmVPZXRvZw?oc=5",
-      "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TdmZDQWdwRG5RbkM3YWN0ZjlaWkVocnU2UnJrU1lfcVRIaWNVNGozRGJIeEt1MnpCNkEwc3AyUmNKRUFTYl9ham9hcjVNMWVKRUlrTi1JSXhEcE5mZXEtLXNzU0VvMEFFWlRr?oc=5",
-      "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNkdzMlo5RTB3dXJvN1ZXMVVwelZyZms0WlFSZkxFdVVpdU5wTnozMjlJbVpRUHdua09PRlBDMzVwUzdvU3A5RkhMY09xWEhmYll1TnVtOWxGWlUzbkQ3OVp1QklZTFMtWnc?oc=5",
-      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZENFcjNiZFJwNXVSR2h6MW1jM1BWU1RNallETmRQRHhZRi1IQmFkcVdvQ3N6VnJpZllVbFdVSDdQYjVObnJhUU4zd3dibFRoc3dCT081eW1QZw?oc=5"
+      "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0OHJaQ25qMlJCMTJxbnFieDdLNG1zWHlRRkl3d0J3c1p0eHZQdTY2b3VxVzdVVDlnWERZQlV2b0t0bWtTcDdVdWF6NzZWWm44OGI4YVJ3LU9ndmVLVjZfOTR6eGhpdw?oc=5",
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XMXpVRm91cUQ4RHZPR3RTM2ZqQWpjTmZ6c0dPbHBiUUJKRU5ONnJmb0c1M0h1ckQzQnIxaE1XUWtrc2lVNm9XOXk0ODNGa3E1M0VhNHFIZm5RWEJXa2VJZGhn?oc=5",
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdzUydm1HQ3Q4d3owVkpYQkJacDdQaFNlSGFnbHliVHYwYkxncFdWdFFIUW84MVR4Mk11N2RBeUtLdl9ORFpCZDZiVHd6SWVIaFc5YkttT2FDOGN4VG9XQUwwUlFkcklsV2c?oc=5"
     ]
   },
   "INJTRY": {
-    "last_checked": "2026-09-03 09:43:41 UTC",
+    "last_checked": "2026-09-03 09:57:08 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -992,7 +992,7 @@
     ]
   },
   "INTERTRY": {
-    "last_checked": "2026-09-03 09:43:42 UTC",
+    "last_checked": "2026-09-03 09:57:09 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1004,7 +1004,7 @@
     ]
   },
   "IOTRY": {
-    "last_checked": "2026-09-03 09:43:43 UTC",
+    "last_checked": "2026-09-03 09:57:10 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1016,7 +1016,7 @@
     ]
   },
   "JASMYTRY": {
-    "last_checked": "2026-09-03 09:43:44 UTC",
+    "last_checked": "2026-09-03 09:57:11 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1028,7 +1028,7 @@
     ]
   },
   "JTOTRY": {
-    "last_checked": "2026-09-03 09:43:44 UTC",
+    "last_checked": "2026-09-03 09:57:12 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1040,7 +1040,7 @@
     ]
   },
   "JUPTRY": {
-    "last_checked": "2026-09-03 09:43:45 UTC",
+    "last_checked": "2026-09-03 09:57:13 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -1052,7 +1052,7 @@
     ]
   },
   "JUVTRY": {
-    "last_checked": "2026-09-03 09:43:46 UTC",
+    "last_checked": "2026-09-03 09:57:14 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1064,7 +1064,7 @@
     ]
   },
   "KAITOTRY": {
-    "last_checked": "2026-09-03 09:43:48 UTC",
+    "last_checked": "2026-09-03 09:57:15 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1076,7 +1076,7 @@
     ]
   },
   "KAVATRY": {
-    "last_checked": "2026-09-03 09:43:48 UTC",
+    "last_checked": "2026-09-03 09:57:16 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1088,19 +1088,19 @@
     ]
   },
   "KITETRY": {
-    "last_checked": "2026-09-03 09:43:49 UTC",
+    "last_checked": "2026-09-03 09:57:17 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUUNYS3BhUXpna2RjZXhzS2VpMXNzZGpWck50RDlERE5YZ1lfLXkyNnpQVDU5WHRNMmhpR3VicThuTldMdjVyb0U1LTlwbmZHMzJWYTlZQWJidnpwN09oUTBNUktad3BMX25rOVF3OWsyZnlCY0lJN29kYkM3TUFhcW1DV01GYlhCZzlyY20xaU1IZUl1?oc=5",
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE51eEpxRWpiQU5rUDlKUGlTaGRnMVROaUUtNk95bUhENUk3TU9haElyQmJ0bWZvLUpzQWVqTnhJdnlveWdneVNvb1UtWXJjTkdHendNeVJ4bWt3dThYWXRaZi1nVy02RWRGWnV2aEN3RWZhb0ZSQ19iUXR3?oc=5",
       "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZnFvdER4UHNoaUg5SGxCZWJfRlpjVUhrSFNKVjMtN0k4RTJlUnN1R3N1al9GU3VLOUNLdm5lZjdTV1dLQ2JWbGRITzNQcXM?oc=5",
       "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TTDRLRmZINnk4dzYxMTVVbGVCcEJ2U1o3MV9OQkM3YmktWHRaUDlJRXJEN181djJmdUNweWljQmZGcm1WajZWcDRPQk4wLVhDeVl3?oc=5",
-      "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jYnl1MWs5Rm9FVFhRSk0yOXdfNlRPNk5nWV9SNkVJVFBpMzFLMlo1V1lQazFCejREdmFHQzlBR1VXZjdMYmJoX3hMZFJIMWpnQ3NUdHBxdUhVcHN5c3hHb05peFRuYzFoSm8zWmdOdXR0Q3FiVEE?oc=5",
-      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT25zVWtqNkhyQ1Y3MHVwWDBCNHZKQTlDaFkzUjhwR05PT3pPdlV6R0RTeFBXNkl6S29WTFJjc0c5ZXowRlU1M0VjWTJlbGpwMFM2OUdKWVhzRmxXUXR4Z1pCRVhsMmRQMXNnY2dETnlBMDZvSzU2a1lXcDZiUGU3Tk92ZWNfNzdsZUx2emhldy1ad3dUdExNczlwTDVwbk5QanQtcnE0SWY?oc=5"
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jYnl1MWs5Rm9FVFhRSk0yOXdfNlRPNk5nWV9SNkVJVFBpMzFLMlo1V1lQazFCejREdmFHQzlBR1VXZjdMYmJoX3hMZFJIMWpnQ3NUdHBxdUhVcHN5c3hHb05peFRuYzFoSm8zWmdOdXR0Q3FiVEE?oc=5"
     ]
   },
   "KSMTRY": {
-    "last_checked": "2026-09-03 09:43:50 UTC",
+    "last_checked": "2026-09-03 09:57:18 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1112,7 +1112,7 @@
     ]
   },
   "LAYERTRY": {
-    "last_checked": "2026-09-03 09:43:51 UTC",
+    "last_checked": "2026-09-03 09:57:19 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1125,7 +1125,7 @@
   },
   "LDOTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:43:52 UTC",
+    "last_checked": "2026-09-03 09:57:20 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalFoVUhCTHBZb3VZbW1UV1BLTTV1VFpBWVNRRm9wWUVJM3pwcHNGeEpZbjZLZjQ2YVdLaDBRS0xSN1ZDNFZob1psVXI1Y2VWYnBxdHdSX3BiTTNXMzAwNzRPM2R1VEJyT1VLS0ktZE9id0Q4VlRuUWdSTEY5dHhTUXRia1VGeU1OMnJZSDVXc1BZd3VxNkxQNlBSTmp6OC1SeFVRNU5wdlk1SExmV25tYVlvVTJGRTk5?oc=5",
@@ -1136,7 +1136,7 @@
     ]
   },
   "LINEATRY": {
-    "last_checked": "2026-09-03 09:43:53 UTC",
+    "last_checked": "2026-09-03 09:57:21 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1148,19 +1148,19 @@
     ]
   },
   "LINKTRY": {
-    "last_checked": "2026-09-03 09:43:54 UTC",
+    "last_checked": "2026-09-03 09:57:22 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZ0xRX3lmUURRcXl4SkxkcGlFRlV5dEY2ZGQ5c1Z4M3JXTzJMaWFkSFVWZmppZ3c5dEJUbE9aeklMMjg3UlRrQUhPOE43dm9NbHAwbTJJSEVjMzdBNUFmN0JjRVNJblFwekh4LVl4V1g?oc=5",
-      "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3pzZ3dDRnhHUEQyZTNZSHlpaE4yZVNrYnlleUh6eTlhMURNWTNfNXlDeWs1NUphbzJ5TlQtQVdleG1HanlWVC1zX05pMDdjT1dCNFZWR0dkZHlWbmdHYXc0ZGZCNmJmY3QxVjNjV3loNUVYRGtyWENXc1NJVjZzNjYwRXpSNjV6Ymk3WnlBWTNxcUZWakhtT2x0elBJVV8xSDBNZdIBqgFBVV95cUxQVFpJU0hEOEhSb09HQnFlbVQzdTVCTEFjMjJ0VDNZemMzdXpEUUNoNmIxYmM3enE0Q3dNTWo5RTRzMzRnb0FDd3RTMVN2Zk5hM19sMUVzelpWZzUyNVV0LU9LTlNxRWpmai1haVNJeHFHaDhlbGJ6eGxrQkFiQklyd3ltUnN5QXk4eFVpNlgtNjlrOV9XM1k2QUlNdEdQd0ZKYkV3RXdxZmlpUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNl9YWWFJWnlZLXBXVzZZbkUybXVPZWc3YVpjVXJVbXRUQU96RnZLdVQxU0w4NjVWSXloNjJCYmJzYnFvazhCYXVJYkFvUEU2bUxhQlZhekRpMnZIbE1GR3NSd2JpZUM3YTk4OGU2UWVmTUhxRFFZUVktT29YZ2dlNzZrOFVYM0ZDcXRUMQ?oc=5",
       "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUFPR19xN0xpTGRtYUkteUpNSGFpS05QTVR0OFAzTWZjeG5wcVRuQVR3LU9qbGRXeWpYWGVqSXAwbDFaNmphaFVySFFnUVE5ZU1HZy1aLWpPZ2N2bExqYUZjejFpOXFtM0RtR2t3OFAzYTQ2OHMxREJqT05RU2FzZGxsNi1OcWRfb0VZ0gGQAUFVX3lxTFBTN3BCeDh1Z2dtc2NWUG9PY3ZINUl3bWZKcmFxaGRQYk5OTEl5MUE5WWM5TGxLeXdmVXZKc3BWVFc0N3ZRa2tqeUcwVEw3U0Z1UkZycFhuOHRCOGk4c0ZibVJjbXJ6QTM3ZHJuRVgwaVRKbm9pNnpzamJ2cmhlYVpWa3B2eXY3RVpQWVJseEZyTA?oc=5",
-      "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHc0eGN4UmxuY1BHSlBtWkZtRldPQzR2QUxVTDBhamxRdUdYUXFlaHlWYXI4WEE4aWp5bFBGLUh4S0JkcUdVMGFGY1Z5SVNXM0lqaWs1THFleFVKc2lDZDlJNjk0ODQzcXBXeHdBUUs1TUxOVjhrZThKMjM2bnphZ2o2TXJBMEk?oc=5"
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3Q3ZU13VlpZQ2FHQ1JBdWFSOUh3TENjNU40Y0lGWjVXMlJySElZVHhtdWdtdGVLYzNNeFNMMkk0VDJHZWFBSm1iYmdPUGhRUEJNRC14S3JkM0RUYzFXeHA1SGVpMHpINEgtWUlTOGxhLXVTWVVPcGRLOXdWYlRhaGhueUdtemxUREh5emFKbEkwaWVPNVhUNzhOanhnREZ4WTRpVHZkNTVTekxuUGFoMEs2emdEbXctQjAxS2l1NlAyM3hrYzFqdDI2SlBvTTFlTUxYUV9FOUU?oc=5",
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmNlWWxBSXhBLUlTZFNZQ3RCSWI4VXRCQjc3YmVKV2h0YkNaUl9PYTFTQVNmaUhyV01nZnE1WklnUkJjeWc0THh1YVF2UUhPS1hRZFVXVzZ0V0RHbW9jU3hPVWNzYzdhUW9ndHNPYUlNdk5PcWY5ZGJWVklHV001OHNqa2pRNExmbzFlcnIwOU1pdTA?oc=5",
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3pzZ3dDRnhHUEQyZTNZSHlpaE4yZVNrYnlleUh6eTlhMURNWTNfNXlDeWs1NUphbzJ5TlQtQVdleG1HanlWVC1zX05pMDdjT1dCNFZWR0dkZHlWbmdHYXc0ZGZCNmJmY3QxVjNjV3loNUVYRGtyWENXc1NJVjZzNjYwRXpSNjV6Ymk3WnlBWTNxcUZWakhtT2x0elBJVV8xSDBNZdIBqgFBVV95cUxQVFpJU0hEOEhSb09HQnFlbVQzdTVCTEFjMjJ0VDNZemMzdXpEUUNoNmIxYmM3enE0Q3dNTWo5RTRzMzRnb0FDd3RTMVN2Zk5hM19sMUVzelpWZzUyNVV0LU9LTlNxRWpmai1haVNJeHFHaDhlbGJ6eGxrQkFiQklyd3ltUnN5QXk4eFVpNlgtNjlrOV9XM1k2QUlNdEdQd0ZKYkV3RXdxZmlpUQ?oc=5"
     ]
   },
   "LITTRY": {
-    "last_checked": "2026-09-03 09:43:55 UTC",
+    "last_checked": "2026-09-03 09:57:23 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1172,7 +1172,7 @@
     ]
   },
   "LPTTRY": {
-    "last_checked": "2026-09-03 09:43:56 UTC",
+    "last_checked": "2026-09-03 09:57:24 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1184,7 +1184,7 @@
     ]
   },
   "LRCTRY": {
-    "last_checked": "2026-09-03 09:43:57 UTC",
+    "last_checked": "2026-09-03 09:57:25 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1196,7 +1196,7 @@
     ]
   },
   "LTCTRY": {
-    "last_checked": "2026-09-03 09:43:58 UTC",
+    "last_checked": "2026-09-03 09:57:26 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1208,7 +1208,7 @@
     ]
   },
   "LUNATRY": {
-    "last_checked": "2026-09-03 09:43:59 UTC",
+    "last_checked": "2026-09-03 09:57:27 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1221,30 +1221,30 @@
   },
   "MAGICTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:44:00 UTC",
+    "last_checked": "2026-09-03 09:57:28 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56cnNxUERScUdXQUdXVjZIa2dYQVRCNHZ5cm1Ka3Q5MTVERmFpVmJTMGphUVE5OVRtMDlhMWdKeFJnblRpZVhxVUpic3BTczVpWUE4ZlF5UQ?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMElYNjFFal9KcENmZ2MwVkxld19Nelp1bkFIWDVOcWZhT1hvT2lvZi1hUG9YWUhtcnVYcXphaGRJRkhRdFIzQ1pETjd6TzZxOWVzQmRDTjVfR1BnMTljeTVyblNJYmg3eEFZVEhIeXRQRE5nOHFlNVRwY0toNElKMko3UUphVy1JcEJxbXppajRITzJGMzRMSW4xbVVlYlp2Rm5BQTlWRQ?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWxJeG13Q3RWclctYXVybGpxSmdJZTdyR0tabl92QW9OZ2ZkWFRxR1dsR3pvbkloc3VYNnE2T2VrUEQzSm1ZMG9aM0ZOdldYUlloRHdabFg2VEpnUWxTbEZqRkVwdng1YjF0MDVwa25abVdZdWVZYWtPbHdlQk03ZGo5MjN3Y05rMnpxaVlnSlVmcklqam5pUjI0YXZhc1HSAZQBQVVfeXFMTkc1aXVVVVVhdGI2eHA4SmhOZ2F2THJGMERUYl9uOGI3OU93d0dGUUJhLW1WdjZoZ1ZNVEF5ejQxcno1OFVLMzMzeFllZncwX2d6ZE9ncVFaUGRoOUJGZFVBMlU1TTc0MGMwUmhHa0pqTWVJQmgtMEMzMWFIV25UanI4M2VQU0luemlSV0xlRnlFeTBPSg?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0VqWDFYY1htOHBTaFY4ajBYZTJ0ZnkwWmJRZGtUX3JObDVNS1dDb3lVanBpbTU5YWtBTWNyY1hZcE1taXRxaW5mdktwVjV2b2xVNnV6cldTN3pvYWIwNVlwLVVHVTF0YXNpeVJXWl9VUjVUX0pjUnV5dU55c280Zzd1SUlzU1RlV0NjT01ZRndKX3Jpc1Q3WG5uaVJua3BGa29acUE3V3FRdw?oc=5",
-      "https://news.google.com/rss/articles/CBMiekFVX3lxTE9veEU0UURKUWwyMC1iSGZ2TGJ2b28yN0JOU2c3b2x3a05BLWFjWElOa2R5dEtnMTdBWjRvSU50MHMwRGprQlJnMHd6Nmwxc2tJM1lfWWhPTG5hLWZ1STZTME9CaVhjZzBWd1RPRHl4ZWdVNktEZFZfZ3BB?oc=5"
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE14dzBuS3Nuc2NfWWVBS2Q4WWx3M2tHcl9rUzJjeXFoY29xN01kdnVQdzBIVlprX01JeFJvLUZkWG5fa2tDWXc3anBkNHdyb0RTLU5Hd21tTXdobGQ5eVRoV2FXaks1REUyRjBKZFVmRkNDQngtNm94aGgyUk3SAYIBQVVfeXFMTXAwMnhCejNOaDU2LXNnZzYydHROQ1l1cXhfTDdVOGlpNWZYck1QMndaT2FNcWdZaHVLOXVmdU5IUUNFRnhrQ1dFVnBYQVNvSVdfZ3JmNnA0T1ZqN29XdWhHSVdKd1o2bF85UzJNV01UY094cDltQldlM1pGM1NMUVUtUQ?oc=5"
     ]
   },
   "MANATRY": {
-    "last_checked": "2026-09-03 09:44:01 UTC",
+    "last_checked": "2026-09-03 09:57:29 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CUU1hMTllLVlWMXc3eF94UUp0REhPVnhDUElNMEpTbGx6RldabUNPdXBmZk8zaEgwYVY4bHF6aDk3MnJQeEhYTVJkV1NjOWlTczc3TmZxbllWRDZ4c0ZFLUM2bE8wcnRyWjloa1NPTQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1telA0LW1ybFdsTTdzYkVJRW9lVkhZNTZYRU5XUUNOU2p1dVZiWVJCT1NSNjAxUVBEY1RYSVVEdVozUXhBTWY3dUtDMGxySlBIbXhzZm5FcWFaTWVfb2c?oc=5",
-      "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14QVdlVVUwVTVLYk9PaWZ2Z1pDNXBmUElYRXdZZzZ0eGIzR0FRQnhNUFZVNEVnRUJfb1hKNG1HVzl0TGEtZDVYQ0c3QXBOVDh2N3ZtRGl6OXduVEI1d1p2OUZoU2oxZkJJ?oc=5",
-      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ210QmJZdEVuME1MTzhOSTJiN2hfNmUxMTBqQVJVY2hlT0F5elcyaGFsMzlVNGcxUndlNHBMX3RxU1dlelEyLXNacGVQYktxTVhDZXVabTVtQkpZRGkxRTlLYlZBN3c4UUhsU0NJWmY3Vmx4TkgtRUZWZ2h0dGFsYWZ4ZFA5czlsdWNOZw?oc=5",
-      "https://news.google.com/rss/articles/CBMibEFVX3lxTE9COXJmaUxzNUg2MlNlUjlCR2ZnZHU3N0lGNUR6WVNkTFhyV09xbDhFUW8xYzBGWUlKYmp2UEJud2RQeXZwMkZtTVlsZmpMbUNWeUpCbHlDV3JSNDZBUVRtd1lFNnRDMGNha2c3QQ?oc=5"
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CQUphUUF1al90cDNMTkNrb0hvTmxXcmtWM01HMXJrbS1zOE8yS1J4UlN0M0JkY25rV0N3UnJ3OVBtcHVLYnpLa1ExXzRWczFQS2IzOTV6QWk?oc=5",
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlZxeDU4dVNIcUYzUjVSalllanJrS2t1R1BieDF3SGN6NmtmWGJmQVRidTFfemVsRFQwQjhsaXFORFdUeFQteVJ0UTY5bThISjFjTks2S05NUUpwb2xFVlR2d0E5bjhQS2VqZzZBeUp4UVJ3WkYtOE1DalVJcWZVRTZHZ24wMFA5eXNfakRneWVEYWNfR1RWM2ZaVjVOQzNPWmlaZU1aeDFlNmR3ejJ2ZDE4NFlaTG5POC1NS1VLZ1UtZElxRlF3cjFsVkY?oc=5",
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BVEplRHp2RXJVVWZ1UXFzTUt0LUkxZ01vMjAyckhXTEVfUXc1M01VT3YzSjZGS3FXNEJGUVJkZHB6Wm4zQkxROFZHakE1ME1ZVHNxdUFoSHgwNW9V?oc=5",
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVlHVFRfOEh5eGx0X1gzd3BWcmJ0ZnI4Q0pFWlhKLTFqRnpFeENhVjVwcS1BNVUxeFZPTUxpcnVCbTZTNWgxNTU3X1duX2xWZ2psbFhwTEFlMUl1dW5PQkU5cVdmcWRmSkFlc09xRGRhQVN3MW1XVVRrYldicjZxekwzNlRkZDhFN2fSAZIBQVVfeXFMTXBqOWdyMng1VmwxcHdTRFRqR2k5TzlaMUxIaHQ4SldvRFVJa0MwMUg2MFRrdy1PQmZnald0QXQ4Ti00SThjODdVZ25SWmV0QlpqcXFHd1NBVHN2VFBHX0tMNS1uYVdocnozd0prQTZZRUpXQm40VEZBYUpBcjBHOGZza2xRcmtUcE5xdDdIZlZudWc?oc=5",
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CUU1hMTllLVlWMXc3eF94UUp0REhPVnhDUElNMEpTbGx6RldabUNPdXBmZk8zaEgwYVY4bHF6aDk3MnJQeEhYTVJkV1NjOWlTczc3TmZxbllWRDZ4c0ZFLUM2bE8wcnRyWjloa1NPTQ?oc=5"
     ]
   },
   "MANTRATRY": {
-    "last_checked": "2026-09-03 09:44:02 UTC",
+    "last_checked": "2026-09-03 09:57:30 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1256,7 +1256,7 @@
     ]
   },
   "MASKTRY": {
-    "last_checked": "2026-09-03 09:44:03 UTC",
+    "last_checked": "2026-09-03 09:57:31 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1268,7 +1268,7 @@
     ]
   },
   "MELANIATRY": {
-    "last_checked": "2026-09-03 09:44:04 UTC",
+    "last_checked": "2026-09-03 09:57:32 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1280,7 +1280,7 @@
     ]
   },
   "MEMETRY": {
-    "last_checked": "2026-09-03 09:44:05 UTC",
+    "last_checked": "2026-09-03 09:57:33 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1292,7 +1292,7 @@
     ]
   },
   "METRY": {
-    "last_checked": "2026-09-03 09:44:06 UTC",
+    "last_checked": "2026-09-03 09:57:34 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1304,19 +1304,19 @@
     ]
   },
   "METTRY": {
-    "last_checked": "2026-09-03 09:44:07 UTC",
+    "last_checked": "2026-09-03 09:57:35 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vUmQ4Z2hDbG1Ubml1Q1lRbFFEUm15czlPN2dWVDQzaGZYWUVwcTlSNVRCak92VEd2elZJRGFiUDU4Z1BRQnNVUHpaVlAxUkNwX2xqME9TUlZBU2tFWm5zaURaRQ?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9XUWxhUFByejF6S3MxRS10cXNVNE4xY2hzQ01la0Utald2OGl0bkU1aGJmT2JyR2ZwV0dUeGh2T3lzTnNqN0R5dFZqb0dob1ZNSXpBSVhQLW1UNnB0V3U5cnYtWU1paVpkY2RBSjhYNWpxLVJ0aXczYXdZaDFkOHlSUFlvRlFJbDdkQmxyLWJXZlhHQzlOaXBpWFpneEZlZ0J3YnM0OHdma2ZHejNpZk5ZQy1RUTducFJ1YzdXTWNOSkZ0dFZUZ2ZNNkk?oc=5",
-      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHhMdzVYaElfZkc4TjhZSU9SclAyUlVyeTQtdE9MWlRvUW0zMTluTjJHWllYRHVIem40Q2Y0NG9yT0o0OVhGV0ZMdlhRSi1nemd1M1gyb2dBUlRkNHQzb1V3QUVVNTlHc0xUSVAzbjRBa05sWGo2SE9HVk9JeGd0cklqeUw4RlNISmUwWlNudTBqVHVFNXpWamNkTkNXdWxSY2k0VlpsSlVmZzlDSTN4djVCTQ?oc=5",
-      "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdEp6RzYyTjg5aDJabjJlTEZFeVl5Sk5DdHJyMDA2dnlNTU5SbUhjMDQ4MkI4Q3hmRmdDU0ZHeGxPdHVSaXVZbGk2bmNxNk8wdnJrdWd1T0R2Y1FoTFNFTk5jYlpuM3dmcHNSNzI2QTJfVzRkTUVqRXJXdmR5YVo5emhmZXlDWmxBV2hWYW8zTm9FdHdGSUJObDRR?oc=5",
-      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkhaNmtTUjdBZHFGdVdZZkFhRkV3eXNpZUR4c1hSNThiSmZBWklMN29ic1VGeFFUNGhpdFh2dVNKbzFWQWZHNXdYd0Y2ekk1Sm9PSFFEVEFyb1E5czFUQnlBUTVWN0pJelExSHR2Zk41N2NTdUc3M0UtZUNvQ25hbjhlQWhEVGxFWTdPaFozOUdld04yUGQ40gGcAUFVX3lxTE56ZFNSQjBKYzV3RV9nYU5FVk9wLWU0TjBHUm5GemZYX1RESlA3d2wxM1dHQ1FhMWZLeXRrcC1zN2htdkdmOER1aG1NR3A2Mlg0ZWFyWHNEb3dqaHgtN0xPVHJmMDk0LVhzVjNqR0lHQlR2ZDhBVkUtUDVkQWVsSEFOWkljNl9DQjBJejlYVUx4ci1UTHdRWjJYY2tORw?oc=5"
+      "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42Z1pvVkoxUkhXQ2FBUm1haXJFcXBNTHhTVGdjb1BnZ1NIMUstMGp2ZmpPeVZfaXFBV3M4c0gyeDZpbmNTWi1kSk5hNGY4M0NYTHRLd2YyQmNkT2RCX1lZ?oc=5",
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOODRTdmd0RVlHTmtzbHRpcG1FTXAzNXFJQzB1c3JwS2lCel8zcms4cVl6NmlTUUVqM0hZVERhTTZScGEzczFyMHNheTZJRGFFTjl1SnEycWN5V2dIQzBWcF9nZW9qUmdxclVJMTIyeHFqU2k4Y3ZvVlk3aFg3bVFnZ3NNUnNUNXpHMDRhZFJfME1TN3pWNFVXUHpqbEZoaUkwRTZ3aS1FeHY4cnBoVEhsRWNVb2M0cWE4ZHpaSVV5SVpqSEJfWFVVTGJ3TGc?oc=5",
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOElQUHJzMW1SZ0luMFFwOHdObDN6eTh1NWc1bTdQMUlReEdGeG5yZkg1OE1DeklGSmtkS1RBVGlrb2pHOWRlbkloVnZ2ZWU1RTh0MDd3eGVYcTdYWGFEbU53aDYxdGxQaTVpZGZfOXN5czNlWnZHdEljRDllTEl0cXVxOVN4ak5UQWFDTFp1MDFyanlwSnZ6X2E3aUo3SUdpLUQ1RWxadjNfVlFFazJxaFlVNkvSAboBQVVfeXFMUG92cjFVTm4yUkc4WkRXMVNncHI2RlNUYXpuMDhPMnlfekxaSmVMV1d3QU1kUzZBMFRWWXpkdGlWLVFLTjNSdXVpZ0pKbkgtYjZDdWJVRGxMRENRNS1uSloxUGpQRy1kQlZmcnN2TkgzYmxtc211SVZuY2duY3Q4dHlldHIzN0Q3Z21zM2E0VmZoVm10WUxobDBGcTVkcW4ta0V3cE9USVMzaHNmWVpSallWTWFfdjRQaHB3?oc=5",
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZThKTWdHdGFrZTAwUV9jb01SajdVTnhwRE1fUVprNmMzQnl5TkJGR2Jubk1nM2ZWOTcwZEpoT2hxM0RaaUp1SjRRcHRJTkZpQTFfemdfY0Q1cE92OGI5WWgwcEgtMnhXMUVLNUk5dnlOSFFxUk1ZTjRYZHRrSWJ3NUNtQmRzZkR1NnNaUE1WMC1zRmVXcERRaWNaRlczcEhl0gGmAUFVX3lxTFBXem12Xy13RS04Z1JTSW1CTV9scndPRU44N3ZjQXl1dHoySF9lTFg5NExldU01NVNwdS1hNi1SMTNaeTdkS1VjWkRKVzVXNkh4dEJ4NDJrcHpxYmEtck9ZSkFraFExTnoxSEZXcWVaeE91YnlpNk1zSlF2ZmtzNEhUZm0tY3A2RlZWT3YyWTZZWG93Uk1qaFBWRE5nbnd1SnFOREZLblE?oc=5"
     ]
   },
   "MIRATRY": {
-    "last_checked": "2026-09-03 09:44:08 UTC",
+    "last_checked": "2026-09-03 09:57:36 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1328,7 +1328,7 @@
     ]
   },
   "MNTTRY": {
-    "last_checked": "2026-09-03 09:44:09 UTC",
+    "last_checked": "2026-09-03 09:57:37 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1340,7 +1340,7 @@
     ]
   },
   "MONTRY": {
-    "last_checked": "2026-09-03 09:44:10 UTC",
+    "last_checked": "2026-09-03 09:57:38 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1352,7 +1352,7 @@
     ]
   },
   "MORPHOTRY": {
-    "last_checked": "2026-09-03 09:44:11 UTC",
+    "last_checked": "2026-09-03 09:57:38 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1364,19 +1364,19 @@
     ]
   },
   "MOVETRY": {
-    "last_checked": "2026-09-03 09:44:12 UTC",
+    "last_checked": "2026-09-03 09:57:39 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUZOaDdyQTA3Q3J5UG5rcERaenMwVm9SdHJDT1p0VDYyODE4Z04ySjJoNlRTd0w0SkdLTVRNYk55VFQ4NmNYYmdVTFZBNWQ2MG1uYUF4QmFmVkxISWdNYXlNWWN6eXZVSHRZeUdQV3M2S0IyVWVfem02VlhEQmdEcnZIMFdfSGp0UjJrS21ZN3Rmem90SG9PSDA2RkxaOTdNcTg4?oc=5",
       "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS1Jhc2NOQmZtNnI3N1V0Y0l4blZQdFdnNWFwQTA1OEhlek1uQjJ3QUtoUWZWWWZ5OS1TLUxjLVFfdEdZMk10T2JCSXBDSVoxdTItZ0sySVpBTEZPTHczWE9FN0ZiY1NrRXNYcktTM1c0M1ZYekpVdFViWnd4SXdXUDlycE00TEQ3RFgyZ1J2ZzlDYnVGYkJxVEdWcHBpaEJYVXBpMXdqZGs?oc=5",
-      "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaW5HNzRZZkU0NUFlQTBqZURwSERyaWV3M2dCRDNRRWRPdFZEQXpUVTJOaVJuNFR6d3pHbF9rdmw4MFVwTWUxcWxsU2JhRDJOR2ZfTnNKVkl2cEgzQUowenVFMGlvUlhqRy0xUWN6S0F4T1RLVkpLb2cwM1pFVTBYOWItZG40bVpVbUMtWVZvNHRHNkFOX3FQOEZsM0xXeUhoWXgtbDVkTlp0M0pRaXdlajBBcWdlTDBEeTQ2RmNPenVlMWFnQ3FIR3BZenFwd2tTa0J0a3UzNy1ZVFJxMWxnbG9jTVloRUp5TERJZDNXOVk2ZFdwZ0E?oc=5",
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2VwdWQtbXhBYUxScFVsUXRHOG9kQ1Q4Z1kwS0tWdEhwenhZejgyMGRGVXVpMlZCeUxodnY4RjN1dHJrZ1dpSWUtUGF1NjJFajdDN08zMWgtOGVFVHJIZ0RMWkpkUGl4ZFh4LU5fcGtDQUgwRFl0bWRHWUF1ekFTM1YzT0NUcW9yekg5SlVENTRKcmplMUZxR2kxRV83U3JuYnBqY0FxWkZiLW5aNE5pN2lUbDVQLWV3?oc=5",
-      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0VqWDFYY1htOHBTaFY4ajBYZTJ0ZnkwWmJRZGtUX3JObDVNS1dDb3lVanBpbTU5YWtBTWNyY1hZcE1taXRxaW5mdktwVjV2b2xVNnV6cldTN3pvYWIwNVlwLVVHVTF0YXNpeVJXWl9VUjVUX0pjUnV5dU55c280Zzd1SUlzU1RlV0NjT01ZRndKX3Jpc1Q3WG5uaVJua3BGa29acUE3V3FRdw?oc=5"
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0VqWDFYY1htOHBTaFY4ajBYZTJ0ZnkwWmJRZGtUX3JObDVNS1dDb3lVanBpbTU5YWtBTWNyY1hZcE1taXRxaW5mdktwVjV2b2xVNnV6cldTN3pvYWIwNVlwLVVHVTF0YXNpeVJXWl9VUjVUX0pjUnV5dU55c280Zzd1SUlzU1RlV0NjT01ZRndKX3Jpc1Q3WG5uaVJua3BGa29acUE3V3FRdw?oc=5",
+      "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NGJYWVFBeHhJV2ZSVDRIeDFiblliSVlVRU5mZ0tUN2QwRFBUcV96OERJbldrLTJVbmZFUi1IZHRRQTdzc094RVdIOG9lUmNNNnRrcHlyaU92ZW5vWHFWd01tcUNsTlQxOHdyUQ?oc=5"
     ]
   },
   "NAPTRY": {
-    "last_checked": "2026-09-03 09:44:13 UTC",
+    "last_checked": "2026-09-03 09:57:40 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -1387,7 +1387,7 @@
     ]
   },
   "NEARTRY": {
-    "last_checked": "2026-09-03 09:44:14 UTC",
+    "last_checked": "2026-09-03 09:57:41 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1395,23 +1395,23 @@
       "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55VzAwd0N0OGpPRWJ6X1ZuSGduR2FlMy1lSGoyY1dLVUl4NVFjTVJuSWlKQzlsUjgzMlYzUjcxLTB6R0JOam9aVFNVem5Jd04tbDkwag?oc=5",
       "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTVBaVFWVktTd3IyRTRrRkQ5UEZ2VjJkUFJSa0FHNkdkQktIOURRLUNzN1huWkR1cldid3l2TnM5M3lIRHlmTWk4SzUxMzUxdHJMOGRBTUFReGM0UmVScl9yZWZuSEplWWFKczRHQkd5MEt5RzVBY2tuUjA1XzlXeGgzU1kyWU5xVWlGLTZZYnhKYldlYjhXMHFlaEVZR2piUmVuQ0dSM2dKZ1pZR3cyX29WbkZ0R0lYZ085MDlybDNtcnpTQUR1Y3R1cnBfeGs?oc=5",
       "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHJDUU5RQndlajFTRnRVX1c1Tm1SN0Z2dXUyQ2NRelZoajVaVDNIT3RPc054X0hTODZhRi02cmZ6OUh5eUN6bzBRYnJhb3l1RmxaT0psVHJ0WW16OTVycVpXR1NLaE5nekRIWGtHMDRscjRlMzYxajJral8tRTROTWRyUDBnMXFuNW5LT0FZdUExS01SNXpyTWdRSzdTdFlNeXfSAZcBQVVfeXFMTWxibk5mb0JZc2tQYmNaNXpqcjFZSF9KcG9HOGktNTlPRDQxdm9WeHhCejkxS3BfMXZTWWt4ZmNKZnEzeDFDX3lOQmpHS2pwS0p2eHNPNlRDLWxKU293NlBVZkR2YVhudC1rUnZTdTBXWUl1UWJ2TDhJOEluUEc0cUNIUlV0bk5mWlQyaVMxZ0FlelFDTzRyUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXB0QnU3a2FEamlQOXl6NU8tOXJqUHUwdzgzdDJ0Q3VWZlY0Qzd5Zkt2NGhJMUF2QnN4QzJiajB3VVhDY19oRzRhOTE0Zlk3RThvUlByUVRZU0g5QkRhcHB3WHFvVzFCRk9zTkpJNmFqblZKTURacWJTeWRUcHZZYlBaYWlFdDc5dDIzNk9YQzlQalpLYVhQdGRZWVVpbnFLSGNPRDh1V0xRd1hDa183dHlnZDVISkQ3MnZXUQ?oc=5"
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3BLdzN4UkJzMGJpVzJkOWVIRnZSaC00SGJXSllyVHk3QkJKUUZGeFFMcFpPUWV5RUVITzRKS2pBMmd2VlJTb2NkTTd1cUg1UzkzdDhKeEl0Z3N6aTQzeTdhdnROcHRyWXJOWnVkNkRXTVdDN0JaWjBQWlRqWTdrRnBSRl8wdXRN?oc=5"
     ]
   },
   "NEOTRY": {
-    "last_checked": "2026-09-03 09:44:15 UTC",
+    "last_checked": "2026-09-03 09:57:42 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ybWZMV2FydlMxM1JoYlRjYk9tTE1vUDkzekpVc0NEbWZGV2gtSmRheGhyTFV5UnlMOWplMEV1UDVpV1JxOW1wVm5sWUNjV29ReFY0VVpCd1Y?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc2ZJZlRfMXpNeTh2b0F6ZVp5eXBuNmN4MlFyZHlrSlFiT3NGeGFmYjd1UVJ3dkpCVXJMbW4xb2RDYl9MQTRVX21vWTZzc0pxWXh3YmhvaUJWX3pqS2RYT0RjVmdWQTZvUHN4Y3Y5SzNRb3p5?oc=5",
-      "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFNQMFZRaEVVVi1oYi1venJTSWpLS09DSXB5S1huMnlWWDN2TlI3SnpBMklfV1V5NXM2N0hDV1dUTEtWd0lWVTRuUHdBaVFTVnN6TjJwNFFDRWVaaVB4SkR4RzVCclI2M3BnTXV6S1VBRTZCTy1Rd1ZkSGt1TWtVTDA0Yjc2RXFwU0swcFlhaERXZw?oc=5",
-      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVBfUHlfUWJqUV8zNTdxeUJyV2ZnaXdrYkQzR0RQOXFHY2RJREFhWUxub2xYNWRYVWVuX0NUMXZwclFkVlVqYXBWT2dmcEVOdXIzWFpaM05XZEdSS1UxX0tNSk0yM01qVjJqY0lHZ1g3Tnk4QjJDMlBaLXpnZjBFUEg1TFdhOElIa2h2eGpIOWJaT1Z6SVFqSnJnR3NCZnFsUDZDQ1l2eUNFaFIxa1B2UFA2dGpydmxVS1FOVzI4X3ZjZkJQamo4?oc=5",
-      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUNWSWQ1QUlJMnY4RVlGcUF4VkEyOTV1SFcxeHhzeGpQaThqUDEwTTRYd1k1bG55UHcxWUtpMHBqc1FncEZjNTdRYXBuUU9Qcks2X3I5Uk02aWhSZnhFYzJieWpjVXVrVXVsdTdfVWVMS1BldTZrN1pIS2dqT1AtNXM3a01ZLWNoX2RUc0diaE5MamI4amFpQW9Hbjg4NExpOWo2R2lmMngtU2lFOGtvbHhXRllzYjNpdV9FcHhCaEtXZFkwcVE?oc=5"
+      "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjX1RPTWYxNmdCSndJcnZuN3k4SW85YWFpMzhSNHg3eC1XTDN4UTE3dkFCV2JsSEpVejhyNnROdUJJWEpYWFFJQXBfbU8wQ0pMRF9pdkhUOGxWZURGTlE?oc=5",
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUNWSWQ1QUlJMnY4RVlGcUF4VkEyOTV1SFcxeHhzeGpQaThqUDEwTTRYd1k1bG55UHcxWUtpMHBqc1FncEZjNTdRYXBuUU9Qcks2X3I5Uk02aWhSZnhFYzJieWpjVXVrVXVsdTdfVWVMS1BldTZrN1pIS2dqT1AtNXM3a01ZLWNoX2RUc0diaE5MamI4amFpQW9Hbjg4NExpOWo2R2lmMngtU2lFOGtvbHhXRllzYjNpdV9FcHhCaEtXZFkwcVE?oc=5",
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVBfUHlfUWJqUV8zNTdxeUJyV2ZnaXdrYkQzR0RQOXFHY2RJREFhWUxub2xYNWRYVWVuX0NUMXZwclFkVlVqYXBWT2dmcEVOdXIzWFpaM05XZEdSS1UxX0tNSk0yM01qVjJqY0lHZ1g3Tnk4QjJDMlBaLXpnZjBFUEg1TFdhOElIa2h2eGpIOWJaT1Z6SVFqSnJnR3NCZnFsUDZDQ1l2eUNFaFIxa1B2UFA2dGpydmxVS1FOVzI4X3ZjZkJQamo4?oc=5"
     ]
   },
   "NMRTRY": {
-    "last_checked": "2026-09-03 09:44:16 UTC",
+    "last_checked": "2026-09-03 09:57:43 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1423,7 +1423,7 @@
     ]
   },
   "OGNTRY": {
-    "last_checked": "2026-09-03 09:44:17 UTC",
+    "last_checked": "2026-09-03 09:57:44 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1435,7 +1435,7 @@
     ]
   },
   "OMGTRY": {
-    "last_checked": "2026-09-03 09:44:17 UTC",
+    "last_checked": "2026-09-03 09:57:45 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1447,7 +1447,7 @@
     ]
   },
   "ONDOTRY": {
-    "last_checked": "2026-09-03 09:44:18 UTC",
+    "last_checked": "2026-09-03 09:57:46 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1459,7 +1459,7 @@
     ]
   },
   "OPTRY": {
-    "last_checked": "2026-09-03 09:44:19 UTC",
+    "last_checked": "2026-09-03 09:57:47 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1471,7 +1471,7 @@
     ]
   },
   "ORCATRY": {
-    "last_checked": "2026-09-03 09:44:20 UTC",
+    "last_checked": "2026-09-03 09:57:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1484,8 +1484,8 @@
   },
   "PAXGTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:44:21 UTC",
-    "volume_alert_active": false,
+    "last_checked": "2026-09-03 09:57:49 UTC",
+    "volume_alert_active": true,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzYySjZhQ09Ud2h6NzNNQTdxOTZpQng0RFNHM3Flc2N2MDJmSDRjeGJVNGt1dUhfeWRwWE1fLUN0ZEVhbndqMThWZ1UtUFJBc0U1ZGRzRzg2eVNaOWdNcDlzckN5UUluN2lJODlVSEp0VFFwT29oclllcEpacDhJODltR0xjOFIwMHAwakJ0djFScVZSUWF0N0VSMk1CNWt5MVlZZUJoNG5jMDBCS2VFZy11Nk0wZTdqX2FzaFJR?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWJBSUNadkViMm9PcUt1NEo4enZSMWRReDdDak93dlhLSkZsOFNDVWpXSE1XR2h0a1oyeFlTNzh3ODI2RUtwWmtwdXVsTVhtcFlmTl9ESXN5R0RDQnpsMVAzTHJFSkRDVjJtT01vdXBRMWx0ZUpISEpXN0dpVlkyNjhiQmZBbm00Q0RKRGh6MWV0bksxUE4teDRxaWJ6ZU1FZFpEd0w4dW14N0NzVzlr?oc=5",
@@ -1495,19 +1495,19 @@
     ]
   },
   "PENGUTRY": {
-    "last_checked": "2026-09-03 09:44:22 UTC",
+    "last_checked": "2026-09-03 09:57:49 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW9LaXllazMtTTlBUC1ibEpZVnY4dW1UQlIzMWpJSnM2LTJBdFZDUWpOMExBSDlMVDF3QXN6TWwxcVVMN1JKWHN6Qi1WNmhZYmJFUEpZMzFDV0pYeTk4SkpTaUMxejQtQngteUU5dHVJVHBYMWJPSW16djhza0RDOFlIbXYzNVF1NXVTSUtuUE5rZDN1bTR6WWZCcE13dUhkWHBTX0tTTEo?oc=5",
       "https://news.google.com/rss/articles/CBMingFBVV95cUxOTDNzTmpyRWJ1Z3lKMEJyYXgyV2NQMVZKbUVZYlZ6MEZEb0JTVVRkSVYzX3R1cUIzRnpyZVlOQXRwb2hFLVpuX1RuRFNfUFcwWmI1Tm9qaTdjQ2p2RmZJM2kwYlhfeWFPa0kyUGVGVjg5UFkxdWhmVjJoTHg3emRiaEw4MWE2X3dETzRDWGFTTG9rZlB3bUNvb0xHMHBYdw?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE54Q2VzSlNrQmMxSFVXQWV1NDhVS2ZJZzBjZDB5V2VHaE5kM2VYZUhSRWN1U2RlLUxmVDdpSXZieVNYWEVHMGRXem1FNjV4R1pzR3FzTzVqamtaMzZ6bjN6bWdadndiZzI5NUIyeWVjZi0ybXhT?oc=5",
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVJPSE1rbjFyWTRpdGRLcXdEb21JWDR2T3Jsc3czLVhESDFySk9ORnNRUHBkQXF0YkVnMFpfbVhqVWJEZkt6VG9VRHFnbGJCOXpfUW44dFBpZ1hzRTBGNVpHYVlQakhKcVlOcVFTZTJSVzdEYzVrSnR0WVlSRUtIbTQxT1FidHExQkpJUHZONlJuemF1b0ZrbnRPSENNLWM?oc=5",
-      "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RRFBMUGlnRGU3R3JnR2NkM0g2b2t5ZmlQSjB0LUlzakNXSUhCS1pfMWU2WjhoUlBBSHlwdVJ1b1ZHaElLRjQ5dHFWOTZqTlRkYW9UMVhJUGNRTm92SmdpeXNuVThHOEhOS294am5Ja0hlb2paaVBIWA?oc=5"
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kUFlJS3VGUUFkZVQ0U2hZTE9SQ0dyS2hpY2FvWDV6bG12bERqMzRfOG8tTnNraVJ2WktxTXpreE0wcUVNaHdOVE14TFNfbXRWQWpHclktc0hYUGxv?oc=5",
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVJPSE1rbjFyWTRpdGRLcXdEb21JWDR2T3Jsc3czLVhESDFySk9ORnNRUHBkQXF0YkVnMFpfbVhqVWJEZkt6VG9VRHFnbGJCOXpfUW44dFBpZ1hzRTBGNVpHYVlQakhKcVlOcVFTZTJSVzdEYzVrSnR0WVlSRUtIbTQxT1FidHExQkpJUHZONlJuemF1b0ZrbnRPSENNLWM?oc=5"
     ]
   },
   "PEPETRY": {
-    "last_checked": "2026-09-03 09:44:23 UTC",
+    "last_checked": "2026-09-03 09:57:50 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1519,7 +1519,7 @@
     ]
   },
   "PNUTTRY": {
-    "last_checked": "2026-09-03 09:44:24 UTC",
+    "last_checked": "2026-09-03 09:57:51 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1531,7 +1531,7 @@
     ]
   },
   "POLTRY": {
-    "last_checked": "2026-09-03 09:44:25 UTC",
+    "last_checked": "2026-09-03 09:57:52 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1543,19 +1543,19 @@
     ]
   },
   "PSGTRY": {
-    "last_checked": "2026-09-03 09:44:26 UTC",
+    "last_checked": "2026-09-03 09:57:53 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxQalVHUHVON1lTeXBVUWZ1VVBBQnhzcXlMc2FISHl6NVNpRGhCMVJ1Z1FqSzFQcWV1aFIwTHg5SVFnLU81NTdQaF90bWJrbjhEdk1yZ3JmTE5zMWJiNzc5cWxBZmZTT1l4UGhCejJybHJ1VFFrNllndUtsX3g4dXNWTTZob2dfRDJaTTZaNWVuNmE2dHdzVmdxblpWbnVMUzJZR2RneTV3VldmT29m?oc=5",
-      "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRldWTGlaY3VfSTdXeUpSbFJXb0QyRElWYWgweXkwaHk3cG56cEZ4R1FJZGw2Z1JqcEUyVVlsVW5nbnJZVkFZWmFkQWFmY1VoY2JZOHhrb1BwNTA5UUtMZ3pmWjhTMlZfS0haRjlnR2s1QjhlQWNfc1pVUjZ5LVhqbXhoeEotamRsZnp3aV9Za2UwVC1UTl9sUWtzclVqUVpwd1FvcWlOdGQ0ZHZMQWt3?oc=5",
       "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWI4cFJvMGs0VW5EV0RyeEw3VVdmeUExdlN4RlJ5X0hKd2N1b3RCS0lSdDA5WjFKMzg0NGRINFFBU0pwdWh3TllOYm45V29CZkFUcEZaWGJLblpwVnhvU2p0cGVteklIbXlBX0RxYkZaY2tTekFJMGhSSUt6bkZqNA?oc=5",
       "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZk5faFZ0UmVZSGNxSS1VZVJUQkUtRS1za2g3WHRhcG1ZQTRqT0RwaUExV2RySVVWX0wzQ0w2cGVMMHBvZUFsZFhsVFpvc1dEd3BLdHl5UzFfbjduRnUwd2UyUTR5YnNTbERjTGltbV95TFpUaVhuOVFUQjBTZ0dCaEFvOWFIdw?oc=5",
-      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU9kSFJFWkQ2VldXdldTU2Vvdk9TZ19vdk5qdnZ3NlRhcjZSSGRGVjA1QUh3dnE5aVlqbFZsR3ZRNUZ2Y1p2NGZMdFo3MEtxUk1yUS1hWnhZR3k1am1iR2VaaFZFYUhHbFpNbkJXeWR0SHBOdHh0cXpwc1ctT2lfRXdmMVF4T0hCUUE0clpPQkJTUXc0eUp6ZjNqajNqRkRwbTMxWmdCbVRuYnoxQ0ZWZ0ZxZTNzSlYt0gG-AUFVX3lxTE1RUTdHVFd3Smk3bU5Qb0M3c3lsMmhNeW1iZlVlbmNpUVBtdEJsVEN1REFMLXp0ZlkySEtyRThPU3hCbW5adEl2YVFYRnJ2TFg0TWRQTUlfdFJxU1JuUGdXejdoa0NFak8wMXBneUpDLXdDcGVXdnVCRjB4N2FVT3BLb2xoRG9wclV3UnBKTm1WSTBLX0xXSTk3dDlyUlFsSi1GSVpUSlJxWnhMOVplQmctelVJdUxEZVZBeWxQUkE?oc=5"
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRU9kSFJFWkQ2VldXdldTU2Vvdk9TZ19vdk5qdnZ3NlRhcjZSSGRGVjA1QUh3dnE5aVlqbFZsR3ZRNUZ2Y1p2NGZMdFo3MEtxUk1yUS1hWnhZR3k1am1iR2VaaFZFYUhHbFpNbkJXeWR0SHBOdHh0cXpwc1ctT2lfRXdmMVF4T0hCUUE0clpPQkJTUXc0eUp6ZjNqajNqRkRwbTMxWmdCbVRuYnoxQ0ZWZ0ZxZTNzSlYt0gG-AUFVX3lxTE1RUTdHVFd3Smk3bU5Qb0M3c3lsMmhNeW1iZlVlbmNpUVBtdEJsVEN1REFMLXp0ZlkySEtyRThPU3hCbW5adEl2YVFYRnJ2TFg0TWRQTUlfdFJxU1JuUGdXejdoa0NFak8wMXBneUpDLXdDcGVXdnVCRjB4N2FVT3BLb2xoRG9wclV3UnBKTm1WSTBLX0xXSTk3dDlyUlFsSi1GSVpUSlJxWnhMOVplQmctelVJdUxEZVZBeWxQUkE?oc=5",
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0RfYkVQMmxaRjVReUdKZ2d5NVhqeHZIM1lOb0c0QXA1cF9ucUxYR0kzQWg1aWF3MjdTa3gwN0pxdUFmTzZsMzc5bU5oQ2N4OEZvRkg0UU9VSnlrbTZ3VmI4SHUyU1BUNXpiUlBEeDFGcXAzbURaSnc3enJEZl9zRGxEd21DVjJMSm5EZE1XT1poZi1YdGJ5Z0hnM2VPUQ?oc=5"
     ]
   },
   "PUMPTRY": {
-    "last_checked": "2026-09-03 09:44:27 UTC",
+    "last_checked": "2026-09-03 09:57:54 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1567,19 +1567,19 @@
     ]
   },
   "PYTHTRY": {
-    "last_checked": "2026-09-03 09:44:28 UTC",
+    "last_checked": "2026-09-03 09:57:55 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMHVGdFZXQXJDZEQtLTJ0NVRGNUNJeVVGN25OeHZydFFmYXNnSVVYM0Q1aHZMWHJjVV9ZMlJza3hEMGRkRlFuWU5jWVVYc3hsNnJQYmwxYTgxZTFseldVdy1ZeGlzdzIzNlQtSUp6czlDdWwtZWxVUTFTZXg0c01HWVktTDZ0cFNaWjZ3NXRhZUFQRnNXY0JiWVpZeG9IRW8?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVdybGRLanNMQjN6Nmd0bWttbFFtNlVkeEZybjU1ZUpwbEhkazB0LUE3Z0xNWkVKeHF0bGRiMktoX1RLQmpjMnR2NXZVTFR1c3l4UU9ZNzBkMC1vSURzRzF5UWp3X1lxYUZjQWttOFF4UkRna2Y0LWVFNWNkX0VhTHdXaXNaLUdaS1E?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckFwTUcwTU5xdjgxNWhlazNUTmtnejVMaV9vLVByRDlySlVrRHJzUUFpaDljMnNrbkkyNUUzb21mazNKRVRZR1VvSGlkRE1BaWluX0JGUVJ0Qy15NEhKSU9UOFJnREs1TFhQOW83YUZTb3dHYUtfa09OTlVQN0trOEVCQ19sRHJtVlRtbXVkbk5fNDJiNlo4Q3dCQVJhTjhmdXdmZVJiaUZBZw?oc=5",
-      "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1naEs3c09zamlucndqd0kweE0wRWhUcy1vdlQ5VVUzTlZ6Y2dQX0lvSWJ2SjU4eV9nWlhkT2xPSWluMW5XNTlfa3RnNjh5QXM?oc=5",
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2htWXdkTURVUl9UMkVKTS1XbXY5S2NrQXhPSGo1dmpaZFQ5Mkx0TVhYSEtxa0JPU1pTaVNYNjBTZ0dtQ3BRaHFyLXFCTEtGdk5zQTZOeVRTenVSU2hndGF2N2dRaUpDbDBzMVlVX2tSNlJKTkFwTlpiQXlpNG5wbGpvRF9jb3hnLVdyc09YN3A0Y2RKYXVrNkpPTkF5STg?oc=5"
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU2htWXdkTURVUl9UMkVKTS1XbXY5S2NrQXhPSGo1dmpaZFQ5Mkx0TVhYSEtxa0JPU1pTaVNYNjBTZ0dtQ3BRaHFyLXFCTEtGdk5zQTZOeVRTenVSU2hndGF2N2dRaUpDbDBzMVlVX2tSNlJKTkFwTlpiQXlpNG5wbGpvRF9jb3hnLVdyc09YN3A0Y2RKYXVrNkpPTkF5STg?oc=5",
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxc2dZVWlXNUswaGFPeEJCaEd6dENzekt2YUJHVnBlUnB3UmxKblFzQ0VsbkJYRzlOMVZhSW1zTVRxUmJ0ZUV4THlfWjFSdHpuYlo5RWxPTnpnZGk2SXFkaDJUb3Q?oc=5"
     ]
   },
   "QNTTRY": {
-    "last_checked": "2026-09-03 09:44:29 UTC",
+    "last_checked": "2026-09-03 09:57:56 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1591,7 +1591,7 @@
     ]
   },
   "RADTRY": {
-    "last_checked": "2026-09-03 09:44:30 UTC",
+    "last_checked": "2026-09-03 09:57:57 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1604,18 +1604,18 @@
   },
   "RARETRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-03 09:44:31 UTC",
+    "last_checked": "2026-09-03 09:57:58 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ES291cEFGYl8tVUZCNW0wN3RBeU14NFZzVk1GbTFTYzZQV053bVRnLU5zWndzOXo2QmlrZVY4NG1CS18wb21rM3hXR2lCWXZyQ1h5enQxZ2lTSVV6UW5ZQ25TQ2pIam1aVzZFTFVsMks?oc=5",
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkJPWDVuRmdxT0E1WWpZM09McTZKaXR3cUlfLTMyRHlzVk5aN3FPcmM3bUFWdkVJVnJ3c3d2elc4NW1qV1hKT09PWlBtN1ZlbnFGSmZvVXgtRlFrSy0zREFuZnI4S1B3eldKNm5kcHprM016MEZKRmplNlVxZHpNSFpOTW45eXl5czlrak1VVkpPYVNtcGxj?oc=5",
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJbmNaaWotV1NZZDYzZzNuOGdlOGdaREVjMU8wWjJDN1BEcmI3ZG11aGhnZFg4ZHpYREs3Qmx1UG1yNkQ3QzQyejJ5YzgxVWk0c3FBdFN3WmFLMzk3RjBtakpjN3p1YnFPM21lcG9UVFRMZnpiNGlLUGY0OA?oc=5",
       "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXNkbjhGcWt4bzVERHVjc3doYVhzQkN0LTdqX2I4ckxybVFSZlZGVlI4OGxackdUTTVvRklsT0pzYW96Snl0bG5GNERCdzFqZk1aY3hXa2tGbXVESjVTUlpldzNuNWoybHVsQUJtay1VZE9TS3Z6enRyLXlNVFYyV2lfNmxKS3c4M1ZGeG93ckM5a1J0VFY2VUZzUnhhU2tGbGx0T2FsNzhKOHZHQlhfcy12RHJkNnJBRHBHSVJUR3EwbkwxbnlJaW1n?oc=5",
-      "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NGJYWVFBeHhJV2ZSVDRIeDFiblliSVlVRU5mZ0tUN2QwRFBUcV96OERJbldrLTJVbmZFUi1IZHRRQTdzc094RVdIOG9lUmNNNnRrcHlyaU92ZW5vWHFWd01tcUNsTlQxOHdyUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0NDR0d5WGpVT3Qxa201VEEyejJpSDc1eTVsc21hSEVDeXZfQkdFTmYza1lxUnFMY0kyTVRySFUxaEtTYjRDSUN6OW9ETE80X29ESG9iT3RsQ2s1T2NaUUlWVlhON0VTbFRzTmRMV2FFZDJMeC1vakItcmVaZjRjbTNDODFDQWk4V3lUVjllU0xiTzg2ME45QXM4WkliRjJ0Z3dwSzV1a2x0RWNDY2RyT1BuNC1XZ2tvSlVHZVV2ZGM5YnJzYmpv?oc=5"
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzVSaGwwVmpkQ25LMjRZZ0dnUHBMVjBjMUxQb19VTThSMWZPaHVRbUFXR2FoV3JVdkhXWDI4OWFxUF9OM3p2WGdydDJBQXNHMVpXTVFGTE9WcC1GTnRnUUxjZGJfYkpqWTA4YjctVGdwQmRyRDhQZ0ZDSlNsbW5xVEE4VnFaQ2w2aThiRW1tZVZzeVJjaFNYb2xwQVpoQlNNUTlGYk9Ubw?oc=5"
     ]
   },
   "RAYTRY": {
-    "last_checked": "2026-09-03 09:44:32 UTC",
+    "last_checked": "2026-09-03 09:57:59 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1627,19 +1627,19 @@
     ]
   },
   "REDTRY": {
-    "last_checked": "2026-09-03 09:44:32 UTC",
+    "last_checked": "2026-09-03 09:58:00 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE51UVRoTkNlYl9IRVQ1OWRoTVpYUF9VcDdRTnJhbXo0RGRYTS1YWUgzNnVHVGlyODZYNE1oc1VZN3pGRGVxaXoydE15VlFGeDF5VnRablVqWm9taDdMZTRnanZpTGhJdndmMjVCTDZLYw?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeGw4NkJsQzVlZURiZmVINnVkX3JIQ29nQURLY1NreklyV19CMmhDdEljZEdNODZKZE9Qd3o1UWM4UHZvRFlsdXpzaXc0dVlpSncxSjVWcllnQWF6SHM1LXRObV9aRWwySzBIelJVdGptMVpUVnBSdXdOLTA1YjA2S3NreVl6MXpEa1FfbE1sZHZqZTBPdV9JY3hJVHQ3eUpZUUkya3J3R1BaOUtuRU9hOGV3MFBfOVhWYkFhbk83RF90dkE3aUE?oc=5",
-      "https://news.google.com/rss/articles/CBMingFBVV95cUxNckxkd01FMEEzMW94T2Z6WmQyeldyVDZZb2duMlprWm5GbHFEcWY4RHRHbUR6Zjd3b0RpS0RuQ3VvSUtBQXpKUnE4N0d6bW1McE1jMjJJVXZpSmhrVGlPbVRIMmdEVU43UW1laEhXTmhLWUltekJMNUFveXJKR2NmS185OGdvZS1sZlNDN1pVTk5vY19zR3EyYUlBNzc0Zw?oc=5",
       "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpV1Z1d29kQncyczdBU0RJUWpjMVNibDJRdjJRNGhiUDZoamVfVk9peDB3N0ZSVmRPbHd0NmxBYzQxeEFIV29mYlNKMTdEVVU1ZFF0YTh6MXFLNXA0dUc1VkNxYlhlWjA1aW02WjQwaFV0VGFGVHpHWVdELUs?oc=5",
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNckxkd01FMEEzMW94T2Z6WmQyeldyVDZZb2duMlprWm5GbHFEcWY4RHRHbUR6Zjd3b0RpS0RuQ3VvSUtBQXpKUnE4N0d6bW1McE1jMjJJVXZpSmhrVGlPbVRIMmdEVU43UW1laEhXTmhLWUltekJMNUFveXJKR2NmS185OGdvZS1sZlNDN1pVTk5vY19zR3EyYUlBNzc0Zw?oc=5",
       "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVlVSLS00MGhER1oxMTNGYk4ySERWZ3NWVjMyelZ5Vi1OSVlYWm0yNUc5eVZsclhMQW1kRFV2M2VqcXhyLTNFY3NFck82YWVGeWhpQkpjdEZKeFFpdW9TWjlVc2sxZ2RVU1lVUE1mTXZXMGNrWWY5YlhaQmFYVHPSAYQBQVVfeXFMT2JHQTQ0c01aa1JxYThNckx4OW16ekM1am5GX0VhREoycy1vUVpxRzRndEJiNEdiLUx2SDF5bFNsUEZMakpkMDFPbmN3UVZwU0E0RXZtUmpldlVMMzJ3bWZpRHp6TklWNUloYnc1bXg2MXNtX2dCYWhodWQ2aHRDTlJ2Zm00?oc=5"
     ]
   },
   "RENDERTRY": {
-    "last_checked": "2026-09-03 09:44:33 UTC",
+    "last_checked": "2026-09-03 09:58:01 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1651,7 +1651,7 @@
     ]
   },
   "RETRY": {
-    "last_checked": "2026-09-03 09:44:34 UTC",
+    "last_checked": "2026-09-03 09:58:02 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1663,18 +1663,18 @@
     ]
   },
   "RLCTRY": {
-    "last_checked": "2026-09-03 09:44:35 UTC",
+    "last_checked": "2026-09-03 09:58:03 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
+      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qNy1oUzJIaFJaemw2VEhlTXhTVFVpU2h6NUMxclhabFlTYjJ1VV9BeEVxODNEMlJLblMxSEw5cm5XRDRSSE9uejVnRFVsOWlkRmlxQ1R5SXc0dVRfVUZTcnJOM1RtQQ?oc=5",
       "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbVVVMkdiTFlNYUN0MHpIZm9XcVNIN1lzazgtejZBSGlDTlY0M2JKTVBNT3cyM29ZRnBLdE5wbUZoMVl0Vmg3TWJNWEFsZGZROHd1NTJrSFRUX203VDhlWXJqeTRxWXBjVHloNVBrVUp2RlBqS1cyQkZNTHNyd3lYcHpVSXNUUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUksxaS1Pc1IwOVU4VlV3MFhvcVBYX0k4QXdJX2lkRjhRdDlObGFVVTJYYTZraHpkOVFpRkpYeFUyMnA4b0VPdGl6X1hvMFkxOFByR0syTjd6WnRMZUZGSEVmWFVUVkxuTlQzMUM2THp0eXE1VnFRUU9OUmpNc0dmRVZ6S0pmMW43YTZyMkRlNWlTajY4ZkhLTi1EQVRlRy02YklZV215UjU4UHN3YlE?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4MkJfMWQ2M0VLeFU2bTBQQXFuUkJuYzJLcEc0X2dxb3dlM2lPU0c2aWRjaDBOZC1OU1g5c3F4b1JoaDA5QWJqZ2VIckxQMEpwYjVxRFgzaXdEenRBNXk4d29SNFVPeEctVXJKYnVlZHNVS0p1?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3ZabUNvNTd5eEMyTUd3dzBIMkZfTV93cnFRYzRIR1JjREltUzhsOXg4SC1VUlJmMTNNQmYzOU56MXpCY0tYcEY5QlRYTzRvcWpDb0ROWUJpc3dPWEhvcDY4bDVHTWE4MVZBMkdmcWpzck5SSUlVZ2QzRm1OS2NpUlJLZHlSOEJ5RzFXUXFsd3V3ZlR4RmQ1SUpTc2dwaHM?oc=5"
     ]
   },
   "RUNETRY": {
-    "last_checked": "2026-09-03 09:44:36 UTC",
+    "last_checked": "2026-09-03 09:58:04 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1686,7 +1686,7 @@
     ]
   },
   "SAHARATRY": {
-    "last_checked": "2026-09-03 09:44:37 UTC",
+    "last_checked": "2026-09-03 09:58:04 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1699,18 +1699,18 @@
   },
   "SANDTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:44:38 UTC",
+    "last_checked": "2026-09-03 09:58:05 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS2c3SEF2aGdKM0hNNjZyU05jVG1lN3UtMXdGMEhoUWkxTHcxX3BEQmZwSGZkOEhVcmZJNk5kZGh4dHItRWpTZUVrc1VuR25MSWd6VjMwMFZCWVhwTnNFSWQ4YkQwamZLUE9QcVkxeGZQSU1sN3NVbWRCeG52YWRxTW0xY2I3SWFwVnNYcTBuOVdoUFdVNkp0YWQyNXk3dWVkV3htVEk0RGVXTHdodm1rYmRUVlpFalFZOHkw?oc=5",
       "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSENOZHVnUk0zUWQzT1pXckdNRjRrVlVKbjVLWnVfR1NxX1o3WGxqOWViaUgtSGpaeUpaOVJnLWlWcERGQ25nanU0TC1FdERaVkpyaENsdmNzR2xOVzU1T29UVnUtQkx4T1BlT3pFWVVBTUIyTEhTZjBBSEJ4UXBub2VVaFRTeVk2Sm9ncTJ6TEUwbkNkRTEzTE1NY0dBZzQtakhwR2FHZjlTTGsxMVpkZkluWWprekx0Sl92UFNyZlZOa1VtWnBYRTJUckJZcjRVLXV0VDFpV0pkcTY2cDFXMUFqS3I1WmZZZE0yUG5HRThkR1JKQjVxQ3NtNV9nV1BsdUc5Wk4wS09DVS1sZC1lSmNHMVA?oc=5",
       "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVJRSmFHelhLeUQ5STZESmU2RVdPS2J5blBMUDJnVVZxYU1LTmhCQzBGaDhqTERheVpXc3NZNG5ITnNhaEFnUW9NOTRXRU1kN3REakI3ZmRUSF9JOGZSTXV4M1docjRuZDB4TmtzTlI4eFFUQkJHMGVLZ1c0UU5iWmM3cjBzczA?oc=5",
       "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYnp3VFVQNjVfVFhIU0xVUERFcW1CMEgtWXVLX3hqZHBkcUNkWDROVEJVWDFTX0YyRzl2cjNJZjJNd0pDZzFxckdlUTVfZFN1cmN4WVVqQ1o0NU1fWnFFNXlMYlpvLTBNc3lWUVExYmFSOGFSc0xmSzFMTEpnODE0ZVoxbms0YkViUzhCWVNhZXlYTl8tU3dYWEJ5QktYTzdXM3dRZnEtUm9lTHhFc2lKM0hLbXdXUnAxSzA4Z1pHZw?oc=5",
-      "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2xReU1jbEtGN21pU254dkZNOEdjTEtmMDhvTTRzQTJONmpNLWczRVZQdE9WdFJ5Qm9idERKZ2lBZ0pQYTRXay0wWWU2cjJVZ3hnc2tQdlFBQ2gtcEcyTmlJdmhpSlRrbVI4c29xaEVtRmxWVkl6S05NU051bU1rRQ?oc=5"
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93aVZXZmhKSG10UmtxOERqR1hNMFNnZFRHNmRGNDJ0N193R3BGakhOeHZTVm1rRGF1SEpYY08xVzlocTJtQml1ZUVxZWRJS2txak1wXzUya1Nza2NpSG0wbDNlQ04?oc=5"
     ]
   },
   "SEITRY": {
-    "last_checked": "2026-09-03 09:44:39 UTC",
+    "last_checked": "2026-09-03 09:58:06 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1722,7 +1722,7 @@
     ]
   },
   "SENTTRY": {
-    "last_checked": "2026-09-03 09:44:40 UTC",
+    "last_checked": "2026-09-03 09:58:07 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1734,7 +1734,7 @@
     ]
   },
   "SHIBTRY": {
-    "last_checked": "2026-09-03 09:44:41 UTC",
+    "last_checked": "2026-09-03 09:58:08 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1746,20 +1746,20 @@
     ]
   },
   "SKLTRY": {
-    "last_checked": "2026-09-03 09:44:42 UTC",
+    "last_checked": "2026-09-03 09:58:09 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHBNVmFhTXZBbUpHTU1UR3FNZlNmaGtfclBBdHFHUEhGMzRsQkR0UXNLWDRJaFZkUk1GalBzZ2w5WV9UdktXSmJuZG5rQ184V01WRzBLVk1UbWlERmNyNGRwaGtsS2dKaVpmRXpkSDF0R3YxbEpCbXlkX1BnUEV0R0dQOVo1NlVoYVhJcFNsUE9la3JKWU1MaHVlZ1A3Y3lHVEtHNnFsNE9Sc2t6T0szWTI5dGxxRW11?oc=5",
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YMVhpMm00Vzh2eWNHa2hoVVNQZ2NqMFFyUXdTZVFkZm52QU5fV0dYcUF4OWppV21lSS1PMENGYm1GQjl6UU9MSmkza0pGR0J2TUJzTlJ2ekNfNW8yWGZjNA?oc=5",
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aQ0xFaUxSQ3FpVm9vcFp1R2tYS0RISm1NQU9YQkNGNTlDd2hQOUwweXNlTTkxX1JydmppTkNFb3UtTW1hMGdnTy1tMHQyaVZrR3FSdXo1c1hmMkxxekxPajZqUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQ1FfR3NzWjJsX3pOeGE2RlNwLXRpMHF6VFprSmlOWnJCY2RsOW1mU2VpWFdJa3ZMZDVuckVXdVRUaXZpb3lkeXI0Z1N1c290U2JOaER2dTJhQjM2RDE3eFp3eUp6dw?oc=5",
-      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFlRRHBjRGpOXzBMeEpIR0lQeXpTbVNwc0t5MFZ0R2ZQeklpMTJYWGFWY1FzR2hfNkJRd3NHM3doQTZRYURackY3WTk4U2lJVXVFMEZ2RTFmbl8xZDB6aUNXbEc5NDVzdnhCYnZQOUxqOG1YSk9aRm9URVNyREJyeHhOT201Rl9BUWxR?oc=5",
-      "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvMVc2YmUwbEpqUHFyRXptV3hRRU5LVGhDbXZUOExZODBULWd5UnZMUlJnS0ZaM1J1TzBySmQ1V1FvdTAzTnZsSU1MVmRTdjJ0UENxdlhaXzB3RmJ1MG9acVFRVFRwQWJwVlgtT3FsTm0?oc=5",
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaW5iWk1XQjZCNVdQQzVYNVdyVnUxX0hCUG00ZTdKNkNjZ1NPd0RvUW9ZUkRIQnNOT2RJQTFGVEFTdDRuOXhBcnM4T2Q2NXNLZzJYUkloZVB5aVRGbkV3TEtIRGZBMm9tVGxWRkR2TTNfbVlVRUdqVHVUc0drRURIWkU2OGdVSXU4QkE?oc=5"
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFlRRHBjRGpOXzBMeEpIR0lQeXpTbVNwc0t5MFZ0R2ZQeklpMTJYWGFWY1FzR2hfNkJRd3NHM3doQTZRYURackY3WTk4U2lJVXVFMEZ2RTFmbl8xZDB6aUNXbEc5NDVzdnhCYnZQOUxqOG1YSk9aRm9URVNyREJyeHhOT201Rl9BUWxR?oc=5"
     ]
   },
   "SKYTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-03 09:44:43 UTC",
+    "last_checked": "2026-09-03 09:58:10 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUURjOUx4ajZRUHFMUHRYT3FicDg3bnlTUU9JcDVFV1ppeXBJX0VpWkRtekdEcjRXMlNqQURnZXJQRkpreTFDbHVkcGZJZUx0TjNrV2F4UDg?oc=5",
@@ -1770,7 +1770,7 @@
     ]
   },
   "SNXTRY": {
-    "last_checked": "2026-09-03 09:44:44 UTC",
+    "last_checked": "2026-09-03 09:58:11 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1782,7 +1782,7 @@
     ]
   },
   "SOLTRY": {
-    "last_checked": "2026-09-03 09:44:45 UTC",
+    "last_checked": "2026-09-03 09:58:12 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1794,7 +1794,7 @@
     ]
   },
   "SPELLTRY": {
-    "last_checked": "2026-09-03 09:44:46 UTC",
+    "last_checked": "2026-09-03 09:58:13 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1806,19 +1806,19 @@
     ]
   },
   "SPKTRY": {
-    "last_checked": "2026-09-03 09:44:47 UTC",
+    "last_checked": "2026-09-03 09:58:14 UTC",
     "last_signal": "SELL",
-    "volume_alert_active": false,
+    "volume_alert_active": true,
     "seen_news_links": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQWFXblVoSkNtTlVYNTNGY0lqSWE4MzNCSS1aM0EtRkJuWVpmSEQ2R0d4bXcyZkFZY3RocTZGZTVKLXF4Q05IT1pVTVA3QzNTN2pFbGhpN1QyRFZZcnhiY3R4bHdLMUVlblM2WlRZeWFZd2FlV0VoX3lwY1cwUnRjYW0tWHF1WDMza1REMU5ldjB0N3FOb0hsSXpMai15ZUJtWkJn?oc=5",
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQko3MkNvbE9Ed2ZSbU0ydW00cUdYcDkzeUwzWGVjeVlndl9fNXoxTTlzR2ZsREdzSVB3MktTQXlaZXh6Y01BbFNaSG1ETUdEcm5abkJDamFFM1JLRkRQYTZHaTljU1NJUmdGTzZud2NhUGpBam04d05OOTIwVmNxbk9nUldOV09qVXc3S3FnQ3h5VExpT096b3dLTTNKNGMw0gGaAUFVX3lxTFBRWXp6WHNScVQ4MGg3aFdsQWpuUW51ZjJFMXBJcHVWVm5rVHdHeUhldU5VSThXcUNhdVZOanZhWWFsT3oteUUzLU1WLVlYem1HcmZsVVhXUmZmaDAxdjVxZXlRSXRDb3hWX2FmejMtMDh1T0ZnQXo4UjU2OTIzZW5YNUFhdmJOWkVPNnJ6REEzNW5LcElBWWZsTWc?oc=5",
-      "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbmtRVGFLblZ1czJJcGpkUzk4VlRQNHZJUGtha0I1Y0tzLW1CRGlRNWRoLUV5ZTNDNm9fZGNMenk5VVNWX3Bzd1FwM0xqRTROZnBQaU8taHFUSl9PalZRcVc4WE5IT05sZC1xNnBObmx5aGhiRWpDRFBZYWo0U0RTSDVjSnVMWFQ3SE9MMA?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjFKWTFzOVB3WTdDVUdjWkRHWndaa0RETzN6T2psYm9FUDVHRFdDNmo3NkxnZ2QxMnR5V1ZmYUdDVkJ6WnVMQUNIakk3dmQzQXd2Qy1kTmFJZWFqbXB0WGtxZW9YRHpjZmQ3ek1PU2UxbGRrb19HSXdkU0RQRTZXZWREUUZVRk1PalhVVFNrUkJ5cHpQQTJ5NzRINW55WFNzcExHMzlKQnBJUDlKVDhxYk5NQWdGelNzRXJFdUM2Skl0OG8?oc=5",
-      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzkxX2tPTWF1UUdGR3dsdUUyLU9WSmdhZnFFUXRlT1h5ZzZrNmljY2xNZXB5czJKYjAwQUJUcGN2eFEwZUdweDFpMjJrQ21DNkpEU1QxcUZjVDdFMkhqV2JhYWh1czc5bjBGZTRMQTFEN2lXQWEzRnhVWlZUbExyV3VoeVpidTdNMWFLdHFWVG54Um1HWE1ndE5DRzlRS2RaU25CeGZ4ajMzQ3FyR0pRSVJiWXhJTGI1TV9WdFdhMUNBZEFQei1DdjJOXzU3TTE0MFFXejRlNA?oc=5",
-      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYlN4UldKVTNBVjA3WUxvNE5pRU5rX040dWR4eFJhZGZLVFozVkpXdEpqNjBMYXpZOXBnNFV1aVNNR1I5Rm81QlRQVDlvVFVjbnB1NGlfbHVsT2VOWkItYjk2QWoxSjdJRjdiZ0dqaGhTSFdUNmZXdk9JVnVyOHlNLUtsTksweHVGbk1JR0JyeU13Z3k0UVF3aEFHNEg?oc=5"
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWWZMM0xYSHpYZmpnNk42bHFCNTdNRWI4QWk1MS1HTFBycVlwaENYVXNrT3pKakZ1cmNndmxpZ3FmejVPTFMyQTBhYklMU24xSWxCLVFaZC1WV1FtOHIwWktSWjhMUnJwS2FJRDdDN2VIQlFTVGpYZkxuck5ZQ3JJNW5DZ0tSNnlTUUZ6OVFROGJKanF4eUdWbWNMczl1bUE0MWszLUc0TkxadG41SEtRSGd2b2MxWkszQUxfaVI4S2d2RW9jSXNoZGgyZEw?oc=5",
+      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYzkxX2tPTWF1UUdGR3dsdUUyLU9WSmdhZnFFUXRlT1h5ZzZrNmljY2xNZXB5czJKYjAwQUJUcGN2eFEwZUdweDFpMjJrQ21DNkpEU1QxcUZjVDdFMkhqV2JhYWh1czc5bjBGZTRMQTFEN2lXQWEzRnhVWlZUbExyV3VoeVpidTdNMWFLdHFWVG54Um1HWE1ndE5DRzlRS2RaU25CeGZ4ajMzQ3FyR0pRSVJiWXhJTGI1TV9WdFdhMUNBZEFQei1DdjJOXzU3TTE0MFFXejRlNA?oc=5"
     ]
   },
   "STORJTRY": {
-    "last_checked": "2026-09-03 09:44:48 UTC",
+    "last_checked": "2026-09-03 09:58:15 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1830,7 +1830,7 @@
     ]
   },
   "STRKTRY": {
-    "last_checked": "2026-09-03 09:44:49 UTC",
+    "last_checked": "2026-09-03 09:58:16 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1842,7 +1842,7 @@
     ]
   },
   "STRY": {
-    "last_checked": "2026-09-03 09:44:50 UTC",
+    "last_checked": "2026-09-03 09:58:17 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1854,19 +1854,19 @@
     ]
   },
   "STXTRY": {
-    "last_checked": "2026-09-03 09:44:51 UTC",
+    "last_checked": "2026-09-03 09:58:18 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWhqREhSUmpkZHJRLVRzNjdpcGlyY0ZMUjU4cWdtczh6QTJsZzQ2WEdNaGdpMmlpaHJLSnhRenc3VUlaTFg0NWh3LVp4WEV3YjV0dXBqM2UxX1JSNXNqNlJXM0xvWUNqX0tGenk5SC1FYW1EaFQ3VWhIME1pM0x5UUlWM0lZakpKN1pOWUdZVQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nQ1RtYVhubXp4TnZYdUdobUw0NEIwbXlzaEYtQ2lIdGo3U1F4b3d6RkVLOEdHMHdVMUdJWWI5ckZaMlM2eDdmZkdQOE41dDNkS0NPLXQ2a3lGX1FXMGhVYktyRGVBeDg?oc=5",
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDB1eVg5WFcxaVpoM054eVdRWHg5N3FnOE4wdWhCZk9Ua2thTkEwYkpydnM1MnBCRXBMUGdkTkNhUXdYYzFtYlhWdGJaZGQyb1Q1Z01zaVpycmpfN3dPQW85UUxub1M5Z2g1UnF1YkUzRTl3VWhMRk03aVNWcmlGdlRMRzE0RWx5TlBMaFF0aVV4QdIBlwFBVV95cUxOR25pWHpycTd5UVNiZWNvTmVlVnhDODh4U1pTeFZfLUpseC1aWFJ2TEZ2Qlp5MHhmUzZyMXZiSjJYb2dKdmxHNmpTdXNTTnRkb01FMFhqVGNXNjVSbDdoelprMVQwdUM5MlN5TmU0eFFQdVZwNnJQRjlMNXdOYlFYWEdKVVRSTC1LRnZfdjVFWGNnLWctTy1r?oc=5",
       "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYXREOG4zb0JpWnZPa1IwRnd2aTBwSUU2cjlLQW4wdTc5Szh2OVdtNS1POHRsZlM2OC1MREtOVTJ3U1lWWmtqY0xpMGpPYXdqVlhEWHhLN1g3QndKTUx0a0tWSWZObFNNM2ZyeHBRNElkUkZZSmFmb0ZjcktJeVZ3YjNaZ2F3clQzZ21xQVB5NFpWQnlzbFpMZmxtMTVzY2FoZVRhb0J1ZzBJZDU3eFNQQWltNU9CQVBXdzE4WXNMdmxOejJkbHozS0VXNWNlNEtjUVVkLXRIcXFVSFcxdk5sY191RnJpUG5BTnVqVFhyV2VjVHFCbDVwYlJKLS1xSThlQXZEcWNackEyTXJQb2xkZTFIOUVrRHEwTEd1MExuckNrelVUTk0tX0JWVFR4R1FWeXpYd244MmlpNlIzOUpjXw?oc=5",
-      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iVm43bXBNeVR5Vm1jRUw2WjB6RG1ES21FeEVGckM1dnJOTmcxeU03VTVuRUpLamhLSnJoT3M3QUlsTXRRZnFMQzNmVUdsb01yUTE4THpjQ3JNU0lWR3ZYYzJ3?oc=5"
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iVm43bXBNeVR5Vm1jRUw2WjB6RG1ES21FeEVGckM1dnJOTmcxeU03VTVuRUpLamhLSnJoT3M3QUlsTXRRZnFMQzNmVUdsb01yUTE4THpjQ3JNU0lWR3ZYYzJ3?oc=5",
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkZmbGEwWVQyZ1hXTnJjYnlFUDZUUEIyVm11dFgteVFqU3Q4WDEydTRfaDdtVFM0X3pzeE5QSzBsa3VBQzVValZFU29Xc01DVzlQU2Y5LTI5VEFpZ2dFaXMweUl3cWw3UzNWODRvcG1QS0dPM2x4eFhFbEszMXZERg?oc=5"
     ]
   },
   "SUITRY": {
-    "last_checked": "2026-09-03 09:44:52 UTC",
+    "last_checked": "2026-09-03 09:58:19 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1878,7 +1878,7 @@
     ]
   },
   "SUPERTRY": {
-    "last_checked": "2026-09-03 09:44:53 UTC",
+    "last_checked": "2026-09-03 09:58:20 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1890,7 +1890,7 @@
     ]
   },
   "SUSHITRY": {
-    "last_checked": "2026-09-03 09:44:54 UTC",
+    "last_checked": "2026-09-03 09:58:21 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -1902,19 +1902,19 @@
     ]
   },
   "TIATRY": {
-    "last_checked": "2026-09-03 09:44:55 UTC",
+    "last_checked": "2026-09-03 09:58:22 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGN3dMRVJrZmJISmJwcHZYeXAtWUliVFVTcnZDNHlxRkZtQkhjWmRIMG5RUGdLSVprVmJHZ0tWMnIyMDVSQ25Cd28zZ1BfS1dyVWV5UEhXZmVjX3NpVTFz?oc=5",
       "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0hNZXZDbzY2R2ozR0JvZnYzODItUTdndzhkdm82Q0lnc1FsUTc1S0NRcDlPekxhVm5IaUlqMEFMbjYwVHd4d0FpbUFEOG5IQ2ZrbG96WFFDZm9xRGZZUHhOWHNUR1NuTlBrN3FLSGN6VmtMTGNXMGJlUkcyNm12WDFVU2otZUV3U1ZhckdFSXQxXzhFTWNLeWgtWWlxLVhOQWlvNk1CSjA?oc=5",
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1pUalVqcklLMGdJQlpUaGxXMnhJdEhCdTNacUEwQm5IaWxmTXNuLXlLeURDY2VzdzZRZ2FqLUFpYmR3VDFFUmlKYkVENlMtLUNWZ3BXTzUtT2FTWWxvWkRaZmF6UjhNYXlqMi1yUVNFQkZxNXM4dkQycGpOM0E4c1lJd2Nfb0xQR1JoOFdvQmU4S0RMd0lFX1oxUVZxZElMbm9GdmZONEdPZWgxd3kzTGtEWmZ2OEVvMWZEdktEV292Vk1GRDRXVW8wQmw?oc=5",
-      "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6LVhpTDlIbF85SU5fRXd2N3RrNTc5VEY1U211VFNaQkxzM0c4VFVUSm9GbXlJb0NwdFZYeC1yUy1RQzA1TXlSWE5QYTk4cjVKRWRDcXk3VTBfTGVjdFNmTy1yOTZIZkYtaEE?oc=5",
-      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTQ3JERkU5b3VxaDB1dlBDNDV2Y0ZHaEFHcUR2X1lWTl9iM1FQVG1lU3UzbmU1bXVuNzVSWVNJTGVoaFV3TjlzV1pEN014Q0I1amxSbzhoRzBuR29peTQ0ejdhRERhcGM?oc=5"
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTQ3JERkU5b3VxaDB1dlBDNDV2Y0ZHaEFHcUR2X1lWTl9iM1FQVG1lU3UzbmU1bXVuNzVSWVNJTGVoaFV3TjlzV1pEN014Q0I1amxSbzhoRzBuR29peTQ0ejdhRERhcGM?oc=5",
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdzUydm1HQ3Q4d3owVkpYQkJacDdQaFNlSGFnbHliVHYwYkxncFdWdFFIUW84MVR4Mk11N2RBeUtLdl9ORFpCZDZiVHd6SWVIaFc5YkttT2FDOGN4VG9XQUwwUlFkcklsV2c?oc=5"
     ]
   },
   "TRATRY": {
-    "last_checked": "2026-09-03 09:44:56 UTC",
+    "last_checked": "2026-09-03 09:58:23 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1922,11 +1922,11 @@
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHlxS3JSc2dtelV6TmhWcXF1M1FNRE1Ra05HYWJzcG5wZWYzTnZ2N2dmNjZDZ0FvOE9DWnNCTF8tYXdfVlFvc3c1TlhwRVpzblFCaFF5eUtGNGo5STg4RENObkZtZDdzUkVocnVaVlZpamtHNjVRN1g1Xy1xSWpDckIxYjlBb00xd0hvc211S0Jyb0VQZnppVXNkTU1Ud2hB0gGmAUFVX3lxTE4yWHFld2tSbUtTd24xanZIV284VWZwcTA5Mjhsdlg5UE9ZNFJsbnBrd09ZaEdzZWs0dHV6dDdRYzBkZjZCMkcwUU4wZEY5cmk0bXZEYXJ3NFFiVXNWVnJkbldWZDA5Qm1yQzZUTnN1eldkWnZ6LWhaeVFOazZOdXFIZHNCTGJ0ckxyU2t6c3VrSXNtdWt6ajZpOHFSVjlxR0QxSERoZ2c?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUJxS2F4WDFKSEhWR1FacTlkXy1VTlJNTWRXampUa2hDaktnSTdsdnV4bUh3N3ViZnB2WFNhY2NZYkE5OVVibjlzcUZqaU9wbVBZeDByT2E3Z0ZyblF4MksteTI3WDNWc0lLVGp6dUhPMGpZTG1NRWFOWDNFNjBqaFF4YzJxWjZ0SFM1S3FuVEpMMDRETXhkdlRmb2ExeVo5WWNrZkFxMlE5dzlfT2J4V2lBanJxajFLVGc?oc=5",
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41V19nQm9Qb053c3RIa052SUJHczY5RGNzTGIwTTI0YUJvTXNjMi1Ld1JJVHhyaHd4ZG1YSTdOSEdDdUhtakYxZmlNMFUzM2VyZVRsMHg3aTFJSXhQY0Iya3drNA?oc=5",
-      "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVdVVHhrNTV0S0U3dUVLNGI2RmNZamZkVnBxa09rdkthV2V1MmM5c2hxSnd1c2E3UW8yWm96VHd3cXVqSFB4MWRyMUV2dEREUktVOEsyUnltNWZWODlHSnRiNFZBc0hBRklPZWNya1hnbURZWXp6NGVGaGRDbTNvbTNtYkFiOTExdkdGZjQxX0ZDcXYtV0RENEtWazFzUHJSUW9pdjA5STFnWTBIQllQTjk4YS1WZw?oc=5"
+      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMVkxXzFfQ0JlTkVvQV9Rdy1EQ3JPQ2hFNlFnZWgzN2M3N3BLRE15V09CeTlndndkc0lDUUhfYjI1RVhYclJMYV9pczVZRDl5ZlFPSGw3NnAxOVIyUi1ORktxNXVtQWdxQUF1REtldzc0c0xkUDhKQWhtYjUzampieFBXY0RWVEluY0dyVmJ1VVVMcU9xeEJ6TjNtRFZncG1pZGlYN205SDYwSmtyXzNCdjFsekl4YnVkR3ppQWU1OFFRenFWOGN6NWNOaHo0YmVsdHRJXzVGQ2lfZ3QwaFVv?oc=5"
     ]
   },
   "TRBTRY": {
-    "last_checked": "2026-09-03 09:44:57 UTC",
+    "last_checked": "2026-09-03 09:58:24 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1938,7 +1938,7 @@
     ]
   },
   "TRUMPTRY": {
-    "last_checked": "2026-09-03 09:44:58 UTC",
+    "last_checked": "2026-09-03 09:58:25 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1950,7 +1950,7 @@
     ]
   },
   "TRXTRY": {
-    "last_checked": "2026-09-03 09:44:59 UTC",
+    "last_checked": "2026-09-03 09:58:26 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1962,19 +1962,19 @@
     ]
   },
   "TTRY": {
-    "last_checked": "2026-09-03 09:45:00 UTC",
+    "last_checked": "2026-09-03 09:58:27 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZklpU3E2cVF4X29YY25naUpQNUVWbk5JZ0pRRVVEZlpqWHVJd0RsQ1RFc1EzczN2SFlHeU41VEJYQmJtYXpURmpWUVZfelhaVlRVV1Y2bnpqZlZ2OVZLdXg4cEYxVTd0TzJIYjRUZlZCRmZoeEY3b01fa1ZBa3I3a2JveU5aak55cXJRSkpxQTM3RTdKSU5YLTNwMjZUTjFrS3lyNA?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzI0RUVDSnVabmJIVUZJWVpOS3ZDY2xGRndFSW9EcTZpZG1fT1h6SnRfYnlhNmhNMzIxNldXMW5DMGZrTUc2enVJbkZwOG5fVDNVcWdlUlpRZFdGT0c5SjRyQW5xRWVIVkNCdnFfSDlpYVowOHpmU3ZhNXUxTGQycjcweWRLUVVXNm5tTlduYzhhcGljMTBfd2xYcFg4WTQ?oc=5",
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUtyNWh5MnpJTi1pUTFkakNwY2pDSVIxaTI1WWhpdnFSamllbWdad3NBa3p0NkdkRnRQTllMNHc3WE9POHhNSEtNdmtONGIzUXZrR21tSWNkNmdURFY0YWJmbUVLR2NxUjRZNkVqUmlKUVBxYUlKYm40ekdkWW04dlhmSnlSSElkcWJqZGFR?oc=5",
-      "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWxRcDZiOFEwaEl6eld0ejRBdlR2Z1YwSW5zVDkyek1IcFF5LU1pTksxVldKYjVkdzBTQnNwcjRycTZrLUdXN1pZenNtZUYwa3J5SEF2dEo4bW9kMXRsZjZXQ0FOOXcyajdSa2UtLTNTMDZ3Mmp1Vko4Wi1PNmZvQ2Z2SUxHcXZaQzVYV1EwdV8zMzNQNktGbzB4WGxxdjNkSW9ZNVJTaVdfdHMwZnc?oc=5",
-      "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRU1wbzRvMEtiSks0RjVQaEszNHZ1S0tBaTFuWTZFeW9XeGk3MTM4U0VFSENZajVCQUpxdWRjSlU1elZSUlFxZGtRRkctOTZ4UXBfamZVZWlOY3p0RHZWX2pRRUFOdDBET2Y4QVBFSFdCVnY0YmdFZTlfYmNRZndYSmxxVjhlcFl6TXgxaXFsTkkzU1BlbVctQUJFZXQ4V0XSAZQBQVVfeXFMUHpObXJPZVotbTVRd3VBZjkxNDg0aGRsX1JtZ2poV0JuLVJQSWlSZy1zalNxVnBBZVp0QWZLamhDYnhpUkt3Qkg3aGROcDVXaGk0RUpSQjRWVDBueC1Ic1hBNlUzZXpKMEZJRFVETG5wS3JiMXFNcUZ6QnhvVkhXZTBxWUloWVY2cFlVQkVfaUVHMDJqWA?oc=5"
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVVwb29OekhjS2Vvc0RTZ2JEMGRFTEdaSTdiNTdsOXVWN2ppamxISU01MHRkZ3J6NVZHbWowOFJuWWdqMHgtYkUxd0tUX19vU3dVMlJzU21hak1XbnRYRU5LbmJyQUttYlBoTGVRSUVjdE5BQjFSSkVnVzlvMl8xeWlUNWFCbk5hdTFmWUdsZ25qT0pwZzRQWE9UM1l2NWpvVDcwWFhtU21UN2xD?oc=5",
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWxRcDZiOFEwaEl6eld0ejRBdlR2Z1YwSW5zVDkyek1IcFF5LU1pTksxVldKYjVkdzBTQnNwcjRycTZrLUdXN1pZenNtZUYwa3J5SEF2dEo4bW9kMXRsZjZXQ0FOOXcyajdSa2UtLTNTMDZ3Mmp1Vko4Wi1PNmZvQ2Z2SUxHcXZaQzVYV1EwdV8zMzNQNktGbzB4WGxxdjNkSW9ZNVJTaVdfdHMwZnc?oc=5"
     ]
   },
   "TURBOTRY": {
-    "last_checked": "2026-09-03 09:45:01 UTC",
+    "last_checked": "2026-09-03 09:58:28 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -1986,7 +1986,7 @@
     ]
   },
   "UMATRY": {
-    "last_checked": "2026-09-03 09:45:02 UTC",
+    "last_checked": "2026-09-03 09:58:28 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1998,19 +1998,19 @@
     ]
   },
   "UNITRY": {
-    "last_checked": "2026-09-03 09:45:03 UTC",
+    "last_checked": "2026-09-03 09:58:30 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
-      "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTd2RWZtQThqaWxyeG9NaUlSa2pJU3phU0ZWTkRiSXFPaFl2aExRWkxER0JVaFlMamdNMVJaaEhua3VWQ0R5TzM5YWhqODhoc1E1ZDdoWkQxdDJPRGdDY19vMHpqYno4aWJaUWV4SzhjQWMwbVpDR3QtTTg4c1oyc3BBRmtuZw?oc=5",
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDJmV1JpZWFoWUY5a1BRYWMyLVNLWER4bEJZV0pqSDZrREpzUnZCMDdEbmRGUGtNSHluc0NEYTJDRXlJV1VmTHF3bjdFVVc0REgzNmF0dVEtMUptWnMzWWFIZG5ZX3Q2dGp3TzFRMUVEYnFlN2Y0c25kQlNsQ3VQWWYzbFlUV2JZ?oc=5",
       "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMFFZWlpNYkw1TFhvNDNSR2hRUi1GaXVBNTZjOWZfNjI5SXRvNW94bThlS01uSDNYZ010MjJlVmQ1WWFSU0MwaHVVQWRTQmFGckQzSVgwbW9tUnlmUjczQlkxOTc1anFwOFVzS0Fvdk04V1NVZ0VJOWVtV1kwdmtBT2cySjY3RUdjeWV2aDVjaDhvMVNmUHNoT2F5cTgwQmp3SHU2M1lSeVVGa3piNWpqSWszb1dueGdqZkxrWFQxWW5mdWNNZ0lHeEhZRFdmOFAzSDVaQTNkbDVtZ2N1czEtRVNHNXFmOVpWVzBwSmd6aTg5RUpQZi1QV0hLWHRXRzdI0gGAAkFVX3lxTE0wUVlaWk1iTDVMWG80M1JHaFFSLUZpdUE1NmM5Zl82MjlJdG81b3htOGVLTW5IM1hnTXQyMmVWZDVZYVJTQzBodVVBZFNCYUZyRDNJWDBtb21SeWZSNzNCWTE5NzVqcXA4VXNLQW92TThXU1VnRUk5ZW1XWTB2a0FPZzJKNjdFR2N5ZXZoNWNoOG8xU2ZQc2hPYXlxODBCandIdTYzWVJ5VUZremI1ampJazNvV254Z2pmTGtYVDFZbmZ1Y01nSUd4SFlEV2Y4UDNINVpBM2RsNW1nY3VzMS1FU0c1cWY5WlZXMHBKZ3ppODlFSlBmLVBXSEtYdFdHN0g?oc=5",
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTd2RWZtQThqaWxyeG9NaUlSa2pJU3phU0ZWTkRiSXFPaFl2aExRWkxER0JVaFlMamdNMVJaaEhua3VWQ0R5TzM5YWhqODhoc1E1ZDdoWkQxdDJPRGdDY19vMHpqYno4aWJaUWV4SzhjQWMwbVpDR3QtTTg4c1oyc3BBRmtuZw?oc=5",
       "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3NMNU16SGxlTGhwamZIS2NoUUtzYjBVSEs5TlgwdGdpNDZsdU5PTzhVWXdVdWVscTRObjY3dXZGcURnVkNTRkREbmN0cTNSVWxxZjhraDNROTBKVVd3WGw1ODNZWDlod2tjU0tVSGpQYnI5T2FkeXF6VzlJcVhzZlB3ZTFULWhNcFZhNjU5djRHZEVTaUxGSHA4N1hFUWZJdE1UNlpCRlNBN08yNF94ZjBsdEE?oc=5",
-      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFFBTXNMVlc3aTVNMG5LRXU0MF83djlIUmFpZWdJVC05aEJCMVFHeEVFTU1kblFRNVFvV08xVlNjM215bzY5Wi00U0FueG92QlhLOG9zSTFmTmJPa2lwbVJVU1JKRUFwUEQ2SjZydDRFay1kWTNsY0ZnZVN3NGk0ZGFDSTlnWWhxR2tsYUN3QzFrdkVkZG1OZXQ5MTFqX2x6RzBfaE9KQlk4YWdNdWRQeHROZmRySWZGc0pnRF9aczNzQ1U?oc=5",
-      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbExnckhOYk1MOHkyaFJDNzF6WGNuTjF4dThBd2J3N1pCUDZjVnhLUDVZM0ZaSHRvT2pvbVdnWEt3T2E2Q05qai00ekFBSnc4ZHlWS25Tek1PTXVxY3ZYWmMxclBfNVZQUWZJc0s1Tm9peUhudF8wVWZReWRSbU5ONkFNN01XQ2Nod2dQZmxTejNaMVJyYmJCR0E4dzRCaThubng4Z3I4STI1U1Z5RlNtVDdQTk9Rd2xOZDVaUUlmcVQ4WjgzR2FvcHpUak9oQUI5NkN0T05YMFkxanJ5UG0zQ1ZHUlB2ejViQUphRGJvMXR4TERnd2RR0gH3AUFVX3lxTE9sTGdySE5iTUw4eTJoUkM3MXpYY25OMXh1OEF3Ync3WkJQNmNWeEtQNVkzRlpIdG9Pam9tV2dYS3dPYTZDTmpqLTR6QUFKdzhkeVZLblN6TU9NdXFjdlhaYzFyUF81VlBRZklzSzVOb2l5SG50XzBVZlF5ZFJtTk42QU03TVdDY2h3Z1BmbFN6M1oxUnJiYkJHQTh3NEJpOG5ueDhncjhJMjVTVnlGU21UN1BOT1F3bE5kNVpRSWZxVDhaODNHYW9welRqT2hBQjk2Q3RPTlgwWTFqcnlQbTNDVkdSUHZ6NWJBSmFEYm8xdHhMRGd3ZFE?oc=5"
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFFBTXNMVlc3aTVNMG5LRXU0MF83djlIUmFpZWdJVC05aEJCMVFHeEVFTU1kblFRNVFvV08xVlNjM215bzY5Wi00U0FueG92QlhLOG9zSTFmTmJPa2lwbVJVU1JKRUFwUEQ2SjZydDRFay1kWTNsY0ZnZVN3NGk0ZGFDSTlnWWhxR2tsYUN3QzFrdkVkZG1OZXQ5MTFqX2x6RzBfaE9KQlk4YWdNdWRQeHROZmRySWZGc0pnRF9aczNzQ1U?oc=5"
     ]
   },
   "USDCTRY": {
-    "last_checked": "2026-09-03 09:45:05 UTC",
+    "last_checked": "2026-09-03 09:58:31 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2022,19 +2022,19 @@
     ]
   },
   "USDTTRY": {
-    "last_checked": "2026-09-03 09:45:06 UTC",
+    "last_checked": "2026-09-03 09:58:32 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZl90NkJTakZXemdrOGY0a1RUdF9ndGNITm1ieGplT2gxcS1DQnNmODdqd01DZTd5SmZIMi1RQWFjbUl6WV9HSHlhT1Z0d1ZsOWJob3JJZHlXUllKUVM4WUROcjhkelNqc3d0aU5XLWZyd0x2ZENfX2JSclZaeEVBNmNjQWdQU284LWhDOEhmcURMalQ3VUdEaWJrSlN2bVM4eXl1REpWN0MxNUhONk9RSjZhcXRTSmFmUm5KbWpUUzdvTXg4Q3FMZEUySnhTUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZzd6Qnlsd2dXV2RGbmoxMmZQMVZpSU9yNUtlc2Z5ay1PZW15TUwwdERxdWluYlVWZWxJdnVSdmY3aXUtSzE5X2UzV2dEZ1llWGZlWTdiQ0Q3YnhiNU52M19hZnVTeGtlQlJUa0x6bXNKT2hyZ1pCS1hVT3U1a0s3WDhIOFZodDB3MVE?oc=5",
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeDhKODVYQ0h4dTdiQmJXNVRXcE4tYkFKVHdtd1QzREJtMXkzLVgtN0NBblpnYWtYbkNhbGJxZ3I2U291T1diNEtYYUhtakoyblRRUVN2TE9CbGJ4aldlbzJLYnI5R09zVGF6QzdxVXJXaldrSnNRSUdlQ0I4TVF5TkV3dVN2aUJLbGc?oc=5",
       "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXVvd0oxRnExT2JEbl9OWmt1WlhjOWdBMFVyNzgxLW82eExENFVOSmVIWDQ4WUVKaHdwcmRramNwd1FyTE5tTGQyU3hiOXRUQkNDOFlNcTFYaGdLeThEOFFFaWVJaWI1Wm5nWVU3c2RPV3lJMHNIM1EteFc5TVo0ejZxYTY3S3ZpaXFRVG1PZw?oc=5",
-      "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaW1MLXNlaDFOTlRJb280clFieDRKSVpXTlB4eklkM1JrNHBHTklOczZXMzRvQ2c0RWZmWHliRXhpOUM3NE8xSEFXZWJEVnVuNk9RcV9QZTVvVFFuUWVJU1VmNVVtSmZ0cC1mbTVHUWo4cXM0RWxIeU5EdGpUSnJxN1dSR0ViU0hEREJtbGU2VHRHZ01GbU9RUVZuM3VMdXBPUjdlNXE1VVZsOENadWFfcGphNjlLRXR4NHJMdmxfLWpZem1tanRFTFBnUExuV0Nwb0hDdUpOdFVfVUtnVFI5Mg?oc=5"
+      "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaW1MLXNlaDFOTlRJb280clFieDRKSVpXTlB4eklkM1JrNHBHTklOczZXMzRvQ2c0RWZmWHliRXhpOUM3NE8xSEFXZWJEVnVuNk9RcV9QZTVvVFFuUWVJU1VmNVVtSmZ0cC1mbTVHUWo4cXM0RWxIeU5EdGpUSnJxN1dSR0ViU0hEREJtbGU2VHRHZ01GbU9RUVZuM3VMdXBPUjdlNXE1VVZsOENadWFfcGphNjlLRXR4NHJMdmxfLWpZem1tanRFTFBnUExuV0Nwb0hDdUpOdFVfVUtnVFI5Mg?oc=5",
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmNIQ1V1bHdEQWRLcVBUX21CS2tlNDcyMnJhWUpsZVQtUFRyV0l1bnlqZlZIaWg4dlY5UHpFMXVLalVfM1RSNFN5ck5DQ1NPaXd1VUZueVVLd29udjhsTTVvVXdaX3NMOWpfbjdPSm9lSDk3OHdGam96SGh4dmRmbG9Dd3hrZWZRR0RTdklSa1MtWWI2dTVsX3Y1NVNFYV9RQU9Na1pnSVkwUHlVTENN?oc=5"
     ]
   },
   "VANATRY": {
-    "last_checked": "2026-09-03 09:45:07 UTC",
+    "last_checked": "2026-09-03 09:58:33 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2046,7 +2046,7 @@
     ]
   },
   "VIRTUALTRY": {
-    "last_checked": "2026-09-03 09:45:08 UTC",
+    "last_checked": "2026-09-03 09:58:34 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -2058,7 +2058,7 @@
     ]
   },
   "VVVTRY": {
-    "last_checked": "2026-09-03 09:45:09 UTC",
+    "last_checked": "2026-09-03 09:58:35 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2070,7 +2070,7 @@
     ]
   },
   "WALTRY": {
-    "last_checked": "2026-09-03 09:45:10 UTC",
+    "last_checked": "2026-09-03 09:58:36 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2082,7 +2082,7 @@
     ]
   },
   "WCTTRY": {
-    "last_checked": "2026-09-03 09:45:11 UTC",
+    "last_checked": "2026-09-03 09:58:37 UTC",
     "last_signal": "BUY",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -2092,7 +2092,7 @@
     ]
   },
   "WIFTRY": {
-    "last_checked": "2026-09-03 09:45:12 UTC",
+    "last_checked": "2026-09-03 09:58:38 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2104,7 +2104,7 @@
     ]
   },
   "WLDTRY": {
-    "last_checked": "2026-09-03 09:45:13 UTC",
+    "last_checked": "2026-09-03 09:58:39 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2116,19 +2116,19 @@
     ]
   },
   "WLFITRY": {
-    "last_checked": "2026-09-03 09:45:14 UTC",
+    "last_checked": "2026-09-03 09:58:39 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVRxTE93TFUycGVGcUNzeU8wNXM5Q1FfWkl6RlZkNldEeGszc2NLSk1Kb0lMYjB1eTNVWWtFTEd0SlctTXBRM2k5QzFFdG41LXRGUnNXSUs1RXZ0MnNTTlZmMjJZdXNRUTEwaml5R09SZmtIajJESEdnYlBpM1pkazcydGxpUjd3clZXNFlwUktjdDUyMDRzNTBRYW9sWkJhSEdMcS1va0N5LU80UFJaZ3FFQ1pSb1kxcGRyOWZNMzlOMkdKQ2s0?oc=5",
       "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJMW1aR0pmOW1PTVRfR2NTaXhtZmV1Rll0UTBiTnJyODNVZ2dQZGZVQVI5cWktWVhVbFhhMnVsY2hCY3YwQlVOMFNRd09GR0R6UzJVblNMYzhaTHFQRHhEZW5NdG5KUF9hRnNWNXEzOWFYLU9WMnhn?oc=5",
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUIzdGZNQ1M3RXhBRGR6a0ppdVBLZFhvMTRXRTR5S1VRSjJWR2k4MEI1RGtObXBXWkI4NHlia2xWT0ZFWnFLbFF3QkxlMGc2Ykg2Z29vcVM2eTVEZndiRHhnX21SNlZjWlFyTmlNSFJIbFphN1ExblhQODlvUEdhNV9EbEhFbEhnX3lXVTVLUWsyeG1SM3VqdG1YSm1xS3NSMTU1Q0FEd0tqZGp0?oc=5",
-      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3p5VVdCLUlCeHdGalVsckVYZVlHMF9NTG96SWc1QnBMZFZVV3p4NjY2YnVLNUV4TkE1ZEhEV09kbTlVdkFvUWxHMFJYaG5hcURTc3BHN3hJQ09BcUJQblBSYjVwNkdRM0VJMlNxd3otMjFQWTBtbDlBQWJZM2lfa0J5YkNla196R1N4OE03ZWQtNmNVRnJTNThTNHc1RFFGY2dF0gGYAUFVX3lxTFBFeTM5RUl5WmlUTTJ1Z0UtNGI5dWlHYjNHUHM5V19iLXZxRTZlRXd5Qk9xX0ZIYzlFd0MwNDNHVnBYdE9WZ3R5UXkzTVBqQkxOTTRPbjJIcXd1R1NIZFVLM1I5ekxnbEhTc09jeDVZejlzam9wYUZUWWkzTVp2MzJCTGtzQ3FCMjZEbndoUy1HY19Ga0tHMGkz?oc=5",
-      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHJHR05JU2I5Q2p3WFo4djBBSnVSMWJ1Zm9TenNlc2lkbkVSTWpYUkdpZUZZVXVlZkh1WmFJYXJRQTRXTVEtUk1GaE1NcV92LTU0LWw4ME5TM2xWY0tiNmc2VHZqX3pDQmdwUGs3WUFEcmZsX0VqZWloQnY5WVo3djlFUFJKQkZwY0Zydg?oc=5"
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHJHR05JU2I5Q2p3WFo4djBBSnVSMWJ1Zm9TenNlc2lkbkVSTWpYUkdpZUZZVXVlZkh1WmFJYXJRQTRXTVEtUk1GaE1NcV92LTU0LWw4ME5TM2xWY0tiNmc2VHZqX3pDQmdwUGs3WUFEcmZsX0VqZWloQnY5WVo3djlFUFJKQkZwY0Zydg?oc=5",
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3p5VVdCLUlCeHdGalVsckVYZVlHMF9NTG96SWc1QnBMZFZVV3p4NjY2YnVLNUV4TkE1ZEhEV09kbTlVdkFvUWxHMFJYaG5hcURTc3BHN3hJQ09BcUJQblBSYjVwNkdRM0VJMlNxd3otMjFQWTBtbDlBQWJZM2lfa0J5YkNla196R1N4OE03ZWQtNmNVRnJTNThTNHc1RFFGY2dF0gGYAUFVX3lxTFBFeTM5RUl5WmlUTTJ1Z0UtNGI5dWlHYjNHUHM5V19iLXZxRTZlRXd5Qk9xX0ZIYzlFd0MwNDNHVnBYdE9WZ3R5UXkzTVBqQkxOTTRPbjJIcXd1R1NIZFVLM1I5ekxnbEhTc09jeDVZejlzam9wYUZUWWkzTVp2MzJCTGtzQ3FCMjZEbndoUy1HY19Ga0tHMGkz?oc=5"
     ]
   },
   "WTRY": {
-    "last_checked": "2026-09-03 09:45:15 UTC",
+    "last_checked": "2026-09-03 09:58:40 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2141,8 +2141,8 @@
   },
   "XAUTTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:45:15 UTC",
-    "volume_alert_active": false,
+    "last_checked": "2026-09-03 09:58:42 UTC",
+    "volume_alert_active": true,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZFhYSG9Zc0RwX2JtNXRHRTY1UFlVOGRrQWpJUmpfZWcwLUJ5cm9JNS1fWjl0RVVtQk1fX2lfUUM2UjFXcUd6cHo0blZaTHVNU1VlYUpTUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fMExlZ0FNZVB2QTFTRXZPUExScm03M016THB6VXlISmJBclNoa1BTOXlhLVJhcjNMS3d2aU55OUszdDlZaFhQUnVfel9KZjNsM21mOGdUOXV5VzlFSC13TVVrZ1o1Y2tvMHc?oc=5",
@@ -2152,7 +2152,7 @@
     ]
   },
   "XCNTRY": {
-    "last_checked": "2026-09-03 09:45:16 UTC",
+    "last_checked": "2026-09-03 09:58:42 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2164,7 +2164,7 @@
     ]
   },
   "XLMTRY": {
-    "last_checked": "2026-09-03 09:45:17 UTC",
+    "last_checked": "2026-09-03 09:58:44 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2176,7 +2176,7 @@
     ]
   },
   "XPLTRY": {
-    "last_checked": "2026-09-03 09:45:18 UTC",
+    "last_checked": "2026-09-03 09:58:45 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -2188,31 +2188,31 @@
     ]
   },
   "XRPTRY": {
-    "last_checked": "2026-09-03 09:45:19 UTC",
+    "last_checked": "2026-09-03 09:58:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": true,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNGIyVHNXY1BFWWg5SlhNYTRDLTBmTTNwTEFaMFNaSHAzTU9NTUdXRTZTWnJ1bnZZQ2x5cnctbDJleEs3QWVmcVBhUXZQSjhQaE1lRzViX05aaFY0QVhWTGVrZHVIWEhySnhMeEh1aEZpc1NvRVlQdkVqQ0tyVjhRNFhodFpWaWNMR3VBVjNaRmE1U3JHaXlLQVJ2cnNyYXBtRVJ6ZldwalRMa3l1MUZYSlFWYw?oc=5",
-      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT0FjRGRLcmZUaFdpMzRtTGZuV0ZDSkZ5TWdBZ1JZOTM4OGpBRE1sUEVjVFp0MEVIbEFCSkxJM1lFZ0VKZFZIN0UxeXpqMGpSUEZULWNrVUwxZS1sYllXTlVmWXdLQS1tcW1keUhsenEwcGtQM0xzRGxRU2E2R2dLZ0RqRVhoSGxER0xpQWdsQnhVNnd6R3BCSGVaY0QzTWdzd2hRY0VhMTlYSkJuSWlBRDlJSTlRTy00aExuemZGRy1ONm1kQlAzdGxRRkJGTmZ1dXVITXhRdlRWS1lw0gHiAUFVX3lxTE1PUVp5MXFVb3Z6R1V1RWhnLUVVOEdtdEZrZTN2bHFqNVVNa2NvUG8zU3hianJGT2ZBOC1hVmhBamVHT1hXNEMxUm9tNVA5a2hRLWVVeG5GNlhxdVZuWnc2VnlIS1l4dEpCbGg4ZXJtLTlRdEVUSGtrLTA3UkF3b0ExbXVvcV9SaW9qaUFfT2JJY3RIekNpQVFYZzQ1N1FkSmsyUXpGMWctcFg2SjNobzFXN2NwUXRvMHByNFFCSThTNVV3TEdORXFjNXdYR0JIQVZMa2VOcV9kUWlhQWstZWJfLWc?oc=5",
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTjZ5OUVEUkZyWV9UVFlyNE5VaFMyUjk1dnNYWlBXV0dCTFVvbEhKY09hcW5qZjBCZUNkM1JlWWFSbWxNMVBTY3d2MTVJSkVRNGVRQlctcU1yNF9yVjVhSXp0ZDlGR19xc2Q0c3N3UXZUUzltNnBNVUFpUU93ejByOFY4NzkzS3FXQ0xCbmI4eGU0VFFxSFpN0gGMAUFVX3lxTE4xb2tTUG5nUTRYY3JIZThiaE9zOC1nSDRZV1NXMmlUWk02UkpEa1BvcWlldm03cnRYY2YyZDQzZWZydFN6SmpUUlBoNzFvZU5nRXRoakIxN0RrcDJ3aFR4VlNKYXlGYlcwWXpWRzg4YWdPbEVQOXFFcFdMclNkUzlpRG9RUHk4SlVQTkxx?oc=5",
+      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPT0FjRGRLcmZUaFdpMzRtTGZuV0ZDSkZ5TWdBZ1JZOTM4OGpBRE1sUEVjVFp0MEVIbEFCSkxJM1lFZ0VKZFZIN0UxeXpqMGpSUEZULWNrVUwxZS1sYllXTlVmWXdLQS1tcW1keUhsenEwcGtQM0xzRGxRU2E2R2dLZ0RqRVhoSGxER0xpQWdsQnhVNnd6R3BCSGVaY0QzTWdzd2hRY0VhMTlYSkJuSWlBRDlJSTlRTy00aExuemZGRy1ONm1kQlAzdGxRRkJGTmZ1dXVITXhRdlRWS1lw0gHiAUFVX3lxTE1PUVp5MXFVb3Z6R1V1RWhnLUVVOEdtdEZrZTN2bHFqNVVNa2NvUG8zU3hianJGT2ZBOC1hVmhBamVHT1hXNEMxUm9tNVA5a2hRLWVVeG5GNlhxdVZuWnc2VnlIS1l4dEpCbGg4ZXJtLTlRdEVUSGtrLTA3UkF3b0ExbXVvcV9SaW9qaUFfT2JJY3RIekNpQVFYZzQ1N1FkSmsyUXpGMWctcFg2SjNobzFXN2NwUXRvMHByNFFCSThTNVV3TEdORXFjNXdYR0JIQVZMa2VOcV9kUWlhQWstZWJfLWc?oc=5",
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmpTUGpYYi1UeDh2VlRCSE52VVBXRW9kYjJRdWVONHVITTdzcVhRVTN2MUlRakpzZ0d4cVF1RlBNSzlOd0JnY2hEcFhfZjFjSlpGd3FvQmJjWEl2TVo2YlFyb1FBOERQMFY4bzA0MHNzeFpnWGlCVVEwMExaTEU5Q1BKay0?oc=5",
       "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlaHNpU0hnMDdFXzRLN2RhUFphWl92QWVmVWFjMHJDa3dkRWxBdGhZenNCS1ZPZF9razI5MWtkOG5oZ3BzSUZOYlk0UkpYOW0wNkJRZ3o1dWNOTTh0VDJLT0xvVTRwSXp3UzBYeG1HaWh0cHc?oc=5"
     ]
   },
   "XTZTRY": {
-    "last_checked": "2026-09-03 09:45:21 UTC",
+    "last_checked": "2026-09-03 09:58:46 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
+      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pU3J1cGVYMXBCOGlmc29pU3NIM0xhZ3BEX3l0ZklfMW91OTlHa0xGeDZoY1ZjNHV0MGo2dUZVN1FkUTloVWc3OFVuQVA0X2J3emhiWm9Tazh5X0xMbXVDcG95VmhtUQ?oc=5",
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jRmpubXFvUk1lNzI1dFdIVGpobzVwakRQbjdqcy05QkNVTS00ejdCalJFend5S1AyeHVjZHM5N19ReUo0WnZNeHV3cWdFOTlWOGIxS0xycXl5Rk5QcGlBcFpLX1p6dkdoT290Q1h1R3RKU1M2VGk1ZHo4OA?oc=5",
       "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OTTZET3dRalBpVnJUdE80UE50bGlUaGhHX1JYM2V5QzZjaHE1QjFFeUtDRzdqMk9ydEFvLVN3SUFONHNmYlkyem9lSzV1eVE5MlRyRzRxVXJYMlJ4Y0JYZzVQeXZXLUloei0xTXpTX3hENEE?oc=5",
-      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wc2xaRDVpX0JmQ3pTLW51WXF2S2tNbEFKUnRlMXZia3FlaWhWRXBsMXdPbjByMGp0NUVTMDh6bE5CWHlxVmdaZl9pSFlFYnZEZWFkSThmVUxVb0g2UTBOSmxsZHlnUQ?oc=5",
-      "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTVwaWJDMWF5SWp0QXhpbmVGYmdMSHd4aGFZdkV6ajhidXFxN2pCX1BRai15Q0hGMW1xM0FkRExVTEh0UXVueWVkcWdOZlR1dXZtQi1NWjRXYktkajdZamQyS1FPdy1UVnpBM2pxWjVCd2NqdVpvUU9wd25wcnhyU0MxRUNLSjdkUkt5YlBvNDZMSjA3cEhDUkhEbDNOZ0hldW0yOUs3VmNxMFY2RmU5am5YZ3ZGQUNobTBxVmZTVlJnREZaN3I1QldTTDFTRkU?oc=5",
-      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44V3NZTlE1UXdZTW1iZ2RlUHc4SUMxbExCUlQyaW9Kam0yaEJkMEhOYTJVWTg5NEZzMlEyZ1h5MEpLRzYwNXRLeFVvMWhEZUQxOVJxdkRmLXY?oc=5",
-      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzVRMzBqci1xSW1vM0cwOExwUFZRd2c3RjRlbkFweFNaY2VoRGRTOVRnMU0zeTI4M2lvcWlheUJRNXBKcXRfQ2E4UVhFSFpzY2lFamViV05GU3M1M3FYRzVYNzMwXy1OaWc3X3llWDdWcUF5UkkwZ0ZXYkQ2cjE5ZUVmazhIdw?oc=5"
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOcTZUc1JUczJNWGVGcU1yZHdBTkVMbkpmSXlocXRxZ3VVZTFuY0dGYUJiSXk2b0V2cmpqZWdFcEhKRmhDTDJlQ0t2c1JvV3I1djJmZWg4WUN1QWtfUVJGT3NDdw?oc=5",
+      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wc2xaRDVpX0JmQ3pTLW51WXF2S2tNbEFKUnRlMXZia3FlaWhWRXBsMXdPbjByMGp0NUVTMDh6bE5CWHlxVmdaZl9pSFlFYnZEZWFkSThmVUxVb0g2UTBOSmxsZHlnUQ?oc=5"
     ]
   },
   "ZKCTRY": {
-    "last_checked": "2026-09-03 09:45:21 UTC",
+    "last_checked": "2026-09-03 09:58:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2224,29 +2224,31 @@
     ]
   },
   "ZKTRY": {
-    "last_checked": "2026-09-03 09:45:22 UTC",
+    "last_checked": "2026-09-03 09:58:48 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNDFpQi1FQ0RmMmhxWF8tS3kzM29fM3FUX0hGOW05eGZjYkEwQ1V5Q09SN25HLU1FQnJXelVGaFpWODZmbmZ3elZnRjdtMl83V0NwZzF2Y2c?oc=5",
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1VESUUzcVQ2UkZ2MWVZQzRRMnhrTElocnpVNjJ0RVlEaG81YllXeXBUMC1JeEJnUXY5MUtCQVRKLTBUbUtMbjN2QzRtUVVPTzBHeldtcnlnR3AwdVNTQUFhclU2bVJIWnpKMW5Sb19JSGYwTWZIeVo0WVRnejRqcGwtbWppNnZzUnRwLVZGUWF2T3RlZl9YVUt6MlZIYnY4?oc=5",
-      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mQWoyZVc3c1J1ejZveEd4MzNIaUlOdy1tNDJJcTNJalZDemtrdm1vN3FPc2pBVlEtSTFlWnpvNDdIenhNbG5LY2MtUDZBVmxwZTEyN3VJejRTSm9qRS1SVG84YlIyQQ?oc=5",
-      "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iU2wyYlRoU3FzSHVzcDE1RU9ROGsteThwdGlVT0wwdHJPOFpMMU51MHFHQkp5Si0ySENOT0Yyamwway1tZl9DS2xRLUlsVzAzTmNUYzQ5UWliOFdlS1lSRlA0OTlqQQ?oc=5",
-      "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWElRcWw4WWhmZUZqM1B0Uzk0X3hISk9uWUNRR0RQd2J2Z3hBa1FEY21FUkRPaTJMTzVfeEhhX19XdDVDS1NISFVKSU1vX0hhdVBwZmpGRjdTQkNGYXgtODJJY1NBQ0pHWVRvemJiRnY5enpjMGh2UFdxbW1IWXlLck0zZWFqLVZMajhjeV9tUDZYUmdsOGtieUs5WnV2UWhXc0tPMW95bkNqY2xhb0E2OURn?oc=5"
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2lKRzZCM3lEbndMMGtadks0b2w0NW5aaGM1QmZWVXVfZ0kxcWRUdkhXRmJveVdkLTlBT3ZOaTNxOTBxaVB4MlpIZjZ2V0ozX0VZS28wNTVPZjdVLVdpcEdfa0NhRmFzZTlOQnduQmhLSVd6YkFEaXMtSzltNTBzblpKZU1KVVBvZzQxQWZldDdUNkJacng1WXloWFN5YmlSMHhtUDZFcEhiS0VQaUUtOUZmajNHbnc?oc=5",
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDZuby1GSGptdTM4ODFaZGtoa2FlY2dINlJIMTJha1dTcEV4Mm1yR1BRQnFYTlZvYU5vNi1yZEhVTnNraXhMQzlBelRlWmlDT2lwTW0xUEhmT2tqSWhPcG5nMnJyMGpiSlVtSDNhT3dMQ3FsaC1JeXdqRHpiZ1B1RVpDaFFJM1ZPaUV0cWY0UWUyUFlwdHJrREEzeE9SZkdyUUhpajc3Uk1Pam1FOE16NmdSNDVSQTA?oc=5",
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWGlXRllNU2JGUWpmd3EyNEw4NmpER1cxZF9rZkRLZ3h0SUZ2VEh4S0R5Sm1Uc0RGVXNxTGtSUUVtY3QycDRJa1VEd0dSRmpoSUVHd0FpUktRVW5DUWxaWg?oc=5"
     ]
   },
   "ZORATRY": {
-    "last_checked": "2026-09-03 09:45:23 UTC",
+    "last_checked": "2026-09-03 09:58:49 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xbVozNG1YWGlENTI3R2tJdE9DdDFXYXl4Vk9VMWdnTERhSDJhM2x1ZWVQM25iQW5RZkRKZVRNZ3JDZFN0UDNSUk1QWjNpWTQwNGVvNXd3b2pldw?oc=5",
-      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Nb3NCZ0VFa3Y3bHJvWUpaQjNUNDQ0NW4xTjJZbi1KMlNhSll2TlVLcUlSTEV4aDJNV0tjWWZIM1ZlVjBZZGRiam1nYko4U2dYS0V2cVB6aWI?oc=5",
-      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOHRQd0ZCZ2NmbzdUZlkwVmRlQ2VEcUJWRkgyRDF3aXI3LS1UNVZKM3ZoSXF1Snd2ODByNzhkN2pJUXlHdjlKWDV0d3FoU3REYXh3?oc=5"
+      "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wUi02UWZRdzhhVV9CazVpNVlUX2tGSVZoV3ZUT25xekxVWl9GTWx6NzJ5NlpkaV9CQWVDYWwzN0poZ3lJV0htdGxvQ1N6UQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOHRQd0ZCZ2NmbzdUZlkwVmRlQ2VEcUJWRkgyRDF3aXI3LS1UNVZKM3ZoSXF1Snd2ODByNzhkN2pJUXlHdjlKWDV0d3FoU3REYXh3?oc=5",
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkl5NDRzTFUxMVBRa0l6em5sX2g2TF9pWFBfUXJ6VWk2eU1aVmg4UTIzQjg2SFpuT3FaUVhzU2dGcDc3ckw5SVd4eDdGeTI0WEw2dnBERTcySGpmNUMxaVVUeTNxMnlISUpsOXNwZnFMaXZ0Q19DNjVBY2k2amZMeldMdG82X2RPbnBLQ3Z5ZEFzRUtsX3JpMFF1YjNVX1dwMEtRYzVkb3o4dw?oc=5",
+      "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tWG1YQVU5UmNSX1N1dFM2ZTF1VlZ5QnoxUFZaOVhqWU1MdG83aExMZ1hseHdYWk1wUEUwUVhaUXJETFRHREpndzB1amdpMl9zWndIc3lTQ3NTejUxamN1ZHo3NVV1Uk5pMVhxTXo2aVkzUUU?oc=5"
     ]
   },
   "ZROTRY": {
-    "last_checked": "2026-09-03 09:45:24 UTC",
+    "last_checked": "2026-09-03 09:58:50 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2259,7 +2261,7 @@
   },
   "ZRXTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-03 09:45:25 UTC",
+    "last_checked": "2026-09-03 09:58:51 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00UjFMUVIwYkQxdnd4UXRWTEJlUUFDczlfZmtrZVNER2ZLdmRrZHdYUDJIU1QwTTVDVl9CSEdLdlM2QThsYkxUMkp6TGU5QQ?oc=5",
