@@ -60,6 +60,10 @@ VOLUME_MULTIPLIER = 1.2
 # --- Anormal hacim alarmı ("balina vekili") ---
 WHALE_VOLUME_MULTIPLIER = 3.0   # Hacim, ortalamanın kaç katına çıkarsa alarm versin
 
+# --- Erken yükseliş uyarısı (büyük hareketleri erken yakalamak için) ---
+EARLY_SURGE_ENABLED = True
+EARLY_SURGE_THRESHOLD_PERCENT = 4.0   # İki çalıştırma arası bu yüzdeden fazla YÜKSELİRSE anında uyarı
+
 # --- Haber takibi ---
 NEWS_MAX_ITEMS = 5              # Her taramada en fazla kaç haber kontrol edilsin
 NEWS_ENABLED = False           # Haberler kapalı - sadece strateji sinyali + hacim alarmı aktif
@@ -91,14 +95,26 @@ REQUEST_DELAY_SECONDS = 0.25
 STATE_FILE = os.path.join(os.path.dirname(__file__), "state.json")
 
 
-def get_try_pairs() -> list:
+def get_try_tickers() -> dict:
+    """
+    BTCTurk'te işlem gören TÜM TL (TRY) karşılığı pariteleri VE güncel
+    fiyatlarını TEK istekte getirir. {"BTCTRY": 3450000.0, ...} şeklinde döner.
+    """
     resp = requests.get("https://api.btcturk.com/api/v2/ticker", timeout=15)
     resp.raise_for_status()
     payload = resp.json()
     if not payload.get("success", False):
         raise RuntimeError(f"Parite listesi alınamadı: {payload}")
-    pairs = [item["pair"] for item in payload["data"] if item["pair"].endswith("TRY")]
-    return sorted(set(pairs))
+    result = {}
+    for item in payload["data"]:
+        pair = item.get("pair", "")
+        if not pair.endswith("TRY"):
+            continue
+        try:
+            result[pair] = float(item.get("last") or item.get("close") or 0)
+        except (TypeError, ValueError):
+            result[pair] = 0.0
+    return result
 
 
 def get_ohlc_history(pair_symbol: str, bars: int = BARS_TO_FETCH) -> list:
@@ -263,6 +279,24 @@ def check_news(pair: str, pair_state: dict) -> list:
     return new_articles
 
 
+def check_early_surge(pair: str, current_price: float, pair_state: dict) -> float:
+    """
+    Önceki çalıştırmadaki fiyatla şimdiki fiyatı karşılaştırır.
+    Kısa sürede %EARLY_SURGE_THRESHOLD_PERCENT'ten fazla YÜKSELİŞ varsa
+    yüzde değişimi döner (bildirim gönderilsin diye), yoksa None döner.
+    """
+    prev_price = pair_state.get("last_price")
+    pair_state["last_price"] = current_price  # bir sonraki tur için güncelle
+
+    if prev_price is None or prev_price <= 0 or current_price <= 0:
+        return None
+
+    change_percent = (current_price - prev_price) / prev_price * 100
+    if change_percent >= EARLY_SURGE_THRESHOLD_PERCENT:
+        return change_percent
+    return None
+
+
 def load_state() -> dict:
     if not os.path.exists(STATE_FILE):
         return {}
@@ -295,14 +329,14 @@ def main():
     state = load_state()
 
     try:
-        pairs = get_try_pairs()
+        tickers = get_try_tickers()
     except Exception as exc:
         print(f"Parite listesi alınamadı (sonraki denemede tekrar denenecek): {exc}")
         sys.exit(0)
 
-    print(f"{len(pairs)} parite (TL karşılığı coin) taranacak.")
+    print(f"{len(tickers)} parite (TL karşılığı coin) taranacak.")
 
-    for pair in pairs:
+    for pair, current_price in tickers.items():
         pair_state = state.get(pair, {})
 
         # --- Fiyat verisini bir kere çek, hem strateji hem hacim alarmı için kullan ---
@@ -320,6 +354,22 @@ def main():
             print(f"{pair}: fiyat verisi alınamadı, atlanıyor -> {exc}")
             time.sleep(REQUEST_DELAY_SECONDS)
             continue
+
+        # --- 0) ERKEN YÜKSELİŞ UYARISI (en hızlı kontrol, ticker fiyatıyla) ---
+        if EARLY_SURGE_ENABLED:
+            surge_percent = check_early_surge(pair, current_price, pair_state)
+            if surge_percent is not None:
+                send_notification(
+                    title=f"⚡ Erken yükseliş uyarısı — {pair}",
+                    message=(
+                        f"Fiyat kısa sürede %{surge_percent:+.1f} yükseldi!\n"
+                        f"Güncel fiyat: {current_price:,.4f} TL\n\n"
+                        f"Büyük bir hareketin başlangıcı olabilir, BTCTurk'ü "
+                        f"kontrol edin. Bu kesin bir sinyal değildir."
+                    ),
+                    priority="urgent",
+                )
+                print(f"  ⚡ Erken yükseliş uyarısı gönderildi ({pair}, %{surge_percent:+.1f}).")
 
         # --- 1) STRATEJİ SİNYALİ ---
         result = compute_strategy_signal(df)
