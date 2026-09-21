@@ -2,7 +2,7 @@
   "last_signal": null,
   "last_checked": "2026-08-25 19:13:59 UTC",
   "0GTRY": {
-    "last_checked": "2026-09-21 02:34:35 UTC",
+    "last_checked": "2026-09-21 02:56:41 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -12,10 +12,10 @@
       "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oWlBqMHZtSkY0TmlPY1BVX3hpRm5SWjR5X29YajNMSC1uWWFSUWNYUjZ5SEpOQU5zSVVKd2Z0QkozREJkbTBiZGtjVGd6b0N1QlVycFBrYmtyQjFka09EcHVaRWVJY21PTzhINjN2N1ZrVXJNbi1v?oc=5",
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2ZMSXRZNklTREluZko3QXBnSWtsUmdDekdBN0djQUdXM3FWMkpTeHBlempsV1JSSXpKZ1k2eS1RR21DQlBrcC1INDFfMzBDS3lVTE8za01XeXNWUldlVktUU0t0SzQ4NWNBU1YtdXRWeV9IMWo5Tzg3anQzOFgtdWlwQVlJQmFJZWdHaXJidk5sclNjUTZuZU9iQngxX2l4MDd6c0Zn?oc=5"
     ],
-    "last_price": 10.527
+    "last_price": 10.502
   },
   "2ZTRY": {
-    "last_checked": "2026-09-21 02:34:32 UTC",
+    "last_checked": "2026-09-21 02:56:38 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -28,7 +28,7 @@
     "last_price": 2.4
   },
   "AAVETRY": {
-    "last_checked": "2026-09-21 02:33:16 UTC",
+    "last_checked": "2026-09-21 02:55:11 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -38,10 +38,10 @@
       "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pcGdfc2tuemMzWklrU0xFcXQ3SFZoUU90bkR1dTFScFBlRWI5dmEtVG15ZGNUMllzZ1pCRElJVW5qT1lTeDBQZ3hoVVVDTC1nSmtVVkVFNGlLWV9IU0VyeUctOWZvcGFTbGxRcVBZTmg5c3NTS3hj?oc=5",
       "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVlg2bzlwQ3UxUkZSWGZWOTcxREdVSkJONHQxUFhQTzFaVnZQM1pSSEd6VEd1MDBRRXFEQW9GS1NQbXNScDFnd2wtUDVtYXJpemJTYXZXRUFwM3lDVDdIWkVyTnZtbDBzcWVyNk5GV1JOV0pOVkxSMFhnaGRsUFlxeFlxV21nSXJxQ3VfcGJJWTA5SUk?oc=5"
     ],
-    "last_price": 6699.99
+    "last_price": 6673.94
   },
   "ACMTRY": {
-    "last_checked": "2026-09-21 02:33:42 UTC",
+    "last_checked": "2026-09-21 02:55:40 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -54,7 +54,7 @@
     "last_price": 13.36
   },
   "ADATRY": {
-    "last_checked": "2026-09-21 02:33:00 UTC",
+    "last_checked": "2026-09-21 02:54:54 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -64,10 +64,10 @@
       "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVDNjM2owNjh4R0tRTDRvQmFNazFzV0JZR0RaNHJoaV9wOHZTWFdnaVRBeXFGbkNjMDd3bWhDQWRkM2FwY0RZTC1GdU9TcVpIeFYtVXYtYVlOYmxpRWxscnExakN6RnR3UzJxckZJcEw3Yk1TQ29yQmlwUG41Qklra1BMMXlIdVU?oc=5",
       "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1ZfU3VLbTFvRlV4dWg5N2F3b0dseGhJSGsxbk5kaXNoc0J6a3NWTWpoT3JUVzhMd0lhQ1Z3MFNqOTZLVUJJdmNJS09rS1J2RTZYbDZDNHNleTEzODRBQzNpaGs3NVczT0lPeXFseEZpb2g5ZlU4elVOZHNEdExwYS1pZWNTXzhSSnA2ejlfaUxoYnQtcEQ5WDJVMlY0amFSenJj?oc=5"
     ],
-    "last_price": 11.155
+    "last_price": 11.153
   },
   "AEROTRY": {
-    "last_checked": "2026-09-21 02:34:39 UTC",
+    "last_checked": "2026-09-21 02:56:45 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -77,10 +77,10 @@
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZE8zT0JYTHZNUkhGYU5KblJCZWZSWFFHSEZKdGZlVHRkWUNDckdGa0g1ai1qZjVGbmtLa0hxWV9oQ3Nwd09xeXpXbEdGcXdHZTJIVHVRaGhXTnVZdkIxNmlVck9jbmdWczMzZmtUd1FINTdPczhncWlpem5wTmdFRDR3?oc=5",
       "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xR0Q2aXE3TWRraTZGV0RDY2hzam9iSTljMDZEZjZtUERxRFZLRlFvcEozU09NRmxRc3F3M1g1YU1abzdxZk9ZZDlYYWRyMG5oTmRURkdUMXR1T3lEVG1KVXNkS0M?oc=5"
     ],
-    "last_price": 32.399
+    "last_price": 32.213
   },
   "AFCTRY": {
-    "last_checked": "2026-09-21 02:33:46 UTC",
+    "last_checked": "2026-09-21 02:55:45 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -93,7 +93,7 @@
     "last_price": 7.695
   },
   "AIOZTRY": {
-    "last_checked": "2026-09-21 02:33:54 UTC",
+    "last_checked": "2026-09-21 02:55:55 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -102,10 +102,10 @@
       "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQVI3Y1k5dy0xUGtyWVlYZEttdzhrdTYxQnQzYlc0bWREeHRNVS1BRUNIMnh6SGo4VC05MXAyd01qdGJ1Mks0NGN0eXBHY1pNdW1YTVJTekR1Q0k2V1VkLVBaX2J0YnNsZEl6U0dkQkJiWEJ0cDczV1N0a25GZHZYQzl6dTBDVjBHb2dLWk1TNnNKc01qd2R4TmJfMUVMOS11S29Qd3ktcUx4bXZWOURYNUFR?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDNxeUlYS2U4UkNPMURCUDFOWWFmRHNhUExQTUt2cUw1SjNkWjgwcXVhWlpSanJvaHlJcmx5VTAtN0kyckI2S0pIMVAyaFRzTXZ6SjhJN2tXeXhGNy1zQjZZYWZfa3Y1REY0Z0M5dlpneUNXNGNnbm1Ic2FKRkZhMnh6MXRydlhVWUhoT200ZzFvejEzU1JSVm1EUEJTcEx0U1p0MXVHd01HWS02Zjhn0gG0AUFVX3lxTE9oTVVJQmtyczVNYVk0RWliNHd5VU5QZ1V3aWxRaHFQc3NVdVdJUXBITjd5MHZVc3VTbGRzTVQ1MEY0V2NNRUgzZFVyZF80UTJuQkFIYlh6SEh3UktpWVVrZl9USGRPZkhNbVdfTkpTM1U4MUhYZHdXNzk3SnE5TXZTNXBvTDNiQVV3VHVsNFZ6OWV1WVBkNWpVd1dZRkxndHVRS2Jsa0IxUk80NktDRzlMZmY5Vw?oc=5"
     ],
-    "last_price": 4.38
+    "last_price": 4.36
   },
   "AIXBTTRY": {
-    "last_checked": "2026-09-21 02:34:20 UTC",
+    "last_checked": "2026-09-21 02:56:26 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -118,7 +118,7 @@
     "last_price": 1.0146
   },
   "ALGOTRY": {
-    "last_checked": "2026-09-21 02:33:20 UTC",
+    "last_checked": "2026-09-21 02:55:15 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -128,10 +128,10 @@
       "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mcUZyWmRtR3RZREp1ZDJfU2NUNlhKWDJSTWJ5ZG80ZzNlenRMNUJscmx1VFQyUmFSZlBaTENmX1BQWUF0a0N0UXl3cVdyNXlEUGlEWEF1NkZtX1RrNnJvZWxTWGxtR00?oc=5",
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TSnhQU3hNTEdKc2lIOGxpY0p2cm1hcUhRRGNJYzhBeDZoejE2N3liRXBxTmtKQ0pZanFDYzdEYUNtUjR1ajlqci1fMk5SdFJYSGU3OGRHbU9mbVN4UnBsaWN6VQ?oc=5"
     ],
-    "last_price": 5.26
+    "last_price": 5.292
   },
   "ALLOTRY": {
-    "last_checked": "2026-09-21 02:34:46 UTC",
+    "last_checked": "2026-09-21 02:56:53 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -141,10 +141,10 @@
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTWVRYV09qZy1ZbkVrT3V6ZlhmS2d5a05QSXJkTUNab2xqSmNxbG0zcHR5Z2o1eUpaMi1GSmxGTmlPMDlKTWppaFR0VlFtUWJKSlF4djdVSHQ?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rdXljdEZXbF9Gbl9Sd3FuNkREdm1Sd0pTdVJQbnRXc1JrRmt3Vkw4MS1HY1FIRmYxSHF1NXpueU9IcTYtdG1QX1NKdDBvanVwSXdsdWVZMU4yUlUt?oc=5"
     ],
-    "last_price": 12.23
+    "last_price": 12.351
   },
   "AMPTRY": {
-    "last_checked": "2026-09-21 02:33:18 UTC",
+    "last_checked": "2026-09-21 02:55:13 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -157,7 +157,7 @@
     "last_price": 0.0224
   },
   "ANIMETRY": {
-    "last_checked": "2026-09-21 02:34:16 UTC",
+    "last_checked": "2026-09-21 02:56:21 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -167,10 +167,10 @@
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HN0tCQzZYbW4zd0FCQWpVNVJfbzBBTzlCS25aTHlWMjdqRUtQVTRZTFNBOS1PTmI0RnpaaVBIVWd1aF9YTG1mZ3dqRGhVQUpyWjhhTFktN1dMQVlI?oc=5",
       "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nMmVQWkJtLW1jNHFfMDJxTnZ3MWQtT0JNRmpDU3pFb0txQVNFQnQxWWJRc0tnazJ4QWppSUt3NFRwbnV0V2NqbTZlU1pqZ0FrUEs0?oc=5"
     ],
-    "last_price": 0.153
+    "last_price": 0.1529
   },
   "ANKRTRY": {
-    "last_checked": "2026-09-21 02:33:03 UTC",
+    "last_checked": "2026-09-21 02:54:57 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -183,7 +183,7 @@
     "last_price": 0.2321
   },
   "APETRY": {
-    "last_checked": "2026-09-21 02:33:21 UTC",
+    "last_checked": "2026-09-21 02:55:16 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -193,10 +193,10 @@
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAydHBMMjUzVHAyblVsc280Wl9hSkRBWWE3anNET3VJcFRqSzVBX3d4VlRWSnRud29pVHRfZlZYbGEzbWloSmc2N3FNS0g4NG5XNmZleHFqTjJ1bjB30gFiQVVfeXFMTVA2STliNlloYnQzTDdua3Vvb2RKU0xpcHhpQk1LWXhCd0VtbmpSeGpqdm8zeGFkSDB5WG1mMVMyMHN0dWV1ajBDQTR2SWdxUzU5VVp2d005TzYyWERxclJuOGc?oc=5",
       "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwR2RDQ3k3UW42R1dsVFdkN0docGpmVHV6c0pmcXNWQ0VqWHVDazFBZnY3QkUxT1dIbXhMV3hQMEs4dHc0UzZDRklMQ0praXR4UjY1YS01bllnbG5scV85XzE2VDFuellkY2ZwUjFSLTgteHdqdFFoM2VvUG1wUQ?oc=5"
     ],
-    "last_price": 6.61
+    "last_price": 6.59
   },
   "API3TRY": {
-    "last_checked": "2026-09-21 02:33:34 UTC",
+    "last_checked": "2026-09-21 02:55:30 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -209,7 +209,7 @@
     "last_price": 12.01
   },
   "APTTRY": {
-    "last_checked": "2026-09-21 02:33:30 UTC",
+    "last_checked": "2026-09-21 02:55:27 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -219,10 +219,10 @@
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhoTkNDRXZCVFEwcU1MbGFEY0xRQzdRd20xeEFYMU5xUW1oeXFKcEU2VlREalRYTl9Xa0dHQnRsdkozZXREdEhQWjYtRGZHVXdfVlgweGtGcWtLVzE3SHgtTi1lTk1QNUVIZ05IR3RZN2FMN2l5YmZZNTB4OTdUc2k3SDI0Y2Nja1ItcGRFZVJRUzdod0p3UzdfUGtZcDM2?oc=5",
       "https://news.google.com/rss/articles/CBMif0FVX3lxTE51enR4bjREM05vejZTMmNkRnZDWk5DMlU5WjhnNmhDVUhXaThMYjBqc2ZTRjU0Y1djclRnUDJScVVwc1JhVnJIRVlGbGtRVDItQWRyanZFUjVOQVYxOEhyaGV4UnB3bU5wWS1WWlBCYlNqWE1PODhDZTFWRlk3S0U?oc=5"
     ],
-    "last_price": 35.33
+    "last_price": 35.52
   },
   "ARBTRY": {
-    "last_checked": "2026-09-21 02:33:36 UTC",
+    "last_checked": "2026-09-21 02:55:34 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -232,10 +232,10 @@
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUXZ1c0JiR1lldmh3Y2tOSERmNnN4QTJ5ZFZlODQ5dldzSElmUWRzaTE2YUk5LTdKZFZZeXd3UHV6YVhQc2xEQlVYLVZySFl2OWVaVk1UQkV0REF5MHI0SVBZTUVRUzg1WXBRT1dCdXdnSEtaTHN0TVhlcnF1Zk44cTdLV0ozX1pncXhYQ2dXQVprQ3Flc2p6RzdNWC1XeGdXLUVrSDBHeGhqLU5MZUlOZlZia05GSGE2V0s1ZFBZM0VXSXk5?oc=5",
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbW1SczBVOHhQaG5WZGVhSEFub3JfQzVXNlFMcmd0dUpjdEZoY3BSM29GMUFQeUdEUWpoN3YybTFYLXBPR3VtY2FFYjRkRm41TEVyUjZDaTN3QTlpaU5ER1kyWXp2ZjFVSUgyNGxkbm1tSGk3Q0FzcG9LZ2FrcEVzODF2MWdKRDY5WGtuOEMtelBtSW5waFJYbUxiS2tYMWdFeVdCQUctUHFoaWhp?oc=5"
     ],
-    "last_price": 10.389
+    "last_price": 10.531
   },
   "ARKMTRY": {
-    "last_checked": "2026-09-21 02:33:59 UTC",
+    "last_checked": "2026-09-21 02:56:00 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -245,10 +245,10 @@
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcl9qUUdZeHRRWmJTUW0xXzJZVUJ2clZsaFRoNFJQRlktb2ZkOHNLYVFWalBRakxXZE9hZC1mSktDY29aRFJMTlFNeTNSbjY4TnE3RHFubG5hQVNkc3loWmoxbkJ2b2luRlZXTjFmTlVfT2NaQU1BNGlUdEloVEw4MC1tckU4V0N6emRsT1BR?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zRExJYkZKX2NCMkhWUlE3M1EyOEJXM18yX3l4LTRxZnA2d1ZTcFgxZHBqcXZHaV9temROaFZKcTJFTDRPcV9NMm1RSTlQUGlPTjZyOEpsMFhnRFFsSEVyZ214NVczbll2M0FhNUx5MA?oc=5"
     ],
-    "last_price": 5.467
+    "last_price": 5.53
   },
   "ARPATRY": {
-    "last_checked": "2026-09-21 02:33:39 UTC",
+    "last_checked": "2026-09-21 02:55:37 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -261,7 +261,7 @@
     "last_price": 0.5019
   },
   "ARXTRY": {
-    "last_checked": "2026-09-21 02:34:47 UTC",
+    "last_checked": "2026-09-21 02:56:54 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -273,7 +273,7 @@
     "last_price": 9.639
   },
   "ASRTRY": {
-    "last_checked": "2026-09-21 02:33:47 UTC",
+    "last_checked": "2026-09-21 02:55:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -283,10 +283,10 @@
       "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OaEhteEJlbDlqNkl3T3ZwNHJaNVhZTjUtcVgxV2paeU56dUVGMXRfMXJhOU9KeE5reS1iX2ZOenFLZVh6a0ZhSW9QLURHVmlCM0hpcjhOZ2s?oc=5",
       "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGpxVlpSMHZlcjVUc25xRnUtaDRjbVZ2WS05eC1PV0d2aGZaSkZjaTgwQnFFT096S2JkMzE2bzJNWFBEaGtTUkJoS2xPWThkRnhkN01PaVRpTWdQYWdGUm1LY0xKT0pEZFJMXzFBbjVyRHVOTGIxdFpHT2FDNkYteVJLSG5LOEY0bUdKeGRYRUpSOGhRc095bG05QjNsbGVpbFE?oc=5"
     ],
-    "last_price": 40.9
+    "last_price": 41.144
   },
   "ATHTRY": {
-    "last_checked": "2026-09-21 02:34:23 UTC",
+    "last_checked": "2026-09-21 02:56:29 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -296,10 +296,10 @@
       "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84cm00WUkyUV9KZkJsSTZTdHo1ck1zU1dHbElnako2dFA1QnZuYXJYWm9jbXUyVExQcnNqV0pyN1ZHNzNvN21jWnZUZUhTd0VPUnBqa25BazB5Rk5yQnd4ckh3?oc=5",
       "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWW1lVWhMUkEwRzNldnpoNHFJc2FzbVFDdFo0akI0ZHA3bGVUU1JnVVlMb18zamFZbWRjNWhHUHN1U0o0dUJscTZLS25zRHN1UUVkWkpvZFBOV19rMWs2ODZ6eUJaaDBral8zTTZxZjQxRk1Iejlka3ZqUEp0UlBObw?oc=5"
     ],
-    "last_price": 0.25761
+    "last_price": 0.25777
   },
   "ATMTRY": {
-    "last_checked": "2026-09-21 02:33:44 UTC",
+    "last_checked": "2026-09-21 02:55:43 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -309,10 +309,10 @@
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYldiRXktSlY3V3lPZEZHaS1uRTE1M2M5WmNGZHM5VzBEUEU4R09hQ3pFMG5lbWdzakU5ZS1aS25TZUFibElsZk5SamlNeFlwX1FEbE4xSTZ3U3ZURUxUaHM2T3VJdk9JRGk4YnBpLURrWWJoRmQyMGMzckx0Umg2Y3dRNEgycVlQcnFQMFFpZFdqYXZ2ZU5GMTgzeDdOY00?oc=5",
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUWdFNDdaaWVRWHJFU1pRazFqVFk3b2JackFJcWtVRTlUNDVYTHlNVXZoYzJVMlRYeURaVzhXbVRURUdPaFJ6aGtrSFZDOG1kZmpqWGxSMkFLdDVwRTh3bVBjY3V0ZGFHU19pZWFTSWFVM1FOUndrQjhmTUZlTjJlU2xTLW5lbkljczZ6RUlUc1ZNQQ?oc=5"
     ],
-    "last_price": 54.25
+    "last_price": 54.411
   },
   "ATOMTRY": {
-    "last_checked": "2026-09-21 02:32:58 UTC",
+    "last_checked": "2026-09-21 02:54:52 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -322,10 +322,10 @@
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY3VfWXdwVUpkNHpYVEgycHRMZXZ3clVRVzhLbkctUi16Wkk1bE90aFh1RVdkQkVRazFaM2gtYnpBTlp3cmlvNjJVemU2Ujk3c3ExYjZXNnc1RGgzQ09rRWpoTGo3Mm9XckNycXk2MTN2UjVlUGFBSTNUOWhhemxmX29SNUN0V2lhWEJkdGUzV1NkRDRRNzdXM2Fnejc?oc=5",
       "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE0yMmZqSjFJR3JMZHo3dXNpNUZkM1pHbDNQV1hLRC1fREsyQy1nRFd6TEZzZFhpM0pobjBYMl83a3lLdjR3c2ZvZVVHTnhpUFJiTm4wSmNtck9VcFVGSjhZMlZuOHVKSzdGcFVaZTZOdzFSODZkVFhqRWpvSC0wYWwzOFNtV2U4Sy1jNHRVZl9JX2hJeHF1U3ZTVm1JUWJ5VHZqOFR5d19rQmc2eUVyVjZsRG1OZDZoMHYyaEl5dk1VWDA?oc=5"
     ],
-    "last_price": 83.95
+    "last_price": 83.88
   },
   "AUDIOTRY": {
-    "last_checked": "2026-09-21 02:33:19 UTC",
+    "last_checked": "2026-09-21 02:55:14 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -338,7 +338,7 @@
     "last_price": 0.641
   },
   "AVAXTRY": {
-    "last_checked": "2026-09-21 02:33:09 UTC",
+    "last_checked": "2026-09-21 02:55:03 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -348,10 +348,10 @@
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaDNycFRpVUczS3JvRFRlZVg1OHNIQW5jRVE2WG5xRUlhaENiR3JJaVF3NHpGTG52NncxWXV6VGVMTnp6WEtNWGFXazV5MXZkS2RYR0VtNWlUcGVubGx4WnNmbUZ6TFRoNVE1azdfNnc4X3lxZ1ZSdFlaNmh5RFdlOEtpMjFNSlM0aUZBanU5NFRSMzBtTFlBYVp3?oc=5",
       "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTBCaUFpQTNKRGdKT3ZtNi1lZzdYeEhHbVVsZ1NrODZKWnRRZmVsNkFqYXNCSUpjd04xMGJFakpqQU1XZDdweWdaTnBJN2c1eGpOcjhxRVpsSkhUc1I4LTVhZTMtajFqQnVVQnN0WnEwTjQxamJwQVJzUF84UlVTdGdkSjBfUQ?oc=5"
     ],
-    "last_price": 541.46
+    "last_price": 539.2
   },
   "AVNTTRY": {
-    "last_checked": "2026-09-21 02:34:32 UTC",
+    "last_checked": "2026-09-21 02:56:39 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -362,7 +362,7 @@
     "last_price": 5.251
   },
   "AXLTRY": {
-    "last_checked": "2026-09-21 02:34:00 UTC",
+    "last_checked": "2026-09-21 02:56:01 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -375,7 +375,7 @@
     "last_price": 2.334
   },
   "AXSTRY": {
-    "last_checked": "2026-09-21 02:33:12 UTC",
+    "last_checked": "2026-09-21 02:55:07 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -388,7 +388,7 @@
     "last_price": 48.9
   },
   "BANDTRY": {
-    "last_checked": "2026-09-21 02:33:34 UTC",
+    "last_checked": "2026-09-21 02:55:31 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -401,7 +401,7 @@
     "last_price": 9.83
   },
   "BARDTRY": {
-    "last_checked": "2026-09-21 02:34:41 UTC",
+    "last_checked": "2026-09-21 02:56:48 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -414,7 +414,7 @@
     "last_price": 6.444
   },
   "BARTRY": {
-    "last_checked": "2026-09-21 02:33:43 UTC",
+    "last_checked": "2026-09-21 02:55:42 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -427,7 +427,7 @@
     "last_price": 13.258
   },
   "BATTRY": {
-    "last_checked": "2026-09-21 02:33:08 UTC",
+    "last_checked": "2026-09-21 02:55:02 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -440,7 +440,7 @@
     "last_price": 3.896
   },
   "BEAMTRY": {
-    "last_checked": "2026-09-21 02:34:24 UTC",
+    "last_checked": "2026-09-21 02:56:30 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -450,10 +450,10 @@
       "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXlwckVXalotNTZ2NHhxNHN2SUk5SzhNMUlVLURiZ0xYVmwyYzg5SXFFczJkWjhlVmlnaXIzUWxaSVA5UUdnV2tyV1NhSWUtSFBrazdkTDBGVzdkOTZQTGVrSkU3SnRYby1id3l3aGdHeDZUNHJzNnk0ajhvZ1c1cGlVMlU1aWxnMGlKMHBtRDEyaXgzVFRueF9Cakk2YkJHcldmOXlFWUNKUlU2VjJ5anNZcDZZTkVM?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFNzdBci1IQmJfb3JrcmxiV3JsTmRHcDJJMXdVNk85SURlUXNLdG1aVnV2RFc5bVFHNENTaWx5SVdHbTR6aF9KazU5RFkxX3FWWi1KSU1fdkZGUi12aWVlSkVDXzZNdnRhMWdTVnExTHA?oc=5"
     ],
-    "last_price": 0.08934
+    "last_price": 0.08856
   },
   "BILLTRY": {
-    "last_checked": "2026-09-21 02:34:49 UTC",
+    "last_checked": "2026-09-21 02:56:56 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -467,7 +467,7 @@
   },
   "BIOTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:34:29 UTC",
+    "last_checked": "2026-09-21 02:56:35 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxPanlXUGNRN1NwMHhxVTNja2VNSENIZF9may05VzFGUUJDcEs1bXpHdlhjeG1nM1dRTnhadC1JR0hOekw4TW1jLVBROTJadTE2bjlBZVFuZ3NHNjBXdDVJejNuUXVHb0hZdEpxSG0wWjZkUmVFaGtoX3prcDJzZkppVlN3NEt2bXNpclk4MU1XdWZfNjYzVWwwbVBkRk9CbFlaVExrRUo0VUVCQkVPRk1JbVpZcGpPYzdFakhHdllqM0x6UW5vemc?oc=5",
@@ -479,7 +479,7 @@
     "last_price": 1.3266
   },
   "BLURTRY": {
-    "last_checked": "2026-09-21 02:33:37 UTC",
+    "last_checked": "2026-09-21 02:55:34 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -492,7 +492,7 @@
     "last_price": 0.894
   },
   "BNTTRY": {
-    "last_checked": "2026-09-21 02:33:21 UTC",
+    "last_checked": "2026-09-21 02:55:17 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -505,7 +505,7 @@
     "last_price": 15.893
   },
   "BONKTRY": {
-    "last_checked": "2026-09-21 02:33:53 UTC",
+    "last_checked": "2026-09-21 02:55:53 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -515,10 +515,10 @@
       "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY25RVW9NWUxZbE9fSXotbmRIQkJGcllPbFhtc09XQVdBVl80bTZ3Y3BXUFNNa0RZenIzYWZfVlBuWWdlczZDWVNHMVNIZU9FSHllVmZhU1lpR2czQkVVWllNeTRNTVNfb1RrVG9uaG9wWVRMYUUzSHJfMk5YQ2ZMZ1Z5UG9heDFHNnpkV1QzcExqdlhKTjBMbHI0VVJkcVNvaU43SWxQRmpua2FQbGZ1WE00UURkclMtNy0zQlZibzhsNlUtTE1Ya1pNaW5UaC1WdEZsNFd5QXdleHlGbE1uSk9n?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa3Jzbi1mTzY2U3JXX1ZOcmxFZUhYRGw3eUt3YTJBUjR1RGRSODBuc2dkWXFobm5PWHRZTXFTQkhFTjN4SEt6S3packc0VWVUaE9NNmtUZ2VoamV0U0Rkek5LZlVTU3VvZExpT2pXOHRTWmRIRWRJWU44V0YzMmpuUTZaSDk0U1Rsb2d5MTlRdTNuOVJURDNYOGx6THRaSlRfeU44TzlkTQ?oc=5"
     ],
-    "last_price": 0.0001445
+    "last_price": 0.0001451
   },
   "BTCTRY": {
-    "last_checked": "2026-09-21 02:32:52 UTC",
+    "last_checked": "2026-09-21 02:54:45 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -528,11 +528,11 @@
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWWIzYVBCN1ZDcm5TV2ZycXBMeEcwbkJaam9hU3ZubVRZTHl0QmExZ1hNMDc5SmI1SHFwQ3lsWjVfNDYtTVdYUU5WNFdQaHFOOTR2VGFoWUF0cEpEZTVsQnJyZmxIOG93TmQ3ZGRqQUFnQUJIZGU5Ym9xQUdsZDJHZTdXYjBrSDZqVFB5OWExZ0ZYdno5eXRmbXRCUlozakl4em1NQjR3QkdlSG8yeHJ3cFd6T3BPa1o4eEw4cnY2VXM5eXFMWVh1T2o4a2k?oc=5",
       "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeFd1Z29hak1BdGpGLXVyRHE4MlJoTE5zSEtVbEJtZGpqT19lVF83U2dDaEN1dFk0eV9DN0w5MWV0eU9LMnhFNEdMamM5Qi04VnVXV3BMV1BjUXRkNjBOWWF3d3c4YWtlSkt2ZDJHSTM5YWQxclRJWEFacElvWUJLblZpb0wwYjNLaTlVd0RhU0d4eThiZll4SHZkUXJXSVJHalY5UUZZV2dRMk81UW13QW1CU2ZzclFZS3ZjZ3Frd290WENod05kYw?oc=5"
     ],
-    "last_price": 3939320.0
+    "last_price": 3936540.0
   },
   "CFGTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:34:45 UTC",
+    "last_checked": "2026-09-21 02:56:52 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IWHc3RXdtSWRBeGl6U0p5eEZlRHlJRnJ3ZThZMFI2UXQwSEVkdHgxam9PUExfQ0ptNmloOXEzcE1iQVIwQkRBYUVvUkRGSlJpc3JhXzNBOFE3NXNHX0E?oc=5",
@@ -541,10 +541,10 @@
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2R3U2FiTGZaMGg4UFl1ZWdpMHhXdDEybnZFNEpDTDBKWGEyMXF1VERWbnl2U3lLaHJLcXFmSlFlZE9wdXlVWTNGanZ6MGlxQXN3aWllaXFraVhVbGZHRFVTdEljSm9PQUVER0IxRWM3aW83aGhObHlia3hKQklidVdkdV8?oc=5",
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0RIY1pWZU1ZSnBLNnNkTXYxV2tCbncxaDNzZUxLenVDTk82MHoyXzBGRFVLYUNJbzRoc2p2VFM4OXNWUnRHaVdTZEY2X0RxVF9ydXdOZi1WdFBjODFrUFdjMXRjZTl1eXlYUklaVTQzd0QzOERIY2NwTmlaSTZwb05rREIzZ3NmNlNCd3lzLWFQWHhrRVdiVUZXSThSUXVRMm03T2w0bkhSZ2ZBQmc?oc=5"
     ],
-    "last_price": 6.7742
+    "last_price": 6.7943
   },
   "CHZTRY": {
-    "last_checked": "2026-09-21 02:33:11 UTC",
+    "last_checked": "2026-09-21 02:55:05 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -554,10 +554,10 @@
       "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJTWlQeHFHenROeUwxTldsREtHLUJORnYyYVJScEQyal9RTXBvMW90aG9pdXBwSFJ2ZzNEbHRDN1Zia214TnQtWVdDSVc5OUJaWkNmQXFyazF4bU12ZE1XLTJ5MHpVWFZseExTWjJGUVI?oc=5",
       "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaVpqM1lJTkZwSWRQNjBhZk9pOFo4cmRpQUVsUXpYYmpuMllKVlUyLU1TLTJTc1hnQXptTm1YZXNSMnJhYXZsVnc3bFgxeDRKbW5xMmVRQWNQS2VZTGN5T3lHWnp2Y3lldnJNV01vQW5KY0Q5bldWUTJzdEIwZnJiRnpJaDdGRU1YMUdHN0ZBRHA3aS1FVmZkbXNPVlR2TFJtZ1NrNHdOalVUT0pyQXR0aUc2MmZpQlVjWjhiZUZoMXYwY1NfNTVrLXRBN1FlbTA0YWtOQkZB?oc=5"
     ],
-    "last_price": 0.718
+    "last_price": 0.725
   },
   "CITYTRY": {
-    "last_checked": "2026-09-21 02:33:43 UTC",
+    "last_checked": "2026-09-21 02:55:41 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -570,7 +570,7 @@
     "last_price": 17.831
   },
   "COMPTRY": {
-    "last_checked": "2026-09-21 02:33:05 UTC",
+    "last_checked": "2026-09-21 02:54:59 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -583,7 +583,7 @@
     "last_price": 1058.48
   },
   "CRVTRY": {
-    "last_checked": "2026-09-21 02:33:22 UTC",
+    "last_checked": "2026-09-21 02:55:17 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -593,10 +593,10 @@
       "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CZ3pGWVVsQU9DWkRxSVlXci01OUd6bXozV0V6b1pQSzlwbERJUGktU3FxVURKa2pKa3NKOE5lTDVwdXBmR0FwMWZCUGVqSWhzSjRTdThRRUN2T3c1cUZCblBZT3E?oc=5",
       "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTR5VWc4NGVYVE51NkgzUU5XNUhNbkRjNnBKdjR3LVlmOVVXUTRBbkxkRzF0WE9xRlh2VjBOUzdsN1Q1RjVvSUtpX3VpYnVrZ3F5UTBrVE5zX3p2a1ZXZk8xM3h0dkF2QnVvdVEyamFmaXk2YXBGMzFXYS12NkY0S1RKTXNWZkxHSXRGWk9R?oc=5"
     ],
-    "last_price": 16.739
+    "last_price": 16.812
   },
   "CTSITRY": {
-    "last_checked": "2026-09-21 02:33:32 UTC",
+    "last_checked": "2026-09-21 02:55:28 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -606,10 +606,10 @@
       "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkV1NlR5akpYNkhKVlY3NC0xRFFpdkc2aG1LTXcyMnNZV0NoS3hNbW9aODRtUnFDOENua3hpdFNsZFllc3ZvUEMzdnNLNW5HV3hfYTBETWUxQ1QtM0ZHalVRM2Y3dVUzQzJjeUs3YmVMUDFUb1hRekkwZnQ4RUp0bmg5VU1qXzRrY3YzNGdCNW5ud3lTMzN5VTFsVWNPOUxJcDJIVEpYWjdIWXhsOW1RWHZ0NmtLeEpuSlQ0M3NiN0xPNmtPVFE4a1pvNXlLWHF6czRsZXpKTG9TM1lMazkxd21GZTVqZ0E?oc=5",
       "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWXdaRGVVMG9xc1dJRFRheWd3YkRMa1BXT2JIVFFUeF9lWTlMYjlFOHVXMG96Vi14aHQ2M3BDbmpoM0N2d2paTDlsTDJJdlFyX2hWLU1YcGtuQk5oakpIUWh5WWJGWE5BNEFoWk1Yci1VcDIyYWlCNDhyRnFNMjRCYWt4M3d6NlRlTWpZTGl0VWxZeXBHTUZFNlcwOWdNOGVseFJJMlNmckFUYkM5ZzdrMWNackxqVkFZbWJYYXRrV2pBQzVqZnVSTEpuVFNFQQ?oc=5"
     ],
-    "last_price": 1.371
+    "last_price": 1.385
   },
   "CVCTRY": {
-    "last_checked": "2026-09-21 02:33:27 UTC",
+    "last_checked": "2026-09-21 02:55:23 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -619,10 +619,10 @@
       "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BX3R2bEJwa2R2V2pCdFIyN3NrTktCalVXd0pRMExzQWJMaXBuWHZXZEV3TE9wRk15bFBIT1JIZjB2OVhOU09qVlcxMXo5QzlGSzl0cGhOMS1QMVZWNkN6X0ozclFicVFjOFkyRQ?oc=5",
       "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkhaVUdpTzd6UFBpR0dCUll0VFUtU0UtZHdhSU5sZ2wzRGplbEZaZkRCbDVSZ2ZCYVFhVFZFSS1kc3JkeTVTYkxIRVlfcXlQRkhHNGR2bU5PWU52cHA1anZXQTBYY0xFUzA1SWs3QU9WX1B5RnkzY291cXUxZTdiVGxPOThJVzQ?oc=5"
     ],
-    "last_price": 1.28
+    "last_price": 1.274
   },
   "DASHTRY": {
-    "last_checked": "2026-09-21 02:32:57 UTC",
+    "last_checked": "2026-09-21 02:54:51 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -632,10 +632,10 @@
       "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEt1UGJBbm1XZlRCY2pFUC1kbmRaaWcyTXo5c0phb3JfZFpkMXFOMEc4azlqMEdvckJjamRXOVBCczRzdFRLQkg4UlRLVkZDcS1OWnRBVTliVXlVUVU4SnlyaVNySUVTMVlYLW9ldVFONThsdFVteTZYZks2X1dVcWZWV2ZVZWdDdmppS0VEMnFkNkt1d2RHLUR6WTB2YnY3aVE?oc=5",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVgtQ2h0UWRVX0o1VzBtMWM2NG16WDBhRC1hbG10RXA2NU9aWkR2Z1hsM0hIOWRlTzNuUDBNamxabktneXF3RHNRV19YVzRxZll6WjlFYTRlQ1VYc1VEOWZPblZUdmxqSDBSVzd2TDZWSFo5STZ2YlpPYjhEeTJHUERkU1dPTkt6NmxlZGc4dGRWdEt0U3pGanRPSEZDdUQzVDZyX0xxY1VWZ05KNlNYck42Z1pqdG8?oc=5"
     ],
-    "last_price": 2742.29
+    "last_price": 2738.76
   },
   "DOGETRY": {
-    "last_checked": "2026-09-21 02:33:10 UTC",
+    "last_checked": "2026-09-21 02:55:04 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -645,10 +645,10 @@
       "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUUxmem9CU0FYMmxqaVFvbi1jRENtV2JrU0RrNXhTZy1HeEZpT1o1QXI1TWZaVXl6eldfLUlxb2IyVEFpbkZiWXFnYVpvbUpJRVNiM2NEbVNiZEpVa1hwNzJUQmhVaF83Z01LUG12VHRrOTBZMFM5RjNZLTJJX2R2SjRzRkFWbjl0ZUlmTlFuN21mY2wxdGgtYmw2VjBGUk91SmUtRXZ0d0VLejZfS011T0xNY0hETlFBSFJRLUlnbFVoNzZrcDNLYzRVM2RqMnZ6V3dMejlXZEt5UkxKa3BBTVZ30gHnAUFVX3lxTE9UR0JQMU9vZC1PaE12cms3bm9oRGxmRW9oOEN1alFCaGRvOEs3ZHIzbS16Yi0zdndVb2pQU04wZ2NTeHcyUVJ0dkxOdGhZOHdLbWhkb1dqWXQ2NzZ5RGxlWUtYSGJtcUNNVjByTVB0QWRtSUY4X2JZT21wOTdFQnRDbVgtbXN0ZnFhMUgzd0VkZFRtZm9IMFBELTFWWHlMMmtUWWhqd0pfZzdwNXhkRDluei1UQkJqYnJyRFVJS1NJZndpQjl5Zm5nMEVCWVM2VEZVNzFfY2RJU2tDNkREdENhLW01cFZrTQ?oc=5",
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbzlSMGNxcnNTYzdXRnQzUlZwQy1HMWtIT2JlUFFKeVQ4MENia3ZlM0k5QXhUNFFSc2g5QTFrUkZIVUkyb2NLU0pRc0FPNEVmUnczMGxHSTNrSGg5VkNBT2tMMkprWS1oNlI4ZTUyT0xKTkEyMFhPajFKejh6NDhscnBJdjdKVkpWVEMxcUtuR3RVakZkT2NpNUEtWmd3Z3d1MnpudFIxcjhMYjd3?oc=5"
     ],
-    "last_price": 4.277
+    "last_price": 4.2657
   },
   "DOTTRY": {
-    "last_checked": "2026-09-21 02:33:01 UTC",
+    "last_checked": "2026-09-21 02:54:55 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -658,10 +658,10 @@
       "https://news.google.com/rss/articles/CBMid0FVX3lxTE53MFBLU0JsUnZuREozNnlpcjRHUkdydEJJamt6R29iZkY2aEJnZGZKSFBncGhteW1IN0E3OHF3cDR3Z1gtbVNoRy1jbEZCR0NOQ0JYc3ZzaTNZQTI5ZEdmWUhUZk45M0RHQlc5YlcxNmRfMVZfekNV?oc=5",
       "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVRvTHVTZEY3UzJVT0pIYnlTZGtLaXhTLTB6TmswcTN0VnZhcVBreTNlajJqVURuOXJFVy1YSy1tYTNlLWlFZnJ0SWVSQVVhNmowOWUyYlVMVUtCaVpELVVLLVlDOEpRbnZXb19VSmRyTGV6dXN1eXNDcmNiTlZvNE5fMWFlQQ?oc=5"
     ],
-    "last_price": 55.54
+    "last_price": 55.93
   },
   "EIGENTRY": {
-    "last_checked": "2026-09-21 02:34:09 UTC",
+    "last_checked": "2026-09-21 02:56:13 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -671,10 +671,10 @@
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16ZjkzN3JqT2xwREVlTFpLMm81N1doN0V5SkNoMlNSdUpoanZmNDlxM2RaMVZZZGFnSGNNeU8xYjF6cjJyS3pjWmNhV3N0dDU1TUtOemtJem9qZ3dmR0F2eXc3Yw?oc=5",
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTmFSOEtoVENzSl9TZU1KRW5ueDNXZWlpT1hoYmg3dVhVNlBVTDUySGZTUVNzUmctQUVnVVpqRlBScGhNWm9YMGFPNFk3MVNCTDdKVHR3RFI2M0NadG9EZkNrbDR4R3JZeEV5c214dUpkM3pfOUZHVUZuUDhQRHlyb2N3?oc=5"
     ],
-    "last_price": 11.16
+    "last_price": 11.31
   },
   "ENATRY": {
-    "last_checked": "2026-09-21 02:34:12 UTC",
+    "last_checked": "2026-09-21 02:56:16 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -684,10 +684,10 @@
       "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52QjkxTmduNVlOWXI3dVhtRHhGTjVmdWp5MUxUWTk4Um9yNE0ydGdIMGI4OFg3NG1sN3FnY2ltMlRSTFlrYzlkUHZRWk1ab3hpWTdpSVI4RzRxbmtZeUhzQ0VkVE93dTg?oc=5",
       "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpV1Z1d29kQncyczdBU0RJUWpjMVNibDJRdjJRNGhiUDZoamVfVk9peDB3N0ZSVmRPbHd0NmxBYzQxeEFIV29mYlNKMTdEVVU1ZFF0YTh6MXFLNXA0dUc1VkNxYlhlWjA1aW02WjQwaFV0VGFGVHpHWVdELUs?oc=5"
     ],
-    "last_price": 10.304
+    "last_price": 10.313
   },
   "ENJTRY": {
-    "last_checked": "2026-09-21 02:33:04 UTC",
+    "last_checked": "2026-09-21 02:54:58 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -697,10 +697,10 @@
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmxta0x5TkJqVHVfemY4R00yOHZjaDRQNTYtUGs0RGZhRUw4aUNzRGZHWTBTUVhlUlc3XzZWMmRjYVc0TEVIUDFOTWdocUdtMVkwQVVZc281Q1p2RU1uckg2MjJlMTY0VDEyQ1U3YktldUoxNFl1N1kzUi1HaFVwM0dJSkcxU0hINWFLN0Y4bjI1YjVBbVY0aWdKdmNFeWszb2NwcTVB?oc=5",
       "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uWlh6MTl0Z184aVVvOWE2d0Z0TW95NXJNd1B3N3AySjgyQUROeERFalVkbm5XQzlBV2RBR2R4cklycmYwdDdSWE5qdm9lZllJYWlscG5RVWZwUQ?oc=5"
     ],
-    "last_price": 1.302
+    "last_price": 1.314
   },
   "ENSTRY": {
-    "last_checked": "2026-09-21 02:33:25 UTC",
+    "last_checked": "2026-09-21 02:55:21 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -710,10 +710,10 @@
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRkRnc2FhVjR5bkUxZ2J4XzBHMzNvajdrN3B3TG0zd1AxNWs4aGJuUk9rSnF2c2VsSXA3M2RWLTVlaGhQcUNDYWRqWnEtUjhoSjdVYkdGajMtcWp3VXFfLW1vMlBVRUx0azhXM29CV0tPY0JWeGpkWmFhSTlIdTFVY1BXOEFlYkxCQTVsN3FvV1ZtcnQxM0tTc0EwT3VxTVU3YVBkcV9pYS1wUQ?oc=5",
       "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YaDZDbmtsVjg2cUNyY2FpcDZMR1FCVWJzWldsSzQ5Smt5OWlRWFZ2NnpHdmRnYWtXSWExWUlsVHJRbjBhZzExTGdtZWZsT2R3eTRQQ0ZjLWl2VVg5Wm9XQ2J3X3ZYb2JWaTUtS2tEUTZzcnpKeHVDMQ?oc=5"
     ],
-    "last_price": 311.7
+    "last_price": 316.17
   },
   "EOSTRY": {
-    "last_checked": "2026-09-21 02:32:57 UTC",
+    "last_checked": "2026-09-21 02:54:50 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -726,7 +726,7 @@
     "last_price": 4.267
   },
   "ERATRY": {
-    "last_checked": "2026-09-21 02:34:26 UTC",
+    "last_checked": "2026-09-21 02:56:32 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -736,11 +736,11 @@
       "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTh6RGJPdDFiMXdMOFBKVEdpU0V1blVHenZ6WEZpN1RuNmVkeENVUzZFdnpEb3RBajVyb2FxMVo3aVlYWlA4bkFvUDhvVHVhRmo1cjAwRlJXNDlOekJqWV9lbjhPdFNYeFlJcXhRLW02QkpGQWRXV0hQZTZFektLa19iU2Z6MGoxaTQyRmVsTWZzZ3FBOUdQME11Q3ZIUm9aa1k3Ym94WTFnenJ6LTVDdjJ6SUYzOHNKRENZcjd3?oc=5",
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFpGNEpJOHllZEZzaVBkSTExUHZoXzEwbEdhV1c2NUh6SmxZbUp1WDVkWm02Snc2OTMtUmxDVS12Z3Zub0FHTXRkMXRhTlEzRWZjREdvOGhkRUpha2NJZTdWdkVBZ1B0WG9iMmdYQ09IRTk1MnlGU2RiMllEU1Z2SGZ2Mi1LNi1TRl9sVmRVSjFGcFN5Zno0Snpn?oc=5"
     ],
-    "last_price": 3.036
+    "last_price": 3.025
   },
   "ETCTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-21 02:33:28 UTC",
+    "last_checked": "2026-09-21 02:55:25 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LOTktNW5xYU1sNVlNQlpBUmVkSmxoS3ZETmpvZEdVYllrZUZlcmdzTjBBeklGTHZuR2xZYlNpZmhnbDRicEpndHJkeHVNQUdqUFFGREZRYUpmeUxHd1FQSUpZNTluSnAwT0E?oc=5",
@@ -752,7 +752,7 @@
     "last_price": 408.74
   },
   "ETHFITRY": {
-    "last_checked": "2026-09-21 02:34:12 UTC",
+    "last_checked": "2026-09-21 02:56:15 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -762,10 +762,10 @@
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUIzZTZXREQ2M2pNbUJCeU9uSEFRcGxSQnVlZEdEUFhCeUlIdThBNW9xQmV6UnRQZUVyZnM1VGlXVTEzZlYyVkxadTVyNDRTR29BdXRiWUxoQ2VhZVlmOHlfU3o3SjY3VUVwdVktcTJYWTR3RnB5aFg3VEgzelF3Q3VMTkMtWU05UndYU0ZUZWoxQnFPV0ZSVXpzUk9IYnZUSk5jQzhMOXhnRW1vbGRwc1c5NGdmNXM?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNmRFOVk0QThxMlJGaE9xaU9wV002cXFkVlE1TGNIZjFGcVhHUTdMM0pEX2tMRzhsbjVTUy1qdkp2NEtGeVVQeDlMd2V1NjEybG1XOTNacEVPVFQtbkFwWHJYdHVXQ2dNOFdsZmg0QzdzR3VN?oc=5"
     ],
-    "last_price": 35.421
+    "last_price": 35.627
   },
   "ETHTRY": {
-    "last_checked": "2026-09-21 02:32:53 UTC",
+    "last_checked": "2026-09-21 02:54:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -775,10 +775,10 @@
       "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObFpRSEo0WG44UHI4UmdtTl9HcW02ZjI5T0E2cld5T19MOUE2Xy1iVGhqclRIQ1pjQ1NlSnF0XzFrQjFSN05BOWF3Z3BOMV9LbmhrZzRiY2NUZUlwZVNpU3BZenhIdFk2X1F0RUFocmhWT28yLXk4dFZ3OWp1Y2V2Zmo1UlVjb1d0Z1BxUVZCMzJJREdQUnMxY0lpOGl0di02Y3ZvM0R3UVkxZ3RaWU1VNkZDelNOMzdHZVc5bndoNkQ5UTVUMFlTNDVta1hYT01u?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE50TGthSW1rUm5BbTNyd05zbVRzSzdSU08xZFFzUVRZaXMzSEM0Qmptb01kSVlPcmg0cHNoMG42YmNOeTVpeS1QM1FWYVNSNjFFeXh2RkVxRFhFRjcteVlkN09YelNmVk5takdZejlxeGE?oc=5"
     ],
-    "last_price": 128642.0
+    "last_price": 128872.0
   },
   "ETHWTRY": {
-    "last_checked": "2026-09-21 02:33:29 UTC",
+    "last_checked": "2026-09-21 02:55:25 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -788,7 +788,7 @@
     "last_price": 13.19
   },
   "FBTRY": {
-    "last_checked": "2026-09-21 02:33:56 UTC",
+    "last_checked": "2026-09-21 02:55:57 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -801,7 +801,7 @@
     "last_price": 14.63
   },
   "FETTRY": {
-    "last_checked": "2026-09-21 02:33:15 UTC",
+    "last_checked": "2026-09-21 02:55:10 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -811,10 +811,10 @@
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXB0QnU3a2FEamlQOXl6NU8tOXJqUHUwdzgzdDJ0Q3VWZlY0Qzd5Zkt2NGhJMUF2QnN4QzJiajB3VVhDY19oRzRhOTE0Zlk3RThvUlByUVRZU0g5QkRhcHB3WHFvVzFCRk9zTkpJNmFqblZKTURacWJTeWRUcHZZYlBaYWlFdDc5dDIzNk9YQzlQalpLYVhQdGRZWVVpbnFLSGNPRDh1V0xRd1hDa183dHlnZDVISkQ3MnZXUQ?oc=5",
       "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZThzZkFWRHFSMmpSUzA2ekNhaVAxa0RSMEd4TFlicXVxakJDXzlfNmVJZ05pTjlzMXFQaTBKb3g0dXk1Yk9kX01jdVhBTWwyWDN2VTVONUttbW0yM0ptbjRLMXJtX2U2bUdOLWxJNlVsV3VMd0ZxOEhaNWJGd3ZBbTFUb1NqWTdsZEp4NWpzNkRuSEd3N1NnLWZHZGx3eEkwSFUtTXlTLWQ5b2k5dWFBd1RSckpEWWxCRFRucFVua1lVNklRNlBBbnhMYTRVeG54cFZRaERUek52V0o5ZnJuZzZweS1YcUZTSjlpLUpZWkNPeVRualhwWNIB_gFBVV95cUxNLW5EbzBRVmhnajJHWnF2alJwLU0wdkpna0dQcVZSR3hCS2UyZ2d4T1lLUzZMb1lvaVFvX1NJZ2NYWnVYYmh1U3V3NzVKTU5vUlgtVUJHMHAwSXg0NElYVFZDY0xLbFdOZXNBcUtCa3FOUVZqZWJqUVBMNkdYbV81TlhEdzhYNGRrWnZualFmM25FS0k4cndpZW1sT0loQjM3enB6WWtNR2REa0F5R2N0cEpPTHpmcFFYUzF6d1JBa1FGZWVGc2wxTmE0U0kxNWF0NnVUU1ZGZTVxSDI5Um9uUWRkMDY5U1JoTXJkcFIzQnhDeG5fSlhfcDhLUDI0dw?oc=5"
     ],
-    "last_price": 8.564
+    "last_price": 8.705
   },
   "FIDATRY": {
-    "last_checked": "2026-09-21 02:34:26 UTC",
+    "last_checked": "2026-09-21 02:56:33 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -824,10 +824,10 @@
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMGxfck5YZTRCaHBKMkV1cVlQdVRfU215elk2RDVPOFd2LUk5NDRxcVFjU2JIY3VkWkgzY0VRVXQwXzdnZHIweVZSZ21ORFZ5bk1fWFgwOTRMOWlsNmFSRTJDT3J1d0t4ZEtDbGh1bHh5eG9QdEo3OU9sU290OGlZSTRR?oc=5",
       "https://news.google.com/rss/articles/CBMidkFVX3lxTE02Vk1RdEZ5ZmxRQ2ZIdHZDWWR3NS1pZHJ4M2cxQlZMdmVFM0dOTTlaZm8tRG90VDZDc05lcDhodkFZWl9zVWpMNURPNGh0N3RmUXVyZF9pUjZad01admFJOTVObXFyYVI2ZlMtcER3LXd2OFdYb3c?oc=5"
     ],
-    "last_price": 1.01303
+    "last_price": 1.0147
   },
   "FILTRY": {
-    "last_checked": "2026-09-21 02:33:09 UTC",
+    "last_checked": "2026-09-21 02:55:03 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -837,10 +837,10 @@
       "https://news.google.com/rss/articles/CBMickFVX3lxTE9sZFRUNWwyS1YwOUxHTWZfRFNHeEdWRzRsWE5Kc08ybGRJWnJjam04NmhVVUMwUzNIUVh0UGtXZ2EtZFcycU56TDUxN1oxclhJdjF5aWMxYlRxVk9GeGh0LTk1d0RGM3Rmb0JuZzZrRExwdw?oc=5",
       "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVkMyanFiampzZWoxQUpmbVFHRWlmY3BmbnY3WjF6bExrTFN6Skl1amp2cWU4YjNUWGhyZEoyNjdqc0FIcnlRN3djM3A4dTRwSEJXc0dRWXdGMktiUXFETHB1SHdNVnBGQ3FzZW92UHNSdFgzVGllcGNkRlNXdlpYa0xqV1BKMHFGampEdE5sZERmNnhoaXfSAZsBQVVfeXFMTk4yTEpTd3hXZVhrdjRqQjZ1ZVNFSzZmSUNFM0N5aW5halB0RFh1U2RFVG9uMjVGSnVrdXZfUUxZSkpZRVl2MXJUa0NFUnZ6S3Zhb09FemFmXzlUdGg2RUhRYnlPQlowdXVoMW9EMFBvRjJSTXpsMVNobGR5aDY4elFidkR1TUZsbnBCTFcyVlpWNEdlU0V3WE9nblE?oc=5"
     ],
-    "last_price": 45.55
+    "last_price": 45.61
   },
   "FLOKITRY": {
-    "last_checked": "2026-09-21 02:33:50 UTC",
+    "last_checked": "2026-09-21 02:55:51 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -850,11 +850,11 @@
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODVhSktiNEYxR01ULUtOQVd0elRLVElnZU9yWkRkYWhOcU1XZDFyRG5Ud0V0MklzUTBhUXhDZ0JXQU9TcVpvc1NFcU1uNF9RSHVCaGcycFFaekd6SFdQWFhrMklxVEN1RE5oMlpoa0hnV0FPcWF3ZmViNnFVTHk5NUNSQ0pRRFNnMTR1YW1COU84S0dBUU9VSWRpRlZTd0hpRGpnTERCaWhFUQ?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGMy1KekpUTzJFaEs2MXdPaWc3NmlLRGVLNWJZNE41UmUyaGNpUzE4ZU0xVlN1RWwyUmZDb0IyVGZxQmVIT3M3ZnR4M3VSdWNMcVVMUUk2Nm5JMVBwZjRCNzBxWUlGOHMxejRHcWNEYw?oc=5"
     ],
-    "last_price": 0.001249
+    "last_price": 0.00125656
   },
   "FLOWTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-21 02:33:31 UTC",
+    "last_checked": "2026-09-21 02:55:28 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0tpMElJbERFNGxzT3BLekdKaDJPVExUV2JRbzd3X2dTU0lQWDl1U1NJcmhzd1h2NTlUU1dWNEFHcU1QRHZteHp3OEE4QjFOT2tqTGpSRFlTY21MX0g1NzdWM0NsY2tBdVdIclM5ZG5JcHNBQlJCbEVWbVllSnpPZ3U4aGY5aHFFQy1rbmFjWXNRMGlzWUx4RGxrbmlWQmNfTk9XX3d3?oc=5",
@@ -863,10 +863,10 @@
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOEViWU9VLXdiWG1vcE50Y1FaVDZyc0RsVC1xbTdCeVMwRmhlUFhyMnlrVy0tdjBWdFpIcGI2S1UyWlBDajM1azhISjRTQWRkVDJlTDBHMFhDaXR2Tl9yMW92Q1h2VGpIcGh2ZXN6NlVCdUVoVzJpd1B2dDY5MmdIOGl1XzBYSjVSTWlvRlpmV2hLdVh1NkM4UmJ4QVlCWURsbVBFOQ?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWEtjTVlHeWYtd1poQi1Sc0Q1YmVIUFJhVURMNXlSZmdVR0dvMHpZVUFsNjAtZmV6SDBDUlNxVXh3ZmI4MDdON1BRZGNLdGg0UWxEb3lUSnU1LXpNa001VnVrWHJPRFpLTjlqcVRSaw?oc=5"
     ],
-    "last_price": 1.458
+    "last_price": 1.472
   },
   "FLRTRY": {
-    "last_checked": "2026-09-21 02:33:35 UTC",
+    "last_checked": "2026-09-21 02:55:32 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -879,7 +879,7 @@
     "last_price": 0.318
   },
   "GALATRY": {
-    "last_checked": "2026-09-21 02:33:17 UTC",
+    "last_checked": "2026-09-21 02:55:12 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -889,10 +889,10 @@
       "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnNoNVJ2azM3TTVVVmg1VUpGdnY4a1h2X3VjVW1reFA1U21kQTBQNzBTcFZNc2oxUWFmekVHUjY4NER4S2ZlYmpUV1pndTU1Zi1jSWg4cTBycTVYUFZsTDkyVVJMYzlJclFvZlpvUlR1WXNqUmVjME1aWGdZZ2s1RG84SHdVUXVJUlViLWRyRW1uSkVVbVpXMHVLbnh4ODNkdEE?oc=5",
       "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWUVScHZuMnVnV19zNVRVOXE4bV9pdVRUR2d0eE1NSzE0UnlGVXZvckRoemZ2YWkyUy16dTNXVS1vY2llOTBvU0oyeVlKVFBEWlpjVHczYVRtLWVVQThIQ2N2aGpjWTJscHdkaHdzNWl2S28wVHF0VXNGYnhKejgxamVnWHZIbURpdDNBTzRzTF9JLUJVQndJQXUzcTVsTnRYYkJHTEI1dEFkakVyS01zcnk0Slp2OWxuUDNwNnVrNEJTRU1KaTY2LVY3enhoVzBId3BKRThJY2MyZTlsYWFpcGZEbEVPaVctbTNuSElIRHBibUVaN3c?oc=5"
     ],
-    "last_price": 0.0935
+    "last_price": 0.0939
   },
   "GALTRY": {
-    "last_checked": "2026-09-21 02:33:45 UTC",
+    "last_checked": "2026-09-21 02:55:44 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -905,7 +905,7 @@
     "last_price": 41.034
   },
   "GLMRTRY": {
-    "last_checked": "2026-09-21 02:34:03 UTC",
+    "last_checked": "2026-09-21 02:56:05 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -914,10 +914,10 @@
       "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWFozcVJGakFmU3h6ZTRkeUxCc1ZiNVBsS1FRdDBxTVhjcTVacVN0RVJpTG53MU9vU3Rkb2lkeWM4bTBHS3NqbHl2ZUxsM2tBMWhWQ0dSdWNVMzJGWXNiR0dQeE90UmxVd2VMR0ktV3ZLSUZFd1phQkRQZkh1NkhDRG1aMl9sTVlMSFJ0RFd1M0kwTHhhM3FTczQ5NUVuYkFwbzU2SjBjV2hNNVctNlFYdGFzYWZSZUdlWkV2RlFNMGdLbG5WTTZVbkZCcmhPdm1uSWlCRTNWSHZTSVVtbGQ4b1BqNA?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTTd5cGJTck93UDJvY1dzZmtYR2xTMUJfNXR6U3k4TnJXMlpjdUctMk9fQjZtakp2bFNNYUNhWUg1TXZ5M05TYkZnbno3dU15TGNpbk5ETlNXcHBRV2xRanZQVjJsWUZfOVRSOTJmblcyaHIwMVo1SFE4UGVHSEJjNi1VR0pDaHZvaEwya2Nxc2R1XzNzY3hzbnVMNnhTcmkyaE1FVmtBZ20xdTl6UGJvMlBFWko1UVNadlVOekFlTkt3TF9hVEhVdVN6VQ?oc=5"
     ],
-    "last_price": 0.3093
+    "last_price": 0.3091
   },
   "GLMTRY": {
-    "last_checked": "2026-09-21 02:33:23 UTC",
+    "last_checked": "2026-09-21 02:55:19 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -930,7 +930,7 @@
     "last_price": 5.748
   },
   "GMTTRY": {
-    "last_checked": "2026-09-21 02:34:08 UTC",
+    "last_checked": "2026-09-21 02:56:11 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -943,7 +943,7 @@
     "last_price": 0.3771
   },
   "GRAMTRY": {
-    "last_checked": "2026-09-21 02:34:48 UTC",
+    "last_checked": "2026-09-21 02:56:55 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -953,10 +953,10 @@
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTVyX2s1ZkJBWHQ1VVBYUVI1WVpSNXBBZkFOQ2V1SUtUeDVMN1hRdXVjcTRrU0NlQW9feHd0d1E2UEhGd3N3ZXJvaThMZ29Fd1pRckIxellGc0Z6dnVvOGNycFJzT285WVBkX1pXYmpEd3VaSEVSRTYxX1llUkM2R0NmS0tWTWNxaGtRWUhiNmdpeFlzWE5jZktGX2xINW5JTDNaRU8xRUpqNXptM1plR2NyWWpGeUhSZzM4VWs0RUMxcFBKNUE?oc=5",
       "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZFBveFpHazR5Z0NkNUtSYnYxbDZRaHR3eERzbDlMQ2d1eHQwTFZDakRwWmkyeGd4VXJzR0pWY2pfMWVySFZybmdZVHF1ZUFEaDZROE9PM0R1bkNXbDgzVFd3M1AzVVJXLU1Gc0laTWY3MkRpZVNqZEpnRllrTWxYOURzYTdBR1JxTHBfaTU0dw?oc=5"
     ],
-    "last_price": 66.516
+    "last_price": 66.681
   },
   "GRTTRY": {
-    "last_checked": "2026-09-21 02:33:06 UTC",
+    "last_checked": "2026-09-21 02:55:00 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -966,10 +966,10 @@
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnJ2Qm5BYjNnSEVGNjEzM056NFhwWnF2bk1oVHlBbzJETTVBWDhWaDlCTm80NnROeFVqTlpvVnVRUnY2TFpiYW9wWDd4eE5NV2JyYjhDY0pPdkx5YVVncTlfaFNsQ0hLR2lkOTRlU2UwSUV3c1ZKZnM3WXF3UEtBSE5KRFIwUml1UjRjTFdZRWhTaW1xYTZKNHZtQjFIaXd6QU50M2gxdGJ0UThVSFJzNVRkWkZNcmFwV1RRY0FVc0tmMml4N2RJ?oc=5",
       "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTXdtY1FmcVVqdVpZUTV2SEpZckZFTjhkQmlxNVhhbi1TR056TWVKOUVzR1lLWHJPWGRWTjBmWV9GQlRvaFI4Q21oRDJ5RGNCWVk3Q0JsQW9lTUpUdzZyYUxWLW1QQzR0NEFxSFBsMXVmUDRUUy1ScVJfVFJEOFBmaWhrUk9BUHU1eFUyZThPelZMbTBLZmdnaDBDV3VTWDhVM3FEN0hfX1hBOFpIYklieXVxc1U5dmJaVHRzMTBMeVlvQ1ozS3o5bjJXd3k3YlBzYlZ3eG5NNzBhcXQ2VVBIc1NRVVMzV05GVUpzdmo1aGkyT29DQTFV?oc=5"
     ],
-    "last_price": 1.088
+    "last_price": 1.093
   },
   "GRVTTRY": {
-    "last_checked": "2026-09-21 02:34:50 UTC",
+    "last_checked": "2026-09-21 02:56:58 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -982,7 +982,7 @@
     "last_price": 9.361
   },
   "HBARTRY": {
-    "last_checked": "2026-09-21 02:33:58 UTC",
+    "last_checked": "2026-09-21 02:55:59 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -992,11 +992,11 @@
       "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa1Q5aWU2UUFoRXBUV3BxREQzSXY1bEZzaDNzTlY1Mlp1YlJwS3NFaTJVSUN5R1Vid0ZjZXRwaG9Dd2hUX1FyTXVEX3hqVW5oQVRNaVBYc093dXhzckg5VEtuMThzRmZ5eUU0eFU2bTdRcnlta25WMEV4a0JYYmJVUmhYUVl6ZjRQcXpqT2ZmWlJraDh1U0NKaTdINGVaT3NPTVE?oc=5",
       "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0ZCWVVxMFdSc1UwZ0tIeDZpTlFqQkhNa0Q2MXRGbW9iTGg3R0g4bjFGelBhdUtNbktUckU4TVdTRVdxUy1lVkJSN1NUVDZWQS12c1ZtY0tybHBGRnZrWEc1YUJOMmZIcDFxVXlnc1lUaGpCM29iXzlSd2xxY0IyUzZtXzhSZG1Z?oc=5"
     ],
-    "last_price": 4.166
+    "last_price": 4.156
   },
   "HNTTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:34:07 UTC",
+    "last_checked": "2026-09-21 02:56:10 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtZ3YxeHdwTzNGazE4N19nM1pZZTdUS194SHpsY3c3UXVwVkN3WEJ5bS1jRHl6dVJfUjR3aVVTTzZKQmVqUFlvdG03MkdNOVk1QS1lMzdLSnpLTngteG5OTWFTNDFzd25PUW1vYXYwQ0xCOU1JZl9FUS1R?oc=5",
@@ -1005,10 +1005,10 @@
       "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1heHpUWFYySnh6SjNJak5URFZaSzMyc1RQUnNKYkk0YXc5eFA3T19LY2I2VlFmbUNEMzZIR0Y2b0NZT1BjZEExMkJhVnF3dHlqbU1ZMC1ZMXI4Tk1CcENCQkl3?oc=5",
       "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tM19RY1pFbERzZVFIR3BwbE5sUUhza3lwX0txTE5PNVpSNUlBb1lJU0VhYUtUSkpvLUFxczdfNDVFQjcwT0dqYzdnbTFsc3c?oc=5"
     ],
-    "last_price": 22.16
+    "last_price": 22.22
   },
   "HOTTRY": {
-    "last_checked": "2026-09-21 02:33:30 UTC",
+    "last_checked": "2026-09-21 02:55:26 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1018,10 +1018,10 @@
       "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VZmR6TFB2bzAyb3FUNlhXNGlFWDJZYTIyRjNkd0Y2VDc3Z0JLY3BPRWhJWEtTdGJhR0lQb3NraWdDVlQ5RHRoMmUxUVBYTmEtQjFScEtLeVd6MUJGaXY5dDdPR2pCUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LNTM3bnFtR1FZdWNGYWJldk9udDZJWUk4enlROHkxX3JiTWV4SlVIYkJJbEIwaWxfSXpzVnhGbFNpei04OE5wRGxjSjlweFR5NG1zWkh6SmxfRi1XYWhMSjBoaFljZw?oc=5"
     ],
-    "last_price": 0.019144
+    "last_price": 0.019216
   },
   "HTRY": {
-    "last_checked": "2026-09-21 02:34:39 UTC",
+    "last_checked": "2026-09-21 02:56:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1031,10 +1031,10 @@
       "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWDQ5b3BzQTVPWUxJQmJ1WVpveXFWVkU3cU8wdl9xNlR4TmE2Z1RtbjJ1QWhXNVNpZDU4Uk1fZGlLVWJ4SzBwUi1mbVFqWmVSZFBWTHdmX3FwaTMxRUxLOUV0UzBPaU9qVTVoUlBnME51cXl4ZUE0azctMmN0MDZYaHo0bjlBMUV2VEs4OERfdURubklJdWUzc2FPLUh3T0VLRjBJVHRybkc2XzJjX3puWDZaZlM2Si1laDI2VmhEWDc?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTSkFrOUc0dXF6allLU1dPU1dHaTBjRjNMeEhEYnJ1R25HWElrRXJZdVNmakZ2bG5sd1ZJLVNOM3RhczNzenFSM2Z0VzJXaE1LOWE4X09BTVFHZE1jcVNyNm44YjEwYklKMDdNTmVBMA?oc=5"
     ],
-    "last_price": 2.714
+    "last_price": 2.7022
   },
   "HYPETRY": {
-    "last_checked": "2026-09-21 02:34:43 UTC",
+    "last_checked": "2026-09-21 02:56:49 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1044,12 +1044,12 @@
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSE5HWGYxZjlrbGN0TTFDZHduWi13UjNPcTFOMFZyT1Y1UHNaMXVQVXFyS0tmRml6bHJpcS1JZ1NVMERaYlRBMnNWSGRQQVFtOTBoVE1hNlBwcGdkblJOM2R5Rjh6UE5pUk9tNTZ6Wm9Xd1JBaHhyNmhPWG1JMVBTYkJub1FVeDhUdzdfR2ZpY1RZeTAyZmVZV0U0a2YweUlNdldCVWJ2T2EzX1N6cEJVb0ZlUGFBNFk?oc=5",
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREpLQ0FjcFBlVUZJbWJaNWwwRzJ1bGhuTUNRZll4U19Rczl4Vl9ETEJYdzIwQlZOX2d5X1hFRFRnZ0N4bDctTE1VN01ONGoxMnB5ZTZOM2lmMUFrU2JRVUg3S2M4RENnX1VzY2EwZlpyelhFb1Qwa1I2UXNpOG5Nb2RUbzhCdWxTWkJyQVFpdU1kZw?oc=5"
     ],
-    "last_price": 4507.9
+    "last_price": 4511.3
   },
   "IMXTRY": {
-    "last_checked": "2026-09-21 02:33:26 UTC",
+    "last_checked": "2026-09-21 02:55:22 UTC",
     "last_signal": "SELL",
-    "volume_alert_active": true,
+    "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zQm04T3R4WnpJVGkzRFBvSUtYRjc5dzJGUFl4bVBWTVNnV3AwZmZIaE9WZW5YZGx0Tk8wUjI0Z01JdXo1akpyU201TTlHTGNHaGxUXy1DaWZ0bnJqTjk4?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1BNR1F1OVJQOVFRQlp3OW94NjJrM0dmdG01WEtuakFIYnFUTVhQSlg1Wm1UeXBkbHlyRVM0OTd4NnZ1Tm1FUVhsaEZtamhtVkFDbk1OdEdfdHpQZDdiRl9LMFNURGFyQTF5QjRGR2xBSjFwMlZNaEFzT0xhZUNZS2I1cFhMcm9pemdxVGpSZ3UyY1JXUlhOUk5Yb1laYndHQmVPZXRvZw?oc=5",
@@ -1057,10 +1057,10 @@
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zdzUydm1HQ3Q4d3owVkpYQkJacDdQaFNlSGFnbHliVHYwYkxncFdWdFFIUW84MVR4Mk11N2RBeUtLdl9ORFpCZDZiVHd6SWVIaFc5YkttT2FDOGN4VG9XQUwwUlFkcklsV2c?oc=5",
       "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MZENFcjNiZFJwNXVSR2h6MW1jM1BWU1RNallETmRQRHhZRi1IQmFkcVdvQ3N6VnJpZllVbFdVSDdQYjVObnJhUU4zd3dibFRoc3dCT081eW1QZw?oc=5"
     ],
-    "last_price": 6.812
+    "last_price": 6.721
   },
   "INJTRY": {
-    "last_checked": "2026-09-21 02:33:37 UTC",
+    "last_checked": "2026-09-21 02:55:35 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1073,7 +1073,7 @@
     "last_price": 378.23
   },
   "INTERTRY": {
-    "last_checked": "2026-09-21 02:33:48 UTC",
+    "last_checked": "2026-09-21 02:55:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1086,7 +1086,7 @@
     "last_price": 9.984
   },
   "IOTRY": {
-    "last_checked": "2026-09-21 02:34:18 UTC",
+    "last_checked": "2026-09-21 02:56:23 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1099,7 +1099,7 @@
     "last_price": 6.987
   },
   "JASMYTRY": {
-    "last_checked": "2026-09-21 02:33:48 UTC",
+    "last_checked": "2026-09-21 02:55:48 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1109,10 +1109,10 @@
       "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUViOW5aZExqM0Y4QnoycGNZZkQ1TEQxblktSUdzZHFpZEs5cFZqalAwdS1tU3NRb1dBYnJhUjYtR090aHhwNHFMTHhyZ2tORjIyM2x1T2ZKY3NwNTI5UXc2d0o2MTd0R2ZLSjVhUXROM0cyMGlpNXV2ZGJWMjdTNG9IbGpUMkNsWDFCeDljZWFsa0MyM19pRldRYnh2Tmo3N0NvU0I3RWNNS2kyeFVYSmY4Nmt3QnhFNkdB?oc=5",
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmNSUVdCc3JmOU90Rkd2QzlSYjNIWU51cnVlcHNhYWFPcloxSDBJeDhqNDMzN25RQTlkWHVaWmF4YjVQQmUxQUhTZjROSHNSVTdicEpreUp2Wkwya21fWW1lZ0EwWFFvN1F3Tmw3V3U1bzM3WlFwUVM5TlRRYVhFSTZDLUxETnVBOFgwVWRGRTFXc015LWhRUnFSOERQa0pZ0gGWAUFVX3lxTE1McGh1SFlJcTdURTdfY1B4SGppdlgxSGRDREJ5cTN3SUp6blRNVmtFemN5dVlRY2FheGE2X00tMnpyal8yWkh5ZmR2OC02Y042WnpxTy02RlVxNkdKQ01rLTdFVVhYX3pMdFZJM09xa1JJTG9haW9aSmZtNTM0cDlDOFBSZTFOVExPOHZmdy1qS2tPNlkwZw?oc=5"
     ],
-    "last_price": 0.2016
+    "last_price": 0.2012
   },
   "JTOTRY": {
-    "last_checked": "2026-09-21 02:34:19 UTC",
+    "last_checked": "2026-09-21 02:56:24 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1122,10 +1122,10 @@
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qU3NjeTRRbnF3bkM0VktHNkhkcS10QS1SWEdybExwSGlIZmlmTGlyNGxTUGFjMG1LYUVJWkRCNjdJR1lVOUNfbENqUFZWYnYtV2xIemlia3NQWTV6VmlUTFpZNEhIU1NNeFE?oc=5",
       "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzQ0lPMlZ6VUJRcHA5SjdRamNFa19kZzZDNHYxeGU5Q1hvNkpOTEw4bWQzSi1MZkNtN2RodEtudVAxMWN6OHBvUXdaQ0R1TWZ5YVFWaE4xUk1RZw?oc=5"
     ],
-    "last_price": 23.848
+    "last_price": 23.895
   },
   "JUPTRY": {
-    "last_checked": "2026-09-21 02:33:53 UTC",
+    "last_checked": "2026-09-21 02:55:54 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1135,10 +1135,10 @@
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmtmSTVXLW52T2FoQXVseVNudjBlYjVJYmN5TTNUNm5rNm5DdTJFU2hpTVZpZXU5NTY5cDA0ZGpSbGY1Z0ExZnhyQXJiM2NMcHlRSEZwMEt4UzBsYlFyaFk1X0tUb3k2MU81VTdrVW5sd1REekJfS25ZUmE0b0lZYXpiZVB6MnNzUDI0NjJqdzVGQlBaYmV1UFl3?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlN4VTA1X1VkQ09sZFJyTS1kMXJTZlBEVEVxekd2S0NnblNKYnBWSENHZ1l2RUZYUXFjcVRuRW1ndlRTMWNocjZmVVFHdXptYzFzSjFESFVPcmFyMTZXa1k0aVFtYmc1YzZPQk5HNXRLMzhmLXBoVm1TMnlRcktQZnVxdDhwNHBqTlhQTFVpNzRnb0lzZnRjYTJyNDlSR1BIY1dFNTNNZ1QycTlnZ01B?oc=5"
     ],
-    "last_price": 14.52
+    "last_price": 14.6
   },
   "JUVTRY": {
-    "last_checked": "2026-09-21 02:33:44 UTC",
+    "last_checked": "2026-09-21 02:55:42 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1151,7 +1151,7 @@
     "last_price": 14.859
   },
   "KAITOTRY": {
-    "last_checked": "2026-09-21 02:34:20 UTC",
+    "last_checked": "2026-09-21 02:56:25 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1161,10 +1161,10 @@
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckFwTUcwTU5xdjgxNWhlazNUTmtnejVMaV9vLVByRDlySlVrRHJzUUFpaDljMnNrbkkyNUUzb21mazNKRVRZR1VvSGlkRE1BaWluX0JGUVJ0Qy15NEhKSU9UOFJnREs1TFhQOW83YUZTb3dHYUtfa09OTlVQN0trOEVCQ19sRHJtVlRtbXVkbk5fNDJiNlo4Q3dCQVJhTjhmdXdmZVJiaUZBZw?oc=5",
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxYmFlWElkSHFUUG12ajFwdUZVUTJPaFZzVkk0TTFucnlXeWxoLVN4bjdnSmJMdnJhODhraFk2YktrV1ppVExRSF81NWRLZXdfMDRNeF8xdGl0Nk5RMUxIWmhxRQ?oc=5"
     ],
-    "last_price": 15.8
+    "last_price": 15.897
   },
   "KAVATRY": {
-    "last_checked": "2026-09-21 02:34:02 UTC",
+    "last_checked": "2026-09-21 02:56:04 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1177,7 +1177,7 @@
     "last_price": 3.4412
   },
   "KITETRY": {
-    "last_checked": "2026-09-21 02:34:37 UTC",
+    "last_checked": "2026-09-21 02:56:44 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1190,7 +1190,7 @@
     "last_price": 5.5509
   },
   "KSMTRY": {
-    "last_checked": "2026-09-21 02:33:58 UTC",
+    "last_checked": "2026-09-21 02:55:58 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1203,7 +1203,7 @@
     "last_price": 214.2
   },
   "LAYERTRY": {
-    "last_checked": "2026-09-21 02:34:22 UTC",
+    "last_checked": "2026-09-21 02:56:27 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1217,7 +1217,7 @@
   },
   "LDOTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-21 02:33:40 UTC",
+    "last_checked": "2026-09-21 02:55:38 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkdFVTNzTENjODJ1bE01N2xkbVRFenFTNkUtcG1CRmpMZXpiRFpDaUdjUlZRR2VwNE4zcElsd2JPX25GdUlUcnJTRkNsRDRVbHVvMkhsVnVlajZDSG55SnVud2VpWjd2VnRTMkZEOEVkY2JTNnJINUJRTS1Ld1ZYTW9uLVR5OGlsdjZ0MldpRWtsYmRSN2NvWlQyeDBWQmlTb2tTbEdfdjBsM1pk?oc=5",
@@ -1229,7 +1229,7 @@
     "last_price": 21.1
   },
   "LINEATRY": {
-    "last_checked": "2026-09-21 02:34:30 UTC",
+    "last_checked": "2026-09-21 02:56:36 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1242,7 +1242,7 @@
     "last_price": 0.1327
   },
   "LINKTRY": {
-    "last_checked": "2026-09-21 02:32:58 UTC",
+    "last_checked": "2026-09-21 02:54:52 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1252,10 +1252,10 @@
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3pzZ3dDRnhHUEQyZTNZSHlpaE4yZVNrYnlleUh6eTlhMURNWTNfNXlDeWs1NUphbzJ5TlQtQVdleG1HanlWVC1zX05pMDdjT1dCNFZWR0dkZHlWbmdHYXc0ZGZCNmJmY3QxVjNjV3loNUVYRGtyWENXc1NJVjZzNjYwRXpSNjV6Ymk3WnlBWTNxcUZWakhtT2x0elBJVV8xSDBNZdIBqgFBVV95cUxQVFpJU0hEOEhSb09HQnFlbVQzdTVCTEFjMjJ0VDNZemMzdXpEUUNoNmIxYmM3enE0Q3dNTWo5RTRzMzRnb0FDd3RTMVN2Zk5hM19sMUVzelpWZzUyNVV0LU9LTlNxRWpmai1haVNJeHFHaDhlbGJ6eGxrQkFiQklyd3ltUnN5QXk4eFVpNlgtNjlrOV9XM1k2QUlNdEdQd0ZKYkV3RXdxZmlpUQ?oc=5",
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkdFVTNzTENjODJ1bE01N2xkbVRFenFTNkUtcG1CRmpMZXpiRFpDaUdjUlZRR2VwNE4zcElsd2JPX25GdUlUcnJTRkNsRDRVbHVvMkhsVnVlajZDSG55SnVud2VpWjd2VnRTMkZEOEVkY2JTNnJINUJRTS1Ld1ZYTW9uLVR5OGlsdjZ0MldpRWtsYmRSN2NvWlQyeDBWQmlTb2tTbEdfdjBsM1pk?oc=5"
     ],
-    "last_price": 608.56
+    "last_price": 610.37
   },
   "LITTRY": {
-    "last_checked": "2026-09-21 02:34:48 UTC",
+    "last_checked": "2026-09-21 02:56:56 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1265,10 +1265,10 @@
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1dRVURLcWNxMWlaS1lZS1hKWDdlZ2pOZ0R3b25LUzJ4YTlqU09wZEVMLXBtX2ZlUjlsLW9wVUE5SF9ZY2lBUFE2d1dudTBDbEw4N2haSFFoSnpUVWdnVjZDazlPTV84aWdjU09lcUFnbDBDXzJkQkRyNThOZ240cm9jZ2Q5OVpUOWFDWmd2TzFPa290ZHF1cUVYTVg0ODly?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjJaTW5wMUtic2k0WmlMemFhMGhoYmVpeVd3eFQzUTAyOVo1TFNhaWdlRk5Tb2tSNjNGekY2UmJLSUQ3eW9UQnF2WndqVWtoeUt2b09GWnJWc1dfX0x6SUNucnNmZFZpOXlralI3eDNZd3E0TVc0Y0NoTVFCX1kxOXRMVVpTaFpwaGdVMzk4RThYdjhRRzZvMVM4djBpNU0?oc=5"
     ],
-    "last_price": 233.55
+    "last_price": 234.58
   },
   "LPTTRY": {
-    "last_checked": "2026-09-21 02:33:26 UTC",
+    "last_checked": "2026-09-21 02:55:23 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1278,10 +1278,10 @@
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4MkJfMWQ2M0VLeFU2bTBQQXFuUkJuYzJLcEc0X2dxb3dlM2lPU0c2aWRjaDBOZC1OU1g5c3F4b1JoaDA5QWJqZ2VIckxQMEpwYjVxRFgzaXdEenRBNXk4d29SNFVPeEctVXJKYnVlZHNVS0p1?oc=5",
       "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBYOWlhVzhxR050VXA4dGt0eXJscVpkUVIwUERYX0J4NVRnVlotSTFLVWdKUVNHV190Qy1pTGFnaTU2YUZjX0poZWdiV3ota2RjWlZaNFZ2M3VXcUIxaUJWRFdqNXdINWhsYjZ3bEpNWUN6Wk1xbFRNWEpMeDdOeGt1NExBYTA?oc=5"
     ],
-    "last_price": 78.1
+    "last_price": 77.94
   },
   "LRCTRY": {
-    "last_checked": "2026-09-21 02:33:14 UTC",
+    "last_checked": "2026-09-21 02:55:09 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1291,10 +1291,10 @@
       "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8ydmVWM2NjN0U4anNKUm5IODV0QUhIZW9wS3QxdFg4ZERGWmxXbUt4Mms1WEhiRGREMXpUajFfblowT0NwelFRQlJCT3hkakNjLTZUVDFqWQ?oc=5",
       "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iaFE2QXhZdHlEekZWNk12aUpoM3ItelRoNEl3R3ZDZjFhTVphbjdWVnhwek40azdFVTNFblpieU9zeTJOZjJUZnMwZU81MWNWazM3QWd0eU1TMkhDd3NUWGtzUW9qcDV2MlI1a1Q0OWZlTTQxWC1vY3VqZw?oc=5"
     ],
-    "last_price": 0.44
+    "last_price": 0.445
   },
   "LTCTRY": {
-    "last_checked": "2026-09-21 02:32:54 UTC",
+    "last_checked": "2026-09-21 02:54:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1304,10 +1304,10 @@
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRldOUmxQQTBGS1ZXS0FRMzFpYklyMm5ZbmtMT3R4eXNUNGt5UlZjZWg5dENEa25YQ1FZS2NCUnpoRUpzN3VaZDlWY2hIUWQtSTZ5QzVUNzF6LUhmN2hmN3V0VE1HeFFtRnRDOEc3cmd4NFQwYXJpenhBZ1BkSXlQUHZ6TXFxNERveVAyVjRIeWp5TVBUbWRCLQ?oc=5",
       "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1ZMUndNMjlDV1R3OGdSdVZ3Q2doMWZydU56ZnFsSzVLLTY4aHNlVDA5UUNKbHV4aU1EQUlfdFBxSngtNFhBYjRKSVBwWWYyeG9DSTRQM3RfenlnQ2RYUG16Y2dyenRSTmEtY1o2dWpmVWFOdFBnYUVTbTZXN2xqZUVFeEdGeThfOGh4amZtY192MXViRnVjWXpXNFBYMVRuMHBDV2U2OTdaNTVTMVZIVTln?oc=5"
     ],
-    "last_price": 2843.76
+    "last_price": 2847.84
   },
   "LUNATRY": {
-    "last_checked": "2026-09-21 02:33:24 UTC",
+    "last_checked": "2026-09-21 02:55:20 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1317,11 +1317,11 @@
       "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0RWNXSUNzb2RkTWpoZUlkZEoyMG5lWUNVcElTWUR1dTNUTG14VUR2N195SnZRY2JOY0FHLV9RSFBQdnFHRmowWGxqazJRYno3MVZRQ0dhbGVSZUtWRXc?oc=5",
       "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFNyX2llaWpaUTVGVzZ4QmJyS0RkSGN6clZOaVJ0dXdocll3Tl92dS12VTR6XzVmaWdyRGhGUXdRUUJGT0hxNXVmNlZxMTNTc21sMV9IajY1OGZBM1RPbEtVZEIxOHh0T1NkZW55T3dyQl9FRjZKVVhBUEowOE9jVnJWTWM3bXkxU0M4MkhRdTVpaW5XMDRBZUFKY3lzeHRkM3VnUEs0NG85dVIxZnhlNk1NWjdvZzVhY1ZRUnZtdnFpZHNWRlpwZA?oc=5"
     ],
-    "last_price": 2.581
+    "last_price": 2.563
   },
   "MAGICTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-21 02:33:41 UTC",
+    "last_checked": "2026-09-21 02:55:39 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56cnNxUERScUdXQUdXVjZIa2dYQVRCNHZ5cm1Ka3Q5MTVERmFpVmJTMGphUVE5OVRtMDlhMWdKeFJnblRpZVhxVUpic3BTczVpWUE4ZlF5UQ?oc=5",
@@ -1330,10 +1330,10 @@
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWxJeG13Q3RWclctYXVybGpxSmdJZTdyR0tabl92QW9OZ2ZkWFRxR1dsR3pvbkloc3VYNnE2T2VrUEQzSm1ZMG9aM0ZOdldYUlloRHdabFg2VEpnUWxTbEZqRkVwdng1YjF0MDVwa25abVdZdWVZYWtPbHdlQk03ZGo5MjN3Y05rMnpxaVlnSlVmcklqam5pUjI0YXZhc1HSAZQBQVVfeXFMTkc1aXVVVVVhdGI2eHA4SmhOZ2F2THJGMERUYl9uOGI3OU93d0dGUUJhLW1WdjZoZ1ZNVEF5ejQxcno1OFVLMzMzeFllZncwX2d6ZE9ncVFaUGRoOUJGZFVBMlU1TTc0MGMwUmhHa0pqTWVJQmgtMEMzMWFIV25UanI4M2VQU0luemlSV0xlRnlFeTBPSg?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0VqWDFYY1htOHBTaFY4ajBYZTJ0ZnkwWmJRZGtUX3JObDVNS1dDb3lVanBpbTU5YWtBTWNyY1hZcE1taXRxaW5mdktwVjV2b2xVNnV6cldTN3pvYWIwNVlwLVVHVTF0YXNpeVJXWl9VUjVUX0pjUnV5dU55c280Zzd1SUlzU1RlV0NjT01ZRndKX3Jpc1Q3WG5uaVJua3BGa29acUE3V3FRdw?oc=5"
     ],
-    "last_price": 2.293
+    "last_price": 2.284
   },
   "MANATRY": {
-    "last_checked": "2026-09-21 02:33:07 UTC",
+    "last_checked": "2026-09-21 02:55:01 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1343,10 +1343,10 @@
       "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ILS1wUWM1MzVJcThWR2VUUXJ4T3ZuYVIya3FWLUJ6aTFqb0c2OWNaQ1ZjVmVXR0g5eXM2YVFGOUNveDBvbTZCNGx0QkRkSUJRQWluS1c5UHNFUQ?oc=5",
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CUU1hMTllLVlWMXc3eF94UUp0REhPVnhDUElNMEpTbGx6RldabUNPdXBmZk8zaEgwYVY4bHF6aDk3MnJQeEhYTVJkV1NjOWlTczc3TmZxbllWRDZ4c0ZFLUM2bE8wcnRyWjloa1NPTQ?oc=5"
     ],
-    "last_price": 3.956
+    "last_price": 3.966
   },
   "MANTRATRY": {
-    "last_checked": "2026-09-21 02:34:41 UTC",
+    "last_checked": "2026-09-21 02:56:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1359,7 +1359,7 @@
     "last_price": 0.2128
   },
   "MASKTRY": {
-    "last_checked": "2026-09-21 02:33:33 UTC",
+    "last_checked": "2026-09-21 02:55:30 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1372,7 +1372,7 @@
     "last_price": 23.01
   },
   "MELANIATRY": {
-    "last_checked": "2026-09-21 02:34:16 UTC",
+    "last_checked": "2026-09-21 02:56:20 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1382,10 +1382,10 @@
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzMXhRU0tsb3NhYXVMSmtVTWZEMjFjcVl5TGQweVVWYmlULTduMVV5T3l3UktHSlM0TFI5eFZ1VXZNOUdwc1J4T1BkNWZkY184TU1UbkdxM05yYk1C0gFiQVVfeXFMTzY2aTMxaGs4VE5QcDc2SjZaT3ZnWnAwS05jM1BuYndVeXJhZmtkRy12bm5BOTZlcXVJeVd2SE1IMl9JY1ozWk9haHdzaU8wLTZOTnU2c1pxM0tBNzM4c1lYWHc?oc=5",
       "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY1hIQkl5MGdJeHJsVHdTSlNERmhKWDMyY1hPcjd2YVdQandJbFo5RHoyLVliQW0xZUxFNWJUc1E5cGtiUEhXOHMzczRUNkNBbXUxSU5UUFFfbi1QX3cyaDZPZVB6Z19wV2Z6bUFqMU1ZMWNfTEFyVjVKaWt1RlN3VnBGcGQ0dy1OVG1DMXBLR0ZKNDBzTEE?oc=5"
     ],
-    "last_price": 4.879
+    "last_price": 4.868
   },
   "MEMETRY": {
-    "last_checked": "2026-09-21 02:34:15 UTC",
+    "last_checked": "2026-09-21 02:56:19 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1395,10 +1395,10 @@
       "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMnFQX0xBTldOb19FcjgwT2VwTTlLZk9iRWs4U3poYklJQ2I1RVdBZlR6SkY1STZsTVc0OFo1UkpQQkZzQkpJQzZMam9vbDRLTGd0ZGRNRUJJd2U1ZmhiczJLbTFSSkNJaFlUYUtLUVg2WGMxVUI4ck5FTC1pd2dzOFlEbnh0cHBqNWNBTWhMMjRVTWl2eGxDRTNNNko4VVlZcEhWU3Q3VkNsNVJJbjBpZ2RZbnJXWDRXczdOaGdEWW1SZjlnTjNybmhZU0RwRE9pWUpOOA?oc=5",
       "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdmZpZVA3UGtQclhCdW54SmJTOU94aDlfNzU5akFjUlc3X0NYM0l6MzVOZFgycGJHeUlOVC1teDJZYVpuZldzODZyWDRmNWZfX2QtUk1KdFdQcjY0cnVBNkhZRDhvT2tRYjhoRXFqREo?oc=5"
     ],
-    "last_price": 0.02782
+    "last_price": 0.02733
   },
   "METRY": {
-    "last_checked": "2026-09-21 02:34:13 UTC",
+    "last_checked": "2026-09-21 02:56:17 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1408,10 +1408,10 @@
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0VqWDFYY1htOHBTaFY4ajBYZTJ0ZnkwWmJRZGtUX3JObDVNS1dDb3lVanBpbTU5YWtBTWNyY1hZcE1taXRxaW5mdktwVjV2b2xVNnV6cldTN3pvYWIwNVlwLVVHVTF0YXNpeVJXWl9VUjVUX0pjUnV5dU55c280Zzd1SUlzU1RlV0NjT01ZRndKX3Jpc1Q3WG5uaVJua3BGa29acUE3V3FRdw?oc=5",
       "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmpNWDRJbU9hWjRRbjFPc3VmUXRZVi1tdDdlVmJnbHNGMEhtQnU5LTZRZjJ3ZFVGQWVsaUN2TXRXRklncnRxd0NnaGJ2WHdIRUU2TWZ6STBNcEttRzhQQ2NuZnl6N1RoSXdmbTdaUE5xc0VWd19QeUI1M19TQUtUTTlGQ2tSRWxBa25V?oc=5"
     ],
-    "last_price": 3.3
+    "last_price": 3.25
   },
   "METTRY": {
-    "last_checked": "2026-09-21 02:34:36 UTC",
+    "last_checked": "2026-09-21 02:56:43 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1424,7 +1424,7 @@
     "last_price": 12.2992
   },
   "MIRATRY": {
-    "last_checked": "2026-09-21 02:34:31 UTC",
+    "last_checked": "2026-09-21 02:56:38 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1434,10 +1434,10 @@
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUlURG10ZndtSDVtNVc3Yl9rTS0zdmVmVlFjaVpIc0hVUHFXbVdPRFFNWDhNUnotZGgxaTcteUItQ21Lb3pIdjFmV2hiNXdKeUtMQzRDQ0RwMlRPSDhETi1rXzdJdUsweXpObUluRDJic3k5bGdubkZ2MUptYXNEZVhoU1RFN3F0UHhoYW1uTmFrZEFGVnZQMmJNYmY?oc=5",
       "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QM1o0M1loNThuQ1dMM3ExdURmZkIxUDAzMEU2MnROcmZObERrNXRDY3JCSjUzM1dtOWgyV1dwSDE1YWdCYlhOMEhyMUhUSVJqZThJNkh3?oc=5"
     ],
-    "last_price": 2.63
+    "last_price": 2.677
   },
   "MNTTRY": {
-    "last_checked": "2026-09-21 02:34:02 UTC",
+    "last_checked": "2026-09-21 02:56:04 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1450,7 +1450,7 @@
     "last_price": 29.538
   },
   "MONTRY": {
-    "last_checked": "2026-09-21 02:34:37 UTC",
+    "last_checked": "2026-09-21 02:56:43 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1463,7 +1463,7 @@
     "last_price": 1.2061
   },
   "MORPHOTRY": {
-    "last_checked": "2026-09-21 02:34:25 UTC",
+    "last_checked": "2026-09-21 02:56:31 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1476,7 +1476,7 @@
     "last_price": 132.5
   },
   "MOVETRY": {
-    "last_checked": "2026-09-21 02:34:13 UTC",
+    "last_checked": "2026-09-21 02:56:17 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1486,10 +1486,10 @@
       "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaW5HNzRZZkU0NUFlQTBqZURwSERyaWV3M2dCRDNRRWRPdFZEQXpUVTJOaVJuNFR6d3pHbF9rdmw4MFVwTWUxcWxsU2JhRDJOR2ZfTnNKVkl2cEgzQUowenVFMGlvUlhqRy0xUWN6S0F4T1RLVkpLb2cwM1pFVTBYOWItZG40bVpVbUMtWVZvNHRHNkFOX3FQOEZsM0xXeUhoWXgtbDVkTlp0M0pRaXdlajBBcWdlTDBEeTQ2RmNPenVlMWFnQ3FIR3BZenFwd2tTa0J0a3UzNy1ZVFJxMWxnbG9jTVloRUp5TERJZDNXOVk2ZFdwZ0E?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM1VyRGdXWXhRcVZhWkdxZ3U2UWJjUUNtY0NGMGlxeG9lU1VaaTB6aXR3empIZ0VIWFRlLVh6NEhZckRzZHJFQk9TNmJxYUxWYzhqcEVPb1l0WS1rZlNfM3RsUGZoblR6SzV2SjluZTlfSHIwbHNORjZIUVZsMzQyeUtYQTNiaElaU2dTUmJEMVR3RS1NV1Z1M21sVHh4Sk83RmhTT3hoNXhhbkxFS1g4UExra1hBTXdsekY1LTRpSlhPSDI0MmFwX0lMOA?oc=5"
     ],
-    "last_price": 0.431
+    "last_price": 0.432
   },
   "NAPTRY": {
-    "last_checked": "2026-09-21 02:33:47 UTC",
+    "last_checked": "2026-09-21 02:55:46 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1502,7 +1502,7 @@
     "last_price": 10.11
   },
   "NEARTRY": {
-    "last_checked": "2026-09-21 02:33:56 UTC",
+    "last_checked": "2026-09-21 02:55:56 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1512,10 +1512,10 @@
       "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXB0QnU3a2FEamlQOXl6NU8tOXJqUHUwdzgzdDJ0Q3VWZlY0Qzd5Zkt2NGhJMUF2QnN4QzJiajB3VVhDY19oRzRhOTE0Zlk3RThvUlByUVRZU0g5QkRhcHB3WHFvVzFCRk9zTkpJNmFqblZKTURacWJTeWRUcHZZYlBaYWlFdDc5dDIzNk9YQzlQalpLYVhQdGRZWVVpbnFLSGNPRDh1V0xRd1hDa183dHlnZDVISkQ3MnZXUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Ic0RqM3lFZUpZdC1HaDFJUUVvcTAyOW5KQUFGd0U5eVFORm40Uk1iS1JsMENXUmRMcV9Xc3U5elBWZWplOHQ0enJSQS1VdE5zc09lS3I4UHZwV3pqeVYzcm1DTjQ?oc=5"
     ],
-    "last_price": 202.1
+    "last_price": 203.6
   },
   "NEOTRY": {
-    "last_checked": "2026-09-21 02:32:56 UTC",
+    "last_checked": "2026-09-21 02:54:50 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1525,10 +1525,10 @@
       "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFNQMFZRaEVVVi1oYi1venJTSWpLS09DSXB5S1huMnlWWDN2TlI3SnpBMklfV1V5NXM2N0hDV1dUTEtWd0lWVTRuUHdBaVFTVnN6TjJwNFFDRWVaaVB4SkR4RzVCclI2M3BnTXV6S1VBRTZCTy1Rd1ZkSGt1TWtVTDA0Yjc2RXFwU0swcFlhaERXZw?oc=5",
       "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaUNWSWQ1QUlJMnY4RVlGcUF4VkEyOTV1SFcxeHhzeGpQaThqUDEwTTRYd1k1bG55UHcxWUtpMHBqc1FncEZjNTdRYXBuUU9Qcks2X3I5Uk02aWhSZnhFYzJieWpjVXVrVXVsdTdfVWVMS1BldTZrN1pIS2dqT1AtNXM3a01ZLWNoX2RUc0diaE5MamI4amFpQW9Hbjg4NExpOWo2R2lmMngtU2lFOGtvbHhXRllzYjNpdV9FcHhCaEtXZFkwcVE?oc=5"
     ],
-    "last_price": 114.75
+    "last_price": 116.01
   },
   "NMRTRY": {
-    "last_checked": "2026-09-21 02:33:50 UTC",
+    "last_checked": "2026-09-21 02:55:51 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1541,7 +1541,7 @@
     "last_price": 445.22
   },
   "OGNTRY": {
-    "last_checked": "2026-09-21 02:33:38 UTC",
+    "last_checked": "2026-09-21 02:55:36 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1554,7 +1554,7 @@
     "last_price": 0.9322
   },
   "OMGTRY": {
-    "last_checked": "2026-09-21 02:33:05 UTC",
+    "last_checked": "2026-09-21 02:54:59 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1567,7 +1567,7 @@
     "last_price": 2.292
   },
   "ONDOTRY": {
-    "last_checked": "2026-09-21 02:34:06 UTC",
+    "last_checked": "2026-09-21 02:56:09 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1577,10 +1577,10 @@
       "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4SVptMU1ZSUFPUU41VE14RWZUZ1UtX0N4Wi04a3I1MlBKU2FpRV85OUZOMGVmTExtNGpsTXAtdDlQN1Z1eVJHZmVqOVVmUjd3ZVlac0w1c1JyekExZ2hKV2lhcUpiRC1vc3c?oc=5",
       "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQU15cHdCbmFZSllIcXNXU3Q2RkgxQk9kV24wamxGcFM3ZTJLWjQtaE5DV1Vvajd1S0lCOTRCTlo0OTN5bXpMbjBNUVdpamJ3YTNOZThaQldMZE1DN0R4dTN5c0JMSTd2TjJReWM0MW5zT0RTVzY2eDNEWWROMmM?oc=5"
     ],
-    "last_price": 20.472
+    "last_price": 20.596
   },
   "OPTRY": {
-    "last_checked": "2026-09-21 02:34:01 UTC",
+    "last_checked": "2026-09-21 02:56:02 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1593,7 +1593,7 @@
     "last_price": 6.013
   },
   "ORCATRY": {
-    "last_checked": "2026-09-21 02:34:45 UTC",
+    "last_checked": "2026-09-21 02:56:51 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1607,7 +1607,7 @@
   },
   "PAXGTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:33:25 UTC",
+    "last_checked": "2026-09-21 02:55:21 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzYySjZhQ09Ud2h6NzNNQTdxOTZpQng0RFNHM3Flc2N2MDJmSDRjeGJVNGt1dUhfeWRwWE1fLUN0ZEVhbndqMThWZ1UtUFJBc0U1ZGRzRzg2eVNaOWdNcDlzckN5UUluN2lJODlVSEp0VFFwT29oclllcEpacDhJODltR0xjOFIwMHAwakJ0djFScVZSUWF0N0VSMk1CNWt5MVlZZUJoNG5jMDBCS2VFZy11Nk0wZTdqX2FzaFJR?oc=5",
@@ -1619,7 +1619,7 @@
     "last_price": 211078.0
   },
   "PENGUTRY": {
-    "last_checked": "2026-09-21 02:34:18 UTC",
+    "last_checked": "2026-09-21 02:56:23 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1629,10 +1629,10 @@
       "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlFyM1lndFl4cVJQbjQyWmdOcXZBSGt3Q01JN3FrWDVkM1VRWV9GZjJLdWozcFBpTjY1NHVvX3VwSW9VNkZ4TFNTVFVUekozUnZKZXhYd3ZyZ2s2UGc2ZzVnOEZQNWxNOUViTVdPVFFsTXhWWlNac0lGaGJjVWRnSjBjZGZ1dFVuSzFubFRLQmFDLWFzbElpVkNn?oc=5",
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHhFRG5kY3VoWGVUcW5QdTR3V014SHllM0JIUldUajRnMzJwcFQwTjRfcF9CUEN6MnV2UmtwTklnSlI3V3dYVWc3MW93R0MzX1ZMSFNhamdMVWpEUy1wZGhaMUViZjFpbHhrX0pXTW9tT1g2X25hSzc0UGJ5SGlnbGNRSkFtczJhQnBybmR0dDItZFNHSVJRUE43LTVIX3BQT3RnXw?oc=5"
     ],
-    "last_price": 0.38435
+    "last_price": 0.3835
   },
   "PEPETRY": {
-    "last_checked": "2026-09-21 02:33:49 UTC",
+    "last_checked": "2026-09-21 02:55:50 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1642,10 +1642,10 @@
       "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjQtQkdsTlRPWXRfamVxbkpwQXBtdWFvbnhKTE9NU3MzdUttdVhXcVF0a0xtbklmdnFVR3JZbHNIZ21YWm1VUFZTVHoyZ0hKUGhDUUxJQnRpOTVwM1VSU3gxN3JCMjRrVi1TY0hlVXhzZFRmaUE3c1VLWURYZHQtX0Y2ZktQVmNqczROSw?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWVjXzVxN3dWaDBTdnk3ZTNOeHp1cVhLNlRNLV9lRG9NdWtvZHAyaW5MWGdpNHI3aFRUc2VxNlQ1UXlNU2o5Z2tkbUtQdDg0bEhLdXZhdkRrWUhITDMxXzF6LS1FREhtU1dDR1F3dmlFMWxacUVDN2FYby10UC1YeDJBcnlJYThDTzgwYko1TVM4OF8ydERrUW95REk2Z3FuSlUxOWJsZS1ITGhHT0gw?oc=5"
     ],
-    "last_price": 0.00019331
+    "last_price": 0.00019399
   },
   "PNUTTRY": {
-    "last_checked": "2026-09-21 02:34:11 UTC",
+    "last_checked": "2026-09-21 02:56:15 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1655,10 +1655,10 @@
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDlJbkExMVVfWnhRcUFITnhxTnJpMVhVTEFoMzM1XzdURDJvdWJRaHgzbW0xU1F3NEotQV9fcDdxS0xiQmlCejgtR1BjNEQ1T1JBN0s2cUtGaVRxbm5EeEtJMnFwMUdaZjJ2UElraENjc0VoX0hfWmxPM0lHM1E1WkVVMlYzRjI3c3dyVnBWcW4zTkVBaXVRVA?oc=5",
       "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHhRVEdJVkZuaENlcGpyMDRpT1hwUXRBd3Zfc052RmRkd0RnZGxKUEUtREgtSnR1VDI3SnRDQWlBd1VFdEdLUGJQNlgxeFBRUkh4aDZieGNvMklNNldVT1gwb2RGU2JzZl94VVYtaElJN1pXRFBtS2ZrTW9OSHkyU1BqMXRwVUV5QWxxWE54Ty13a09hbjAzT2pEaTJQcVBvZ2Q1QzRkaGdNQmpfc2NEb1VRQlZMeGQwNWZrUjNobw?oc=5"
     ],
-    "last_price": 2.522
+    "last_price": 2.532
   },
   "POLTRY": {
-    "last_checked": "2026-09-21 02:34:09 UTC",
+    "last_checked": "2026-09-21 02:56:12 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1668,10 +1668,10 @@
       "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXFCLTNMVmQ5dnZWZ0I1eHp5OEpCTzJuYWVNSHdrZEQ3RU44cjJMNEhteDBCZzBkdlowZTV3UDJ2VzJ2ZjNzV2lvX09WbDRyX0xsb21oX3RFOXR6S25weEtrVnN2ZmtVeHlOTVlqRElUUW90eG1UZG4tVTkxSUlnTzBuMHdObG5ZMlFjU29aM2l3SnR6c3RQSVJudG1kQQ?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3dtMTRUWWhRV1RlQXlmblpkZE85Wm1feVIzSEhZcGRWSUVIZUo5YUZyNEFlU3BQelJEX3JxZ1g1NzFxc3lzRTNSamhiTE9lcFQ4UjZSVU1MYVdDMlgxaTVyWS1lcHdKcm5HYkpKUFhMQ0E2QUotQnpXRGFVN2EtaXQxN1ZlT1dSTlJMQ2dWOVBpOGMyUmJPZ1FzT0UtY1HSAZsBQVVfeXFMTlFoVmQxRnNvdXJtblBTY0JpV2ItUkJKaWhVc3h6NXZxdkp2WExycUszZ1pqS19DTzI1eDZiTXlHZHpGUkxCU0REOTN1RFA0Ymt3LVVlUzJvZks0OUxocmJsd0JWM2Z5cmllZWpTYUtMcFlHTWhQaThiLW1EZlNCSWRWWnJiNXI5MjNNTl8wZnNmUERWRk5ORS0wZjg?oc=5"
     ],
-    "last_price": 5.133
+    "last_price": 5.188
   },
   "PSGTRY": {
-    "last_checked": "2026-09-21 02:33:42 UTC",
+    "last_checked": "2026-09-21 02:55:40 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1684,7 +1684,7 @@
     "last_price": 22.541
   },
   "PUMPTRY": {
-    "last_checked": "2026-09-21 02:34:25 UTC",
+    "last_checked": "2026-09-21 02:56:31 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1694,10 +1694,10 @@
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZF9XVGxtSGd4ZkpsTklCeV9VeFdlQ2hQdVptMk9ZSTFYOTFOblVKbzNRTnJvWmZTVWNlSHltc2oxMnVTMy1CZ2N0X2hWeXRPLUlXX1hDVUhLLVU2RnVCam8zLUs4MG9INlFSS0NXYVdCRVdlaE1HNE5qcmxMTDRybmEtUG9MV2UxREhJMjluNzBiTmhaRzJBU2dlZHVSM3M5NkpqZVNTYnI3UXNiQVBxdHJXRDFBVzdfcGZ0dEY2U2E4Zw?oc=5",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUhzdURnUWVrQ2pGY3RPMzhxYzRiNVZhc29xaFhZNnZmWC1zT3U1NUR4Qk9hZ1VNX2RFYUtPZ0dFeDlaV1BHMFlGVUtrZkZ2V1VDdzlvcEVkVWZpajk4U3JGZXFHTndwLW1OaURBdEMxTXB6TEdHck9hdXpoaVpoNmVpNlhGdC1HUjZHN2xWZW5BUF96cndMUWJsZUFMa1BOMThZTmI0Q091MjFZOGRUZy0zVXkwN2s?oc=5"
     ],
-    "last_price": 0.20585
+    "last_price": 0.20845
   },
   "PYTHTRY": {
-    "last_checked": "2026-09-21 02:33:54 UTC",
+    "last_checked": "2026-09-21 02:55:54 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1707,10 +1707,10 @@
       "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWNMeGd1OTFOUzlaSW5hR080X2Vya1FDV04yM3BycmkwZkV5ZEE3RVFFRXZTdFBCckZ4c1VuZEJ3YTlTUWdsbW1WcHJIYTJORVBMSDgybTFQSUdsdERRMjFyMGFLQ09qTkQxZ2c2UHk4LUI5VklRQmRoNlFobjZZT1YyM2RuSkwybV8tNzVPY3p3bVpfbWZBOHBJOTJjbVlrX19UUg?oc=5",
       "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GbExya3VLY3dJZVFYRWNqOWF3TjZBdU40QnBwX3pxR2JLSmc3VDdQQUNqVGRYd09IanNQSGVTSWxEQkFlaldNdURVcmlBWGc5VGpHT25BVXQ1WTUz?oc=5"
     ],
-    "last_price": 2.93
+    "last_price": 2.94
   },
   "QNTTRY": {
-    "last_checked": "2026-09-21 02:33:22 UTC",
+    "last_checked": "2026-09-21 02:55:18 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1723,7 +1723,7 @@
     "last_price": 3136.57
   },
   "RADTRY": {
-    "last_checked": "2026-09-21 02:33:39 UTC",
+    "last_checked": "2026-09-21 02:55:36 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1737,7 +1737,7 @@
   },
   "RARETRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:34:05 UTC",
+    "last_checked": "2026-09-21 02:56:07 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkJPWDVuRmdxT0E1WWpZM09McTZKaXR3cUlfLTMyRHlzVk5aN3FPcmM3bUFWdkVJVnJ3c3d2elc4NW1qV1hKT09PWlBtN1ZlbnFGSmZvVXgtRlFrSy0zREFuZnI4S1B3eldKNm5kcHprM016MEZKRmplNlVxZHpNSFpOTW45eXl5czlrak1VVkpPYVNtcGxj?oc=5",
@@ -1746,10 +1746,10 @@
       "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NGJYWVFBeHhJV2ZSVDRIeDFiblliSVlVRU5mZ0tUN2QwRFBUcV96OERJbldrLTJVbmZFUi1IZHRRQTdzc094RVdIOG9lUmNNNnRrcHlyaU92ZW5vWHFWd01tcUNsTlQxOHdyUQ?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjMzQXBrRXJXQXhoS3BaemdiTGlOTEVPVkZTN3E2aHBkTXBWQTRvVjBYdHg4bklGV2NJakdDUEpBT3ZFWUQ3OXF6a0JZVE1OeHVWNzN4Q3V3ZnhsM2wybUZvLVhaZ1Y1SjVmb2NjRWloZ2c3N3FoS2dyeFROdXM4VkJQVXJkeU5DRHhrM3Z6djc0NGxySGxyWXlBaVlOb2RGRUJ3aWFEMTJmWlJKMGlSRUFNN0Z3dU1DSm80SDQ0aTlwY0tqZ0JRSl9DVQ?oc=5"
     ],
-    "last_price": 0.6079
+    "last_price": 0.6118
   },
   "RAYTRY": {
-    "last_checked": "2026-09-21 02:34:23 UTC",
+    "last_checked": "2026-09-21 02:56:29 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1759,10 +1759,10 @@
       "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CcS1GR1dLcFFHOGpwM3JxZC05dm5vRUlYNzVGbUtfRUdxUGRhbFlTNFk2cS0wTldwa052UzNTdUUtaktPeERFRi1PMmx3TWNBT0lWYl9uZksyUlZ2bE0yWWpmcVlXcGFROFUxRm85NFR3cVlEaXZQNW93?oc=5",
       "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PVF9Uck5QRW1JemtDS2VJcERaNm52czRaYnd5dHppNHhJaXVEcDNOeXJCOEpDNm5zNzRleFN3eHRRTzdJN011QmdTTVVtd2dzMjZQSXJndi1VcmFIZGxnOC1pZGhEQm9CWl9abWVXQm1RWWNQQ2FXU21DYV8?oc=5"
     ],
-    "last_price": 79.9
+    "last_price": 80.4
   },
   "REDTRY": {
-    "last_checked": "2026-09-21 02:34:43 UTC",
+    "last_checked": "2026-09-21 02:56:50 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1772,10 +1772,10 @@
       "https://news.google.com/rss/articles/CBMingFBVV95cUxNckxkd01FMEEzMW94T2Z6WmQyeldyVDZZb2duMlprWm5GbHFEcWY4RHRHbUR6Zjd3b0RpS0RuQ3VvSUtBQXpKUnE4N0d6bW1McE1jMjJJVXZpSmhrVGlPbVRIMmdEVU43UW1laEhXTmhLWUltekJMNUFveXJKR2NmS185OGdvZS1sZlNDN1pVTk5vY19zR3EyYUlBNzc0Zw?oc=5",
       "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDZtZ29fLWVJMEN0QkRSN1dpdHE4T0VhMFJvTlFsdEZnakh0cmJWYmRfbzJKNm92WW9kMG1YSlRTSWg3RldrQWxlV0s5SktoMVFTODhjQkQyT1lBZ2k4N3dWOFk3eUFqSGJUcTV5Rk9HRTRLa1FBWXZkbzY4Y0RDZEtB?oc=5"
     ],
-    "last_price": 7.3698
+    "last_price": 7.2895
   },
   "RENDERTRY": {
-    "last_checked": "2026-09-21 02:34:00 UTC",
+    "last_checked": "2026-09-21 02:56:02 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1785,10 +1785,10 @@
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxONFpTUU1xQnkxM1NndkNjOGpZcy03VjdpNWlWeGJRNHJDYlBJVF9hTkJnNW5qMlBUUVlKbTgtWUtDemI4c2FVSEF4TkRDRHdTbnRVTXo0U0p3ek95dnRZWGhpcXR4X055N2ZEUXZwRDloVkhaRHhlcmpRSlJUVVY3dWFqQ0Zha1pJd3dCa2tXSnZiMHZsZEhobE9TUzY?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJFclJPRDliNkRoejRaem56QXpRejZvakNZNUxXcmZ2NXVDdkFmdk84eVFLZnoyUlBncExmSk5sSkwwNHBsN0NLX3NOY0U4ZDVva2FxeHRMZ0s0blZ1cXFfeEMxYi1rTy1sSjRYUE1SWGktTXNKYVZpbFJPWm5Oc2VsYlZNbG1nMm0yQzRLTDNqVmMtaDhYRmxFY1FnY3M?oc=5"
     ],
-    "last_price": 81.56
+    "last_price": 82.66
   },
   "RETRY": {
-    "last_checked": "2026-09-21 02:34:49 UTC",
+    "last_checked": "2026-09-21 02:56:57 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1801,7 +1801,7 @@
     "last_price": 21.903
   },
   "RLCTRY": {
-    "last_checked": "2026-09-21 02:33:28 UTC",
+    "last_checked": "2026-09-21 02:55:24 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1814,7 +1814,7 @@
     "last_price": 15.065
   },
   "RUNETRY": {
-    "last_checked": "2026-09-21 02:34:04 UTC",
+    "last_checked": "2026-09-21 02:56:06 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1827,7 +1827,7 @@
     "last_price": 27.2
   },
   "SAHARATRY": {
-    "last_checked": "2026-09-21 02:34:38 UTC",
+    "last_checked": "2026-09-21 02:56:45 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1837,11 +1837,11 @@
       "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3c1BpT1BQTWtXMUFyOXR2Rlk4NDVuOXByeVhLOW1wZGhVZ3V1blFkSEpvTkhfZ2VkNUNYTmZJWEo0d0JhMXNESzFXdy1MZWtzTkUzUDJYbXpIaWd4dklFcA?oc=5",
       "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkZXanNVUVZQTHpzSXpBczNXRzVjaFVESWxRMFJ6UHRWNDRMZEN4YkJSVDhTU1VRSHBGSk03V203ZUZWTXBNWlZ6UW5RYi1lU3hGZC1CZk04QXNTd2VlRkUtQWd3QUgwQU90TFpBc3AwLWpQdnh1SEFjU2hyVHlLa0lqT1RPb005cW5VdG5YbUdfNlRETVN0VzBkWHZnb2s?oc=5"
     ],
-    "last_price": 0.4378
+    "last_price": 0.4358
   },
   "SANDTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:33:17 UTC",
+    "last_checked": "2026-09-21 02:55:13 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VWF9xUllHd19wd3YydG1RMmJReWtiN3QtdlI5X1l5ZUZEVS1DS0xhbkRLb1M4WXFwWE1DZHltSzU0YThHa3piN1g5MjM3MnJBWkhPTmVvVDZ6R0xVQXd3STdBMG9zaTVVUUE?oc=5",
@@ -1853,7 +1853,7 @@
     "last_price": 1.933
   },
   "SEITRY": {
-    "last_checked": "2026-09-21 02:34:33 UTC",
+    "last_checked": "2026-09-21 02:56:39 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1863,10 +1863,10 @@
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZFRreVRPa2l4RjQ0eTZsVlZVckdnWVJMMV9DNHNVWk9LLUM0Ukk1Q2QtZk1GQXVyaWRhRGdEZEI2Qnk3RFZlTVBzNENZM2ctS3pOVV9CYzBBRVpxN0Q3MTMtOG8xMGVoT1M0eVgtRmhaTVZDNWstdHF4T2E3dHNJVVE2S1NFM2NGdWNDT01JdVpSQW90X2JxalpJRE9VVlVaWlh3dnhiTWlycmI0aWc?oc=5",
       "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlN4VTA1X1VkQ09sZFJyTS1kMXJTZlBEVEVxekd2S0NnblNKYnBWSENHZ1l2RUZYUXFjcVRuRW1ndlRTMWNocjZmVVFHdXptYzFzSjFESFVPcmFyMTZXa1k0aVFtYmc1YzZPQk5HNXRLMzhmLXBoVm1TMnlRcktQZnVxdDhwNHBqTlhQTFVpNzRnb0lzZnRjYTJyNDlSR1BIY1dFNTNNZ1QycTlnZ01B?oc=5"
     ],
-    "last_price": 2.6411
+    "last_price": 2.6533
   },
   "SENTTRY": {
-    "last_checked": "2026-09-21 02:34:40 UTC",
+    "last_checked": "2026-09-21 02:56:46 UTC",
     "last_signal": "BUY",
     "volume_alert_active": true,
     "seen_news_links": [
@@ -1879,7 +1879,7 @@
     "last_price": 0.879
   },
   "SHIBTRY": {
-    "last_checked": "2026-09-21 02:33:13 UTC",
+    "last_checked": "2026-09-21 02:55:08 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1889,10 +1889,10 @@
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjdNbFRHTUs3ZHBrV1RvV1FUVXhPUFdwdjRwbGRxb2oydTh0Y1U5Nm15a1diNmpjTmhqOE1UYkUyRG5uYkh1dDZYamZJOVNFM3JYSlBtSmZaaFZuTjdUUm9lbXA4WmFjSVZYSzNGbUxRX3RsNng1YU9RS3l6RHJreWhvd3BfRFZrX1pSODhSam5yWVhKVHJKd3NZcGZ3UC1m?oc=5",
       "https://news.google.com/rss/articles/CBMia0FVX3lxTE05VS1BZ1FLN0pKWC1KdDJ4MXV5ay1rdEpXQ2tfeGZVWXFQOWQtb3FGajA4ck9OQ1NVLXc4cWVqZU9vRTJ1MkZCQnpZTWVuTzZkcXU5UW5CVzgxeUZUbFlXOGFqbzlQTWNNUW9r?oc=5"
     ],
-    "last_price": 0.00026605
+    "last_price": 0.00026678
   },
   "SKLTRY": {
-    "last_checked": "2026-09-21 02:33:23 UTC",
+    "last_checked": "2026-09-21 02:55:19 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1902,11 +1902,11 @@
       "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaW5iWk1XQjZCNVdQQzVYNVdyVnUxX0hCUG00ZTdKNkNjZ1NPd0RvUW9ZUkRIQnNOT2RJQTFGVEFTdDRuOXhBcnM4T2Q2NXNLZzJYUkloZVB5aVRGbkV3TEtIRGZBMm9tVGxWRkR2TTNfbVlVRUdqVHVUc0drRURIWkU2OGdVSXU4QkE?oc=5",
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc241cFg4NVJxVjQ5cFhxZkdRMnBBTGZ0U0VJYkJraGhEZGZnSjZ0M2doblluaE1vak9oNmppMXVyTjhCc3lGQ0kzbGsxUFJaRjB5ZE5jOFdNWGd1cWMtdURkb0J4RG1CMG9MZ2NTZWxpS0hPak96TFhhNV9OMXh6TGV4QVdxRHZkbk96QWRFMmM1Ui1yYXdXSU9QV3FjdWg3Z0RENERn?oc=5"
     ],
-    "last_price": 0.2151
+    "last_price": 0.2173
   },
   "SKYTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:34:34 UTC",
+    "last_checked": "2026-09-21 02:56:41 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDNLN1ZOejdjd1VZUHY1cXhFNnNUelpYR19aT1NScThIcnBzSzdDQ1NGYl9tZklvaUJBX1hMNjZzQTB0cnFHOG42eTJWSFJEX3BqbFh1QUQydTN1VFdkQWVOeVpPemI5TzJUVjhPQ0dXVDBvR2lVMDE3SDEtMER6VEpfRnRMYzJJXzlWOV9fcTBFUE9XQkJyYQ?oc=5",
@@ -1918,7 +1918,7 @@
     "last_price": 3.4225
   },
   "SNXTRY": {
-    "last_checked": "2026-09-21 02:33:07 UTC",
+    "last_checked": "2026-09-21 02:55:01 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1928,10 +1928,10 @@
       "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QdVZRVjlxZzJPQ3Y1bjJ5WnM4MnVtX0FkYm5zSXB3N1JKSEhjc1p0SmtBT2plb05yTmJaTGVkLVlrWGxLUkhCNFRPMlptdUpieGZTQ3ZFby1TT2xRWDRrenlaRjdQTXVKOFNZ?oc=5",
       "https://news.google.com/rss/articles/CBMickFVX3lxTE91Ykx3cGZfSHpTdVQ0ellvajlLbEtuR0JWdEY0YV8tVEY0SG9oYWxEVm51TmV3bklIczE4LUs0alFIWklYLVZRdllqa29PZjFwamhHT25mRzZqaXIyNmhDLVNqdU5NX092RFlkbDEzRlNyQQ?oc=5"
     ],
-    "last_price": 10.878
+    "last_price": 10.915
   },
   "SOLTRY": {
-    "last_checked": "2026-09-21 02:33:11 UTC",
+    "last_checked": "2026-09-21 02:55:06 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1941,10 +1941,10 @@
       "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVpGQmp5bnhTNHlPdkJwY050aElQMW9NaC1EUEhwWTNNRVBnYWZUY2NZMjhtamw4ZkNwM3FmR2RuNFpOU3hVTFBVUmxRTUVIcl91dzhzNW50aHZDNVpTM2dBY0g4aXA2MFM1ZEtTODZ5MDdYbVQwRGFPSkJOd1lTYzZMMHp1eDNLOF80SU1Va3E?oc=5",
       "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnVRbFF2WGtrNF9CcmhzQzJ6QW4yTVU3MElZd1NoNkpXaXhFa2hRY2wya29MMVE5eGtSc0Z0akMtc0F4UHkzU0hvMFBGbjRrdllXUlBSenNVQndHa1JuZnNnMlR5WVljTzlKT1lNM1pfcUU1aXZaX0hjRzJCWElfMy1semwwQVhpcXlyRjl6anhCdklIQUoxU3c1Mk85TE53NmFPY3JnOXJJRUNWd2dxRkRweF9HMGdiOFE?oc=5"
     ],
-    "last_price": 5385.22
+    "last_price": 5387.17
   },
   "SPELLTRY": {
-    "last_checked": "2026-09-21 02:33:19 UTC",
+    "last_checked": "2026-09-21 02:55:15 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1954,10 +1954,10 @@
       "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wekQ4VDFEc056RVJTRGFnNVZJa0NEYlZFRW9OZnZKSzhaV1FtQmlvWWFncll6N1ExQndRamdqOEJGUzkwMHhDdktIV3BqenBNTEQzUnZzZFpscC1FQnRr?oc=5",
       "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53MXVpS1JnMEd3ZjJSNG9xd2ZnNzN0alp0ck1RaUt0bGQ0VDJxTDZqcDFRSC15c3BBQWJIaEstb0RjSlBtYzRDd1VwdmlsNEUxWEUwUU1GSkY4SENBQVhwVURSbnBDeHE5?oc=5"
     ],
-    "last_price": 0.004288
+    "last_price": 0.004321
   },
   "SPKTRY": {
-    "last_checked": "2026-09-21 02:34:27 UTC",
+    "last_checked": "2026-09-21 02:56:33 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1970,7 +1970,7 @@
     "last_price": 1.0031
   },
   "STORJTRY": {
-    "last_checked": "2026-09-21 02:33:15 UTC",
+    "last_checked": "2026-09-21 02:55:11 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1980,10 +1980,10 @@
       "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1VONDF1ZEZRQkJzSjdWdFUta1VkVC1ad3NiMXBpWWNnX0pfbUhkenNEblBUNFFtbkEwSF80eFhZTWxqMmlxUGZETEctVkNNbE1YeEMxdFpWVi1nMDVwbjZmTnB3ejVMcDZUb1dkTHpVb2RzVk55YldReUQ2cDNlWmw5SUM?oc=5",
       "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUGRtR1AzWFJZS1lUb2RRWVNRWlRGRGxRRTUyWnB5aUswOHRuQzZiZDhSYUFqbVliNTVrckpkcHM4OExKdkN6SlQ3TDFQeDBERUtSd3plemtCZw?oc=5"
     ],
-    "last_price": 1.555
+    "last_price": 1.56
   },
   "STRKTRY": {
-    "last_checked": "2026-09-21 02:33:51 UTC",
+    "last_checked": "2026-09-21 02:55:52 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -1996,7 +1996,7 @@
     "last_price": 2.34
   },
   "STRY": {
-    "last_checked": "2026-09-21 02:34:17 UTC",
+    "last_checked": "2026-09-21 02:56:22 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2006,10 +2006,10 @@
       "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2FxOTRSZjJxWmhvUHFQSGthaFZpYUxob0JvYVlIOTlwbTVydW1maDdHNkxXSkNoU0lIeVdFa2dCa21XZHlUckZjbjE5ZG9GTHhyOTRJbURaWlFJV1ZGdXEzd25taU13bG9hR25wUlJHYkNzc0NRbTVTMEdhWklUV3ZURUZhOTJkYURuYzZDRjZfbVhYZDE5UlVod2lQV3F6V2NzT0dvaVNBaExYb3c?oc=5",
       "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0S19oV3hkOGlRNW5FTWFwTjJQdk0tLUNITFVOTTZpOXlIR0d6VkZlRjd2MUtKY2JpakRyMm91WmpoM1pRV281T1dLeDJGVm83aVFfa1Rrc0FyTUw4VEFfcHNBZWNnZlkzOGhCZUVEY0RSZzNBWmtz?oc=5"
     ],
-    "last_price": 1.833
+    "last_price": 1.855
   },
   "STXTRY": {
-    "last_checked": "2026-09-21 02:33:12 UTC",
+    "last_checked": "2026-09-21 02:55:07 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2019,10 +2019,10 @@
       "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYXREOG4zb0JpWnZPa1IwRnd2aTBwSUU2cjlLQW4wdTc5Szh2OVdtNS1POHRsZlM2OC1MREtOVTJ3U1lWWmtqY0xpMGpPYXdqVlhEWHhLN1g3QndKTUx0a0tWSWZObFNNM2ZyeHBRNElkUkZZSmFmb0ZjcktJeVZ3YjNaZ2F3clQzZ21xQVB5NFpWQnlzbFpMZmxtMTVzY2FoZVRhb0J1ZzBJZDU3eFNQQWltNU9CQVBXdzE4WXNMdmxOejJkbHozS0VXNWNlNEtjUVVkLXRIcXFVSFcxdk5sY191RnJpUG5BTnVqVFhyV2VjVHFCbDVwYlJKLS1xSThlQXZEcWNackEyTXJQb2xkZTFIOUVrRHEwTEd1MExuckNrelVUTk0tX0JWVFR4R1FWeXpYd244MmlpNlIzOUpjXw?oc=5",
       "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkZmbGEwWVQyZ1hXTnJjYnlFUDZUUEIyVm11dFgteVFqU3Q4WDEydTRfaDdtVFM0X3pzeE5QSzBsa3VBQzVValZFU29Xc01DVzlQU2Y5LTI5VEFpZ2dFaXMweUl3cWw3UzNWODRvcG1QS0dPM2x4eFhFbEszMXZERg?oc=5"
     ],
-    "last_price": 15.62
+    "last_price": 15.519
   },
   "SUITRY": {
-    "last_checked": "2026-09-21 02:34:34 UTC",
+    "last_checked": "2026-09-21 02:56:40 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2032,10 +2032,10 @@
       "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTBCaUFpQTNKRGdKT3ZtNi1lZzdYeEhHbVVsZ1NrODZKWnRRZmVsNkFqYXNCSUpjd04xMGJFakpqQU1XZDdweWdaTnBJN2c1eGpOcjhxRVpsSkhUc1I4LTVhZTMtajFqQnVVQnN0WnEwTjQxamJwQVJzUF84UlVTdGdkSjBfUQ?oc=5",
       "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1piZnE5cU1PQnVJeFNIcnNJenNmM013WVg1QlJBbDhMNmVoaWc4QjdjZjFpelVBQTcxOWZmTFRhQlpHd2NHSmdtVnRTTVZ6TjVRajBKUWZVM1NZTjF2eE04YXQ2dVZuTHl5cGU5NXctNlpaVEZDU3pWSXp3dHpsbmtGQkNHN0E?oc=5"
     ],
-    "last_price": 44.98
+    "last_price": 44.84
   },
   "SUPERTRY": {
-    "last_checked": "2026-09-21 02:33:52 UTC",
+    "last_checked": "2026-09-21 02:55:53 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2048,7 +2048,7 @@
     "last_price": 6.69
   },
   "SUSHITRY": {
-    "last_checked": "2026-09-21 02:33:40 UTC",
+    "last_checked": "2026-09-21 02:55:38 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2061,7 +2061,7 @@
     "last_price": 12.0
   },
   "TIATRY": {
-    "last_checked": "2026-09-21 02:33:57 UTC",
+    "last_checked": "2026-09-21 02:55:58 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2074,7 +2074,7 @@
     "last_price": 20.3
   },
   "TRATRY": {
-    "last_checked": "2026-09-21 02:33:45 UTC",
+    "last_checked": "2026-09-21 02:55:44 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2084,10 +2084,10 @@
       "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41V19nQm9Qb053c3RIa052SUJHczY5RGNzTGIwTTI0YUJvTXNjMi1Ld1JJVHhyaHd4ZG1YSTdOSEdDdUhtakYxZmlNMFUzM2VyZVRsMHg3aTFJSXhQY0Iya3drNA?oc=5",
       "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMVkxXzFfQ0JlTkVvQV9Rdy1EQ3JPQ2hFNlFnZWgzN2M3N3BLRE15V09CeTlndndkc0lDUUhfYjI1RVhYclJMYV9pczVZRDl5ZlFPSGw3NnAxOVIyUi1ORktxNXVtQWdxQUF1REtldzc0c0xkUDhKQWhtYjUzampieFBXY0RWVEluY0dyVmJ1VVVMcU9xeEJ6TjNtRFZncG1pZGlYN205SDYwSmtyXzNCdjFsekl4YnVkR3ppQWU1OFFRenFWOGN6NWNOaHo0YmVsdHRJXzVGQ2lfZ3QwaFVv?oc=5"
     ],
-    "last_price": 9.42
+    "last_price": 9.466
   },
   "TRBTRY": {
-    "last_checked": "2026-09-21 02:34:44 UTC",
+    "last_checked": "2026-09-21 02:56:50 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2100,7 +2100,7 @@
     "last_price": 860.92
   },
   "TRUMPTRY": {
-    "last_checked": "2026-09-21 02:34:15 UTC",
+    "last_checked": "2026-09-21 02:56:19 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2110,10 +2110,10 @@
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUnVHdmRILUpCTTFpQWVYQ3pmSGl3cGt1RmNpOGVHcnkyWDlfSURRLU9iRUtuV2pzcnl5ZHpGWTZYMGZJWmhWRld1RGZkNU5xOWRQYTJZTEJzakNPaEtJMGVLMG9pOXIxRlhkU0ZIVVZuRm1RQkxNRnVodllYSmNSSThvS2JCLWdJS2JrUk11V1dhV1NGa0s2a2Frc2s0LU8zdk9raTdDaUM4cGpzVkZVM25hbDRRTGdvTlVPOUxBcXl6QQ?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmQyV3Q1Q3FqMmJTOHpBa1lIaHpRb19iZlFRaC1TUGgzWTZaWWlSQWRBbUNFRG5qX1ctRWJKZUhNOVcyTXdFaDM0dXJvZXF6MkphTlRNOVVuT2RKT05oWjRteVVxdDRSbUZvb2ZfZTdvSzJpZFIxLWN0dC05aUhWNmZESVN4SXRzeFFQVFR6OVVhQ3czU0l1YUhWM00wdFE0eE1RUHpLVXVIeTM1YnNiV0hOX3pVOUFoVTB5bUVoYUlidw?oc=5"
     ],
-    "last_price": 100.4
+    "last_price": 100.2
   },
   "TRXTRY": {
-    "last_checked": "2026-09-21 02:33:00 UTC",
+    "last_checked": "2026-09-21 02:54:54 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2123,10 +2123,10 @@
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSEFRTXNVTVJsUWFmR090Q2FJcE45S29Iekt1TkprLUFYTUNoZmR3TzhQbGhTcGd2LVp2ei1XT2F5Mnp0WlRUcmJmeWd1MGhnMFBrQ0ZZeWtlZWw4YlJSRDkyYXpjbVR2cDYwLVJKMnVTRGFuUHJTM1Y4eDd3VU9hWnVoNnRQLU9ac19ZXzM3Skh0U1g3ZmdJRNIBngFBVV95cUxOYUhsRjlGaF84SzJfVUpobzZpNlpQb3d5UVAwS2RncEpMenFoelIzUnQ1Q0s3bWdkNVE4SnI1X29hMTk4eFNmVS1VMmRXSXhPcndfZGl2TDdKazN6alRSMDByQXh6VDVTNlBpaVhlb09MNmppOUtza2x2WU9wRWItbnFiMWgzVWcwN3JQV0xQams1eVZYY2U3ZEtvdWhiZw?oc=5",
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2N2X2lxNm44eFRHRkJDNUktQnh5cFJnTTBRUldyQUc4YVVVWHZoWV9fa3NxTVIwOWVrWjNNVHhtMVdTVmY3YUxnbGc3RF95emVBNVlfYzBCLWZ1dmVndjlLRTZyOXU0bWZOX0t5ZGxvOEQteTduOFVsN0d5WFZnN21mOWpUQmc5MUJkUEtXZUlrVURPWThaNHp2MWxsMlpkZ29KS3p3dw?oc=5"
     ],
-    "last_price": 16.6148
+    "last_price": 16.6058
   },
   "TTRY": {
-    "last_checked": "2026-09-21 02:33:36 UTC",
+    "last_checked": "2026-09-21 02:55:33 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2136,10 +2136,10 @@
       "https://news.google.com/rss/articles/CBMingFBVV95cUxOeXFCLTNMVmQ5dnZWZ0I1eHp5OEpCTzJuYWVNSHdrZEQ3RU44cjJMNEhteDBCZzBkdlowZTV3UDJ2VzJ2ZjNzV2lvX09WbDRyX0xsb21oX3RFOXR6S25weEtrVnN2ZmtVeHlOTVlqRElUUW90eG1UZG4tVTkxSUlnTzBuMHdObG5ZMlFjU29aM2l3SnR6c3RQSVJudG1kQQ?oc=5",
       "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdWYwQ2pxUy1uVlp3NTBhQXJrSkU0OF9qOE1ERmxQMWhYeW9ObUt0WFQ1SzZWS2lvLWRnei1GU3lQZ3d6ZnpvNXIxM3IwWVFBM1ZTNDh2ZTJJZ0RIYk1zRmZDOXItUVpYZ1M4YTBBYXFxdmxrOGt0MFdWeWJ4WkkyUmQ1Ymdhc2JVY3kwUHo5QXlxeHlnSTVmSXh1M05UQ2gwdWZQV1p1d3hFanRYSXRIeDk5R2huSzFNVU9mcFFoZjdhR2VveTZxSmluTQ?oc=5"
     ],
-    "last_price": 0.2424
+    "last_price": 0.2438
   },
   "TURBOTRY": {
-    "last_checked": "2026-09-21 02:34:21 UTC",
+    "last_checked": "2026-09-21 02:56:27 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2152,7 +2152,7 @@
     "last_price": 0.04648
   },
   "UMATRY": {
-    "last_checked": "2026-09-21 02:33:14 UTC",
+    "last_checked": "2026-09-21 02:55:09 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2162,10 +2162,10 @@
       "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdjJ3eDVZQlV4MVkzV0dNOFpGa2tWV0tGUnZGRVhuNzFlRUVmYW5FZnBTU09pMGVnQzZzQVNHNUNFbE1FYloyWW0xc19yclZoNlg4cXFTWFh5TmJWZnVVYXE5R1BiaFlnZXNtU1UzeVIxM3NWWWh0QVdoWS0tZXZZekpmWWtmUXhtOWxOODQ0QWJBUTgtbmw0S3dOMUFGcXlJbDhhSU84b9IBrAFBVV95cUxOeHRtdWNEa2QxZ0paWWRFd0FWOEhvRk1LTlZZWVBVeFV2RE5pRTRiUE9uemxSUEs1WHc2NmdKNFo5Tkt1OF9BcXVFMmFnNkRYSW0tZjdXa1YzNGFUT2p4YlhlRFNLaXRCQTVETVlNTjdGVllpWWFWOHA4WHU2OGRPOFE2OUhEdVhDcUlMNE9zcnJNd0U3Nm5ELU5aLVFMSmx2ZThjZzF0UVhZSU8x?oc=5",
       "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUExGSzljM3drWG1vTUtCdGRZZDUzaEFKMVJ5RGxjWnB0dUdkY2ZnX09MZFhuTDU1YkVpY252Z19kRDdHNXpEVlh2X2dIOTQ5ODN1dlFXNUlOQ05TSTctdnQ5Y3M0a1ZCdmJRanBYM3RiWVo5ZEFKMDE0aWphZms?oc=5"
     ],
-    "last_price": 18.802
+    "last_price": 18.826
   },
   "UNITRY": {
-    "last_checked": "2026-09-21 02:33:02 UTC",
+    "last_checked": "2026-09-21 02:54:56 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2178,7 +2178,7 @@
     "last_price": 418.64
   },
   "USDCTRY": {
-    "last_checked": "2026-09-21 02:33:02 UTC",
+    "last_checked": "2026-09-21 02:54:56 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2191,7 +2191,7 @@
     "last_price": 48.33
   },
   "USDTTRY": {
-    "last_checked": "2026-09-21 02:32:55 UTC",
+    "last_checked": "2026-09-21 02:54:48 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2201,10 +2201,10 @@
       "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFRjUE5KcldXTkRzYWx4cDltaDZSTlI5RlFta1FwNDBYYVkyNHIzVVdveW9TSTByX0QyQkNLOERjZUhMUTRZZWlRNDB2X1haNEJIdjZveldNSTVaV2NiLXpTS0ptNGdFckhlNnJvUzVPTm04R1cwcUdoMjhzRWZqV3hvTkE1eWJlYUFTSk5hOU95R2hrbEw4V3NkdUdzTlRkdU1ZcHVR0gGbAUFVX3lxTE8yY0Z1aXFsT2JsYmlOZ3B1cXVieWVvYUpiNGl6eHktVlJFeFlpX0owWW12TFpoUlRSNGp3bWhsRVBIMjR6bHlBMlB3MXVmRzdhQWJZT21iTnlKanlHWThpOG5OMkVhSm1pUTBrXzFQbUtxbkt4UUpRNTNWY3NhUWVLUmVMWFQ5TmgxaG40Q1NXWkRMdTZMRkJucWtR?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aX09pcVYzTXl1dWZlWGFzRGtvT09ZLVh4MHFzZ1J3R1pFdzdlaTU4N2wzM0N2eGhnbnBUMWdLcFNLRDJXc2xTb1d3c0hNc2NDYndjd1diSWp2eC11aGlfVE9RT2tOWEhDVmx2YnY5U2c5Yk5Q?oc=5"
     ],
-    "last_price": 48.41
+    "last_price": 48.431
   },
   "VANATRY": {
-    "last_checked": "2026-09-21 02:34:14 UTC",
+    "last_checked": "2026-09-21 02:56:18 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2214,10 +2214,10 @@
       "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiSnVCdnl2aVVFb3lXdURFM0Jsdm5YT3MwbDREVnFhTE1SUUxkNnBnd1ZCZkE5NG9ySW1sVEZZeVZmUVhXYVlTYWgwVW0?oc=5",
       "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3NtMV9wckd3QVlhWm9kRjBqV29pQlBuX01JYloyV3RHUV9GSXVkWE9QcnZ2UFY3Vi1sUE9yTnhuRzNZVmFWdzVydDhkbzdNUzRrU2J0S3dZbFBvR0RuSUlMYXVtWnZfaVFPUWR6ZHlvQ1FVZHZfcHhaVGFwdHpMUmNCLTVPY0lk?oc=5"
     ],
-    "last_price": 52.88
+    "last_price": 53.02
   },
   "VIRTUALTRY": {
-    "last_checked": "2026-09-21 02:34:21 UTC",
+    "last_checked": "2026-09-21 02:56:26 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2230,7 +2230,7 @@
     "last_price": 32.764
   },
   "VVVTRY": {
-    "last_checked": "2026-09-21 02:34:42 UTC",
+    "last_checked": "2026-09-21 02:56:48 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2240,10 +2240,10 @@
       "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0g0VXlvNDJ5OGhHMzNQbngwMWlfTnd2MS1wLUNEbmpueXprT2FlT3ZTRWJfZGl4c2pibE9hdFRsc2o2Wk1QNy1WNVIxMG81cTFBTzVjQkl3RFdreGJlSDFHMFEza1ZJaG1nSDZaLWlKLWZTaG5SdngzbDgxOFFmYUJ0MTJhYWhlLWdicmhMbk53MTA5STNpa055eUg3UXFo?oc=5",
       "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc001eDkzajRnTzVRcHBITUxvWGlZdlRBRk1Wb21tNE5kOUxaMXE1MTNjOGlYRVM4TkVZUUx6M1Mxd2VrbC1DamI4V08xX2RqNEpSZFcwY2hfMF9uNktXX2haLUtRSEZZdWQ2ci1Cajlxd1VucDE1dl9hNm5wdjVzNWkwT29ha3dRR0NrdllrWk9hamtvSWZKNtIBjgFBVV95cUxOTGloZnVnay01dnlJUEVDdHNUQkJ0R01tMWZLZEVOQ29UTnpwSXZaYVBEeUhkMF9KWWRCTGJmejNCMEZoWWZNejN1UXg2Y1lHOE1SV2pLLWswUlFDR2M4dm5mNHFpblY2WEYtS3Vtb3lWcGZVcHBjUFpTOTN0REc4TEM1azZPV19iYTRza1pR?oc=5"
     ],
-    "last_price": 1551.8
+    "last_price": 1593.49
   },
   "WALTRY": {
-    "last_checked": "2026-09-21 02:34:46 UTC",
+    "last_checked": "2026-09-21 02:56:52 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2256,7 +2256,7 @@
     "last_price": 1.5393
   },
   "WCTTRY": {
-    "last_checked": "2026-09-21 02:34:22 UTC",
+    "last_checked": "2026-09-21 02:56:28 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2268,7 +2268,7 @@
     "last_price": 1.933
   },
   "WIFTRY": {
-    "last_checked": "2026-09-21 02:33:55 UTC",
+    "last_checked": "2026-09-21 02:55:56 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2278,10 +2278,10 @@
       "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lck9JUV9wcG1EdlQ2YUVITF93UWZiVUt6Z2RmUnZJajRPcFpGQTJxWjhtclV6TUxQbnRuUWN3OVduQ3NfVnhfTkxVMTc3MTBXX0dQMXF2OU54YjRzTHFyTzBhTmV3SVpQRjh6djQ2MTFZSGg5MGNCcUt6Zw?oc=5",
       "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZkN2eWJkUFA1cFo2dHl0QVRVazdnblpVTXk4VzhCUlFYSUlhTUREdGJQMnBrMG51TGJENGhva2NiR2wtNzdyS1FNVjJGUGdmU1c0WXRzZk9sOXlVVTdqRUh6YmtXalRLM2pjY1lQLXVqV2FncFRfY1FFSHVhRllHeTdZYlRnR2w4?oc=5"
     ],
-    "last_price": 9.71
+    "last_price": 9.82
   },
   "WLDTRY": {
-    "last_checked": "2026-09-21 02:34:04 UTC",
+    "last_checked": "2026-09-21 02:56:06 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2294,7 +2294,7 @@
     "last_price": 21.035
   },
   "WLFITRY": {
-    "last_checked": "2026-09-21 02:34:28 UTC",
+    "last_checked": "2026-09-21 02:56:34 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2307,7 +2307,7 @@
     "last_price": 2.8092
   },
   "WTRY": {
-    "last_checked": "2026-09-21 02:34:10 UTC",
+    "last_checked": "2026-09-21 02:56:14 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2321,7 +2321,7 @@
   },
   "XAUTTRY": {
     "last_signal": "SELL",
-    "last_checked": "2026-09-21 02:34:28 UTC",
+    "last_checked": "2026-09-21 02:56:34 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wZFhYSG9Zc0RwX2JtNXRHRTY1UFlVOGRrQWpJUmpfZWcwLUJ5cm9JNS1fWjl0RVVtQk1fX2lfUUM2UjFXcUd6cHo0blZaTHVNU1VlYUpTUQ?oc=5",
@@ -2333,7 +2333,7 @@
     "last_price": 211582.0
   },
   "XCNTRY": {
-    "last_checked": "2026-09-21 02:33:33 UTC",
+    "last_checked": "2026-09-21 02:55:29 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2343,10 +2343,10 @@
       "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKdnVQb2tVYmlDT2x2QTlYNUpJbE1nSkRRRk5Jc01WZ1N1N0dMN3g5QVVGRHJSdjloU29nU1dVUzI3bW1lNWFnSEpxNlBBcGRuT2NXQWFyNXFEVG84MkRINmNjM1ltWjZ2THpF?oc=5",
       "https://news.google.com/rss/articles/CBMickFVX3lxTE1rM1d1bUMtalh0RGNtSHdYS1ZIVlZ4enM0QjBqc01TbHludDNTeFJCcWJ6N1ZCMi1lWTJwaDN4WUZYR25mOGxsZ18ybU5MbE9OMXNJTkwzb2dmeDd0aWVrdWl5dFotR2F6QWlaUzM4QklHZw?oc=5"
     ],
-    "last_price": 0.2
+    "last_price": 0.2005
   },
   "XLMTRY": {
-    "last_checked": "2026-09-21 02:32:55 UTC",
+    "last_checked": "2026-09-21 02:54:49 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2356,10 +2356,10 @@
       "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZER5TjVYS0xxZ2xveXJLV29lajNOLUdHSHE3dnl4T0pDU0xualoyQWVBZ0huRU1kNjlWNmowcFFzNHI2eHpFMGkwVUFxcmNwcVhPODhiczlqdjE2UnpFczBRY1phM19CNi1XTVNCNlRyR2o1Q3VZN2hOakRlSHF3YVdTRzRWTmhtLW9ZVmZxaW5EejlIM1hQc3VEWEVjOUU0WnRmSEp2b1N1d0o2eUdJQlRvZDJKWnM3UjM2eFdNVEoyd2w0RXc4LU1R?oc=5",
       "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcGI3dG5LQlNreXBZU0ZNaFZnYUJMclpaVjV6TTFDLVQ2VjFFeTRuVVFVY01UTmJyQkY2a3N1YkhXcWNGNmtHWEo4LUNQZ21XZHdtMnBmeFlmODRyZF93ZVJkM0ZYWl9qSEZpOEJ1YWsyeGxHS19JaXgyTzl4WHFubHh2NFktbWtPOGQxbTJubFJ4WE56RnpYYXRlcnp1MjBfN3lod0kyREQxTFAtQy1rekM3MGpiSGQtVG1rQUtwR0d5QQ?oc=5"
     ],
-    "last_price": 9.554
+    "last_price": 9.562
   },
   "XPLTRY": {
-    "last_checked": "2026-09-21 02:34:31 UTC",
+    "last_checked": "2026-09-21 02:56:37 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2369,10 +2369,10 @@
       "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUDMtVjFaZFh5RWswUlFvNmJlWUtJUi1QWmFqR1NYRUctTVBIMUoyM1lWTGhRR0tYbUlIbGlWVFJ0UDlUWERHMExUUlZqSHN4em5US1RHZmFoczYzYzQ2eTRfemdiRTJ6ZjZoQ0d0bGRIOWpXcFU1ZWg0NndOYjIzZklOT084bHFE?oc=5",
       "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkVTRzNwRF8ycFVGNlZKMGVqOER3QVNnbC0za09MZVFlU04tU1E3NUU2TTNmRVNsM0Z2YmdCb3FpRFFCaTJTUGljSFlJaC13UXdiajQ0VWYwdmpBclZ3QVRBNVRpX2dMXzlLT2hVZWx2OHNCZ3BEa2MyQXlwc2UwZFdqWTlZZ0hWcHJILVBydlY4LTVyVGlCZmhxTjBGRGliR3VTeHNQUUxJcU9M?oc=5"
     ],
-    "last_price": 4.479
+    "last_price": 4.655
   },
   "XRPTRY": {
-    "last_checked": "2026-09-21 02:32:53 UTC",
+    "last_checked": "2026-09-21 02:54:47 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2382,10 +2382,10 @@
       "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zbWpwRy1IM0x0cjdpRmM3V1oyd0IydmxzUHN6aW01NkhrSjlyU0dWVlFWV3FxdEZuN2hVUUQtd2VINnVqWmMzaUNqaWNCbF9pYlA3N013VzRkUi1sVmRrT3dscFF3eEZWc1NoNkttTQ?oc=5",
       "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0dMNl9BNWFuN0JUZGEyaXJYeVRnY25xUjFQTnBRVG56NjIyamlrcFBtd1JuWVIyQlB3MWRVOURncnVkRVFxanZrLTVOdzhPWUM0OUtjT3IxV0tXYWZGOFJqZ1ZpZnZMWXlXV2dpQ1QtZy1hQTAtMENDMVZNdXBjalVxQVpqTVlGOW5mcWVHYw?oc=5"
     ],
-    "last_price": 68.234
+    "last_price": 68.5
   },
   "XTZTRY": {
-    "last_checked": "2026-09-21 02:32:59 UTC",
+    "last_checked": "2026-09-21 02:54:53 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2395,10 +2395,10 @@
       "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGlLS3BBb3o1VjA5RnpFMVNBeEtELW92dVpBb2hIUDItZ3R4ckstRE1DZXNYWXFPY05MSlJMOG9oTEFnLUN4eW02ZTFKa0NsYUJLZTBiLWs4MVFFekQ1b1A2VGRDRTZTSUl2X19HU1JlU3c5RmhIdVplX0lXM1BLX1FndHdreElYNWdyalU4c3hKZ2tBNTR5LWlSMkw?oc=5",
       "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4MkJfMWQ2M0VLeFU2bTBQQXFuUkJuYzJLcEc0X2dxb3dlM2lPU0c2aWRjaDBOZC1OU1g5c3F4b1JoaDA5QWJqZ2VIckxQMEpwYjVxRFgzaXdEenRBNXk4d29SNFVPeEctVXJKYnVlZHNVS0p1?oc=5"
     ],
-    "last_price": 16.868
+    "last_price": 16.848
   },
   "ZKCTRY": {
-    "last_checked": "2026-09-21 02:34:29 UTC",
+    "last_checked": "2026-09-21 02:56:36 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2408,10 +2408,10 @@
       "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrS1pwTFF4ak1aVVhkTFN1eGJ1WkthdlpSSUVPdzBMRFRRZGJuZDJLTjZBODRONFB5eUlhTXFVdkUtcnhWWXh6dDM2WE9Na0VOWTlTM2VlR2tkOGJYVHNQVQ?oc=5",
       "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSnVfWTUzblVsNmNYQUd3ZVN5NzVlZFVLTmRRT1ZRSzdfUHRCRXphOEhjN3VUem5PajFUMTVRdjRzVGY3UWRQeHZHa18xYkZFcUpjUkxuN0lrLWt6WTVtWUZn?oc=5"
     ],
-    "last_price": 1.911
+    "last_price": 1.926
   },
   "ZKTRY": {
-    "last_checked": "2026-09-21 02:34:07 UTC",
+    "last_checked": "2026-09-21 02:56:09 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2424,7 +2424,7 @@
     "last_price": 0.5604
   },
   "ZORATRY": {
-    "last_checked": "2026-09-21 02:34:35 UTC",
+    "last_checked": "2026-09-21 02:56:42 UTC",
     "last_signal": "BUY",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2434,10 +2434,10 @@
       "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtVHJxSF94SXZYQ2pIOHFHTnhzLWJQd2NPSFE3dFptMHpZVDRqcDdtZEtSd3pEajJ2b0FvVE4xZ3JSZWZzODFKV1J2U0dSSXAydWxxWA?oc=5",
       "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSkl5NDRzTFUxMVBRa0l6em5sX2g2TF9pWFBfUXJ6VWk2eU1aVmg4UTIzQjg2SFpuT3FaUVhzU2dGcDc3ckw5SVd4eDdGeTI0WEw2dnBERTcySGpmNUMxaVVUeTNxMnlISUpsOXNwZnFMaXZ0Q19DNjVBY2k2amZMeldMdG82X2RPbnBLQ3Z5ZEFzRUtsX3JpMFF1YjNVX1dwMEtRYzVkb3o4dw?oc=5"
     ],
-    "last_price": 0.39
+    "last_price": 0.3918
   },
   "ZROTRY": {
-    "last_checked": "2026-09-21 02:34:06 UTC",
+    "last_checked": "2026-09-21 02:56:08 UTC",
     "last_signal": "SELL",
     "volume_alert_active": false,
     "seen_news_links": [
@@ -2451,7 +2451,7 @@
   },
   "ZRXTRY": {
     "last_signal": "BUY",
-    "last_checked": "2026-09-21 02:33:49 UTC",
+    "last_checked": "2026-09-21 02:55:49 UTC",
     "volume_alert_active": false,
     "seen_news_links": [
       "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00UjFMUVIwYkQxdnd4UXRWTEJlUUFDczlfZmtrZVNER2ZLdmRrZHdYUDJIU1QwTTVDVl9CSEdLdlM2QThsYkxUMkp6TGU5QQ?oc=5",
@@ -2460,6 +2460,6 @@
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcnUtMzNiallrQ0JHcUU5bG53VXJfWHVxNzM5QnMzTTZkVEdveHFPVFZLLXFSX2ZhR21KUTBiLS0yb3pGTDhIajNzTzkyVnZTUnowbkxZUFg4Q0RtNVBEcXlmb2ZxYlQ1Z2JKSExtXzE3TVlEUmJnZnFGZGlieUJGdUV6N3ppS1VkT3UtNFl2YVdTbGJuTF85QTdiZDFnMHRWRmpVYzlWUDlFNHYzMHFlVElzdzZLY0xTWERMd3Z4cXN3a21M?oc=5",
       "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0lsblRINHJ6Y3pjTmxoRjN5ZnltTGd2RHZRc0dGT1I1MnBxRFlzd2Z5QW9udUt6NDNlbmhxQlhWMXppcy1RZDV5ZUoyUnVMXzBWS0pkdkFjcUU4ekhwai1QRHdfZTZfSWZrNkNfRXFyM1lWT3BYX0RWNThYdkc4UDd1azdndjM1TjFIRXRab3lHNEFfdmt5MDBxTWxKanRZdVNxZlJwM1NfbDZSdm5lWU5kdFFPV2c?oc=5"
     ],
-    "last_price": 5.5609
+    "last_price": 5.5245
   }
 }
