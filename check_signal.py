@@ -22,10 +22,14 @@ birlikte çalışır:
 GARANTİ ETMEZ. Amaç, kararınızı vermeniz için daha fazla ve daha hızlı
 bilgiye ulaşmanızı sağlamaktır.
 """
+import base64
+import hashlib
+import hmac
 import json
 import os
 import sys
 import time
+import uuid
 import xml.etree.ElementTree as ET
 from urllib.parse import quote
 
@@ -63,6 +67,27 @@ WHALE_VOLUME_MULTIPLIER = 3.0   # Hacim, ortalamanın kaç katına çıkarsa ala
 # --- Erken yükseliş uyarısı (büyük hareketleri erken yakalamak için) ---
 EARLY_SURGE_ENABLED = True
 EARLY_SURGE_THRESHOLD_PERCENT = 4.0   # İki çalıştırma arası bu yüzdeden fazla YÜKSELİRSE anında uyarı
+
+# ============================================================
+# OTOMATİK ALIM-SATIM (gerçek para ile işlem gönderir!)
+# ============================================================
+
+# 👇 GÜVENLİK: Test bitene kadar bunu True bırakın. True iken gerçek emir
+# GÖNDERİLMEZ, sadece ne yapacağını loglar/bildirir (simülasyon).
+DRY_RUN = True
+
+AUTO_TRADE_ENABLED = True          # Ana anahtar: otomatik işlem açık/kapalı
+AUTO_TRADE_ON_STRATEGY = True      # Strateji sinyali (5 koşullu) otomatik işlem yapsın mı
+AUTO_TRADE_ON_SURGE = True         # Erken yükseliş uyarısı otomatik AL yapsın mı
+AUTO_TRADE_ON_VOLUME_SPIKE = False # Hacim alarmı SADECE bilgilendirme, işlem yapmaz
+
+ORDER_AMOUNT_TRY = 250.0           # Her AL işleminde kullanılacak TRY tutarı
+SURGE_TRADE_COOLDOWN_MINUTES = 60  # Erken yükseliş tetikli işlemler arası minimum bekleme (aynı coin için)
+
+BTCTURK_API_KEY = os.environ.get("BTCTURK_API_KEY", "")
+BTCTURK_API_SECRET = os.environ.get("BTCTURK_API_SECRET", "")
+
+PRIVATE_BASE_URL = "https://api.btcturk.com/api/v1"
 
 # --- Haber takibi ---
 NEWS_MAX_ITEMS = 5              # Her taramada en fazla kaç haber kontrol edilsin
@@ -279,6 +304,105 @@ def check_news(pair: str, pair_state: dict) -> list:
     return new_articles
 
 
+def _signed_headers() -> dict:
+    """BTCTurk'ün istediği HMAC-SHA256 imzalı header'ları üretir."""
+    if not BTCTURK_API_KEY or not BTCTURK_API_SECRET:
+        raise RuntimeError("BTCTURK_API_KEY / BTCTURK_API_SECRET tanımlı değil (GitHub Secrets kontrol edin).")
+
+    stamp = str(int(time.time()) * 1000)
+    data = f"{BTCTURK_API_KEY}{stamp}".encode("utf-8")
+    secret_decoded = base64.b64decode(BTCTURK_API_SECRET)
+    signature = hmac.new(secret_decoded, data, hashlib.sha256).digest()
+    signature_b64 = base64.b64encode(signature).decode("utf-8")
+
+    return {
+        "X-PCK": BTCTURK_API_KEY,
+        "X-Stamp": stamp,
+        "X-Signature": signature_b64,
+        "X-Request-Nonce": str(uuid.uuid4()),
+        "Content-Type": "application/json",
+    }
+
+
+def get_asset_balance(asset: str) -> float:
+    """Hesaptaki KULLANILABİLİR (free) bakiyeyi döner (örn. 'BTC' -> 0.0021)."""
+    resp = requests.get(f"{PRIVATE_BASE_URL}/users/balances", headers=_signed_headers(), timeout=15)
+    payload = resp.json()
+    if resp.status_code != 200 or not payload.get("success", False):
+        raise RuntimeError(f"Bakiye alınamadı: {payload}")
+    for item in payload.get("data", []):
+        if item.get("asset") == asset:
+            return float(item.get("free", 0))
+    return 0.0
+
+
+def place_market_order(order_type: str, pair_symbol: str, quantity: float) -> dict:
+    """
+    Piyasa fiyatından anlık emir gönderir. order_type: 'buy' veya 'sell'.
+    DRY_RUN=True iken gerçek emir GÖNDERİLMEZ, sadece simüle edilip loglanır.
+    """
+    if DRY_RUN:
+        print(f"  [DRY_RUN] Gerçek emir gönderilmedi -> {order_type} {quantity} {pair_symbol}")
+        return {"dry_run": True, "orderType": order_type, "pairSymbol": pair_symbol, "quantity": quantity}
+
+    body = {
+        "quantity": quantity,
+        "orderType": order_type,
+        "orderMethod": "market",
+        "pairSymbol": pair_symbol,
+    }
+    resp = requests.post(f"{PRIVATE_BASE_URL}/order", json=body, headers=_signed_headers(), timeout=15)
+    payload = resp.json()
+    if resp.status_code != 200 or not payload.get("success", False):
+        raise RuntimeError(f"Emir gönderilemedi: {payload}")
+    return payload["data"]
+
+
+def execute_auto_trade(pair: str, action: str, price: float, reason: str, pair_state: dict):
+    """
+    action: 'BUY' veya 'SELL'. AL işleminde ORDER_AMOUNT_TRY kadar TL ile,
+    SAT işleminde o coin'deki TÜM kullanılabilir bakiye ile işlem yapar.
+    """
+    base_asset = pair[:-3] if pair.endswith("TRY") else pair
+
+    try:
+        if action == "BUY":
+            quantity = round(ORDER_AMOUNT_TRY / price, 6)
+            if quantity <= 0:
+                return
+        else:  # SELL
+            if DRY_RUN:
+                quantity = 0.0  # DRY_RUN'da gerçek bakiye sorgulamaya gerek yok
+            else:
+                quantity = get_asset_balance(base_asset)
+                if quantity <= 0:
+                    print(f"  ⚠️ {pair}: Satılacak bakiye yok, işlem atlanıyor.")
+                    return
+
+        result = place_market_order("buy" if action == "BUY" else "sell", pair, quantity)
+
+        action_tr = "AL" if action == "BUY" else "SAT"
+        status_text = "🧪 [DRY_RUN - simüle edildi, gerçek işlem yapılmadı]" if result.get("dry_run") else "✅ [GERÇEK İŞLEM GÖNDERİLDİ]"
+        send_notification(
+            title=f"🤖 Otomatik {action_tr} — {pair}",
+            message=(
+                f"{status_text}\n"
+                f"Sebep: {reason}\n"
+                f"Fiyat: {price:,.4f} TL | Miktar: {quantity}\n"
+            ),
+            priority="urgent",
+        )
+        print(f"  🤖 Otomatik {action_tr} işlemi tamamlandı ({pair}).")
+
+    except Exception as exc:
+        send_notification(
+            title=f"❌ Otomatik işlem BAŞARISIZ — {pair}",
+            message=f"Sebep: {reason}\nHata: {exc}",
+            priority="urgent",
+        )
+        print(f"  ❌ Otomatik işlem hatası ({pair}): {exc}")
+
+
 def check_early_surge(pair: str, current_price: float, pair_state: dict) -> float:
     """
     Önceki çalıştırmadaki fiyatla şimdiki fiyatı karşılaştırır.
@@ -364,12 +488,27 @@ def main():
                     message=(
                         f"Fiyat kısa sürede %{surge_percent:+.1f} yükseldi!\n"
                         f"Güncel fiyat: {current_price:,.4f} TL\n\n"
-                        f"Büyük bir hareketin başlangıcı olabilir, BTCTurk'ü "
-                        f"kontrol edin. Bu kesin bir sinyal değildir."
+                        f"Büyük bir hareketin başlangıcı olabilir. "
+                        f"Bu kesin bir sinyal değildir."
                     ),
                     priority="urgent",
                 )
                 print(f"  ⚡ Erken yükseliş uyarısı gönderildi ({pair}, %{surge_percent:+.1f}).")
+
+                if AUTO_TRADE_ENABLED and AUTO_TRADE_ON_SURGE:
+                    now_ts = time.time()
+                    last_surge_trade = pair_state.get("last_surge_trade_ts", 0)
+                    cooldown_seconds = SURGE_TRADE_COOLDOWN_MINUTES * 60
+                    if now_ts - last_surge_trade >= cooldown_seconds:
+                        execute_auto_trade(
+                            pair, "BUY", current_price,
+                            f"Erken yükseliş uyarısı (%{surge_percent:+.1f})",
+                            pair_state,
+                        )
+                        pair_state["last_surge_trade_ts"] = now_ts
+                    else:
+                        remaining = int((cooldown_seconds - (now_ts - last_surge_trade)) / 60)
+                        print(f"  (Erken yükseliş için bekleme süresinde, {remaining} dk kaldı: {pair})")
 
         # --- 1) STRATEJİ SİNYALİ ---
         result = compute_strategy_signal(df)
@@ -380,13 +519,19 @@ def main():
             send_notification(
                 title=f"🔔 {action_tr} sinyali (sıkı filtre) — {pair}",
                 message=(
-                    f"Fiyat: {result['price']:,.2f} TL\n{result['detail']}\n\n"
-                    f"BTCTurk uygulamasını açıp işlemi kendiniz yapabilirsiniz."
+                    f"Fiyat: {result['price']:,.2f} TL\n{result['detail']}"
                 ),
                 priority="high",
             )
             print(f"  ✅ Strateji bildirimi gönderildi ({pair}).")
             pair_state["last_signal"] = result["signal"]
+
+            if AUTO_TRADE_ENABLED and AUTO_TRADE_ON_STRATEGY:
+                execute_auto_trade(
+                    pair, result["signal"], result["price"],
+                    f"Strateji sinyali ({result['detail']})",
+                    pair_state,
+                )
         elif result["signal"] != "HOLD":
             print(f"  (Aynı strateji sinyali zaten gönderilmişti: {pair})")
 
