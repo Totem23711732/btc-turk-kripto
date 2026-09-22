@@ -6,7 +6,7 @@ concurrency:
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -28,7 +28,10 @@ jobs:
       - name: Bağımlılıkları kur
         run: pip install -r requirements.txt
 
-      - name: Piyasayı kontrol et ve gerekirse bildirim gönder
+      - name: Piyasayı kontrol et ve gerekirse işlem yap
+        env:
+          BTCTURK_API_KEY: ${{ secrets.BTCTURK_API_KEY }}
+          BTCTURK_API_SECRET: ${{ secrets.BTCTURK_API_SECRET }}
         run: python check_signal.py
 
       - name: Durumu kaydet
