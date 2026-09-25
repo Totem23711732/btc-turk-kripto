@@ -84,6 +84,14 @@ AUTO_TRADE_ON_VOLUME_SPIKE = False # Hacim alarmı SADECE bilgilendirme, işlem 
 ORDER_AMOUNT_TRY = 250.0           # Her AL işleminde kullanılacak TRY tutarı
 SURGE_TRADE_COOLDOWN_MINUTES = 60  # Erken yükseliş tetikli işlemler arası minimum bekleme (aynı coin için)
 
+# --- Kâr al / zarar durdur (her AL sonrası giriş fiyatına göre) ---
+TAKE_PROFIT_PERCENT = 10.0   # Giriş fiyatından bu kadar KÂRDA otomatik sat
+STOP_LOSS_PERCENT = 6.0      # Giriş fiyatından bu kadar ZARARDA otomatik sat
+
+# Zaten elinizde pozisyon varken aynı coin'e tekrar AL yapılmasını engeller
+# (kâr/zarar hesaplamasının karışmaması için). False yaparsanız üst üste alım yapabilir.
+PREVENT_REBUY_WHILE_HOLDING = True
+
 BTCTURK_API_KEY = os.environ.get("BTCTURK_API_KEY", "")
 BTCTURK_API_SECRET = os.environ.get("BTCTURK_API_SECRET", "")
 
@@ -361,25 +369,46 @@ def place_market_order(order_type: str, pair_symbol: str, quantity: float) -> di
 def execute_auto_trade(pair: str, action: str, price: float, reason: str, pair_state: dict):
     """
     action: 'BUY' veya 'SELL'. AL işleminde ORDER_AMOUNT_TRY kadar TL ile,
-    SAT işleminde o coin'deki TÜM kullanılabilir bakiye ile işlem yapar.
+    SAT işleminde elimizdeki TÜM pozisyonla işlem yapar. Ayrıca giriş
+    fiyatını (position_avg_price) ve miktarını (position_qty) günceller,
+    böylece kâr al / zarar durdur kontrolü sonraki turlarda bu bilgiyi kullanır.
     """
     base_asset = pair[:-3] if pair.endswith("TRY") else pair
+    current_qty = pair_state.get("position_qty", 0.0)
 
     try:
         if action == "BUY":
+            if PREVENT_REBUY_WHILE_HOLDING and current_qty > 0:
+                print(f"  (Zaten pozisyon var, tekrar AL yapılmıyor: {pair})")
+                return
             quantity = round(ORDER_AMOUNT_TRY / price, 6)
             if quantity <= 0:
                 return
         else:  # SELL
-            if DRY_RUN:
-                quantity = 0.0  # DRY_RUN'da gerçek bakiye sorgulamaya gerek yok
+            if current_qty > 0:
+                quantity = current_qty  # kendi takip ettiğimiz pozisyon miktarı
+            elif DRY_RUN:
+                print(f"  (Takip edilen pozisyon yok, DRY_RUN'da satış simüle edilemiyor: {pair})")
+                return
             else:
-                quantity = get_asset_balance(base_asset)
+                quantity = get_asset_balance(base_asset)  # sistem dışı elde bakiye varsa
                 if quantity <= 0:
                     print(f"  ⚠️ {pair}: Satılacak bakiye yok, işlem atlanıyor.")
                     return
 
         result = place_market_order("buy" if action == "BUY" else "sell", pair, quantity)
+
+        # --- Pozisyon takibini güncelle ---
+        if action == "BUY":
+            old_qty = pair_state.get("position_qty", 0.0)
+            old_avg = pair_state.get("position_avg_price", 0.0)
+            new_qty = old_qty + quantity
+            new_avg = ((old_qty * old_avg) + (quantity * price)) / new_qty if new_qty > 0 else 0.0
+            pair_state["position_qty"] = new_qty
+            pair_state["position_avg_price"] = new_avg
+        else:
+            pair_state["position_qty"] = 0.0
+            pair_state["position_avg_price"] = 0.0
 
         action_tr = "AL" if action == "BUY" else "SAT"
         status_text = "🧪 [DRY_RUN - simüle edildi, gerçek işlem yapılmadı]" if result.get("dry_run") else "✅ [GERÇEK İŞLEM GÖNDERİLDİ]"
@@ -401,6 +430,25 @@ def execute_auto_trade(pair: str, action: str, price: float, reason: str, pair_s
             priority="urgent",
         )
         print(f"  ❌ Otomatik işlem hatası ({pair}): {exc}")
+
+
+def check_take_profit_stop_loss(current_price: float, pair_state: dict):
+    """
+    Açık bir pozisyon varsa, giriş fiyatına göre kâr/zarar yüzdesini
+    hesaplar. Eşiklerden biri aşıldıysa (action, yüzde) döner, yoksa None.
+    """
+    qty = pair_state.get("position_qty", 0.0)
+    avg_price = pair_state.get("position_avg_price", 0.0)
+    if qty <= 0 or avg_price <= 0 or current_price <= 0:
+        return None
+
+    pnl_percent = (current_price - avg_price) / avg_price * 100
+
+    if pnl_percent >= TAKE_PROFIT_PERCENT:
+        return ("TAKE_PROFIT", pnl_percent)
+    if pnl_percent <= -STOP_LOSS_PERCENT:
+        return ("STOP_LOSS", pnl_percent)
+    return None
 
 
 def check_early_surge(pair: str, current_price: float, pair_state: dict) -> float:
@@ -462,6 +510,22 @@ def main():
 
     for pair, current_price in tickers.items():
         pair_state = state.get(pair, {})
+
+        # --- ÖNCELİK 0: KÂR AL / ZARAR DURDUR (MA sinyalini beklemeden, en hızlı kontrol) ---
+        if AUTO_TRADE_ENABLED and current_price > 0:
+            tp_sl_result = check_take_profit_stop_loss(current_price, pair_state)
+            if tp_sl_result is not None:
+                kind, pnl_percent = tp_sl_result
+                if kind == "TAKE_PROFIT":
+                    reason = f"Kâr al tetiklendi (%+{pnl_percent:.1f})"
+                else:
+                    reason = f"Zarar durdur tetiklendi (%{pnl_percent:.1f})"
+                print(f"  💰 {pair}: {reason}")
+                execute_auto_trade(pair, "SELL", current_price, reason, pair_state)
+                state[pair] = pair_state
+                pair_state["last_checked"] = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+                time.sleep(REQUEST_DELAY_SECONDS)
+                continue  # bu coin için bu turu burada bitir, pozisyon zaten kapandı
 
         # --- Fiyat verisini bir kere çek, hem strateji hem hacim alarmı için kullan ---
         try:
