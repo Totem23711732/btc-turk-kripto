@@ -74,7 +74,7 @@ EARLY_SURGE_THRESHOLD_PERCENT = 4.0   # İki çalıştırma arası bu yüzdeden 
 
 # 👇 GÜVENLİK: Test bitene kadar bunu True bırakın. True iken gerçek emir
 # GÖNDERİLMEZ, sadece ne yapacağını loglar/bildirir (simülasyon).
-DRY_RUN = False
+DRY_RUN = True
 
 AUTO_TRADE_ENABLED = True          # Ana anahtar: otomatik işlem açık/kapalı
 AUTO_TRADE_ON_STRATEGY = True      # Strateji sinyali (5 koşullu) otomatik işlem yapsın mı
@@ -335,9 +335,12 @@ def _signed_headers() -> dict:
 def get_asset_balance(asset: str) -> float:
     """Hesaptaki KULLANILABİLİR (free) bakiyeyi döner (örn. 'BTC' -> 0.0021)."""
     resp = requests.get(f"{PRIVATE_BASE_URL}/users/balances", headers=_signed_headers(), timeout=15)
-    payload = resp.json()
+    try:
+        payload = resp.json()
+    except Exception:
+        raise RuntimeError(f"BTCTurk yanıtı JSON değil (HTTP {resp.status_code}): {resp.text[:300]!r}")
     if resp.status_code != 200 or not payload.get("success", False):
-        raise RuntimeError(f"Bakiye alınamadı: {payload}")
+        raise RuntimeError(f"Bakiye alınamadı (HTTP {resp.status_code}): {payload}")
     for item in payload.get("data", []):
         if item.get("asset") == asset:
             return float(item.get("free", 0))
@@ -360,9 +363,12 @@ def place_market_order(order_type: str, pair_symbol: str, quantity: float) -> di
         "pairSymbol": pair_symbol,
     }
     resp = requests.post(f"{PRIVATE_BASE_URL}/order", json=body, headers=_signed_headers(), timeout=15)
-    payload = resp.json()
+    try:
+        payload = resp.json()
+    except Exception:
+        raise RuntimeError(f"BTCTurk yanıtı JSON değil (HTTP {resp.status_code}): {resp.text[:300]!r}")
     if resp.status_code != 200 or not payload.get("success", False):
-        raise RuntimeError(f"Emir gönderilemedi: {payload}")
+        raise RuntimeError(f"Emir gönderilemedi (HTTP {resp.status_code}): {payload}")
     return payload["data"]
 
 
