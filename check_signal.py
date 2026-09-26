@@ -74,9 +74,9 @@ EARLY_SURGE_THRESHOLD_PERCENT = 4.0   # İki çalıştırma arası bu yüzdeden 
 
 # 👇 GÜVENLİK: Test bitene kadar bunu True bırakın. True iken gerçek emir
 # GÖNDERİLMEZ, sadece ne yapacağını loglar/bildirir (simülasyon).
-DRY_RUN = False
+DRY_RUN = True
 
-AUTO_TRADE_ENABLED = True          # Ana anahtar: otomatik işlem açık/kapalı
+AUTO_TRADE_ENABLED = False          # Ana anahtar: otomatik işlem açık/kapalı
 AUTO_TRADE_ON_STRATEGY = True      # Strateji sinyali (5 koşullu) otomatik işlem yapsın mı
 AUTO_TRADE_ON_SURGE = True         # Erken yükseliş uyarısı otomatik AL yapsın mı
 AUTO_TRADE_ON_VOLUME_SPIKE = False # Hacim alarmı SADECE bilgilendirme, işlem yapmaz
