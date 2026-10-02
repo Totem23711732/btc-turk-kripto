@@ -1,966 +1,967 @@
 {
   "BTCTRY": {
-    "last_price": 4185000.0,
+    "last_price": 4140348.0,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:34 UTC"
+    "last_checked": "2026-10-02 19:55:57 UTC"
   },
   "ETHTRY": {
-    "last_price": 132357.0,
+    "last_price": 131111.0,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:34 UTC"
+    "last_checked": "2026-10-02 19:55:58 UTC"
   },
   "XRPTRY": {
-    "last_price": 73.779,
+    "last_price": 72.45,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:35 UTC"
+    "last_checked": "2026-10-02 19:55:58 UTC"
   },
   "LTCTRY": {
-    "last_price": 3405.07,
+    "last_price": 3384.72,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:36 UTC"
+    "last_checked": "2026-10-02 19:55:59 UTC"
   },
   "USDTTRY": {
-    "last_price": 49.02,
+    "last_price": 49.161,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:36 UTC",
+    "last_checked": "2026-10-02 19:56:00 UTC",
     "last_signal": "BUY",
     "position_qty": 5.112788,
     "position_avg_price": 48.897
   },
   "XLMTRY": {
-    "last_price": 10.805,
+    "last_price": 10.441,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:37 UTC"
+    "last_checked": "2026-10-02 19:56:01 UTC"
   },
   "NEOTRY": {
-    "last_price": 126.73,
+    "last_price": 123.21,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:38 UTC"
+    "last_checked": "2026-10-02 19:56:01 UTC"
   },
   "EOSTRY": {
-    "last_price": 4.762,
+    "last_price": 4.523,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:38 UTC"
+    "last_checked": "2026-10-02 19:56:02 UTC"
   },
   "DASHTRY": {
-    "last_price": 2908.82,
+    "last_price": 2782.56,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:39 UTC"
+    "last_checked": "2026-10-02 19:56:03 UTC"
   },
   "LINKTRY": {
-    "last_price": 694.0,
+    "last_price": 669.45,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:39 UTC"
+    "last_checked": "2026-10-02 19:56:03 UTC"
   },
   "ATOMTRY": {
-    "last_price": 84.06,
+    "last_price": 80.4,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:40 UTC"
+    "last_checked": "2026-10-02 19:56:04 UTC"
   },
   "XTZTRY": {
-    "last_price": 16.0,
+    "last_price": 15.19,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:40 UTC"
+    "last_checked": "2026-10-02 19:56:05 UTC"
   },
   "TRXTRY": {
-    "last_price": 16.4101,
+    "last_price": 16.4639,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:41 UTC"
+    "last_checked": "2026-10-02 19:56:05 UTC"
   },
   "ADATRY": {
-    "last_price": 12.303,
+    "last_price": 11.79,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:42 UTC"
+    "last_checked": "2026-10-02 19:56:06 UTC"
   },
   "DOTTRY": {
-    "last_price": 59.15,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:42 UTC"
+    "last_price": 56.48,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:07 UTC"
   },
   "USDCTRY": {
-    "last_price": 48.863,
+    "last_price": 49.16,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:43 UTC"
+    "last_checked": "2026-10-02 19:56:08 UTC"
   },
   "UNITRY": {
-    "last_price": 439.14,
+    "last_price": 428.06,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:43 UTC"
+    "last_checked": "2026-10-02 19:56:08 UTC"
   },
   "ANKRTRY": {
-    "last_price": 0.2454,
+    "last_price": 0.239,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:44 UTC"
+    "last_checked": "2026-10-02 19:56:09 UTC"
   },
   "ENJTRY": {
-    "last_price": 1.631,
+    "last_price": 1.566,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:44 UTC"
+    "last_checked": "2026-10-02 19:56:10 UTC"
   },
   "OMGTRY": {
-    "last_price": 2.498,
+    "last_price": 2.46,
     "last_signal": "BUY",
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:45 UTC"
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:11 UTC"
   },
   "COMPTRY": {
-    "last_price": 1204.29,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:46 UTC"
+    "last_price": 1171.25,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:12 UTC"
   },
   "GRTTRY": {
-    "last_price": 1.422,
+    "last_price": 1.36,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:47 UTC"
+    "last_checked": "2026-10-02 19:56:13 UTC"
   },
   "MANATRY": {
-    "last_price": 4.913,
+    "last_price": 4.757,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:47 UTC"
+    "last_checked": "2026-10-02 19:56:14 UTC"
   },
   "SNXTRY": {
-    "last_price": 12.5,
+    "last_price": 11.991,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:48 UTC"
+    "last_checked": "2026-10-02 19:56:14 UTC"
   },
   "BATTRY": {
-    "last_price": 4.865,
+    "last_price": 4.576,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:48 UTC"
+    "last_checked": "2026-10-02 19:56:15 UTC"
   },
   "AVAXTRY": {
-    "last_price": 541.33,
+    "last_price": 519.88,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:49 UTC"
+    "last_checked": "2026-10-02 19:56:16 UTC"
   },
   "FILTRY": {
-    "last_price": 50.33,
+    "last_price": 48.8,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:49 UTC"
+    "last_checked": "2026-10-02 19:56:16 UTC"
   },
   "DOGETRY": {
-    "last_price": 4.6501,
+    "last_price": 4.5016,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:50 UTC"
+    "last_checked": "2026-10-02 19:56:17 UTC"
   },
   "CHZTRY": {
-    "last_price": 0.823,
+    "last_price": 0.792,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:51 UTC"
+    "last_checked": "2026-10-02 19:56:18 UTC"
   },
   "SOLTRY": {
-    "last_price": 5864.17,
+    "last_price": 5800.07,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:51 UTC"
+    "last_checked": "2026-10-02 19:56:18 UTC"
   },
   "STXTRY": {
-    "last_price": 17.756,
+    "last_price": 17.581,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:52 UTC"
+    "last_checked": "2026-10-02 19:56:19 UTC"
   },
   "AXSTRY": {
-    "last_price": 59.76,
+    "last_price": 57.98,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:52 UTC"
+    "last_checked": "2026-10-02 19:56:20 UTC"
   },
   "SHIBTRY": {
-    "last_price": 0.00028764,
+    "last_price": 0.00027616,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:53 UTC"
+    "last_checked": "2026-10-02 19:56:21 UTC"
   },
   "LRCTRY": {
-    "last_price": 0.513,
+    "last_price": 0.501,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:54 UTC"
+    "last_checked": "2026-10-02 19:56:21 UTC"
   },
   "UMATRY": {
-    "last_price": 20.213,
+    "last_price": 19.61,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:54 UTC"
+    "last_checked": "2026-10-02 19:56:22 UTC"
   },
   "FETTRY": {
-    "last_price": 11.136,
+    "last_price": 10.681,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:55 UTC"
+    "last_checked": "2026-10-02 19:56:22 UTC"
   },
   "STORJTRY": {
-    "last_price": 1.511,
+    "last_price": 1.474,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:55 UTC"
+    "last_checked": "2026-10-02 19:56:23 UTC"
   },
   "AAVETRY": {
-    "last_price": 8873.58,
+    "last_price": 8856.78,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:56 UTC"
+    "last_checked": "2026-10-02 19:56:24 UTC"
   },
   "GALATRY": {
-    "last_price": 0.1255,
+    "last_price": 0.1243,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:56 UTC"
+    "last_checked": "2026-10-02 19:56:24 UTC"
   },
   "SANDTRY": {
-    "last_price": 3.105,
+    "last_price": 3.016,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:57 UTC"
+    "last_checked": "2026-10-02 19:56:25 UTC"
   },
   "AMPTRY": {
-    "last_price": 0.0311,
+    "last_price": 0.0303,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:57 UTC"
+    "last_checked": "2026-10-02 19:56:26 UTC"
   },
   "AUDIOTRY": {
-    "last_price": 0.819,
+    "last_price": 0.796,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:58 UTC"
+    "last_checked": "2026-10-02 19:56:26 UTC"
   },
   "SPELLTRY": {
-    "last_price": 0.00484,
+    "last_price": 0.004714,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:08:59 UTC"
+    "last_checked": "2026-10-02 19:56:27 UTC"
   },
   "ALGOTRY": {
-    "last_price": 6.287,
+    "last_price": 6.211,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:00 UTC"
+    "last_checked": "2026-10-02 19:56:27 UTC"
   },
   "APETRY": {
-    "last_price": 8.29,
+    "last_price": 7.98,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:01 UTC"
+    "last_checked": "2026-10-02 19:56:28 UTC"
   },
   "BNTTRY": {
-    "last_price": 17.367,
+    "last_price": 16.664,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:01 UTC"
+    "last_checked": "2026-10-02 19:56:29 UTC"
   },
   "CRVTRY": {
-    "last_price": 18.4,
+    "last_price": 17.813,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:02 UTC"
+    "last_checked": "2026-10-02 19:56:29 UTC"
   },
   "QNTTRY": {
-    "last_price": 12198.84,
+    "last_price": 11328.89,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:03 UTC"
+    "last_checked": "2026-10-02 19:56:30 UTC"
   },
   "SKLTRY": {
-    "last_price": 0.2304,
+    "last_price": 0.2205,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:03 UTC"
+    "last_checked": "2026-10-02 19:56:31 UTC"
   },
   "GLMTRY": {
-    "last_price": 6.403,
+    "last_price": 6.21,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:04 UTC"
+    "last_checked": "2026-10-02 19:56:31 UTC"
   },
   "LUNATRY": {
-    "last_price": 2.529,
+    "last_price": 2.469,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:05 UTC"
+    "last_checked": "2026-10-02 19:56:32 UTC"
   },
   "PAXGTRY": {
-    "last_price": 203880.0,
-    "volume_alert_active": true,
-    "last_checked": "2026-10-02 15:09:05 UTC"
+    "last_price": 204096.0,
+    "volume_alert_active": false,
+    "last_checked": "2026-10-02 19:56:32 UTC"
   },
   "ENSTRY": {
-    "last_price": 345.68,
+    "last_price": 326.65,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:06 UTC"
+    "last_checked": "2026-10-02 19:56:33 UTC"
   },
   "IMXTRY": {
-    "last_price": 9.026,
+    "last_price": 8.549,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:06 UTC"
+    "last_checked": "2026-10-02 19:56:34 UTC"
   },
   "LPTTRY": {
-    "last_price": 86.11,
+    "last_price": 80.36,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:07 UTC"
+    "last_checked": "2026-10-02 19:56:34 UTC"
   },
   "CVCTRY": {
-    "last_price": 1.513,
+    "last_price": 1.468,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:08 UTC"
+    "last_checked": "2026-10-02 19:56:35 UTC"
   },
   "RLCTRY": {
-    "last_price": 18.599,
+    "last_price": 18.043,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:08 UTC",
+    "last_checked": "2026-10-02 19:56:36 UTC",
     "last_surge_trade_ts": 1790366408.4400156
   },
   "ETCTRY": {
-    "last_price": 440.25,
+    "last_price": 423.0,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:09 UTC"
+    "last_checked": "2026-10-02 19:56:37 UTC"
   },
   "ETHWTRY": {
-    "last_price": 14.42,
+    "last_price": 13.78,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:09 UTC"
+    "last_checked": "2026-10-02 19:56:37 UTC"
   },
   "HOTTRY": {
-    "last_price": 0.022366,
+    "last_price": 0.021579,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:10 UTC"
+    "last_checked": "2026-10-02 19:56:38 UTC"
   },
   "APTTRY": {
-    "last_price": 40.1,
+    "last_price": 38.37,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:11 UTC"
+    "last_checked": "2026-10-02 19:56:39 UTC"
   },
   "FLOWTRY": {
-    "last_price": 1.574,
+    "last_price": 1.5,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:12 UTC"
+    "last_checked": "2026-10-02 19:56:40 UTC"
   },
   "CTSITRY": {
-    "last_price": 1.463,
+    "last_price": 1.406,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:12 UTC"
+    "last_checked": "2026-10-02 19:56:41 UTC"
   },
   "XCNTRY": {
-    "last_price": 0.2359,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:13 UTC"
+    "last_price": 0.2311,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:42 UTC"
   },
   "MASKTRY": {
-    "last_price": 24.09,
+    "last_price": 23.28,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:14 UTC"
+    "last_checked": "2026-10-02 19:56:42 UTC"
   },
   "API3TRY": {
-    "last_price": 13.901,
+    "last_price": 13.263,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:14 UTC"
+    "last_checked": "2026-10-02 19:56:43 UTC"
   },
   "BANDTRY": {
-    "last_price": 11.25,
+    "last_price": 10.98,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:15 UTC"
+    "last_checked": "2026-10-02 19:56:44 UTC"
   },
   "FLRTRY": {
-    "last_price": 0.3596,
+    "last_price": 0.35,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:15 UTC"
+    "last_checked": "2026-10-02 19:56:44 UTC"
   },
   "TTRY": {
-    "last_price": 0.2732,
+    "last_price": 0.2715,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:16 UTC"
+    "last_checked": "2026-10-02 19:56:45 UTC"
   },
   "ARBTRY": {
-    "last_price": 9.85,
+    "last_price": 9.384,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:16 UTC"
+    "last_checked": "2026-10-02 19:56:46 UTC"
   },
   "BLURTRY": {
-    "last_price": 1.04,
+    "last_price": 0.994,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:17 UTC"
+    "last_checked": "2026-10-02 19:56:46 UTC"
   },
   "INJTRY": {
-    "last_price": 361.0,
+    "last_price": 360.17,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:18 UTC"
+    "last_checked": "2026-10-02 19:56:47 UTC"
   },
   "OGNTRY": {
-    "last_price": 1.0303,
+    "last_price": 1.0032,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:18 UTC"
+    "last_checked": "2026-10-02 19:56:47 UTC"
   },
   "RADTRY": {
-    "last_price": 12.823,
+    "last_price": 12.538,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:19 UTC"
+    "last_checked": "2026-10-02 19:56:48 UTC"
   },
   "ARPATRY": {
-    "last_price": 0.5543,
+    "last_price": 0.5429,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:19 UTC"
+    "last_checked": "2026-10-02 19:56:49 UTC"
   },
   "LDOTRY": {
-    "last_price": 22.29,
+    "last_price": 21.18,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:20 UTC"
+    "last_checked": "2026-10-02 19:56:49 UTC"
   },
   "SUSHITRY": {
-    "last_price": 12.823,
+    "last_price": 12.55,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:20 UTC"
+    "last_checked": "2026-10-02 19:56:50 UTC"
   },
   "MAGICTRY": {
-    "last_price": 3.096,
+    "last_price": 2.84,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:21 UTC"
+    "last_checked": "2026-10-02 19:56:51 UTC"
   },
   "ACMTRY": {
-    "last_price": 13.913,
+    "last_price": 13.889,
     "volume_alert_active": true,
-    "last_checked": "2026-10-02 15:09:22 UTC"
+    "last_checked": "2026-10-02 19:56:52 UTC"
   },
   "PSGTRY": {
-    "last_price": 22.668,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:22 UTC"
+    "last_price": 22.646,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:53 UTC"
   },
   "CITYTRY": {
-    "last_price": 17.323,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:23 UTC"
+    "last_price": 18.034,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:54 UTC"
   },
   "BARTRY": {
-    "last_price": 13.907,
+    "last_price": 13.91,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:24 UTC"
+    "last_checked": "2026-10-02 19:56:54 UTC"
   },
   "JUVTRY": {
-    "last_price": 15.8,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:24 UTC"
+    "last_price": 16.024,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:55 UTC"
   },
   "ATMTRY": {
-    "last_price": 52.184,
+    "last_price": 51.348,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:25 UTC"
+    "last_checked": "2026-10-02 19:56:56 UTC"
   },
   "GALTRY": {
-    "last_price": 40.759,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:25 UTC"
+    "last_price": 40.111,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:56:57 UTC"
   },
   "TRATRY": {
-    "last_price": 9.3,
+    "last_price": 9.35,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:26 UTC"
+    "last_checked": "2026-10-02 19:56:57 UTC"
   },
   "AFCTRY": {
-    "last_price": 7.663,
+    "last_price": 7.65,
     "volume_alert_active": true,
-    "last_checked": "2026-10-02 15:09:26 UTC"
+    "last_checked": "2026-10-02 19:56:58 UTC"
   },
   "ASRTRY": {
-    "last_price": 42.499,
+    "last_price": 42.097,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:27 UTC"
+    "last_checked": "2026-10-02 19:56:58 UTC"
   },
   "NAPTRY": {
-    "last_price": 10.3,
+    "last_price": 10.324,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:28 UTC"
+    "last_checked": "2026-10-02 19:56:59 UTC"
   },
   "INTERTRY": {
-    "last_price": 9.94,
+    "last_price": 9.953,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:28 UTC"
+    "last_checked": "2026-10-02 19:57:00 UTC"
   },
   "JASMYTRY": {
-    "last_price": 0.2662,
+    "last_price": 0.2583,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:29 UTC"
+    "last_checked": "2026-10-02 19:57:00 UTC"
   },
   "ZRXTRY": {
-    "last_price": 6.1061,
+    "last_price": 5.8796,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:30 UTC"
+    "last_checked": "2026-10-02 19:57:01 UTC"
   },
   "PEPETRY": {
-    "last_price": 0.00021525,
+    "last_price": 0.0002052,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:30 UTC"
+    "last_checked": "2026-10-02 19:57:02 UTC"
   },
   "NMRTRY": {
-    "last_price": 565.9,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:31 UTC"
+    "last_price": 585.0,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:57:03 UTC"
   },
   "FLOKITRY": {
-    "last_price": 0.0013727,
+    "last_price": 0.00131509,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:32 UTC"
+    "last_checked": "2026-10-02 19:57:04 UTC"
   },
   "STRKTRY": {
-    "last_price": 2.16,
+    "last_price": 2.03,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:32 UTC"
+    "last_checked": "2026-10-02 19:57:04 UTC"
   },
   "SUPERTRY": {
-    "last_price": 10.99,
+    "last_price": 11.04,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:33 UTC"
+    "last_checked": "2026-10-02 19:57:05 UTC"
   },
   "BONKTRY": {
-    "last_price": 0.0001863,
+    "last_price": 0.0001747,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:33 UTC"
+    "last_checked": "2026-10-02 19:57:06 UTC"
   },
   "JUPTRY": {
-    "last_price": 16.05,
+    "last_price": 15.28,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:34 UTC"
+    "last_checked": "2026-10-02 19:57:07 UTC"
   },
   "PYTHTRY": {
-    "last_price": 3.86,
+    "last_price": 3.71,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:34 UTC"
+    "last_checked": "2026-10-02 19:57:07 UTC"
   },
   "AIOZTRY": {
-    "last_price": 5.59,
+    "last_price": 5.33,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:35 UTC"
+    "last_checked": "2026-10-02 19:57:08 UTC"
   },
   "WIFTRY": {
-    "last_price": 12.42,
+    "last_price": 11.73,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:36 UTC"
+    "last_checked": "2026-10-02 19:57:09 UTC"
   },
   "NEARTRY": {
-    "last_price": 234.8,
+    "last_price": 226.9,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:36 UTC"
+    "last_checked": "2026-10-02 19:57:10 UTC"
   },
   "FBTRY": {
-    "last_price": 14.28,
-    "volume_alert_active": true,
-    "last_checked": "2026-10-02 15:09:37 UTC"
+    "last_price": 14.2,
+    "volume_alert_active": false,
+    "last_checked": "2026-10-02 19:57:10 UTC"
   },
   "TIATRY": {
-    "last_price": 23.0,
+    "last_price": 21.5,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:37 UTC"
+    "last_checked": "2026-10-02 19:57:11 UTC"
   },
   "KSMTRY": {
-    "last_price": 254.1,
+    "last_price": 244.6,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:38 UTC"
+    "last_checked": "2026-10-02 19:57:12 UTC"
   },
   "HBARTRY": {
-    "last_price": 5.105,
+    "last_price": 4.873,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:39 UTC"
+    "last_checked": "2026-10-02 19:57:12 UTC"
   },
   "ARKMTRY": {
-    "last_price": 6.565,
+    "last_price": 6.321,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:39 UTC"
+    "last_checked": "2026-10-02 19:57:13 UTC"
   },
   "AXLTRY": {
-    "last_price": 2.589,
+    "last_price": 2.512,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:40 UTC"
+    "last_checked": "2026-10-02 19:57:14 UTC"
   },
   "RENDERTRY": {
-    "last_price": 97.17,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:41 UTC"
+    "last_price": 92.66,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:57:15 UTC"
   },
   "OPTRY": {
-    "last_price": 6.486,
+    "last_price": 6.159,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:42 UTC"
+    "last_checked": "2026-10-02 19:57:16 UTC"
   },
   "MNTTRY": {
-    "last_price": 33.311,
+    "last_price": 32.163,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:42 UTC"
+    "last_checked": "2026-10-02 19:57:16 UTC"
   },
   "KAVATRY": {
-    "last_price": 3.37,
+    "last_price": 3.3601,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:43 UTC"
+    "last_checked": "2026-10-02 19:57:17 UTC"
   },
   "GLMRTRY": {
-    "last_price": 0.4385,
+    "last_price": 0.4161,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:43 UTC"
+    "last_checked": "2026-10-02 19:57:17 UTC"
   },
   "WLDTRY": {
-    "last_price": 27.743,
+    "last_price": 26.546,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:44 UTC"
+    "last_checked": "2026-10-02 19:57:18 UTC"
   },
   "RUNETRY": {
-    "last_price": 38.47,
+    "last_price": 36.37,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:45 UTC"
+    "last_checked": "2026-10-02 19:57:19 UTC"
   },
   "RARETRY": {
-    "last_price": 0.8584,
+    "last_price": 0.8231,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:45 UTC",
+    "last_checked": "2026-10-02 19:57:19 UTC",
     "last_surge_trade_ts": 1790371455.9002943
   },
   "ZROTRY": {
-    "last_price": 95.3,
+    "last_price": 86.8,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:46 UTC",
+    "last_checked": "2026-10-02 19:57:20 UTC",
     "last_signal": "BUY"
   },
   "ONDOTRY": {
-    "last_price": 24.767,
+    "last_price": 23.592,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:47 UTC"
+    "last_checked": "2026-10-02 19:57:21 UTC"
   },
   "ZKTRY": {
-    "last_price": 0.644,
+    "last_price": 0.6135,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:47 UTC"
+    "last_checked": "2026-10-02 19:57:21 UTC"
   },
   "HNTTRY": {
-    "last_price": 25.35,
+    "last_price": 24.09,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:48 UTC"
+    "last_checked": "2026-10-02 19:57:22 UTC",
+    "last_signal": "SELL"
   },
   "GMTTRY": {
-    "last_price": 0.4364,
+    "last_price": 0.4196,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:48 UTC"
+    "last_checked": "2026-10-02 19:57:23 UTC"
   },
   "POLTRY": {
-    "last_price": 5.419,
+    "last_price": 5.215,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:49 UTC"
+    "last_checked": "2026-10-02 19:57:23 UTC"
   },
   "EIGENTRY": {
-    "last_price": 12.7,
+    "last_price": 11.74,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:49 UTC"
+    "last_checked": "2026-10-02 19:57:24 UTC"
   },
   "WTRY": {
-    "last_price": 0.686,
+    "last_price": 0.6477,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:50 UTC"
+    "last_checked": "2026-10-02 19:57:24 UTC"
   },
   "PNUTTRY": {
-    "last_price": 2.692,
+    "last_price": 2.584,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:51 UTC"
+    "last_checked": "2026-10-02 19:57:25 UTC"
   },
   "ETHFITRY": {
-    "last_price": 36.235,
+    "last_price": 33.79,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:51 UTC"
+    "last_checked": "2026-10-02 19:57:26 UTC"
   },
   "ENATRY": {
-    "last_price": 11.922,
+    "last_price": 11.597,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:52 UTC"
+    "last_checked": "2026-10-02 19:57:26 UTC"
   },
   "MOVETRY": {
-    "last_price": 0.495,
+    "last_price": 0.472,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:52 UTC"
+    "last_checked": "2026-10-02 19:57:27 UTC"
   },
   "METRY": {
-    "last_price": 3.84,
+    "last_price": 3.71,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:53 UTC"
+    "last_checked": "2026-10-02 19:57:27 UTC"
   },
   "VANATRY": {
-    "last_price": 54.26,
+    "last_price": 52.08,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:53 UTC"
+    "last_checked": "2026-10-02 19:57:28 UTC"
   },
   "MEMETRY": {
-    "last_price": 0.02966,
+    "last_price": 0.02804,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:54 UTC"
+    "last_checked": "2026-10-02 19:57:29 UTC"
   },
   "TRUMPTRY": {
-    "last_price": 104.4,
+    "last_price": 98.7,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:55 UTC"
+    "last_checked": "2026-10-02 19:57:30 UTC"
   },
   "MELANIATRY": {
-    "last_price": 5.223,
+    "last_price": 5.05,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:55 UTC"
+    "last_checked": "2026-10-02 19:57:31 UTC"
   },
   "ANIMETRY": {
-    "last_price": 0.1664,
+    "last_price": 0.1587,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:56 UTC"
+    "last_checked": "2026-10-02 19:57:32 UTC"
   },
   "STRY": {
-    "last_price": 1.948,
+    "last_price": 1.847,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:56 UTC"
+    "last_checked": "2026-10-02 19:57:32 UTC"
   },
   "PENGUTRY": {
-    "last_price": 0.47206,
+    "last_price": 0.43615,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:57 UTC"
+    "last_checked": "2026-10-02 19:57:33 UTC"
   },
   "IOTRY": {
-    "last_price": 7.814,
+    "last_price": 7.45,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:57 UTC"
+    "last_checked": "2026-10-02 19:57:33 UTC"
   },
   "JTOTRY": {
-    "last_price": 26.946,
+    "last_price": 24.696,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:58 UTC"
+    "last_checked": "2026-10-02 19:57:34 UTC"
   },
   "KAITOTRY": {
-    "last_price": 17.034,
+    "last_price": 15.702,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:59 UTC"
+    "last_checked": "2026-10-02 19:57:35 UTC"
   },
   "AIXBTTRY": {
-    "last_price": 1.1434,
+    "last_price": 1.0716,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:09:59 UTC"
+    "last_checked": "2026-10-02 19:57:35 UTC"
   },
   "VIRTUALTRY": {
-    "last_price": 39.576,
+    "last_price": 36.857,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:00 UTC"
+    "last_checked": "2026-10-02 19:57:36 UTC"
   },
   "TURBOTRY": {
-    "last_price": 0.05228,
+    "last_price": 0.04997,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:01 UTC"
+    "last_checked": "2026-10-02 19:57:36 UTC"
   },
   "LAYERTRY": {
-    "last_price": 3.815,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:01 UTC"
+    "last_price": 3.689,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:57:37 UTC"
   },
   "WCTTRY": {
-    "last_price": 2.109,
+    "last_price": 1.994,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:02 UTC"
+    "last_checked": "2026-10-02 19:57:38 UTC"
   },
   "ATHTRY": {
-    "last_price": 0.31965,
+    "last_price": 0.321,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:03 UTC"
+    "last_checked": "2026-10-02 19:57:39 UTC"
   },
   "RAYTRY": {
-    "last_price": 95.7,
+    "last_price": 91.4,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:03 UTC"
+    "last_checked": "2026-10-02 19:57:39 UTC"
   },
   "BEAMTRY": {
-    "last_price": 0.10511,
+    "last_price": 0.10265,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:04 UTC"
+    "last_checked": "2026-10-02 19:57:40 UTC"
   },
   "MORPHOTRY": {
-    "last_price": 127.913,
+    "last_price": 124.999,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:05 UTC"
+    "last_checked": "2026-10-02 19:57:41 UTC"
   },
   "PUMPTRY": {
-    "last_price": 0.29417,
+    "last_price": 0.2641,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:06 UTC",
+    "last_checked": "2026-10-02 19:57:41 UTC",
     "last_surge_trade_ts": 1790401042.7401044
   },
   "ERATRY": {
-    "last_price": 3.323,
+    "last_price": 3.162,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:06 UTC"
+    "last_checked": "2026-10-02 19:57:42 UTC"
   },
   "FIDATRY": {
-    "last_price": 1.05829,
+    "last_price": 1.01385,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:07 UTC"
+    "last_checked": "2026-10-02 19:57:43 UTC"
   },
   "SPKTRY": {
-    "last_price": 1.27,
+    "last_price": 1.2358,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:08 UTC"
+    "last_checked": "2026-10-02 19:57:43 UTC"
   },
   "XAUTTRY": {
-    "last_price": 203614.0,
+    "last_price": 203860.0,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:08 UTC"
+    "last_checked": "2026-10-02 19:57:44 UTC"
   },
   "WLFITRY": {
-    "last_price": 2.7691,
+    "last_price": 2.7043,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:09 UTC",
+    "last_checked": "2026-10-02 19:57:45 UTC",
     "last_signal": "SELL"
   },
   "BIOTRY": {
-    "last_price": 1.5309,
+    "last_price": 1.4697,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:09 UTC",
+    "last_checked": "2026-10-02 19:57:45 UTC",
     "last_signal": "BUY"
   },
   "ZKCTRY": {
-    "last_price": 2.105,
+    "last_price": 2.02,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:10 UTC"
+    "last_checked": "2026-10-02 19:57:46 UTC"
   },
   "LINEATRY": {
-    "last_price": 0.14,
-    "volume_alert_active": true,
-    "last_checked": "2026-10-02 15:10:11 UTC"
+    "last_price": 0.1349,
+    "volume_alert_active": false,
+    "last_checked": "2026-10-02 19:57:47 UTC"
   },
   "XPLTRY": {
-    "last_price": 4.822,
-    "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:11 UTC"
+    "last_price": 4.47,
+    "volume_alert_active": true,
+    "last_checked": "2026-10-02 19:57:47 UTC"
   },
   "MIRATRY": {
-    "last_price": 2.585,
+    "last_price": 2.51,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:12 UTC"
+    "last_checked": "2026-10-02 19:57:48 UTC"
   },
   "2ZTRY": {
-    "last_price": 2.77,
+    "last_price": 2.274,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:12 UTC"
+    "last_checked": "2026-10-02 19:57:49 UTC"
   },
   "AVNTTRY": {
-    "last_price": 6.316,
+    "last_price": 6.104,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:13 UTC",
+    "last_checked": "2026-10-02 19:57:49 UTC",
     "last_surge_trade_ts": 1790401050.6578758
   },
   "SEITRY": {
-    "last_price": 3.4662,
+    "last_price": 3.3804,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:13 UTC"
+    "last_checked": "2026-10-02 19:57:50 UTC"
   },
   "SUITRY": {
-    "last_price": 57.01,
+    "last_price": 55.16,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:14 UTC",
+    "last_checked": "2026-10-02 19:57:50 UTC",
     "last_signal": "BUY"
   },
   "SKYTRY": {
-    "last_price": 4.4584,
+    "last_price": 4.34,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:14 UTC"
+    "last_checked": "2026-10-02 19:57:51 UTC"
   },
   "0GTRY": {
-    "last_price": 14.86,
+    "last_price": 14.375,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:15 UTC"
+    "last_checked": "2026-10-02 19:57:52 UTC"
   },
   "ZORATRY": {
-    "last_price": 0.3871,
+    "last_price": 0.3719,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:16 UTC"
+    "last_checked": "2026-10-02 19:57:52 UTC"
   },
   "METTRY": {
-    "last_price": 15.285,
+    "last_price": 14.1435,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:16 UTC"
+    "last_checked": "2026-10-02 19:57:53 UTC"
   },
   "MONTRY": {
-    "last_price": 1.6899,
+    "last_price": 1.5669,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:17 UTC"
+    "last_checked": "2026-10-02 19:57:53 UTC"
   },
   "KITETRY": {
-    "last_price": 7.2485,
+    "last_price": 7.1405,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:18 UTC",
+    "last_checked": "2026-10-02 19:57:54 UTC",
     "last_signal": "SELL"
   },
   "SAHARATRY": {
-    "last_price": 0.458,
+    "last_price": 0.4426,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:18 UTC"
+    "last_checked": "2026-10-02 19:57:55 UTC"
   },
   "AEROTRY": {
-    "last_price": 38.826,
+    "last_price": 38.054,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:19 UTC",
+    "last_checked": "2026-10-02 19:57:55 UTC",
     "last_surge_trade_ts": 1790401056.7746475
   },
   "HTRY": {
-    "last_price": 2.5975,
+    "last_price": 2.6249,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:19 UTC"
+    "last_checked": "2026-10-02 19:57:56 UTC"
   },
   "SENTTRY": {
-    "last_price": 1.0327,
+    "last_price": 1.0085,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:20 UTC"
+    "last_checked": "2026-10-02 19:57:57 UTC"
   },
   "MANTRATRY": {
-    "last_price": 0.22198,
+    "last_price": 0.21251,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:20 UTC"
+    "last_checked": "2026-10-02 19:57:57 UTC"
   },
   "BARDTRY": {
-    "last_price": 6.967,
+    "last_price": 6.537,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:21 UTC"
+    "last_checked": "2026-10-02 19:57:58 UTC"
   },
   "VVVTRY": {
-    "last_price": 1436.21,
+    "last_price": 1377.51,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:22 UTC"
+    "last_checked": "2026-10-02 19:57:58 UTC"
   },
   "HYPETRY": {
-    "last_price": 4396.4,
+    "last_price": 4259.7,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:22 UTC"
+    "last_checked": "2026-10-02 19:58:00 UTC"
   },
   "REDTRY": {
-    "last_price": 8.5598,
+    "last_price": 8.0644,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:23 UTC"
+    "last_checked": "2026-10-02 19:58:00 UTC"
   },
   "TRBTRY": {
-    "last_price": 1018.22,
+    "last_price": 953.33,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:23 UTC"
+    "last_checked": "2026-10-02 19:58:01 UTC"
   },
   "ORCATRY": {
-    "last_price": 85.089,
+    "last_price": 82.491,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:24 UTC"
+    "last_checked": "2026-10-02 19:58:02 UTC"
   },
   "CFGTRY": {
-    "last_price": 7.3337,
+    "last_price": 7.021,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:24 UTC"
+    "last_checked": "2026-10-02 19:58:02 UTC"
   },
   "WALTRY": {
-    "last_price": 1.709,
-    "volume_alert_active": true,
-    "last_checked": "2026-10-02 15:10:25 UTC"
+    "last_price": 1.6413,
+    "volume_alert_active": false,
+    "last_checked": "2026-10-02 19:58:03 UTC"
   },
   "ALLOTRY": {
-    "last_price": 13.441,
+    "last_price": 13.258,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:26 UTC"
+    "last_checked": "2026-10-02 19:58:03 UTC"
   },
   "ARXTRY": {
-    "last_price": 13.518,
+    "last_price": 12.905,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:26 UTC"
+    "last_checked": "2026-10-02 19:58:04 UTC"
   },
   "GRAMTRY": {
-    "last_price": 75.146,
+    "last_price": 73.047,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:27 UTC"
+    "last_checked": "2026-10-02 19:58:05 UTC"
   },
   "LITTRY": {
-    "last_price": 178.0,
+    "last_price": 175.99,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:28 UTC"
+    "last_checked": "2026-10-02 19:58:05 UTC"
   },
   "BILLTRY": {
-    "last_price": 0.5631,
+    "last_price": 0.514,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:28 UTC"
+    "last_checked": "2026-10-02 19:58:06 UTC"
   },
   "RETRY": {
-    "last_price": 24.445,
+    "last_price": 24.4,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:29 UTC"
+    "last_checked": "2026-10-02 19:58:07 UTC"
   },
   "GRVTTRY": {
-    "last_price": 10.339,
+    "last_price": 10.045,
     "volume_alert_active": false,
-    "last_checked": "2026-10-02 15:10:29 UTC"
+    "last_checked": "2026-10-02 19:58:07 UTC"
   }
 }
